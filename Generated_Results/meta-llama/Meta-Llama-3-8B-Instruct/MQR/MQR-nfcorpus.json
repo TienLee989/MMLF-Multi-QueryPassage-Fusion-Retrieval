@@ -1,0 +1,2586 @@
+{
+    "PLAIN-2": {
+        "original": "Do Cholesterol Statin Drugs Cause Breast Cancer?",
+        "expanded": [
+            "Are cholesterol-lowering statin medications linked to an increased risk of breast cancer development or progression?",
+            "What are the current scientific findings regarding the association between statin use and breast cancer risk or diagnosis?",
+            "Can use of cholesterol-lowering statins be implicated with changes in breast tissue or hormonal dynamics that may contribute to breast cancer onset or recurrence?"
+        ]
+    },
+    "PLAIN-12": {
+        "original": "Exploiting Autophagy to Live Longer",
+        "expanded": [
+            "Enhancing Cellular Self-Digestion Mechanisms for Progressive Aging",
+            "Exploring the Relationship between Autophagy and Lifespan Extension Strategies",
+            "Investigating the Role of Autophagy in Mitigating Age-Related Diseases and Improving Healthspan"
+        ]
+    },
+    "PLAIN-23": {
+        "original": "How to Reduce Exposure to Alkylphenols Through Your Diet",
+        "expanded": [
+            "Reducing dietary alkylphenol exposure safest options",
+            "Minimizing health risks from consuming alkylphenols in food",
+            "How to limit intake of alkylphenol-containing foods in daily meals"
+        ]
+    },
+    "PLAIN-33": {
+        "original": "What\u2019s Driving America\u2019s Obesity Problem?",
+        "expanded": [
+            "Factors Contributing to the Rising Obesity Rates in the United States",
+            "Why is the United States Experiencing an Epidemic of Obesity?",
+            "Impact of Societal and Environmental Factors on Obesity Prevalence in the US"
+        ]
+    },
+    "PLAIN-44": {
+        "original": "Who Should be Careful About Curcumin?",
+        "expanded": [
+            "**Curcumin Effects vs. General Health**: Retrieve documents that describe potential interactions between curcumin and general health conditions, focusing on who might need to be cautious about curcumin interactions based on their medical background.",
+            "**Population-Based Anxiolytic Sensitivity**: Identify documents that discuss populations typically more anxiolytic (anti-anxiety) sensitive to curcumin, in order to warn or advise them specifically about curcumin consumption.",
+            "**Curcumin Contraindications in Different Age Groups**: Obtain documents that highlight curcumin contraindications and cautions by age, indicating who might need to be particularly careful about curcumin consumption in terms of age-specific health considerations."
+        ]
+    },
+    "PLAIN-56": {
+        "original": "Foods for Glaucoma",
+        "expanded": [
+            "**Dietary recommendations for patients with glaucoma**",
+            "**Nutritional components linked to glaucoma prevention and management**",
+            "**Food sources with specific micronutrients relevant to glaucoma treatment**"
+        ]
+    },
+    "PLAIN-68": {
+        "original": "What is Actually in Chicken Nuggets?",
+        "expanded": [
+            "What are the ingredients typically used in processed chicken nuggets?",
+            "Can you describe the composition of chicken nuggets in terms of meat, breading, and seasonings?",
+            "What are the common contaminants or additives found in store-bought chicken nuggets?"
+        ]
+    },
+    "PLAIN-78": {
+        "original": "What Do Meat Purge and Cola Have in Common?",
+        "expanded": [
+            "What are some unexpected associations between food items that could have similar low-calorie alternatives?",
+            "What do sugar-free beverages share in common with processed meat derivatives in terms of their ingredient overlap?",
+            "Can you identify any patterns or correlations between carbonated drinks and meat by-products in the context of their production processes?"
+        ]
+    },
+    "PLAIN-91": {
+        "original": "Chronic Headaches and Pork Parasites",
+        "expanded": [
+            "** Common symptoms of meat-borne parasites and their connection to headache disorders",
+            "** Relationship between pork consumption and conditions involving chronic headaches in humans",
+            "** Investigate parasite-related health issues associated with pork intake and their side effects on human nervous system"
+        ]
+    },
+    "PLAIN-102": {
+        "original": "Stopping Heart Disease in Childhood",
+        "expanded": [
+            "Identifying Preventative Measures for Childhood Heart Disease Years",
+            "Childhood Prevention Strategies for Heart Health Issues",
+            "Detecting Early Warning Signs and Interventions for Pediatric Heart Disease"
+        ]
+    },
+    "PLAIN-112": {
+        "original": "Food Dyes and ADHD",
+        "expanded": [
+            "**Symptoms of Food Dyes**\nI have created a vector database of substances and their effects on certain health conditions. I need to retrieve documents related to the possible connections between food dyes and ADHD-like symptoms.",
+            "**Nutritional Links to ADHD**\nWhat relationships exist in the literature between artificial food coloring and symptoms of Attention Deficit Hyperactivity Disorder (ADHD)? I'd like to retrieve relevant documents from my vector database that describe these connections.",
+            "**ADHD-Causing Food Additives**\nI'm searching for documents in my vector database that explore the potential relationship between artificial food additives, specifically dyes, and the manifestation of ADHD-like behaviors in children."
+        ]
+    },
+    "PLAIN-123": {
+        "original": "How Citrus Might Help Keep Your Hands Warm",
+        "expanded": [
+            "What are some ways citrus fruits can contribute to maintaining hand warmth?",
+            "How do citrus-based products or remedies help to prevent cold hands in winter months?",
+            "Can consuming citrus fruits or their juice have a thermoregulatory effect on human hands and provide insulation?"
+        ]
+    },
+    "PLAIN-133": {
+        "original": "Starving Tumors of Their Blood Supply",
+        "expanded": [
+            "Tumors nutrient deprivation strategies",
+            "Effects of angiogenesis inhibition in cancer treatment",
+            "Oncology approaches targeting tumor vasculature"
+        ]
+    },
+    "PLAIN-143": {
+        "original": "Are Dental X-Rays Safe?",
+        "expanded": [
+            "What are the risks associated with exposure to ionizing radiation from Dental X-Rays?",
+            "Can Dental X-Rays cause harm to patients, especially children and pregnant women, due to radiation exposure?",
+            "How do the latest advancements in digital dental imaging technology minimize the potential risks and unwanted effects of radiation from Dental X-Rays?"
+        ]
+    },
+    "PLAIN-153": {
+        "original": "How Should I Take Probiotics?",
+        "expanded": [
+            "What are the best ways to incorporate probiotics into my daily routine?",
+            "How can probiotics help improve my digestive health, and what are some common benefits?",
+            "Are there any specific probiotic supplements or strains that are more effective for certain health issues or symptoms?"
+        ]
+    },
+    "PLAIN-165": {
+        "original": "Breast Cancer & Alcohol: How Much is Safe?",
+        "expanded": [
+            "Drinking Amount of Alcohol Consumption for Breast Cancer Risk Reduction",
+            "Safe Limit of Ethanol Consumption for Women to Mitigate Breast Cancer",
+            "Impact of Moderate vs Heavy Drinking on Breast Cancer Incidence and Treatment Outcomes"
+        ]
+    },
+    "PLAIN-175": {
+        "original": "Diet and Cellulite",
+        "expanded": [
+            "Skin Appearance and Dietary Factors",
+            "Cellulite Prevention and Nutrition",
+            "Weight Management and Cellulite Reduction"
+        ]
+    },
+    "PLAIN-186": {
+        "original": "Best Treatment for Constipation",
+        "expanded": [
+            "Low-residue diet for managing chronic constipation symptoms",
+            "Dietary fibers that alleviate infrequent bowel movements",
+            "Natural remedies for preventing hard stools and prolonged bowel transit times"
+        ]
+    },
+    "PLAIN-196": {
+        "original": "Should We Avoid Titanium Dioxide?",
+        "expanded": [
+            "What is the efficacy and safety profile of Titanium Dioxide as a compound in various applications?",
+            "Are there any known environmental or health hazards associated with the use of Titanium Dioxide in common products and manufacturing processes?",
+            "How does Titanium Dioxide compare to other whitening agents or pigments in terms of chemical properties, spectroscopic signals, and toxicological profiles?"
+        ]
+    },
+    "PLAIN-207": {
+        "original": "Avoiding Cooked Meat Carcinogens",
+        "expanded": [
+            "Minimizing Exposure to Cancer-Causing Compounds in Cooked Meat",
+            "Reducing the Risk of Carcinogenic Compounds in Cooked Food Products",
+            "Identifying Strategies for Reducing the Presence of Carcinogens in Cooked Meat and Poultry"
+        ]
+    },
+    "PLAIN-217": {
+        "original": "Plant-Based Diets for Psoriasis",
+        "expanded": [
+            "Complementary Therapies for Managing Psoriasis Symptoms",
+            "Dietary Approaches to Reducing Inflammation and Skin Issues",
+            "Holistic Lifestyle Interventions for Psoriasis Management"
+        ]
+    },
+    "PLAIN-227": {
+        "original": "Increasing Muscle Strength with Fenugreek",
+        "expanded": [
+            "How do Long-term Fenugreek Intake Effects Muscle Strength?",
+            "What are the Typical Outcomes of Fenugreek Consumption on Muscle Power and Endurance?",
+            "What Scientific Evidence Supports Using Fenugreek Supplements to Enhance Maximum Muscle Strength in Athletes?"
+        ]
+    },
+    "PLAIN-238": {
+        "original": "How Chemically Contaminated Are We?",
+        "expanded": [
+            "** Find units contaminated with chemicals with concentrations exceeding safety thresholds.",
+            "** Which documents report on levels of chemical pollutants present in the environment?",
+            "** Identify literature detailing the degree of chemical taint or pollution in water/soil/air samples."
+        ]
+    },
+    "PLAIN-248": {
+        "original": "Treating an Enlarged Prostate With Diet",
+        "expanded": [
+            "Dietary interventions for managing benign prostatic hyperplasia (BPH)",
+            "How to incorporate food choices into a treatment plan for enlarged prostate symptoms",
+            "Nutritional strategies for alleviating symptoms of an enlarged prostate gland"
+        ]
+    },
+    "PLAIN-259": {
+        "original": "Optimal Phytosterol Dose and Source",
+        "expanded": [
+            "What is the most effective dosage of phytosterols for health benefits?",
+            "Which botanical sources of phytosterols have been studied for potential nutritional applications?",
+            "How do different processing methods and formulations affect the bioavailability and absorption of phytosterols in the human body?"
+        ]
+    },
+    "PLAIN-270": {
+        "original": "Is Caffeinated Tea Really Dehydrating?",
+        "expanded": [
+            "Does caffeinated tea consumption reduce water intake in individuals?",
+            "What are the effects of caffeine on bodily hydration levels?",
+            "Can consuming caffeinated tea lead to reduced urine output or electrolyte imbalance?"
+        ]
+    },
+    "PLAIN-280": {
+        "original": "Mercury Testing Recommended Before Pregnancy",
+        "expanded": [
+            "Preconceptional Testing for Mercury Contamination",
+            "Pregnancy Planning and Mercury Toxicity",
+            "Mercury Exposure Risk Assessment for Female Fertility"
+        ]
+    },
+    "PLAIN-291": {
+        "original": "Stool Size and Breast Cancer Risk",
+        "expanded": [
+            "Association between Stool Dimensions and Breast Cancer Susceptibility",
+            "Does Larger Stool Size Increase the Likelihood of Breast Cancer?",
+            "Exploring the Relationship between Gut Health, Stool Characteristics, and Breast Cancer Risk Factors"
+        ]
+    },
+    "PLAIN-307": {
+        "original": "Vitamin D: Shedding some light on the new recommendations",
+        "expanded": [
+            "Vitamin D dosing: Clarifying latest guidelines for optimal health benefits",
+            "Recent developments in vitamin D recommendations: Implications for nutrition and wellness professionals",
+            "Vitamin D requirements: New research and practical applications for disease prevention"
+        ]
+    },
+    "PLAIN-320": {
+        "original": "Breast Cancer and Diet",
+        "expanded": [
+            "**Nutritional Factors related to Breast Cancer risk**",
+            "**Dietary Habits associated with Breast Cancer Prevention and Treatment**",
+            "**Impact of specific food-groups on Breast Cancer Survival Rates**"
+        ]
+    },
+    "PLAIN-332": {
+        "original": "Can antioxidant-rich spices counteract the effects of a high-fat meal?",
+        "expanded": [
+            "**\nCan specific types of spices enhance antioxidant capacity after consuming a high-fat meal?",
+            "**\nDo certain spices have the ability to neutralize or mitigate the increased oxidative stress caused by a high-fat meal?",
+            "**\nWhat spices have been scientifically proven to provide a counterbalance to the negative health effects associated with consuming a high-fat meal on an antioxidant level?"
+        ]
+    },
+    "PLAIN-344": {
+        "original": "Dioxins Stored in Our Own Fat May Increase Diabetes Risk",
+        "expanded": [
+            "Body fat accumulation linked to potential exacerbation of diabetes risk due to stored dioxins.",
+            "Exposure to dioxins through fatty tissue possibly contributing to increased diabetes susceptibility.",
+            "Dioxins in human adipose tissue may enhance the risk of developing diabetes, suggesting a potential association."
+        ]
+    },
+    "PLAIN-358": {
+        "original": "Didn't another study show carnitine was good for the heart?",
+        "expanded": [
+            "Is there another study that found carnitine has a positive impact on heart health?",
+            "What literature exists regarding the cardiovascular benefits of carnitine supplementation?",
+            "Are there any research findings indicating carnitine plays a beneficial role in heart function?"
+        ]
+    },
+    "PLAIN-371": {
+        "original": "Any update on the scary in vitro avocado data?",
+        "expanded": [
+            "What are the latest developments in in vitro avocado research and have there been any unexpected or surprising findings?",
+            "Can you provide information on recent publications or studies related to the safe or potentially hazardous aspects of growing avocados in vitro?",
+            "What are the current trends and breakthroughs in the field of in vitro avocado cultivation, and are there any notable results or outcomes from recent experiments?"
+        ]
+    },
+    "PLAIN-383": {
+        "original": "What do you think of Dr. Jenkins' take on paleolithic diets?",
+        "expanded": [
+            "\"Can you find documents discussing the opinions of Dr. Jenkins on the consumption of paleolithic diets?\"",
+            "\"Which documents reference Dr. Jenkins and mention the paleolithic diet as a potential nutrition plan?\"",
+            "\"Retrieve documents that discuss Dr. Jenkins' academic research on the paleolithic diet and its implications for modern health and wellness.\""
+        ]
+    },
+    "PLAIN-395": {
+        "original": "What about pepper plus turmeric in V8 juice?",
+        "expanded": [
+            "What similar flavor combinations exist in V8 juice besides pepper plus turmeric?",
+            "Do V8 juices with pepper and turmeric pair well with other ingredients?",
+            "Find V8 juices that match flavor profiles including natural pepper and turmeric."
+        ]
+    },
+    "PLAIN-407": {
+        "original": "Is annatto food coloring safe?",
+        "expanded": [
+            "What are the potential health risks associated with consuming food products containing annatto as a coloring agent?",
+            "Can annatto-based food coloring be used safely without any adverse effects on human health?",
+            "How does the use of annatto as a food coloring compare to other natural or synthetic options in terms of its safety and efficacy?"
+        ]
+    },
+    "PLAIN-418": {
+        "original": "Fresh fruit versus frozen--which is better?",
+        "expanded": [
+            "Nutritional value comparison between fresh and frozen fruit",
+            "Shelf life and storage requirements for fresh vs frozen fruit",
+            "Consumer preferences and taste differences between fresh and frozen fruit"
+        ]
+    },
+    "PLAIN-430": {
+        "original": "Are krill oil supplements better than fish oil capsules?",
+        "expanded": [
+            "Which omega-3 supplements offer more efficient absorption: krill oil or fish oil?",
+            "What are the key differences in composition and health benefits between krill oil and fish oil?",
+            "Can I trust equivalent amounts of omega-3 from krill oil vs. fish oil, and what are the potential side effects?"
+        ]
+    },
+    "PLAIN-441": {
+        "original": "Is apple cider vinegar good for you?",
+        "expanded": [
+            "Benefits of apple cider vinegar on human health\n\u043e\u043b\u043e\u0433\u0456\u0447ices of this query focus on the potential benefits of consuming apple cider vinegar, such as weight loss, digestive health, and skin improvement.",
+            "Acidity and nutritional properties of apple cider vinegar\nThis query shifts the focus from the purported health benefits to the acidity and nutritional properties of apple cider vinegar, potentially retrieving documents that discuss its chemical composition, pH levels, and dietary value.",
+            "Food pairing and culinary uses of apple cider vinegar\nThis query takes a more culinary approach, focusing on the uses of apple cider vinegar in cooking, such as salad dressings, marinades, and condiments, as well as how it pairs with various foods and cuisines."
+        ]
+    },
+    "PLAIN-457": {
+        "original": "How can you believe in any scientific study?",
+        "expanded": [
+            "What are the common pitfalls in scientific research that lead to doubts about the validity of study findings?",
+            "How do researchers address concerns about the credibility of scientific studies, and what methods do they use to ensure the accuracy of their results?",
+            "What are the key factors that influence the believability of scientific studies, and how do these factors impact the interpretation and application of research findings?"
+        ]
+    },
+    "PLAIN-468": {
+        "original": "Is vitamin D3 (cholecalciferol) preferable to D2 (ergocalciferol)?",
+        "expanded": [
+            "What is the chemical difference between cholecalciferol and ergocalciferol in vitamin D supplements, and is one more beneficial than the other?",
+            "Compared to ergocalciferol, does the use of cholecalciferol as a source of vitamin D in nutrition and wellness products have significant advantages for human health?",
+            "What is the current understanding of the efficacy and absorption rates of vitamin D2 (ergocalciferol) versus vitamin D3 (cholecalciferol) in improving vitamin D levels and alleviating associated health issues, such as osteoporosis and immune system dysfunction?"
+        ]
+    },
+    "PLAIN-478": {
+        "original": "accidents",
+        "expanded": [
+            "cause of accidents",
+            "hazards that lead to accidents",
+            "occurrences involving unintentional harm"
+        ]
+    },
+    "PLAIN-488": {
+        "original": "adenovirus 36",
+        "expanded": [
+            "viral vector type 36 adenovirus",
+            "adenovirus with genomic sequence 36",
+            "human pathogen adenovirus serotype 36"
+        ]
+    },
+    "PLAIN-499": {
+        "original": "African-American",
+        "expanded": [
+            "Black diaspora",
+            "people of African descent",
+            "descendants of Afro-diasporic communities"
+        ]
+    },
+    "PLAIN-510": {
+        "original": "airport scanners",
+        "expanded": [
+            "security check machines at airports",
+            "Airport security inspection systems",
+            "Automatic gates and security checkpoints in airports"
+        ]
+    },
+    "PLAIN-520": {
+        "original": "Alli",
+        "expanded": [
+            "Find all documents in which the term \"Alli\" appears.",
+            "Retrieve all documents that semantically match \"Alli\" using vectors and weights from the database.",
+            "What are the closest matching documents to the vector representation of the term \"Alli\" within the database?"
+        ]
+    },
+    "PLAIN-531": {
+        "original": "alternative medicine",
+        "expanded": [
+            "Natural remedies and holistic healing",
+            "Non-conventional health treatments",
+            "Complementary and traditional healing practices"
+        ]
+    },
+    "PLAIN-541": {
+        "original": "American Dental Association",
+        "expanded": [
+            "Dental association in the United States",
+            "ADA equivalent organizations in the dental industry",
+            "US professional dental body that sets standards for dental care"
+        ]
+    },
+    "PLAIN-551": {
+        "original": "amnesia",
+        "expanded": [
+            "memory loss",
+            "cognitive impairment caused by brain injury",
+            "inability to recall past events"
+        ]
+    },
+    "PLAIN-561": {
+        "original": "aneurysm",
+        "expanded": [
+            "Near-symptoms abdominal aortic aneurysm",
+            "Condition characterized by bulbous dilation of artery",
+            "Medical condition involving rupture risk neural damage potential"
+        ]
+    },
+    "PLAIN-571": {
+        "original": "anisakis",
+        "expanded": [
+            "nematode parasites similar to anisakis",
+            "parasitic nematodes found in fish and humans",
+            "anisakis species related filarial and roundworm infections"
+        ]
+    },
+    "PLAIN-583": {
+        "original": "antinutrients",
+        "expanded": [
+            "\"phytochemicals in plant-based foods that are harmful to humans\"",
+            "\"compounds found in grains and legumes that interfere with nutrient absorption\"",
+            "\"substances in some plant-based foods that can cause gastrointestinal issues\""
+        ]
+    },
+    "PLAIN-593": {
+        "original": "apnea",
+        "expanded": [
+            "sleep apnea",
+            "pauses in breathing during sleep",
+            "respiratory disruption during slumber"
+        ]
+    },
+    "PLAIN-603": {
+        "original": "Arkansas",
+        "expanded": [
+            "States located near the origin of the Mississippi River",
+            "US states adjacent to the south of Missouri",
+            "Southern US states bordering the Mississippi River drainage area"
+        ]
+    },
+    "PLAIN-613": {
+        "original": "ascorbic acid",
+        "expanded": [
+            "vitamin c",
+            "ascorbic acid isomer",
+            "vita water soluble antioxidant"
+        ]
+    },
+    "PLAIN-623": {
+        "original": "Atkins diet",
+        "expanded": [
+            "\"Low-carb diet popularized by Robert Atkins\"",
+            "\"Dietary approach that restricts carbohydrate intake for weight loss\"",
+            "\"Weight loss method that emphasizes protein-rich foods and eliminates sugar\""
+        ]
+    },
+    "PLAIN-634": {
+        "original": "avocados",
+        "expanded": [
+            "ripe avocados",
+            "personal health benefits of avocados",
+            "food ingredients associated with guacamole"
+        ]
+    },
+    "PLAIN-645": {
+        "original": "bagels",
+        "expanded": [
+            "BREAKFAST PASTRIES WITH HOLES",
+            "YELLOW, CHEWY, YEAST-RAISED BAKED GOODS",
+            "RING-SHAPED BREAD WITH A CRUMBLY OUTER LAYER"
+        ]
+    },
+    "PLAIN-660": {
+        "original": "beans",
+        "expanded": [
+            "Similar documents to legume",
+            "List documents related to pavonine foods",
+            "Retrieve relevant information on nitrogen-fixing plants"
+        ]
+    },
+    "PLAIN-671": {
+        "original": "benzene",
+        "expanded": [
+            "(X, Y, Benzene) AND (X OR Y = Hydrocarbon)",
+            "(Ring-shaped, Hydrogen-rich Molecules) AND Carcinogenesis OR Epigenetics",
+            "(molecular Formula C6H6) AND Polycyclic Hydrocarbons OR Petrochemical Products"
+        ]
+    },
+    "PLAIN-681": {
+        "original": "betel nuts",
+        "expanded": [
+            "Tropical palm fruit with psychedelic effect",
+            "Brewing and chewing nut commonly associated with Southeast Asian culture",
+            "Betel-like plant material often linked to traditional Asian dentures and oral habits"
+        ]
+    },
+    "PLAIN-691": {
+        "original": "bioavailability",
+        "expanded": [
+            "chemistry related bioavailability\nbioscience and bioavailability of chemical compounds",
+            "available for biological usage chemical elements\nbioavailability of chemical compounds in pharmacological context",
+            "physicochemical properties affecting bioavailability\nbioavailability measurements for pharmaceuticals and biological agents"
+        ]
+    },
+    "PLAIN-701": {
+        "original": "black raspberries",
+        "expanded": [
+            "Dark purple berries",
+            "Raspberries with seeds similarities",
+            "Small, tart summer fruits"
+        ]
+    },
+    "PLAIN-711": {
+        "original": "blood clots",
+        "expanded": [
+            "clotting disorders",
+            "blood clotting mechanisms",
+            "deep vein thrombosis symptoms and prevention"
+        ]
+    },
+    "PLAIN-721": {
+        "original": "BMAA",
+        "expanded": [
+            "\"Retrieve all documents similar to BMAA\".",
+            "\"Find documents closely related to BMAA in the database\".",
+            "\"Return documents with semantic similarity to BMAA\"."
+        ]
+    },
+    "PLAIN-731": {
+        "original": "bone fractures",
+        "expanded": [
+            "fragments of bones",
+            "injuries to skeletal structures",
+            "orthopedic trauma occured in skeletal elements"
+        ]
+    },
+    "PLAIN-741": {
+        "original": "BPH",
+        "expanded": [
+            "+\"similar to\" BPH",
+            "what are other useful health-related queries like BPH",
+            "retrieve documents related to common urinary symptoms in middle-aged men"
+        ]
+    },
+    "PLAIN-751": {
+        "original": "BRCA genes",
+        "expanded": [
+            "What are the genes related to breast cancer?",
+            "Which genes are known to be associated with breast cancer susceptibility?",
+            "What are the cancer-associated genes that include BRCA?"
+        ]
+    },
+    "PLAIN-761": {
+        "original": "breast pain",
+        "expanded": [
+            "mild to moderate breast pain",
+            "persistent breast discomfort",
+            "discomfort or pain in the breast area"
+        ]
+    },
+    "PLAIN-771": {
+        "original": "bronchiolitis obliterans",
+        "expanded": [
+            "Obliterative bronchitis",
+            "Bronchiolitis obliterance",
+            "Respiratory condition characterized by bronchial scarring"
+        ]
+    },
+    "PLAIN-782": {
+        "original": "Bush administration",
+        "expanded": [
+            "George W. Bush administration",
+            "U.S. presidential administration led by George Bush between 2001 and 2009",
+            "Republican administration of George W. Bush in the early 2000s"
+        ]
+    },
+    "PLAIN-792": {
+        "original": "cadaverine",
+        "expanded": [
+            "cadaverino",
+            "\"flesh-breaking compound\"",
+            "\"volatile base nitrogen compound odor\""
+        ]
+    },
+    "PLAIN-806": {
+        "original": "caloric restriction",
+        "expanded": [
+            "weight loss methodologies",
+            "effects on human physiology",
+            "lifestyle interventions for disease prevention"
+        ]
+    },
+    "PLAIN-817": {
+        "original": "canker sores",
+        "expanded": [
+            "oral ulcerations",
+            "mouth ulcers that resolve on their own",
+            "herbal remedies for recurring mouth lesions"
+        ]
+    },
+    "PLAIN-827": {
+        "original": "carcinogens",
+        "expanded": [
+            "toxic compounds",
+            "sources of environmental pollution",
+            "health hazards resulting from pollutants"
+        ]
+    },
+    "PLAIN-838": {
+        "original": "carrageenan",
+        "expanded": [
+            "marine polysaccharide extract",
+            "ih-empocha carbohydrate chains",
+            "agar wagner seaweed bioactive compound"
+        ]
+    },
+    "PLAIN-850": {
+        "original": "cauliflower",
+        "expanded": [
+            "broccoli florets",
+            "vegetables similar to green food",
+            "plants with flower-like buds"
+        ]
+    },
+    "PLAIN-872": {
+        "original": "chanterelle mushrooms",
+        "expanded": [
+            "\"edible wild mushrooms\"",
+            "\"autumn forest fungi\"",
+            "\"German cuisine chanterelle recipes\""
+        ]
+    },
+    "PLAIN-882": {
+        "original": "Chernobyl",
+        "expanded": [
+            "Near Nuclear Power Plant Accident",
+            "Nuclear Disaster Ukraine",
+            "History of Exclusively Preventable Tragic Nuclear Catastrophes"
+        ]
+    },
+    "PLAIN-892": {
+        "original": "chickpeas",
+        "expanded": [
+            "chickpeas",
+            "pulse crops in legume family containing high fiber and protein",
+            "pulse legumes with a significant percentage of dietary protein"
+        ]
+    },
+    "PLAIN-902": {
+        "original": "chlorophyll",
+        "expanded": [
+            "photosynthetic pigment",
+            "green plant compound responsible for energy production",
+            "leaf green chemical essential for plant growth"
+        ]
+    },
+    "PLAIN-913": {
+        "original": "cinnamon",
+        "expanded": [
+            "spice: cinnamon",
+            "fragrance like cinnamonic",
+            "dry herb for baking"
+        ]
+    },
+    "PLAIN-924": {
+        "original": "cocaine",
+        "expanded": [
+            "illegal drugs",
+            "illicit substance",
+            "recreational stimulant"
+        ]
+    },
+    "PLAIN-934": {
+        "original": "coffee",
+        "expanded": [
+            "what coffee beans",
+            "coffee brewing process details",
+            "favorite coffee drinks"
+        ]
+    },
+    "PLAIN-946": {
+        "original": "coma",
+        "expanded": [
+            "near comatose",
+            "coma in medicine",
+            "coma-like states"
+        ]
+    },
+    "PLAIN-956": {
+        "original": "cooking methods",
+        "expanded": [
+            "methods used in cooking\nThis sub-query emphasizes the action of cooking, focusing on the techniques or approaches used in the cooking process.",
+            "ways to prepare food\nThis sub-query shifts the focus from the action of cooking to the ways in which food can be prepared, encompassing a broader range of topics related to food handling and transformation.",
+            "cooking techniques and recipes\nThis sub-query combines the ideas of methods used in cooking with the existence of recipes, implying a desire for specific and detailed instructions or guidelines related to different cooking approaches."
+        ]
+    },
+    "PLAIN-966": {
+        "original": "cortisol",
+        "expanded": [
+            "stresses response hormone",
+            "adrenal gland hormone production",
+            "hormonal imbalance symptoms treatment"
+        ]
+    },
+    "PLAIN-977": {
+        "original": "crib death",
+        "expanded": [
+            "apparent sudden infant death",
+            "sudden infant mortality syndrome",
+            "infant asphyxiation in sleep"
+        ]
+    },
+    "PLAIN-987": {
+        "original": "cumin",
+        "expanded": [
+            "cumin spice",
+            "spices similar to coriander or cyme",
+            "plant products containing terpenes"
+        ]
+    },
+    "PLAIN-997": {
+        "original": "Czechoslovakia",
+        "expanded": [
+            "Country former name Czech Republic",
+            "Former name of a European country in Eastern Europe",
+            "Historical name of the country that dissolved into the Czech Republic and Slovakia"
+        ]
+    },
+    "PLAIN-1008": {
+        "original": "deafness",
+        "expanded": [
+            "hearing loss",
+            "loss of hearing ability",
+            "difficulty perceiving sound"
+        ]
+    },
+    "PLAIN-1018": {
+        "original": "DHA",
+        "expanded": [
+            "Documents containing the phrase \"DHA\" in their title.",
+            "Find documents with a high similarity score to the query term \"DHA\".",
+            "Retrieve documents that have a cosine similarity of at least 0.7 with the vector representation of the query term \"DHA\"."
+        ]
+    },
+    "PLAIN-1028": {
+        "original": "dietary scoring",
+        "expanded": [
+            "nutrition assessment",
+            "food intake evaluation",
+            "healthy eating recommendations"
+        ]
+    },
+    "PLAIN-1039": {
+        "original": "domoic acid",
+        "expanded": [
+            "toxic algae-derived",
+            "marine neurotoxin compounds",
+            "primary bioactive metabolites from carefully monitored blooms"
+        ]
+    },
+    "PLAIN-1050": {
+        "original": "Dr. Dean Ornish",
+        "expanded": [
+            "Find documents containing the key features of Dr. Dean Ornish's approach to preventative medicine.",
+            "Identify documents about Dr. Dean Ornish's lifestyle and dietary recommendations that have been scientifically proven to improve cardiovascular health.",
+            "Reveal documents describing the effects of lifestyle modification programs endorsed by Dr. Dean Ornish, specifically those focused on heart health and wellness."
+        ]
+    },
+    "PLAIN-1066": {
+        "original": "Dr. Walter Willett",
+        "expanded": [
+            "\"Trends and findings associated with Walter Willett, McMaster University\"",
+            "\"Walter Willett's work on nutrition, Harvard School of Public Health\"",
+            "\"Dr. Walter Willett's contributions to the field of epidemiology, Cambridge, Massachusetts\""
+        ]
+    },
+    "PLAIN-1088": {
+        "original": "ECMO",
+        "expanded": [
+            "Extracorporeal membrane oxygenation",
+            "Cardiopulmonary life support using a mechanical pump-oxygenator",
+            "Advanced treatment option for severe respiratory and cardiac failure"
+        ]
+    },
+    "PLAIN-1098": {
+        "original": "eggnog",
+        "expanded": [
+            "non-dairy topping with vanilla flavor",
+            "winter holiday beverage ingredients list",
+            "sweet eggnog recipe ingredients list"
+        ]
+    },
+    "PLAIN-1109": {
+        "original": "endocrine disruptors",
+        "expanded": [
+            "toxic substances in the environment",
+            "hormonal system interference",
+            "chemicals affecting reproduction and development"
+        ]
+    },
+    "PLAIN-1119": {
+        "original": "energy drinks",
+        "expanded": [
+            "caffeine content",
+            "beverages for energy and mental focus",
+            "stimulant drinks for athletic performance"
+        ]
+    },
+    "PLAIN-1130": {
+        "original": "ergothioneine",
+        "expanded": [
+            "similar documents related to ergothioneine biosynthesis",
+            "ergothiineic acid derivatives and their medical applications",
+            "documents about the antioxidant properties of thioster derivatives, including ergothioneine"
+        ]
+    },
+    "PLAIN-1141": {
+        "original": "Evidence-based medicine",
+        "expanded": [
+            "\"Medical decision-making principles\"",
+            "\"Peer-reviewed research for healthcare treatment\"",
+            "\"Analysis of treatment efficacy using scientific studies\""
+        ]
+    },
+    "PLAIN-1151": {
+        "original": "factory farming practices",
+        "expanded": [
+            "large-scale livestock production methods",
+            "animal husbandry techniques for mass food production",
+            "sustainable agriculture practices for industrial-scale farming"
+        ]
+    },
+    "PLAIN-1161": {
+        "original": "fava beans",
+        "expanded": [
+            "beans produced in Italy",
+            "beans containing fava",
+            "beans commonly consumed in Mediterranean cuisine"
+        ]
+    },
+    "PLAIN-1172": {
+        "original": "fenugreek",
+        "expanded": [
+            "\"Herbs with similar properties to fenugreek\"",
+            "\"What are the characteristics of fenugreek that make it useful in herbal remedies?\"",
+            "\"Find documents describing the uses and benefits of Trigonella foenum-graecum (fenugreek) in traditional medicine\""
+        ]
+    },
+    "PLAIN-1183": {
+        "original": "Finland",
+        "expanded": [
+            "Europe country with a capital Helsinki",
+            "Nordic country that borders Sweden and employs taxation by successive taxation",
+            "Scandinavian nation known for lapland and a population of around 5.5 million people"
+        ]
+    },
+    "PLAIN-1193": {
+        "original": "flax oil",
+        "expanded": [
+            "linseed oil",
+            "vegetable oil with high polyunsaturated fat content",
+            "omega-3 rich fatty acid source"
+        ]
+    },
+    "PLAIN-1203": {
+        "original": "folic acid",
+        "expanded": [
+            "vaguely similar molecules",
+            "essential nutrient derivatives",
+            "vitamin B9 compound identifier"
+        ]
+    },
+    "PLAIN-1214": {
+        "original": "Fosamax",
+        "expanded": [
+            "\"Bisphosphonate medications used to treat osteoporosis\"",
+            "\"Treatment for postmenopausal women with bone loss\"",
+            "\"Common medications for reducing risk of osteoporotic fractures\""
+        ]
+    },
+    "PLAIN-1225": {
+        "original": "fructose",
+        "expanded": [
+            "\"monosaccharide\"",
+            "\"simple sugar\"",
+            "\"primary metabolite in fruits\""
+        ]
+    },
+    "PLAIN-1236": {
+        "original": "galactosemia",
+        "expanded": [
+            "\"galactose intolerance\"",
+            "\"condition involving galactose metabolism disorder\"",
+            "\"disease with lactose intolerance symptoms\""
+        ]
+    },
+    "PLAIN-1249": {
+        "original": "genetic manipulation",
+        "expanded": [
+            "Genetic mutations",
+            "Molecular genetic alterations",
+            "Genetic modification of DNA"
+        ]
+    },
+    "PLAIN-1262": {
+        "original": "Global Burden of Disease Study",
+        "expanded": [
+            "`burden of disease report 2019`",
+            "`global health study on disease impact and prevalence`",
+            "`disease statistics and mortality rate worldwide 2010-2020`"
+        ]
+    },
+    "PLAIN-1275": {
+        "original": "goji berries",
+        "expanded": [
+            "antioxidant-rich superfood",
+            "tibetan medicine ingredient",
+            "dried fruit with medicinal properties"
+        ]
+    },
+    "PLAIN-1288": {
+        "original": "grapes",
+        "expanded": [
+            "red fruit and wine",
+            "juicy purple legumes grown in warm climates",
+            "small batches of sweet juice extracted from terrestrial plants"
+        ]
+    },
+    "PLAIN-1299": {
+        "original": "growth promoters",
+        "expanded": [
+            "\"substances that stimulate growth in plants\"",
+            "\"biological agents used to enhance plant development\"",
+            "\"chemicals or microorganisms that promote plant growth\""
+        ]
+    },
+    "PLAIN-1309": {
+        "original": "halibut",
+        "expanded": [
+            "*Fish with thick flaky flesh*",
+            "*Flatfish from North Atlantic waters*",
+            "*Large commercially important flatfish species*"
+        ]
+    },
+    "PLAIN-1320": {
+        "original": "Harvard Physicians\u2019 Study II",
+        "expanded": [
+            "\"Physicians Study Harvard II\"",
+            "\"Harvard Medical Research Study on Physician Health\"",
+            "\"Physician Health Outcomes Harvard Study 1992-2002\""
+        ]
+    },
+    "PLAIN-1331": {
+        "original": "hearing",
+        "expanded": [
+            "aural perception",
+            "speech \nsound",
+            "auditory experience"
+        ]
+    },
+    "PLAIN-1342": {
+        "original": "heme iron",
+        "expanded": [
+            "Iron from heme",
+            "Iron in hemoglobin",
+            "Properties of iron from hemeproteins"
+        ]
+    },
+    "PLAIN-1353": {
+        "original": "hernia",
+        "expanded": [
+            "abdominal wall hernia",
+            "hernia symptoms diagnosis treatment",
+            "inguinal or umbilical hernia medical article"
+        ]
+    },
+    "PLAIN-1363": {
+        "original": "Hiroshima",
+        "expanded": [
+            "Hiroshima atomic bombing mid 20th century",
+            "Document related to city in Japan major damage",
+            "Atomic warfare major impact on Japan August 1945"
+        ]
+    },
+    "PLAIN-1374": {
+        "original": "hormonal dysfunction",
+        "expanded": [
+            "condition-related endocrine disorders\n- This sub-query rephrases the original question to focus on \"condition-related\" aspects of hormonal dysfunction, which can help the database to return results highlighting various conditions associated with hormonal imbalances.",
+            "symptoms and treatment of endocrine system issues\n- This sub-query expands the scope of the original question by incorporating \"symptoms and treatment\" related to hormonal dysfunction, allowing the database to return documents that cover diagnosis, management, and potential therapies.",
+            "hormonal imbalance effects on the human body\n- This sub-query shifts the focus to the broader impact of hormonal dysfunction on the human body, enabling the database to retrieve documents that discuss the systemic effects, health risks, and physiological changes caused by hormonal imbalances."
+        ]
+    },
+    "PLAIN-1387": {
+        "original": "hyperactivity",
+        "expanded": [
+            "high-energy behavior",
+            "excessive activity levels",
+            "increased restlessness and impulsivity"
+        ]
+    },
+    "PLAIN-1398": {
+        "original": "IGF-1",
+        "expanded": [
+            "\"protein related to muscle growth receptor\"",
+            "\"insulin like growth factor receptor 1 protein\"",
+            "\"growth promotion hormone receptor in muscle expression\""
+        ]
+    },
+    "PLAIN-1409": {
+        "original": "industrial toxins",
+        "expanded": [
+            "pollutants in industrial environments",
+            "hazardous substances found in manufacturing processes",
+            "toxic chemicals used in various industrial applications"
+        ]
+    },
+    "PLAIN-1419": {
+        "original": "insects",
+        "expanded": [
+            "Vector queries organized by characteristics of insects (e.g., similar to fruit flies, aerial vs. non-aerial insects, etc.)",
+            "Request for data on common/resilient vs. excessive populations (various beneficial vs. destructive insects)",
+            "Similarity in habit and behavior between insect orders (example combination of beetles, flies, wasps, and bees)"
+        ]
+    },
+    "PLAIN-1429": {
+        "original": "Iowa Women\u2019s Health Study",
+        "expanded": [
+            "**Breast cancer health study conducted in Iowa**",
+            "**Women's health research originating in Iowa during a specific time period**",
+            "**Longitudinal study involving women's health outcomes in a Midwestern state**"
+        ]
+    },
+    "PLAIN-1441": {
+        "original": "Japan",
+        "expanded": [
+            "Tokyo metropolitan area neighboring countries",
+            "Countries in East Asia with cultural exchange programs with Japan",
+            "Regions with significant historical or cultural ties to Japan in the Asian continent"
+        ]
+    },
+    "PLAIN-1453": {
+        "original": "junk food",
+        "expanded": [
+            "fast food",
+            "unhealthy snacks",
+            "high-calorie foods"
+        ]
+    },
+    "PLAIN-1463": {
+        "original": "kidney beans",
+        "expanded": [
+            "White beans",
+            "Culinary legume",
+            "VP2 protein-rich food source"
+        ]
+    },
+    "PLAIN-1473": {
+        "original": "kohlrabi",
+        "expanded": [
+            "vegetable kohlrabi being similar to",
+            "what is kohlrabi and how does it relate to other root vegetables",
+            "document similarity to kohlrabi with respect to its taste and nutritional profile"
+        ]
+    },
+    "PLAIN-1485": {
+        "original": "lard",
+        "expanded": [
+            "fatty food animal fat",
+            "rendered meat cooking ingredient",
+            "shortening cooking fat animal product"
+        ]
+    },
+    "PLAIN-1496": {
+        "original": "leeks",
+        "expanded": [
+            "\"allium species\"",
+            "\"vegetable similar to onions\"",
+            "\"cooking methods for mild garlic substitutes\""
+        ]
+    },
+    "PLAIN-1506": {
+        "original": "leucine",
+        "expanded": [
+            "Which documents contain amino acid 'leucine'?",
+            "Retrieve documents related to the topic of 'protein structure' and 'amino acid composition' featuring leucine.",
+            "Find documents discussing 'biochemical pathways', 'enzymes', or 'metabolic processes' that involve or mention leucine as a reactant or product."
+        ]
+    },
+    "PLAIN-1516": {
+        "original": "Lindane",
+        "expanded": [
+            "What is Lindane's chemical or pharmacological profile?",
+            "Find documents related to the insecticide Lindane or hexachlorocyclohexane.",
+            "Query the database for information on technical details of hexachlorocyclohexane, a known insecticide also known as Lindane."
+        ]
+    },
+    "PLAIN-1527": {
+        "original": "liver disease",
+        "expanded": [
+            "liver conditions",
+            "symptoms of liver inflammation or damage",
+            "diseases related to the liver organ"
+        ]
+    },
+    "PLAIN-1537": {
+        "original": "low-carb diets",
+        "expanded": [
+            "`calorie restricted diets`",
+            "`diets high in protein and low in carbohydrates`",
+            "`paleo style diets that restrict grains and sweets`"
+        ]
+    },
+    "PLAIN-1547": {
+        "original": "lyme disease",
+        "expanded": [
+            "symptoms of lyme disease",
+            "lyme disease symptoms and treatment",
+            "what are the common causes and diagnosis methods for lyme disease"
+        ]
+    },
+    "PLAIN-1557": {
+        "original": "magnesium",
+        "expanded": [
+            "magnesium properties",
+            "magnesium research papers",
+            "elements similar to magnesium"
+        ]
+    },
+    "PLAIN-1568": {
+        "original": "maple syrup",
+        "expanded": [
+            "\"Natural sweetener extracted from maple trees\"",
+            "\"Syrup made from the sap of maple trees\"",
+            "\"Canadian agricultural product used in baking and cooking\""
+        ]
+    },
+    "PLAIN-1579": {
+        "original": "mastitis",
+        "expanded": [
+            "bovine udder inflammation",
+            "udder inflammation in cattle",
+            "inflammation of the udder in dairy cows"
+        ]
+    },
+    "PLAIN-1590": {
+        "original": "medical ethics",
+        "expanded": [
+            "Ethics in healthcare field",
+            "Moral principles in medicine",
+            "Professional standards medical practice"
+        ]
+    },
+    "PLAIN-1601": {
+        "original": "memory",
+        "expanded": [
+            "(weighted) documents related to memory",
+            "retrieve information associated with the term 'memory'",
+            "documents pertaining to mental recall"
+        ]
+    },
+    "PLAIN-1611": {
+        "original": "mesquite",
+        "expanded": [
+            "extinct tree mesquite",
+            "plants with small thorns mesquite",
+            "desert vegetation mesquite species"
+        ]
+    },
+    "PLAIN-1621": {
+        "original": "Mevacor",
+        "expanded": [
+            "Related patents describing lovastatin",
+            "Documents mentioning hydroxymethylglutaryl-coenzyme A reductase inhibitors",
+            "Similar products or medications used to treat high cholesterol"
+        ]
+    },
+    "PLAIN-1635": {
+        "original": "milk",
+        "expanded": [
+            "dairy product",
+            "cow's milk",
+            "lactose-containing liquid"
+        ]
+    },
+    "PLAIN-1645": {
+        "original": "molasses",
+        "expanded": [
+            "thick sticky fruit syrup",
+            "dim waxy food sweetener",
+            "brown viscous fluid sugar product"
+        ]
+    },
+    "PLAIN-1656": {
+        "original": "mouth cancer",
+        "expanded": [
+            "oral cavity neoplasms",
+            "tongue cancer detection",
+            "oral dysplasia to carcinoma"
+        ]
+    },
+    "PLAIN-1667": {
+        "original": "muscle health",
+        "expanded": [
+            "muscle physiology and wellness",
+            "physical fitness and muscle strength",
+            "exercise related muscle injury prevention and treatment"
+        ]
+    },
+    "PLAIN-1679": {
+        "original": "myelopathy",
+        "expanded": [
+            "** spinal cord disorder",
+            "** acqusitive gait disorder",
+            "** progressive neurological condition causing gait difficulties"
+        ]
+    },
+    "PLAIN-1690": {
+        "original": "National Academy of Sciences",
+        "expanded": [
+            "_varied industries depicted in documents associated with the National Academy of Sciences_",
+            "_palayered educational institutions publishing research findings under the name \"National Academy of Sciences\"_",
+            "_organizations and publications related to scientific research and academic excellence in the Association of the same name_"
+        ]
+    },
+    "PLAIN-1700": {
+        "original": "Native Americans",
+        "expanded": [
+            "Indigenous peoples of the Americas",
+            "Pueblo peoples of the New World",
+            "Pre-Columbian populations of North and South America"
+        ]
+    },
+    "PLAIN-1710": {
+        "original": "neurocysticercosis",
+        "expanded": [
+            "-infected brain parasite",
+            "neurological tapeworm disease",
+            "cerebral cystic echinococcosis"
+        ]
+    },
+    "PLAIN-1721": {
+        "original": "NIH-AARP study",
+        "expanded": [
+            "National Institutes of Health collaboration with American Association of Retired Persons",
+            "AARP research project involving National Institutes of Health",
+            "Study conducted by National Institutes of Health in partnership with AARP"
+        ]
+    },
+    "PLAIN-1731": {
+        "original": "norovirus",
+        "expanded": [
+            "\"mauve diarrhea\"",
+            "\"gastrointestinal virus\"",
+            "\"acute gastroenteritis outbreak\""
+        ]
+    },
+    "PLAIN-1741": {
+        "original": "nuts",
+        "expanded": [
+            "Crackers seeds",
+            "Treenuts edible",
+            "Food allergen tree fruit"
+        ]
+    },
+    "PLAIN-1752": {
+        "original": "okra",
+        "expanded": [
+            "okra OR okras OR okoras",
+            "okra similar to vegetables OR okra related OR okra like crops",
+            "dishes or recipes that feature okra OR okra based cuisine OR culinary uses of okra"
+        ]
+    },
+    "PLAIN-1762": {
+        "original": "oral intraepithelial neoplasia",
+        "expanded": [
+            "premalignant oral epithelial lesions",
+            "malignant potential oral dysplasia",
+            "high-grade squamous intraepithelial lesions of the oral cavity"
+        ]
+    },
+    "PLAIN-1772": {
+        "original": "organotins",
+        "expanded": [
+            "\"tins organometallic compounds\"",
+            "\"derivatives from organic tin\"",
+            "\"organotin compounds chemistry search\""
+        ]
+    },
+    "PLAIN-1784": {
+        "original": "oxen meat",
+        "expanded": [
+            "beef cattle",
+            "meat from draft animals",
+            "cattle product for human consumption"
+        ]
+    },
+    "PLAIN-1794": {
+        "original": "Panama",
+        "expanded": [
+            "entral American country of the canal, Panama",
+            "Region with a famous waterway connecting two oceans",
+            "Island country located east of Costa Rica, known for its isthmus"
+        ]
+    },
+    "PLAIN-1805": {
+        "original": "Parkinson's disease",
+        "expanded": [
+            "phase 2 neurodegenerative disorder",
+            "movement disorder causing tremors and dementia",
+            "neurological condition characterized by loss of motor control and cognitive decline"
+        ]
+    },
+    "PLAIN-1817": {
+        "original": "peanut butter",
+        "expanded": [
+            "**creamy spread**",
+            "**legume-based snack**",
+            "**nutty sandwich filling**"
+        ]
+    },
+    "PLAIN-1827": {
+        "original": "Peoria",
+        "expanded": [
+            "Phoenix, Arizona near Peerless Riverview?",
+            "Cities named like Peoria or Peerless Riverview?",
+            "Areas known as Peoria-type cities?"
+        ]
+    },
+    "PLAIN-1837": {
+        "original": "pesticides",
+        "expanded": [
+            "agricultural chemicals\n Bug killers in agriculture",
+            "crop protection chemicals\n farm pesticides finds",
+            "toxic substances for pest control"
+        ]
+    },
+    "PLAIN-1847": {
+        "original": "philippines",
+        "expanded": [
+            "Geography CONTAINS \"south east asia\"",
+            "association \"philippine islands\"",
+            "refers to islands near \"taal volcano eruption\""
+        ]
+    },
+    "PLAIN-1857": {
+        "original": "phytic acid",
+        "expanded": [
+            "( Focus on the bioactive compound )\nFind documents related to phytic acid as a bioactive compound with antioxidant properties.",
+            "( Focus on the plant source )\nRetrieve documents mentioning phytic acid as a secondary metabolite produced by various plant species, particularly legumes and cereals.",
+            "( Focus on the dietary and nutritional context )\nIdentify documents discussing the impact of phytic acid on nutrient absorption and bioavailability in human diets, specifically in relation to plant-based diets and phytate levels."
+        ]
+    },
+    "PLAIN-1867": {
+        "original": "pineapples",
+        "expanded": [
+            "tropical fruit",
+            "prickly fruit eaten as a snack",
+            "juicy exotic desserts and smoothies"
+        ]
+    },
+    "PLAIN-1877": {
+        "original": "plant-based diet",
+        "expanded": [
+            "fluorescently green smoothie bowl ingredients",
+            ".herbal supplements and nutrition health benefits",
+            "sustainable food system vegan lifestyle cookbook"
+        ]
+    },
+    "PLAIN-1887": {
+        "original": "poisonous plants",
+        "expanded": [
+            "toxic flora",
+            "plants with adverse effects on human health",
+            "a list of species known for their toxicity"
+        ]
+    },
+    "PLAIN-1897": {
+        "original": "polypropylene plastic",
+        "expanded": [
+            "propylene-based plastics",
+            "thermoplastic materials with high chemical resistance",
+            "applications of durable lightweight plastics"
+        ]
+    },
+    "PLAIN-1909": {
+        "original": "pork",
+        "expanded": [
+            "meat pig swine",
+            "ham bacon sausage",
+            "GRILLED FARM ANIMAL PORK CUTS MUNSTER"
+        ]
+    },
+    "PLAIN-1919": {
+        "original": "poultry workers",
+        "expanded": [
+            "(phrased for exact match)\npeople who work with chickens",
+            "(phrased for synonym search)\nindividuals employed in the poultry industry",
+            "(phrased for contextual understanding)\nthose working on farms that raise domesticated fowl"
+        ]
+    },
+    "PLAIN-1929": {
+        "original": "prenatal vitamins",
+        "expanded": [
+            "folic acid supplements for pregnant women",
+            "supplements for preconception care and pregnancy health",
+            "vitamins for maternal health and fetal development during pregnancy"
+        ]
+    },
+    "PLAIN-1940": {
+        "original": "prolactin",
+        "expanded": [
+            "hormone prolactin",
+            "protein linked to lactation prolactin",
+            "biological function of prolactin"
+        ]
+    },
+    "PLAIN-1950": {
+        "original": "prunes",
+        "expanded": [
+            "pruning",
+            "cutting waste",
+            "removing excess"
+        ]
+    },
+    "PLAIN-1962": {
+        "original": "pumpkin",
+        "expanded": [
+            "\"find objects similar to a pumpkin\"",
+            "\"document retrieval for objects with characteristics of a pumpkin\"",
+            "\"retrieve top N nearest neighbors to a vector representation of a pumpkin\""
+        ]
+    },
+    "PLAIN-1972": {
+        "original": "quinine",
+        "expanded": [
+            "\"antimalarial compound\"",
+            "\"alkaloid with Fever-reducing properties\"",
+            "\"plant-derived medicine for Malaria treatment\""
+        ]
+    },
+    "PLAIN-1983": {
+        "original": "rapamycin",
+        "expanded": [
+            "rapa mcine",
+            "rapamycin derivative",
+            "\"FDA-approved mTOR inhibitor\""
+        ]
+    },
+    "PLAIN-1995": {
+        "original": "red tea",
+        "expanded": [
+            "Earthy tea varieties",
+            "Hot beverages with red color",
+            "Fermented tea blends"
+        ]
+    },
+    "PLAIN-2009": {
+        "original": "rhabdomyolysis",
+        "expanded": [
+            "Muscle damage causing myoglobinuria in the blood",
+            "Condition characterized by breakdown of skeletal muscle fibers",
+            "Severe muscle cell injury resulting in release of muscle contents into the bloodstream"
+        ]
+    },
+    "PLAIN-2019": {
+        "original": "rickets",
+        "expanded": [
+            "osteoporosis in children",
+            "vitamin D deficiency pediatric",
+            "rickets symptoms in infants"
+        ]
+    },
+    "PLAIN-2030": {
+        "original": "Rutin",
+        "expanded": [
+            "Do any documents in the database mention the term \"vanilla-flavored\" alongside \"synthetic pyrethrin\"?",
+            "Find documents that involve a comparison between \"rutin\" and other antioxidant substances, including natural and synthesized compounds.",
+            "What documents in the database discuss the analytical characteristics or properties of rutin when compared to other biological molecules with similar molecular structures?"
+        ]
+    },
+    "PLAIN-2040": {
+        "original": "salmon",
+        "expanded": [
+            "fish species types\n retrieve documents containing related to fish species that have a silvery color.",
+            "ocean food chain proteins\n retrieve documents that describe salmon and other proteins related to them in the ocean food chain.",
+            "aquatic omega-3 resources\n retrieve documents that describe fish that contain high levels of omega-3 fatty acids."
+        ]
+    },
+    "PLAIN-2051": {
+        "original": "saturated fat",
+        "expanded": [
+            "**Over 6g fat content per serving - meaning:**\nHigh-fat foods saturated with calories",
+            "**Rich in lipids and carbon chains - context:**\nDocument retrieval for foods containing high amounts of fatty acids",
+            "**Unsaturated, high-calorie, long-chain triglycerides - Walnuts, extra virgin olive oil, etc.**\nFind foods with high fat content and high caloric density"
+        ]
+    },
+    "PLAIN-2061": {
+        "original": "seafood",
+        "expanded": [
+            "fish-based cuisine",
+            "ocean recipes",
+            "culinary dishes featuring aquatic life"
+        ]
+    },
+    "PLAIN-2071": {
+        "original": "serotonin",
+        "expanded": [
+            "hormone serotonin",
+            "serotonin neurotransmitter",
+            "effect serotonin brain chemistry"
+        ]
+    },
+    "PLAIN-2081": {
+        "original": "shelf life",
+        "expanded": [
+            "extraction time period for shelf stability",
+            "duration of product stability when stored on a shelf",
+            "shelf stability time frame"
+        ]
+    },
+    "PLAIN-2092": {
+        "original": "sirtuins",
+        "expanded": [
+            "similarities between aging and sirtuins",
+            "sirtuins and metabolic regulation",
+            "Elizabeth Blackburn and sirtuins research"
+        ]
+    },
+    "PLAIN-2102": {
+        "original": "smoking",
+        "expanded": [
+            "cigarettes",
+            "nicotine usage",
+            "secondhand smoke exposure"
+        ]
+    },
+    "PLAIN-2113": {
+        "original": "soil health",
+        "expanded": [
+            "fertile soil conditions",
+            "sustainable gardening practices related to soil",
+            "effects of erosion on soil quality and conservation techniques"
+        ]
+    },
+    "PLAIN-2124": {
+        "original": "spearmint",
+        "expanded": [
+            "morphology of spearmint\n(The employee asked about the specific trait of spearmint, focusing on its botanical characteristics.)",
+            "peppermint or spearmint\n(This sub-query adds an alternative term that the documents may or may not match, encouraging the algorithm to find documents that include both spearmint and peppermint.)",
+            "botanical description of a spearmint variety\n(This sub-query narrows down the scope to a specific aspect of the information the user is looking for, i.e., the botanical description of a specific type of spearmint, potentially identifying more targeted and precise results.)"
+        ]
+    },
+    "PLAIN-2134": {
+        "original": "Splenda",
+        "expanded": [
+            "Low-calorie sweetener",
+            "Artificial sweetener commonly used by diabetics",
+            "Sugar substitute with erythritol and maltodextrin"
+        ]
+    },
+    "PLAIN-2145": {
+        "original": "St. John's wort",
+        "expanded": [
+            "What are the effects of using St. John's Wort for mental health?",
+            "What do we know about the pharmacological properties of Hypericum perforatum?",
+            "How does St. John's Wort interact with medications and other supplements?"
+        ]
+    },
+    "PLAIN-2156": {
+        "original": "stevia",
+        "expanded": [
+            "\"plant sweetener\"",
+            "\"non-sugar sweet options natural sweetener alternatives\"",
+            "\"alternative to common sugar natural origin sweetener\""
+        ]
+    },
+    "PLAIN-2167": {
+        "original": "subsidies",
+        "expanded": [
+            "government support funds",
+            "financial assistance programs",
+            "economic relief grants"
+        ]
+    },
+    "PLAIN-2177": {
+        "original": "sulfur",
+        "expanded": [
+            "sulphur compounds\nThis query adds a variants of the query word to potentially catch more relevant documents that may not be directly indexed with \"sulfur\" but with its synonyms.",
+            "sulfur-based sources\nThis query adds contextual information to the original query, focusing on the source or type of sulfur, which can help in retrieving documents related to sulfur in a specific context.",
+            "elemental sulfur properties implications\nThis query adds more detail to the original query, focusing on the specific properties or implications of sulfur, which can help in retrieving documents that discuss the characteristics or effects of sulfur, rather than just mentioning it as a term."
+        ]
+    },
+    "PLAIN-2187": {
+        "original": "suppositories",
+        "expanded": [
+            "\"Weeks-long medication delivery methods\"",
+            "\"Rectal drug administration techniques\"",
+            "\"Insertable medicated substances\""
+        ]
+    },
+    "PLAIN-2197": {
+        "original": "sweeteners",
+        "expanded": [
+            "sugar alternatives",
+            "natural sweeteners",
+            "low-calorie sugar substitutes"
+        ]
+    },
+    "PLAIN-2209": {
+        "original": "taro",
+        "expanded": [
+            "similar(to kavramlari cos similarty taro)",
+            "documents related to taro character",
+            "what are the closest matches to the term taro in the dataset"
+        ]
+    },
+    "PLAIN-2220": {
+        "original": "tempeh",
+        "expanded": [
+            "tofu-based food",
+            "fermented soybean-based vegetarian dish",
+            "plant-based protein sources with nutty flavor"
+        ]
+    },
+    "PLAIN-2230": {
+        "original": "thiamine",
+        "expanded": [
+            "Vitamin B1",
+            "What is the nutritional significance of thiamine?",
+            "Similar compounds to thiamineaside from thiamine and its analogues, what other substances have related chemical properties and properties?"
+        ]
+    },
+    "PLAIN-2240": {
+        "original": "titanium dioxide",
+        "expanded": [
+            "TiO2 compound properties",
+            "Properties of titanium dioxide pigment",
+            "Characterization of TiO2 nanoparticles for applications"
+        ]
+    },
+    "PLAIN-2250": {
+        "original": "tongue worm",
+        "expanded": [
+            "worm-like structures in the oral cavity",
+            "orificial parasites in humans",
+            "long, tongue-related parasites"
+        ]
+    },
+    "PLAIN-2261": {
+        "original": "trans fats",
+        "expanded": [
+            "Hydrogenated vegetable oils containing unsaturated fats",
+            "Saturated fats used in food processing",
+            "Fats and oils with high levels of trans isomers"
+        ]
+    },
+    "PLAIN-2271": {
+        "original": "Tufts",
+        "expanded": [
+            "University Tufts",
+            "Find documents related to Tufts",
+            "Information about Tufts University"
+        ]
+    },
+    "PLAIN-2281": {
+        "original": "turnips",
+        "expanded": [
+            "turnips root vegetables",
+            "root vegetables in gardens",
+            "vegetables with beet-like characteristics"
+        ]
+    },
+    "PLAIN-2291": {
+        "original": "ultra-processed foods",
+        "expanded": [
+            "Prepared or manufactured foods with a high amount of processing",
+            "Foods that have undergone significant transformation from their natural state",
+            "Packaged foods with a high degree of engineering, often containing unrecognizable ingredients"
+        ]
+    },
+    "PLAIN-2301": {
+        "original": "uterine health",
+        "expanded": [
+            "Menstrual cycle wellness",
+            "Uterus-related medical issues",
+            "Pelvic health and reproductive function"
+        ]
+    },
+    "PLAIN-2311": {
+        "original": "veal",
+        "expanded": [
+            "veal meat",
+            "meat beef muscle",
+            "young beef cattle"
+        ]
+    },
+    "PLAIN-2321": {
+        "original": "veggie chicken",
+        "expanded": [
+            "organic food like chicken",
+            "poultry dishes excluding meat",
+            "plant-based protein sources similar to poultry"
+        ]
+    },
+    "PLAIN-2332": {
+        "original": "viral infections",
+        "expanded": [
+            "human disease transmission",
+            "viruses and disease progression",
+            "immune system response to infection"
+        ]
+    },
+    "PLAIN-2343": {
+        "original": "vitamin K",
+        "expanded": [
+            "Vitamin K therapy",
+            "Pharmacological properties of vitamin K",
+            "Nutritional supplements containing vitamin K"
+        ]
+    },
+    "PLAIN-2354": {
+        "original": "walnut oil",
+        "expanded": [
+            "oil extracted from a specific type of nut",
+            "edible oil used in cooking that has a rich nutty flavor",
+            "unsaturated oil commonly used in baking and culinary applications"
+        ]
+    },
+    "PLAIN-2364": {
+        "original": "weight gain",
+        "expanded": [
+            "weight increase",
+            "overweight or obesity",
+            "body mass index (BMI) rise"
+        ]
+    },
+    "PLAIN-2375": {
+        "original": "whiting",
+        "expanded": [
+            "fish species",
+            "white fish",
+            "marine food"
+        ]
+    },
+    "PLAIN-2386": {
+        "original": "worms",
+        "expanded": [
+            "inquirying worms in the database",
+            "retrieve worms stored in the database",
+            "what information on worms are available in the database"
+        ]
+    },
+    "PLAIN-2396": {
+        "original": "Yale",
+        "expanded": [
+            "\"University in Connecticut\"",
+            "\"Elite Ivy League school\"",
+            "\"Oldest continuously operating institution of higher education in the US\""
+        ]
+    },
+    "PLAIN-2408": {
+        "original": "Zoloft",
+        "expanded": [
+            "Fluoxetine structure",
+            "Similar antidepressants to sertraline",
+            "Major depressive disorder medication trademarks"
+        ]
+    },
+    "PLAIN-2430": {
+        "original": "Preventing Brain Loss with B Vitamins?",
+        "expanded": [
+            "How to Maintain Cognitive Health through Supplementation of B Vitamins for Prevention of Neurological Deterioration?",
+            "Investigating the Ability of B Vitamins in Haltine the Cognitive Decline: A Scientific Overview?",
+            "Explore the Relationships Between B Vitamin Deficiency, Neuroprotection, and Potential Countermeasures?"
+        ]
+    },
+    "PLAIN-2440": {
+        "original": "More Than an Apple a Day: Combating Common Diseases",
+        "expanded": [
+            "Fruitful Solutions: Effective Strategies for Managing Health Issues",
+            "Daily Habits and Preventive Measures: Minimizing Risk of Illness",
+            "The Impact of Lifestyle Choices on Overall Wellness: Disease Prevention Strategies"
+        ]
+    },
+    "PLAIN-2450": {
+        "original": "Are Organic Foods Safer?",
+        "expanded": [
+            "Are Minimally Processed Foods Generally Healthier Than Their Conventionally Grown Counterparts?",
+            "Do Consumers Perceive Organic Foods as Having Lower Health Risks Than Conventionally Produced Foods?",
+            "What are the Scientifically Proven Differences in Safety Profiles Between Organic and Non-Organic Food Production Methods?"
+        ]
+    },
+    "PLAIN-2460": {
+        "original": "Diabetes as a Disease of Fat Toxicity",
+        "expanded": [
+            "Toxic effects of metabolic fat on human health, related to diabetes",
+            "Pathophysiology of insulin resistance linked to saturated fatty acid accumulation",
+            "Inflammation and oxidative stress as biomarkers for fatty acid-induced diabetes"
+        ]
+    },
+    "PLAIN-2470": {
+        "original": "Is Milk Good for Our Bones?",
+        "expanded": [
+            "Does Milk Have Positive Effects on Bone Density?",
+            "What Nutritional Value Do Dairy Products Like Milk Offer for Bone Health?",
+            "Does Calcium Found in Milk Affect Osteoporosis Risk in Adults?"
+        ]
+    },
+    "PLAIN-2480": {
+        "original": "Preventing Ulcerative Colitis with Diet",
+        "expanded": [
+            "Foods that Inhibit Ulcerative Colitis Development",
+            "Effect of Dietary Regimens on Ulcerative Colitis Severity",
+            "Nutritional Interventions for Reducing Risk of Active Ulcerative Colitis"
+        ]
+    },
+    "PLAIN-2490": {
+        "original": "The Actual Benefit of Diet vs. Drugs",
+        "expanded": [
+            "**Comparison of Dietary Changes and Medications for Chronic Conditions**\nVariation of question: Compare the efficacy of adopting a specific diet, such as vegan or keto, versus taking prescribed medications for individuals managing chronic health conditions like diabetes, hypertension, or obesity.",
+            "**Dietary Interventions vs. Pharmaceutical Solutions for Symptom Relief**\nAlternative question: How does the adoption of certain dietary patterns or nutritional supplements compare to the use of prescription medications in providing relief from symptoms of various health conditions, including, but not limited to, arthritis, heart disease, or migraines.",
+            "**Nutraceuticals and Cuisine vs. Standard Medical Treatments for Prevention**\nModified question: What are the relative benefits and outcomes of integrating specific foods, nutrients, or supplements into a person's daily regimen compared to standard medical treatments, encompassing disease prevention and management for conditions such as high blood pressure, stroke, or cardiovascular disease."
+        ]
+    },
+    "PLAIN-2500": {
+        "original": "The Saturated Fat Studies: Buttering Up the Public",
+        "expanded": [
+            "Misinformation and Manipulation: How Butter Industry Influenced Public Opinion on Saturated Fats",
+            "Debunking Dietary Myths: A Critical Analysis of Fat-Rich Food Research and its Impact on Public Perception",
+            "Lobbying, Science, and the Public's Health: An Exploration of How the Butter Industry Shaped the Saturated Fat Debate"
+        ]
+    },
+    "PLAIN-2510": {
+        "original": "Coffee and Artery Function",
+        "expanded": [
+            "**\nWhat is the relationship between Caffeine and blood circulation?",
+            "**\nCan consumption of coffee impact arterial health?",
+            "**\nWhat is the effect of caffeine on vascular system's functioning?"
+        ]
+    },
+    "PLAIN-2520": {
+        "original": "Caloric Restriction vs. Plant-Based Diets",
+        "expanded": [
+            "Effects of food restriction versus plant-based eating habits on caloric intake",
+            "Comparison of caloric restriction diets with vegetarian and vegan regimens",
+            "Impact of dietary patterns emphasizing plant-based foods versus caloric restriction on overall health outcomes"
+        ]
+    },
+    "PLAIN-2530": {
+        "original": "Infectobesity: Adenovirus 36 and Childhood Obesity",
+        "expanded": [
+            "Association between Adenovirus 36 and childhood obesity: any evidence of a link to metabolic disorders",
+            "Do children who contract Adenovirus 36 have an increased risk of obesity and related metabolic problems?",
+            "Link between childhood obesity and Adenovirus 36 infection: investigation of viral role in weight management in pediatric populations"
+        ]
+    },
+    "PLAIN-2540": {
+        "original": "Does Cholesterol Size Matter?",
+        "expanded": [
+            "How does the size of cholesterol molecules impact their interactions with other biomolecules?",
+            "What are the effects of varying cholesterol sizes on lipid bilayer stability and membrane structure?",
+            "Do differences in cholesterol size influence the development and progression of various diseases, such as atherosclerosis or Alzheimer's?"
+        ]
+    },
+    "PLAIN-2550": {
+        "original": "Barriers to Heart Disease Prevention",
+        "expanded": [
+            "Why are there obstacles to reducing the risk of heart disease?\nThis sub-query adds a subtle twist to the original question by framing the issue as a challenge or obstacle, which may retrieve documents that discuss potential solutions or strategies for overcoming barriers to heart disease prevention.",
+            "What are the common obstacles or difficulties people face in adopting heart-healthy habits?\nThis sub-query shifts the focus from the abstract concept of barriers to the more concrete experience of individuals who are trying to prevent heart disease, which may retrieve documents that discuss the psychological, social, or environmental factors that influence healthy behavior.",
+            "What are the systemic or structural factors that contribute to the lack of effective heart disease prevention strategies?\nThis sub-query takes a more critical approach by examining the underlying social, economic, or political factors that may be hindering effective heart disease prevention, which may retrieve documents that discuss issues like healthcare access, policy, or socioeconomic disparities."
+        ]
+    },
+    "PLAIN-2560": {
+        "original": "Childhood Constipation and Cow\u2019s Milk",
+        "expanded": [
+            "Pediatric GI issues related to dairy intake in young children",
+            "Dietary factors affecting bowel habits in children's early years",
+            "Developmental factors contributing to digestive difficulties in childhood"
+        ]
+    },
+    "PLAIN-2570": {
+        "original": "Diabetics Should Take Their Pulses",
+        "expanded": [
+            "Blood sugar patients should manage their heart rates",
+            "What are the implications of blood sugar control on cardiovascular health?",
+            "Why is it crucial for people with diabetes to monitor their cardiovascular health?"
+        ]
+    },
+    "PLAIN-2580": {
+        "original": "Academy of Nutrition and Dietetics Conflicts of Interest",
+        "expanded": [
+            "Conflicts of interest in the Academy of Nutrition and Dietetics",
+            "Conflict of interest in nutrition and dietetics professionals",
+            "Nutrition and dietetics ethics and potential biases"
+        ]
+    },
+    "PLAIN-2590": {
+        "original": "Do Vegetarians Get Enough Protein?",
+        "expanded": [
+            "What is the typical protein intake of vegetarians and is it sufficient for maintaining optimal health?",
+            "How do vegetarians' protein sources compare to those of meat-eaters, and what are the implications for nutrition and overall well-being?",
+            "Can a well-planned vegetarian diet provide adequate protein for individuals with varying needs, such as athletes or those with specific health conditions?"
+        ]
+    },
+    "PLAIN-2600": {
+        "original": "Eggs and Arterial Function",
+        "expanded": [
+            "Blood vessel function and egg consumption",
+            "Egg dietary effects on cardiovascular health",
+            "Arterial system and nutritional egg components relationship"
+        ]
+    },
+    "PLAIN-2610": {
+        "original": "Treating Asthma With Plants vs. Supplements?",
+        "expanded": [
+            "Natural Alternatives to Asthma Medication: Plants and Supplements for Respiratory Health",
+            "Plants That Can Alleviate Asthma Symptoms: Comparative Analysis of Herbal Remedies and Dietary Supplements",
+            "Effectiveness of Botanicals vs. Nutritional Supplements in Managing Asthma: A Database Query for Related Studies"
+        ]
+    },
+    "PLAIN-2620": {
+        "original": "Phytates for the Treatment of Cancer",
+        "expanded": [
+            "Cancer therapy utilizing phytates\nPhytates in medical treatment for malignant cells",
+            "Investigation of the anti-tumor properties of phytates in cancer research\nInhibiting cancer cell growth through phytate-based therapies",
+            "Exploration of phytate-based compounds for cancer treatment applications\nPhytate supplementation and its implications for oncology and chemotherapy"
+        ]
+    },
+    "PLAIN-2630": {
+        "original": "Alkylphenol Endocrine Disruptors and Allergies",
+        "expanded": [
+            "Phenolic compounds causing endocrine disruption and associated allergic reactions",
+            "Endocrine disrupting chemicals linked to skin allergies and inflammatory responses",
+            "Allergic responses and dermatological issues linked to alkylphenol exposure"
+        ]
+    },
+    "PLAIN-2640": {
+        "original": "Chicken Salmonella Thanks to Meat Industry Lawsuit",
+        "expanded": [
+            "Salmonella outbreak linked to chicken and beef industry settlement",
+            "What court rulings involve meat industry liability for Salmonella poisoning from consumption of poultry",
+            "Epidemic linked to nationwide recalls of contaminated chicken products lawsuits"
+        ]
+    },
+    "PLAIN-2650": {
+        "original": "Turmeric Curcumin and Osteoarthritis",
+        "expanded": [
+            "Curcuminoid extract and knee joint health",
+            "Osteoarthritis treatment alternatives involving spice-derived compounds",
+            "Bioactive compounds in Turmeric and their potential for managing degenerative joint diseases"
+        ]
+    },
+    "PLAIN-2660": {
+        "original": "How Long to Detox From Fish Before Pregnancy?",
+        "expanded": [
+            "Timeframe for fish consumption before getting pregnant.",
+            "Fish detoxification duration for pregnant women.",
+            "Wait period between eating fish and pregnancy."
+        ]
+    },
+    "PLAIN-2670": {
+        "original": "Is Caramel Color Carcinogenic?",
+        "expanded": [
+            "What are the links between Caramel Color and Cancer Risk?",
+            "How is the Carcinogenic Potential of Caramel Color related to Food Safety Regulations?",
+            "Are there any Studies or Investigations linking Caramel Color with Human Carcinogenesis?"
+        ]
+    },
+    "PLAIN-2680": {
+        "original": "Counteracting the Effects of Dioxins Through Diet",
+        "expanded": [
+            "Foods That Neutralize the Impact of Dioxin Contamination",
+            "Dietary Strategies to Minimize Dioxin Exposure",
+            "Nutritional Interventions for Dioxin-Induced Health Risks"
+        ]
+    },
+    "PLAIN-2690": {
+        "original": "Chronic Headaches and Pork Tapeworms",
+        "expanded": [
+            "Hospital records related to frequent and severe headaches caused by pork tapeworm infestations.",
+            "Identify documents containing information on relationship between tapeworms found in pork and migraines or frequent headaches in humans.",
+            "Retrieve case studies of individuals who suffered from debilitating headaches, with a particular focus on those that were diagnosed with anisakiasis (pork tapeworm infestation)."
+        ]
+    },
+    "PLAIN-2700": {
+        "original": "Heart Disease Starts in Childhood",
+        "expanded": [
+            "Childhood Influences on Adult Heart Health",
+            "Early Life Exposures and Cardiovascular Risks",
+            "Identifying Pediatric Factors Contributing to Adult Heart Conditions"
+        ]
+    },
+    "PLAIN-2710": {
+        "original": "Artificial Food Colors and ADHD",
+        "expanded": [
+            "Food additives linked to attention deficit hyperactivity disorder (ADHD)",
+            "What evidence exists between artificial coloring agents in food and ADHD in children?",
+            "Link_between artificial food coloring consumption and ADHD behavior in pediatric populations"
+        ]
+    },
+    "PLAIN-2720": {
+        "original": "Keeping Your Hands Warm With Citrus",
+        "expanded": [
+            "What methods for warming hands involve citrus fruits?",
+            "What citrus fruits can be used to keep hands warm externally?",
+            "What external heat or warmth can be generated using citrus peels or juice?"
+        ]
+    },
+    "PLAIN-2730": {
+        "original": "Anti-Angiogenesis: Cutting Off Tumor Supply Lines",
+        "expanded": [
+            "Inhibition of Blood Vessel Formation: Cancer Treatment Strategy",
+            "Blocking Tumor Growth through Disruption of Neoangiogenesis",
+            "Tumors and Vascular Systems: Interruption as a Therapeutic Approach"
+        ]
+    },
+    "PLAIN-2740": {
+        "original": "Cancer Risk From CT Scan Radiation",
+        "expanded": [
+            "Radiation exposure from computed tomography (CT) scans linked to increased cancer risk",
+            "Cancer prevalence associated with exposure to ionizing radiation from diagnostic imaging procedures",
+            "Examining the correlation between CT scan radiation doses and the incidence of cancerous tumors"
+        ]
+    },
+    "PLAIN-2750": {
+        "original": "Preventing the Common Cold with Probiotics?",
+        "expanded": [
+            "What is the effect of probiotics on the prevention of upper respiratory tract infections such as the common cold?",
+            "Can probiotics be used as a natural remedy or supplement to boost the immune system against the common cold?",
+            "Do research studies support the link between probiotic consumption and reduced incidence or severity of colds in individuals with a susceptible immune system?"
+        ]
+    },
+    "PLAIN-2760": {
+        "original": "Eating Healthy on a Budget",
+        "expanded": [
+            "Cheap and Nutritious Meal Planning",
+            "Financially Sustainable Food Choices for Everyday Meals",
+            "Cost-Effective Ways to Eat a Balanced Diet"
+        ]
+    },
+    "PLAIN-2770": {
+        "original": "Flaxseeds & Breast Cancer Survival: Clinical Evidence",
+        "expanded": [
+            "Anti-Cancer Properties of Flaxseeds in Human Health: Clinical Trials and Reviews",
+            "Breast Cancer Recurrence Prediction: Exploring the Role of Nutrition and Dietary Supplements, specifically Flaxseeds and Omega-3 Fatty Acids",
+            "Carotenoids, Lignans, and Cancer Prevention: A Comprehensive Analysis of Flaxseed Components and Their Potential Impact on Breast Cancer Survival"
+        ]
+    },
+    "PLAIN-2780": {
+        "original": "Do Fruit & Nut Bars Cause Weight Gain?",
+        "expanded": [
+            "Fruits and nuts in energy bars nutritional effect on body weight.",
+            "Do consuming bars with fruit and nut ingredients lead to weight gain.",
+            "Effect of eating fruit and nut-based bars on patient weight changes."
+        ]
+    },
+    "PLAIN-2790": {
+        "original": "Titanium Dioxide & Inflammatory Bowel Disease",
+        "expanded": [
+            "Titanium Dioxide Mechanisms and Their Impact on Gut Health",
+            "Exploring the Association between Inhalation of Titanium Dioxide and Inflammatory Bowel Disease",
+            "360-Degree Investigation of TiO2 Exposure and its Potential Relation to IBD Development and Pathogenesis"
+        ]
+    },
+    "PLAIN-2800": {
+        "original": "Prolonged Liver Function Enhancement From Broccoli",
+        "expanded": [
+            "Broccoli supplementation effects on liver health metrics",
+            "Liver disease prevention with cruciferous vegetables",
+            "Mechanisms underlying broccoli-induced liver protective effects"
+        ]
+    },
+    "PLAIN-2810": {
+        "original": "Apple Juice May Be Worse Than Sugar Water",
+        "expanded": [
+            "Fruit Juice May Have Unexpected Health Consequences",
+            "Comparing Apple Juice to Sugar Water in Terms of Nutritional Value",
+            "Is Apple Juice a Healthier Option than Regular Soda?"
+        ]
+    },
+    "PLAIN-2820": {
+        "original": "Preventing Strokes with Diet",
+        "expanded": [
+            "Dietary Preventions of Cerebrovascular Accidents",
+            "Nutritional Prevention of Vascular Ischemia",
+            "Food-Based Strategies to Reduce Risk of Cardiovascular Events"
+        ]
+    },
+    "PLAIN-2830": {
+        "original": "Neurobiology of Artificial Sweeteners",
+        "expanded": [
+            "Artificial Sweetener Impact on Neural Processing",
+            "Neurophysiological Effects of Sugar Substitutes on Humans",
+            "Cognitive and Behavioral Responses to Non-Caloric Sweeteners"
+        ]
+    },
+    "PLAIN-2840": {
+        "original": "Benefits of Fenugreek Seeds",
+        "expanded": [
+            "\"How do fenugreek seeds support overall health and wellness?\"",
+            "\"Examples of traditional uses of fenugreek seeds in culinary and cultural contexts\"",
+            "\"Research on the bioactive compounds and bioavailability of fenugreek seeds' nutritional properties\""
+        ]
+    },
+    "PLAIN-2850": {
+        "original": "More Antibiotics In White Meat or Dark Meat?",
+        "expanded": [
+            "\"Antibiotic residues in poultry: comparison of white meat versus dark meat\"",
+            "\"Which types of meat products are more susceptible to antibiotic-resistant bacteria: white meat or dark meat?\"",
+            "\"Meat classification and antibiotic usage: a comparison of antibiotic presence in white meat and dark meat\""
+        ]
+    },
+    "PLAIN-2860": {
+        "original": "BPA Plastic and Male Sexual Dysfunction",
+        "expanded": [
+            "relation between BPA exposure and erectile dysfunction",
+            "the impact of phthalates in BPA plastic on human sexuality",
+            "association between endocrine disruptors, including BPA and male reproductive health issues"
+        ]
+    },
+    "PLAIN-2870": {
+        "original": "Filled Full of Lead",
+        "expanded": [
+            "Lead-filled bullet or fragment from a handgun",
+            "Heavy metal composition with toxic implications",
+            "Material waste generated by industrial manufacturing"
+        ]
+    },
+    "PLAIN-2880": {
+        "original": "The Answer to the Pritikin Puzzle",
+        "expanded": [
+            "Pritikin Puzzle solution",
+            "Similar documents to Pritikin Puzzles few years problem as-usual narrative",
+            "Find documents describing puzzles that authors struggled to solve similar to Pritikin's logic challenge"
+        ]
+    },
+    "PLAIN-2890": {
+        "original": "To Snack or Not to Snack?",
+        "expanded": [
+            "What snacks should I eat between meals?",
+            "Which snacks are associated with health benefits?",
+            "What popular snack options exist for hunger in between meals?"
+        ]
+    },
+    "PLAIN-2900": {
+        "original": "Boosting Good Bacteria in the Colon Without Probiotics",
+        "expanded": [
+            "Maintaining a Healthy Gut Microbiome Through Dietary Changes",
+            "Promoting the Growth of Beneficial Flora in the Human Intestine",
+            "Optimizing the Colon's Natural Balance Without Supplemental Probiotics"
+        ]
+    },
+    "PLAIN-2910": {
+        "original": "Optimal Phytosterol Dose",
+        "expanded": [
+            "Phytosterol supplementation dosage range\nThis sub-query uses slightly different wording to retrieve documents that may not be explicitly labeled as \"optimal dose\" but still discuss phytosterol dosage ranges.",
+            "Effects of different phytosterol doses on human health\nThis sub-query shifts the focus from finding the optimal dose to understanding the effects of varying doses on human health, which may retrieve documents that discuss different doses as part of a broader discussion on the benefits and limitations of phytosterol supplementation.",
+            "Comparison of phytosterol intake versus phytosterol supplements for optimal health benefits\nThis sub-query takes a more comparative approach, allowing the vector database to retrieve documents that discuss the effectiveness of different sources of phytosterols (intake vs. supplements) and potentially retrieve documents that discuss optimal dosages or ranges in the context of these comparisons."
+        ]
+    },
+    "PLAIN-2920": {
+        "original": "Human Neurotransmitters in Plants",
+        "expanded": [
+            "Neurotransmitters in Eukaryotic Organisms",
+            "Plant Biology and Neurotransmitter Expression",
+            "Evolutionary Conservation of Neurotransmitter Signaling Pathways"
+        ]
+    },
+    "PLAIN-2930": {
+        "original": "Kiwifruit for Irritable Bowel Syndrome",
+        "expanded": [
+            "Fruit management for inflammatory bowel disease",
+            "Natural remedies for irritable bowel syndrome symptoms",
+            "Kiwifruit and its applications in digestive health"
+        ]
+    },
+    "PLAIN-2940": {
+        "original": "Dietary Treatment of Crohn's Disease",
+        "expanded": [
+            "Managing symptoms of Crohn's Disease through nutrition",
+            "Crohn's Disease dietary management and treatment options",
+            "Nutritional interventions for Crohn's Disease prevention and management"
+        ]
+    },
+    "PLAIN-2950": {
+        "original": "Unsafe at Any Feed",
+        "expanded": [
+            "Feed Safety Concerns",
+            "Risks Associated with Online Feeds",
+            "Food Safety and Handling Issues with Feed Distribution"
+        ]
+    },
+    "PLAIN-2960": {
+        "original": "Pharmacists Versus Health Food Store Employees: Who Gives Better Advice?",
+        "expanded": [
+            "Retail Employees Offering Expert Nutrition Advice: Which Professionals Are Most Knowledgeable?",
+            "Advice Comparison: Health Food Stores versus Pharmacies on Supplements and Medication",
+            "Confidentiality and Trustworthiness of Healthcare Advice: Are Pharmacists or Health Food Store Employees More Effective Advisors?"
+        ]
+    },
+    "PLAIN-2970": {
+        "original": "Preventing Cataracts with Diet",
+        "expanded": [
+            "**Reducing Risk of Cataract Formation through Nutrition**",
+            "**Dietary Strategies for Preventing Eye Lens Opacification**",
+            "**Optimizing Food Intake to Minimize Cataract Development**"
+        ]
+    },
+    "PLAIN-2981": {
+        "original": "Cheese Mites and Maggots",
+        "expanded": [
+            "\"Insects or arachnids infesting dairy products\"",
+            "\"Insects and mites associated with cheese spoilage\"",
+            "\"Pests and decomposers affecting milk-based products\""
+        ]
+    },
+    "PLAIN-2991": {
+        "original": "Cholesterol and Lower Back Pain",
+        "expanded": [
+            "Low Back Pain and Lipid Profiles",
+            "Pain Management and Cholesterol Reduction",
+            "Musculoskeletal Disorders and Cardiovascular Disease"
+        ]
+    },
+    "PLAIN-3001": {
+        "original": "EPIC Findings on Lymphoma",
+        "expanded": [
+            "Find documents related to groundbreaking discoveries in the field of lymphoma research, with a focus on recent EPIC trials.",
+            "Retrieve papers discussing the cellular and molecular mechanisms underlying lymphoma, highlighting findings on the role of EPIC in these processes.",
+            "Identify articles exploring the clinical applications of EPIC research, specifically regarding the development of novel treatments and diagnostic strategies for lymphoma patients."
+        ]
+    },
+    "PLAIN-3014": {
+        "original": "Sometimes the Enzyme Myth Is True",
+        "expanded": [
+            "Enzyme myth truth instances",
+            "Enzyme functions contradicting conventional wisdom",
+            "Exceptions to enzyme assumptions"
+        ]
+    },
+    "PLAIN-3026": {
+        "original": "Vitamin C-Enriched Bacon",
+        "expanded": [
+            "Bacon with High Vitamin C Content",
+            "Vitamin-Rich Foods Containing Bacon",
+            "Bacon with Enriched Nutrient Profile Including Vitamin C"
+        ]
+    },
+    "PLAIN-3037": {
+        "original": "Out of the Lab Onto the Track",
+        "expanded": [
+            "Transition from Laboratory to Real-World Applications",
+            "Converting Laboratory Breakthroughs into Practical Uses on the Track",
+            "Bringing Laboratory Discoveries onto the Track of Practical Implementations"
+        ]
+    },
+    "PLAIN-3053": {
+        "original": "Dragon's Blood",
+        "expanded": [
+            "Red sap from a scaled dragon-like tree",
+            "Ancient plant resin resembling dragon's vitality",
+            "Red-coloured resin used in medicine by indigenous communities"
+        ]
+    },
+    "PLAIN-3063": {
+        "original": "Better Than Goji Berries",
+        "expanded": [
+            "More nutritional than Goji berries",
+            "Similar to Goji berry nutritional profile",
+            "Supplement options with greater health benefits than Goji berries"
+        ]
+    },
+    "PLAIN-3074": {
+        "original": "How to Help Prevent Abdominal Aortic Aneurysms",
+        "expanded": [
+            "What are the preventive measures to avoid developing Abdominal Aortic Aneurysms in men over the age of 60?",
+            "What are the common lifestyle factors and habits that can increase the risk of Abdominal Aortic Aneurysm development in general populations?",
+            "How can regular health screenings and monitoring be used to early detect and prevent the progression of Abdominal Aortic Aneurysms in asymptomatic individuals?"
+        ]
+    },
+    "PLAIN-3085": {
+        "original": "The Difficulty of Arriving at a Vitamin D Recommendation",
+        "expanded": [
+            "Developing an evidence-based method for calculating vitamin D dosages for individuals",
+            "Exploring the impact of vitamin D deficiency on overall health outcomes and guidelines for supplementation",
+            "Reviewing expert opinions and controversies surrounding optimal vitamin D intake levels for various populations"
+        ]
+    },
+    "PLAIN-3097": {
+        "original": "Amyloid and Apple Juice",
+        "expanded": [
+            "Fruit juice and protein aggregates",
+            "Apple juice and protein misfolding disorders",
+            "High-risk food pairings and neurological diseases"
+        ]
+    },
+    "PLAIN-3116": {
+        "original": "Dietary Guidelines: From Dairies to Berries",
+        "expanded": [
+            "Dietary Information in Food Groups: Dairy and Fruits Including Berries",
+            "Finding Guidelines for Nutritional Recommendations on Dairy, Fruits, and Processed Berries",
+            "Relevant Documents on Dietary Advice for Berry, Dairy, and Other Food Sources"
+        ]
+    },
+    "PLAIN-3131": {
+        "original": "Are Avocados Good for You?",
+        "expanded": [
+            "```\nWhat are the health benefits of consuming avocados?\n```",
+            "```\nDo avocados have any scientifically proven health advantages?\n```",
+            "```\nAre avocados a nutritious and healthy food option for a balanced diet?\n```"
+        ]
+    },
+    "PLAIN-3141": {
+        "original": "Relieving Yourself of Excess Estrogen",
+        "expanded": [
+            "Estrogen reduction techniques for natural hormone balance",
+            "Strategies for alleviating estrogen dominance symptoms",
+            "Addressing excess estrogen in the human body with natural methods"
+        ]
+    },
+    "PLAIN-3151": {
+        "original": "Too Much Iodine Can Be as Bad as Too Little",
+        "expanded": [
+            "What are the adverse effects of excessive iodine intake compared to iodine deficiency?",
+            "How does the severity of iodine-related health issues change with varying iodine supplementation levels?",
+            "What are the health implications of inbalanced iodine consumption, focusing on both excessive and insufficient intake?"
+        ]
+    },
+    "PLAIN-3161": {
+        "original": "Is Milk and Mucus a Myth?",
+        "expanded": [
+            "\"What is the relationship between dairy consumption and mucus production?\"",
+            "\"Is there proof that milk and mucus are linked in the immune system?\"",
+            "\"Are there alternate theories or explanations for clogged sinuses and increased mucus production?\""
+        ]
+    },
+    "PLAIN-3171": {
+        "original": "Convergence of Evidence",
+        "expanded": [
+            "What are documents with similar convergence of evidence-related concepts, including but not limited to proof, argumentation, and confirmation?",
+            "Find documents that provide corroborating explanations or resultant conclusions that are similar to the concept of convergence of evidence, encompassing notion of consistency, believability, and testimonial relevance.",
+            "Identify documents that discuss topics analogous to convergence of evidence, such as drawing together disparate facts, heuristic alignment, and merging inferences to form cumulative evidence."
+        ]
+    },
+    "PLAIN-3181": {
+        "original": "Is Dragon Fruit Good For You?",
+        "expanded": [
+            "What are the key health benefits of consuming Dragon Fruit?",
+            "Can I trust Dragon Fruit as a healthy and nutritious snack?",
+            "Do the nutritional properties of Dragon Fruit support claims of exceptional health benefits?"
+        ]
+    },
+    "PLAIN-3191": {
+        "original": "Is Distilled Fish Oil Toxin-Free?",
+        "expanded": [
+            "**\nIs the fish oil product derived from distilled fish a toxin-free product?",
+            "**\nWhat are the purity and toxicity properties of fish oil that has been processed through a distillation method?",
+            "**\nCan I find evidence that distilled fish oil is safe and free from toxic substances in health or nutritional databases?"
+        ]
+    },
+    "PLAIN-3201": {
+        "original": "Acne & Cancer Connection",
+        "expanded": [
+            "\u76ae\u80a4\u75be\u75c5\u4e0e\u764c\u75c7\u5173\u8054\u7814\u7a76",
+            "Relationship between acne and cancer etiology",
+            "Skin conditions related to cancer development"
+        ]
+    },
+    "PLAIN-3211": {
+        "original": "Overdosing on Greens",
+        "expanded": [
+            "Symptoms of Taking Too Much Greens",
+            "Adverse Effects of Greens Overconsumption",
+            "Heavy Greens Intake Side Effects"
+        ]
+    },
+    "PLAIN-3221": {
+        "original": "Dietary Theory of Alzheimer's",
+        "expanded": [
+            "Dietary Factors related to Alzheimer's disease research\nContextualize this query to encompass related diet types, such as Mediterranean, vegan, or keto, to capture relevant studies exploring the impact of nutritional patterns on Alzheimer's disease.",
+            "Diet's impact on neurodegenerative diseases including Alzheimer's research\nThis sub-query expands the scope by incorporating broader medical conditions and enables the database to return documents discussing parallels between diet-related investigations across neurodegenerative disorders.",
+            "Alzheimer's Risk reduction through Lifestyle interventions with a focus on diet modifications\nThis sub-query takes a more solution-oriented approach by emphasizing potential preventive measures as opposed to solely descriptive or comprehensive investigations. This phrasing should allow the database to identify reports detailing how certain dietary adjustments may mitigate Alzheimer's risk, rather than all research related to Alzheimer's and diet."
+        ]
+    },
+    "PLAIN-3231": {
+        "original": "Meat & Multiple Myeloma",
+        "expanded": [
+            "Blood Cancers in Red Meat Consumption",
+            "Red Meat Association with Multiple Sclerosis Diagnosis",
+            "Meat-Related Dietary Factors and Blood Cancer Risks"
+        ]
+    },
+    "PLAIN-3241": {
+        "original": "Apthous Ulcer Mystery Solved",
+        "expanded": [
+            "Find cases of oral lesions that exhibit recurrent and painful ulcers without a clear cause.",
+            "Identify studies focused on the systemic implications of recurring mouth sores, particularly those related to the volitional and nervous systems.",
+            "Retrieval of data on painful oral ulcers, especially those associated with autoimmunity, in order to explore potential correlations between mucosal immunity and Apthous ulcers."
+        ]
+    },
+    "PLAIN-3251": {
+        "original": "EPIC Study",
+        "expanded": [
+            "Similar documents to study related to EPIC, especially those discussing its design, methodology, or results.",
+            "Retrieve documents describing studies either labeled as EPIC or studies with similar concepts, methodologies, or outcomes to EPIC.",
+            "Find documents mentioning or referencing the EPIC name or research topics closely associated with the EPIC study."
+        ]
+    },
+    "PLAIN-3261": {
+        "original": "Update on Herbalife\u00ae",
+        "expanded": [
+            "Information about Herbalife company updates",
+            "Documents containing the latest news about Herbalife",
+            "Retrieve relevant documents mentioning Herbalife changes or developments"
+        ]
+    },
+    "PLAIN-3271": {
+        "original": "Saturated Fat & Cancer Progression",
+        "expanded": [
+            "Cancer development influences by saturated fatty acids",
+            "Saturated fats as carcinogenic risk factors in cancer progression",
+            "Connection between dietary saturated fats and cancer advancement"
+        ]
+    },
+    "PLAIN-3281": {
+        "original": "Aluminum in Vaccines vs. Food",
+        "expanded": [
+            "Aluminum in Food Products vs. Vaccine Composition",
+            "Differences in Aluminum Content in Vaccines and Food Sources",
+            "Correlation Between Aluminum Presence in Vaccines and Food-Reward Association"
+        ]
+    },
+    "PLAIN-3292": {
+        "original": "Are Multivitamins Good For You?",
+        "expanded": [
+            "Benefits of taking multivitamin supplements regularly",
+            "Risk of harm from multivitamin intake for certain population groups",
+            "Evidence-based research on the effectiveness of multivitamin supplements"
+        ]
+    },
+    "PLAIN-3302": {
+        "original": "Fish Fog",
+        "expanded": [
+            "fishing related mollusks",
+            "marine predators and aquatic ambiance",
+            "ocean and aquatic environments with marine life"
+        ]
+    },
+    "PLAIN-3312": {
+        "original": "Sexually Transmitted Fish Toxin",
+        "expanded": [
+            "Fishing-related epidemic events involving polluted waters",
+            "Event reports of waterborne biological toxins affecting marine life",
+            "Fish exposure symptoms resembling allergic reactions in humans near contaminated waterways"
+        ]
+    },
+    "PLAIN-3322": {
+        "original": "Veggies vs. Cancer",
+        "expanded": [
+            "cancer properties in vegetables",
+            "health risks associated with veggie consumption",
+            "anticancer effects of plant-based food items"
+        ]
+    },
+    "PLAIN-3332": {
+        "original": "Alcohol Risks vs. Benefits",
+        "expanded": [
+            "Negligible Effects of Moderate Drinking vs. Real Dangers of Excessive Consumption",
+            "Comparative Analysis of Short-term Risks and Long-term Consequences of Substance Abuse",
+            "Casual Drinking for Pleasure vs. Problematic Drinking for Harm Reduction"
+        ]
+    },
+    "PLAIN-3342": {
+        "original": "Is Coconut Milk Good For You?",
+        "expanded": [
+            "What are the health benefits of coconut milk consumption?",
+            "Is coconut milk a nutritious and healthy addition to a balanced diet?",
+            "What are the advantages and disadvantages of including coconut milk as a regular dairy substitute in one's diet?"
+        ]
+    },
+    "PLAIN-3352": {
+        "original": "Boosting Heart Nerve Control",
+        "expanded": [
+            "What documents relate to enhancing heart nerve control through neuromodulation?\nDocument set: retrieve documents with similarity scores above 0.7 that mention nerve stimulation, heart rate regulation, or pacemaker implants.",
+            "Identify documents that discuss the efficacy of pharmacological interventions in modulating heart nerve activity.\nDocument set: retrieve documents with similarity scores above 0.8 that mention beta blockers, nerve growth factors, or cardiac glycosides.",
+            "Find documents that describe techniques for managing autonomic nervous system dysregulation related to heart function.\nDocument set: retrieve documents with similarity scores above 0.85 that mention vagus nerve stimulation, heart rate variability, or sympathetic nervous system modulation."
+        ]
+    },
+    "PLAIN-3362": {
+        "original": "Kuna Indian Secret",
+        "expanded": [
+            "Indians with Commercially Secretive Practice",
+            "Indian Secrets in Modern Commerce",
+            "Secrecy Practices in Indian Entrepreneurship"
+        ]
+    },
+    "PLAIN-3372": {
+        "original": "The Healthiest Sweetener",
+        "expanded": [
+            "Natural alternatives to refined sugar for a healthier diet",
+            "List sweeteners with high nutritional value and low caloric content",
+            "Discover naturally sourced low-glycemic sweeteners for diabetic-friendly recipes"
+        ]
+    },
+    "PLAIN-3382": {
+        "original": "Are Artificial Colors Bad for You?",
+        "expanded": [
+            "Are artificial food colorings harmful to human health?",
+            "What are the risks associated with consuming food products containing artificial colors?",
+            "Can artificial colors in food affect cognitive function or behavior in children?"
+        ]
+    },
+    "PLAIN-3392": {
+        "original": "Healthiest Airplane Beverage",
+        "expanded": [
+            "What are the beverages commonly served on airplanes that have the lowest amounts of sugar, calories, and fat?",
+            "Which airplane drinks are associated with reduced risk of chronic diseases such as heart disease or diabetes due to their nutritional content?",
+            "What are the healthiest beverage options available on commercial flights?"
+        ]
+    },
+    "PLAIN-3402": {
+        "original": "Antioxidant Content of 300 Foods",
+        "expanded": [
+            "**Abstract Keywords:** Fruits and vegetables with high antioxidant capacity\n**Specific Phrases:**\nFind foods that have high antioxidant content, derived from Natural products, such as fruits or vegetables.",
+            "**Long Tail Query:** Listing of nutrient-dense foods that are high in antioxidants, excluding commercial supplements and processed foods.\n**Key Phrases:** Major sources of antioxidants in the diet, rich in vitamins C and E, phytochemicals in whole foods.",
+            "**Contextual Query:** Recommendations for dietetics, nutrition, or health professionals\n**Key Concepts:** Dietary strategies to enhance antioxidant intake, richest food sources, and their health implications."
+        ]
+    },
+    "PLAIN-3412": {
+        "original": "Plant vs. Cow Calcium",
+        "expanded": [
+            "Calcium content comparison between plant-based and animal-based sources",
+            "Differences in calcium concentration between cows and plants",
+            "What is the disparity in calcium content between organic plant sources and dairy sources (such as cows)?"
+        ]
+    },
+    "PLAIN-3422": {
+        "original": "Vitamin Supplements Worth Taking",
+        "expanded": [
+            "Which vitamins and supplements are highly recommended by health experts?",
+            "What are the top-rated vitamin supplements for general wellness and health maintenance?",
+            "Can you provide information on the most effective vitamins and supplements for specific health concerns, such as bone health or immune system support?"
+        ]
+    },
+    "PLAIN-3432": {
+        "original": "Healthy Chocolate Milkshakes",
+        "expanded": [
+            "\"Nutritious frozen desserts with cocoa as main ingredient\"",
+            "\"Refreshing summer treats with a sweet and creamy texture\"",
+            "\"Recipe formulas containing chocolate, milk, and fruit extract\""
+        ]
+    },
+    "PLAIN-3442": {
+        "original": "The Healthiest Vegetables",
+        "expanded": [
+            "Healthy Fruits and Vegetables (i.e., non-leaves, excluding probability of producing ripening agents like tomatoes, cucumbers)",
+            "Nutrient-rich Leafy and Cruciferous Vegetables (e.g. cauliflower, broccoli, kale, watercress)",
+            "Green Leafy Salad Ingredients High in Vitamins and Minerals (with moreover emphasis on parallel examples)"
+        ]
+    },
+    "PLAIN-3452": {
+        "original": "Bowel Movement Frequency",
+        "expanded": [
+            "PublicKey For regular bowel movements.",
+            "Defining normal bowel frequency.",
+            "Average Number Of Stool passingrate Per day"
+        ]
+    },
+    "PLAIN-3462": {
+        "original": "Olive Oil and Artery Function",
+        "expanded": [
+            "Cardiovascular Health and Olive Oil",
+            "Vascular System Effects of Olive Oil",
+            "Impact of Polyphenol-Rich Foods on Arterial Health"
+        ]
+    },
+    "PLAIN-3472": {
+        "original": "How Doctors Responded to Being Named a Leading Killer",
+        "expanded": [
+            "'(medical professionals medical errors leading cause of death mortality rates medical malpractice'",
+            "'reactions of doctors named as primary cause of patient fatalities tolerant true culpability medical profession repercussions'",
+            "'physician actions or inactions labelled contributing factor in high mortality rates consequences for doctors accountability and responsibility'"
+        ]
+    }
+}

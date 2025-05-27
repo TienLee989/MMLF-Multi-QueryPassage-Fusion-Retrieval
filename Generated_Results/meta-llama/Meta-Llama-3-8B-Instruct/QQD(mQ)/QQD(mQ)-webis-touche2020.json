@@ -1,0 +1,394 @@
+{
+    "1": {
+        "original": "Should teachers get tenure?",
+        "expanded": [
+            "What is tenure and what are its benefits?**",
+            "Are teachers effectively evaluated and supported in their careers?**",
+            "Are there alternative measures to tenure that could address its perceived drawbacks?**"
+        ]
+    },
+    "2": {
+        "original": "Is vaping with e-cigarettes safe?",
+        "expanded": [
+            "What are the chemical composition of e-cigarettes and their potential health effects?**",
+            "What is the impact of e-cigarette use on lung health?**",
+            "What are the potential effects of e-cigarettes on youth and adolescents?**"
+        ]
+    },
+    "3": {
+        "original": "Should insider trading be allowed?",
+        "expanded": [
+            "What is insider trading and how does it work?**",
+            "What are the arguments in favor of allowing insider trading?**",
+            "What are the potential consequences of allowing insider trading?**"
+        ]
+    },
+    "4": {
+        "original": "Should corporal punishment be used in schools?",
+        "expanded": [
+            "** What is the effectiveness of corporal punishment in achieving its intended goals in schools?",
+            "** What are the long-term effects of corporal punishment on students, particularly in terms of their psychological and social development?",
+            "** Are there non-physical discipline methods that can be effective in maintaining order and discipline in schools?"
+        ]
+    },
+    "5": {
+        "original": "Should social security be privatized?",
+        "expanded": [
+            "What are the current benefits and drawbacks of the social security system in the United States?",
+            "How do other countries with privatized social security systems fare in terms of retirement savings and economic stability?",
+            "What are the potential consequences of privatizing social security in the United States, including the impact on low-income and minority communities?"
+        ]
+    },
+    "6": {
+        "original": "Is a college education worth it?",
+        "expanded": [
+            "** What are the average salaries of college graduates compared to those without a college degree?\n**",
+            "** What are the benefits of a college education in terms of job opportunities and career advancement?\n**",
+            "** Are there alternative ways to acquire skills and knowledge without incurring the costs of a traditional college education?\n**"
+        ]
+    },
+    "7": {
+        "original": "Should felons who have completed their sentence be allowed to vote?",
+        "expanded": [
+            "** What is the social and civic implication of restoring voting rights to felons who have completed their sentence?\n \n**",
+            "** Are there any potential benefits to allowing felons who have completed their sentence to vote, including any potential improvements in prisoner rehabilitation and recidivism rates?\n \n**",
+            "** What are the potential arguments against allowing felons who have completed their sentence to vote, including concerns about public safety and maintaining the integrity of the electoral process?\n \n**"
+        ]
+    },
+    "8": {
+        "original": "Should abortion be legal?",
+        "expanded": [
+            "Should the government have the authority to regulate abortion?",
+            "Is the fetus a human being with a right to life?",
+            "Are there viable alternative options for women facing unintended pregnancies?"
+        ]
+    },
+    "9": {
+        "original": "Should students have to wear school uniforms?",
+        "expanded": [
+            "** What are the benefits of school uniforms?",
+            "** What are the drawbacks of school uniforms?",
+            "** Are there alternative approaches to school uniforms that can achieve similar benefits?"
+        ]
+    },
+    "10": {
+        "original": "Should any vaccines be required for children?",
+        "expanded": [
+            "What are the benefits of vaccinating children?**",
+            "What are the risks associated with not vaccinating children?**",
+            "Are there any potential side effects or risks associated with vaccines?**"
+        ]
+    },
+    "11": {
+        "original": "Should performance-enhancing drugs be accepted in sports?",
+        "expanded": [
+            "Are performance-enhancing drugs a level playing field issue in sports?",
+            "Do performance-enhancing drugs pose a risk to athletes' health and well-being?",
+            "Can performance-enhancing drugs improve athletic performance and enhance the overall experience of sports?"
+        ]
+    },
+    "12": {
+        "original": "Should birth control pills be available over the counter?",
+        "expanded": [
+            "Are birth control pills currently available by prescription only?",
+            "Do women have high rates of unintended pregnancy due to lack of access to birth control methods?",
+            "Are there effective over-the-counter birth control methods available in other countries?"
+        ]
+    },
+    "13": {
+        "original": "Can alternative energy effectively replace fossil fuels?",
+        "expanded": [
+            "** Can alternative energy sources currently meet the world's energy demands?",
+            "** Are alternative energy sources cost-competitive with fossil fuels?",
+            "** Can alternative energy sources provide the baseload power required by industrial and commercial industries?"
+        ]
+    },
+    "14": {
+        "original": "Is sexual orientation determined at birth?",
+        "expanded": [
+            "What do various scientific fields, such as biology and psychology, say about the determination of sexual orientation?",
+            "Are there any studies that suggest a genetic component to sexual orientation?",
+            "Do non-binary and LGBTQ+ individuals report their orientation as being innate or developed later in life?"
+        ]
+    },
+    "15": {
+        "original": "Should animals be used for scientific or commercial testing?",
+        "expanded": [
+            "Are animals used for scientific testing in various fields, such as medicine and biology?",
+            "Are animals used for commercial testing, such as in the cosmetics industry?",
+            "Are there alternative methods to animal testing that can be used in scientific and commercial testing?"
+        ]
+    },
+    "16": {
+        "original": "Should prescription drugs be advertised directly to consumers?",
+        "expanded": [
+            "Do prescription drugs have a positive impact on public health?",
+            "Are the costs associated with prescription drugs unaffordable for many individuals and families?",
+            "Would direct-to-consumer advertising of prescription drugs be misleading and promote over-prescription?"
+        ]
+    },
+    "17": {
+        "original": "Should recreational marijuana be legal?",
+        "expanded": [
+            "What are the current federal and state laws regarding recreational marijuana?",
+            "How does the illegal status under federal law impact the economic and social implications of marijuana legalization?",
+            "How do the health and health-related benefits of marijuana inform the debate around legalization, and what are the scientific findings on the topic?"
+        ]
+    },
+    "18": {
+        "original": "Should churches remain tax-exempt?",
+        "expanded": [
+            "What is the historical significance of tax-exemption for churches?",
+            "What are the benefits and drawbacks of tax-exemption for churches?",
+            "Are there alternative solutions to tax-exemption for churches?"
+        ]
+    },
+    "19": {
+        "original": "Should gay marriage be legal?",
+        "expanded": [
+            "** Is gay marriage recognized in many countries around the world?\n**",
+            "** Are there benefits to gay marriage in terms of economic and social stability?\n**",
+            "** Do opponents of gay marriage have valid concerns, or are they misguided?\n**"
+        ]
+    },
+    "20": {
+        "original": "Is drinking milk healthy for humans?",
+        "expanded": [
+            "** What are the nutritional benefits of milk?\n**",
+            "** What are the potential drawbacks of consuming milk?\n**",
+            "** What are the current recommendations for milk consumption?\n**"
+        ]
+    },
+    "21": {
+        "original": "Is human activity primarily responsible for global climate change?",
+        "expanded": [
+            "** Did human activity significantly increase the concentration of greenhouse gases in the atmosphere after the Industrial Revolution?",
+            "** Has natural climate variability been superseded by human-induced climate change in the past century?",
+            "** Can the attribution of global climate change to human activity be supported by multiple lines of evidence and independent indicators?"
+        ]
+    },
+    "22": {
+        "original": "Is a two-state solution an acceptable solution to the Israeli-Palestinian conflict?",
+        "expanded": [
+            "Is a two-state solution a widely accepted framework for resolving the Israeli-Palestinian conflict?**",
+            "Can a two-state solution accommodate the annexation of Israeli settlements in the West Bank?**",
+            "Is a two-state solution durable and sustainable in the long-term?**"
+        ]
+    },
+    "23": {
+        "original": "Should euthanasia or physician-assisted suicide be legal?",
+        "expanded": [
+            "What are the ethical considerations surrounding euthanasia or physician-assisted suicide?",
+            "What are the legal implications of legalizing euthanasia or physician-assisted suicide?",
+            "What are the arguments for and against legalizing euthanasia or physician-assisted suicide?"
+        ]
+    },
+    "24": {
+        "original": "Does lowering the federal corporate income tax rate create jobs?",
+        "expanded": [
+            "What is the current federal corporate income tax rate and how does it compare to previous rates?",
+            "Do countries with lower corporate income tax rates have higher job creation rates than countries with higher corporate income tax rates?",
+            "Does a 2018 study on the impact of corporate tax rate changes on employment provide support for the notion that lower corporate income tax rates lead to job creation?"
+        ]
+    },
+    "26": {
+        "original": "Do standardized tests improve education?",
+        "expanded": [
+            "**\nWhat is the main purpose of standardized tests in education?",
+            "**\nDo standardized tests improve education by providing accountability and raise achievement standards?",
+            "**\nWhat are the potential drawbacks of using standardized tests in education?"
+        ]
+    },
+    "27": {
+        "original": "Should more gun control laws be enacted?",
+        "expanded": [
+            "** How many mass shootings occur in the United States each year?\n**",
+            "** What are the effects of gun control laws on crime rates?\n**",
+            "** How do different types of gun control laws affect public opinion and voting behavior?\n**"
+        ]
+    },
+    "28": {
+        "original": "Should prostitution be legal?",
+        "expanded": [
+            "** Is prostitution a victimless crime?",
+            "** Is prostitution a significant contributor to social ills like human trafficking and exploitation?",
+            "** Does legalizing prostitution effectively reduce harm and increase access to health and social services for sex workers?"
+        ]
+    },
+    "29": {
+        "original": "Should the government allow illegal immigrants to become citizens?",
+        "expanded": [
+            "What are the humanitarian concerns surrounding illegal immigration, and how do they affect the lives of those already living in the country?",
+            "What economic benefits and drawbacks are there to granting citizenship to illegal immigrants, and how might this impact the country's economy?",
+            "What are the political and social implications of granting citizenship to illegal immigrants, and how might it affect the country's democracy and social cohesion?"
+        ]
+    },
+    "30": {
+        "original": "Should adults have the right to carry a concealed handgun?",
+        "expanded": [
+            "** Is there a correlation between concealed carry and reduced crime rates?\n**",
+            "** Do individuals who carry concealed handguns have a lower risk of being victims of a violent crime?\n**",
+            "** Are there risks and unintended consequences associated with widespread concealed carry?\n**"
+        ]
+    },
+    "31": {
+        "original": "Is obesity a disease?",
+        "expanded": [
+            "**\nIs obesity a medical condition with underlying biological causes?",
+            "**\nIs obesity recognized as a disease by the medical community?",
+            "**\nDoes society and culture influence the perception of obesity as a disease or a personal choice?"
+        ]
+    },
+    "32": {
+        "original": "Do electronic voting machines improve the voting process?",
+        "expanded": [
+            "** Do electronic voting machines increase voter turnout?",
+            "** Do electronic voting machines reduce errors and fraud in the voting process?",
+            "** Do electronic voting machines improve transparency and accountability in the counting process?"
+        ]
+    },
+    "33": {
+        "original": "Should people become vegetarian?",
+        "expanded": [
+            "** What are the benefits of a vegetarian diet?",
+            "** What are the environmental impacts of animal agriculture?",
+            "** Would a shift to a vegetarian diet be economically sustainable?"
+        ]
+    },
+    "34": {
+        "original": "Are social networking sites good for our society?",
+        "expanded": [
+            "** Do social networking sites provide a platform for people to connect with each other and build relationships?\n**",
+            "** Do social networking sites have a negative impact on mental health and well-being?\n**",
+            "** Do social networking sites play a role in the spread of misinformation and disinformation?\n**"
+        ]
+    },
+    "35": {
+        "original": "Do violent video games contribute to youth violence?",
+        "expanded": [
+            "** Is there a correlation between violent video game exposure and aggressive behavior in youth?",
+            "** Do the Effects of Violent Video Games on Youth Behavior Vary by Individual Characteristics?",
+            "** Are There Any Alternative Theories or Factors that Could Explain the Relationship Between Violent Video Games and Youth Violence?"
+        ]
+    },
+    "36": {
+        "original": "Is golf a sport?",
+        "expanded": [
+            "Is golf a physical activity?",
+            "Is golf a competitive activity?",
+            "Is golf recognized as a sport by international organizations and governing bodies?"
+        ]
+    },
+    "37": {
+        "original": "Is cell phone radiation safe?",
+        "expanded": [
+            "** What is the scientific definition of radiofrequency radiation?",
+            "** What is the mechanism of action of radiofrequency radiation on living tissues?",
+            "** What is the current scientific understanding of the potential health risks associated with cell phone radiation?"
+        ]
+    },
+    "38": {
+        "original": "Should marijuana be a medical option?",
+        "expanded": [
+            "Does marijuana have medicinal properties?",
+            "Are there any adverse effects of marijuana use?",
+            "Are there other treatment options available for the same conditions?"
+        ]
+    },
+    "39": {
+        "original": "Should the federal minimum wage be increased?",
+        "expanded": [
+            "What is the current federal minimum wage and how does it compare to the cost of living in the United States?**",
+            "What are the economic effects of increasing the federal minimum wage?**",
+            "How do countries with higher or lower minimum wages compare to the US?**"
+        ]
+    },
+    "40": {
+        "original": "Should the death penalty be allowed?",
+        "expanded": [
+            "Is the death penalty an effective deterrent against crime?",
+            "Does the death penalty serve as a form of justice and retribution for harsh crimes?",
+            "Are there concerns about the application, cost, and potential for racial bias in the death penalty system?"
+        ]
+    },
+    "41": {
+        "original": "Should student loan debt be easier to discharge in bankruptcy?",
+        "expanded": [
+            "How does current bankruptcy law impact student loan debt discharge?**",
+            "What are the arguments in favor of making student loan debt easier to discharge in bankruptcy?**",
+            "What are the potential downsides of making student loan debt easier to discharge in bankruptcy?**"
+        ]
+    },
+    "42": {
+        "original": "Should fighting be allowed in hockey?",
+        "expanded": [
+            "What is the purpose of fighting in hockey?**",
+            "Is fighting a necessary part of player development in hockey?**",
+            "Are the risks of fighting outweighed by the benefits in hockey?**"
+        ]
+    },
+    "43": {
+        "original": "Should bottled water be banned?",
+        "expanded": [
+            "What are the pros and cons of bottled water on the environment?**",
+            "Are there health benefits to drinking bottled water compared to tap water?**",
+            "What are the economic implications of banning bottled water?**"
+        ]
+    },
+    "44": {
+        "original": "Should election day be a national holiday?",
+        "expanded": [
+            "** What are the benefits of making election day a national holiday?",
+            "** What are some arguments in favor of keeping election day on its current date?",
+            "** What impact would a national holiday on election day have on the workforce and the economy?"
+        ]
+    },
+    "45": {
+        "original": "Should the penny stay in circulation?",
+        "expanded": [
+            "Are pennies still widely used in everyday transactions?",
+            "What economic impact would removing pennies have on the overall economy?",
+            "Would removing pennies affect the cultural significance of the coin?"
+        ]
+    },
+    "46": {
+        "original": "Should net neutrality be restored?",
+        "expanded": [
+            "What is net neutrality and what are its core principles?",
+            "What are the main arguments in favor of restoring net neutrality?",
+            "What are the potential harms of not having net neutrality?"
+        ]
+    },
+    "47": {
+        "original": "Is homework beneficial?",
+        "expanded": [
+            "What are the effects of homework on academic achievement?",
+            "What are the effects of homework on critical thinking and problem-solving skills?",
+            "What are the potential drawbacks of homework and how can they be mitigated?"
+        ]
+    },
+    "48": {
+        "original": "Should the voting age be lowered?",
+        "expanded": [
+            "What are the current laws and regulations regarding the voting age in different countries?**",
+            "What are the benefits of lowering the voting age?**",
+            "Are there any issues or concerns with lowering the voting age?**"
+        ]
+    },
+    "49": {
+        "original": "Should body cameras be mandatory for police?",
+        "expanded": [
+            "Do body cameras improve police behavior and accountability?",
+            "Do body cameras pose any privacy concerns for individuals recorded?",
+            "Are there any alternatives to mandatory body cameras for police?"
+        ]
+    },
+    "50": {
+        "original": "Should everyone get a universal basic income?",
+        "expanded": [
+            "Is universal basic income a feasible concept at the current global stage?**",
+            "Would a universal basic income effectively address poverty and income inequality?**",
+            "Are there successful examples of universal basic income pilot programs already in place?**"
+        ]
+    }
+}

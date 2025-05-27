@@ -1,0 +1,3202 @@
+{
+    "INEX_LD-2009022": {
+        "original": "Szechwan dish food cuisine",
+        "expanded": [
+            "Chinese spicy recipes",
+            "Sichuan province traditional cooking",
+            "Kung Pao chicken and mapo tofu cuisine"
+        ]
+    },
+    "INEX_LD-2009039": {
+        "original": "roman architecture",
+        "expanded": [
+            "ancient roman buildings and structures",
+            "characteristics of roman architectural style",
+            "history of roman engineering and construction techniques"
+        ]
+    },
+    "INEX_LD-2009053": {
+        "original": "finland car industry manufacturer saab sisu",
+        "expanded": [
+            "finland automotive companies saab defence sisu trucks",
+            "car manufacturers in finland saab group sisu automotive products",
+            "finnish defence industry saab automobiles sisu heavy vehicle manufacturers"
+        ]
+    },
+    "INEX_LD-2009061": {
+        "original": "france second world war normandy",
+        "expanded": [
+            "wwii france normandy invasion",
+            "normandy beaches france ww2 history",
+            "france liberation normandy campaign"
+        ]
+    },
+    "INEX_LD-2009062": {
+        "original": "social network group selection",
+        "expanded": [
+            "online community formation",
+            "selecting groups on social media platforms",
+            "algorithms for team creation in social graphs"
+        ]
+    },
+    "INEX_LD-2009063": {
+        "original": "D-Day normandy invasion",
+        "expanded": [
+            "World War II Allied forces landings in France",
+            "June 6 1944 military operation Overlord",
+            "Battle of Normandy Allied victory in WW2"
+        ]
+    },
+    "INEX_LD-2009074": {
+        "original": "web ranking scoring algorithm",
+        "expanded": [
+            "page ranking methodology",
+            "internet search result scoring techniques",
+            "website relevance calculation methods"
+        ]
+    },
+    "INEX_LD-2009115": {
+        "original": "virtual museums",
+        "expanded": [
+            "online art galleries",
+            "digital cultural exhibitions",
+            "museum digitalization projects"
+        ]
+    },
+    "INEX_LD-2010004": {
+        "original": "Indian food",
+        "expanded": [
+            "traditional cuisine of India",
+            "popular dishes from India",
+            "Indian recipe and cooking techniques"
+        ]
+    },
+    "INEX_LD-2010014": {
+        "original": "composer museum",
+        "expanded": [
+            "musician exhibit hall",
+            "art museum featuring composers",
+            "museum dedicated to classical music creators"
+        ]
+    },
+    "INEX_LD-2010019": {
+        "original": "gallo roman architecture in paris",
+        "expanded": [
+            "roman influences on parisian architectural styles",
+            "historical monuments in paris with gallo roman roots",
+            "parisian landmarks blending roman and medieval architecture"
+        ]
+    },
+    "INEX_LD-2010020": {
+        "original": "electricity source in France",
+        "expanded": [
+            "Energy production in France",
+            "Renewable power in France",
+            "French power grid and generation"
+        ]
+    },
+    "INEX_LD-2010037": {
+        "original": "social network API",
+        "expanded": [
+            "social media data integration",
+            "online community platform development",
+            "API for social media analytics"
+        ]
+    },
+    "INEX_LD-2010043": {
+        "original": "List of films from the surrealist category",
+        "expanded": [
+            "Movies inspired by surrealist art movement",
+            "Surrealism in cinema: notable films and directors",
+            "Dreamlike and experimental films with surrealist elements"
+        ]
+    },
+    "INEX_LD-2010057": {
+        "original": "Einstein Relativity theory",
+        "expanded": [
+            "Theory of General Relativity by Albert Einstein",
+            "Principles of spacetime and gravity according to Einstein",
+            "Einstein's contribution to modern physics and relativity"
+        ]
+    },
+    "INEX_LD-2010069": {
+        "original": "summer flowers",
+        "expanded": [
+            "blooming plants in warm weather",
+            "flowers that thrive in sunshine",
+            "seasonal blossoms of June and July"
+        ]
+    },
+    "INEX_LD-2010100": {
+        "original": "house concrete wood",
+        "expanded": [
+            "concrete wood houses",
+            "building materials house construction wood concrete",
+            "home building wood vs concrete"
+        ]
+    },
+    "INEX_LD-2010106": {
+        "original": "organic food advantages disadvantages",
+        "expanded": [
+            "benefits and drawbacks of organic eating",
+            "pros and cons of natural food products",
+            "advantages of eating organic vs conventional foods"
+        ]
+    },
+    "INEX_LD-20120111": {
+        "original": "vietnam war movie",
+        "expanded": [
+            "films about vietnam conflict",
+            "movies on american war in vietnam",
+            "hollywood films set during vietnam war"
+        ]
+    },
+    "INEX_LD-20120121": {
+        "original": "vietnam food recipes",
+        "expanded": [
+            "vietnamese cooking dishes",
+            "recipes from vietnam cuisine",
+            "traditional vietnamese meal ideas"
+        ]
+    },
+    "INEX_LD-20120122": {
+        "original": "vietnamese food blog",
+        "expanded": [
+            "vietnam food blogger",
+            "southeast asian cuisine online journal",
+            "vietnamese recipe blogspot"
+        ]
+    },
+    "INEX_LD-20120131": {
+        "original": "vietnam travel national park",
+        "expanded": [
+            "national parks in vietnam to visit",
+            "travel destinations vietnam nature reserves",
+            "vietnam's protected areas for outdoor adventures"
+        ]
+    },
+    "INEX_LD-20120211": {
+        "original": "guitar chord tuning",
+        "expanded": [
+            "guitar string tuning techniques",
+            "how to tune a guitar chord progression",
+            "chord tuning methods for guitar players"
+        ]
+    },
+    "INEX_LD-20120221": {
+        "original": "guitar classical flamenco",
+        "expanded": [
+            "flamenco guitar music classical style",
+            "classical guitar technique flamenco influence",
+            "spanish flamenco classical guitar tradition"
+        ]
+    },
+    "INEX_LD-20120231": {
+        "original": "guitar origin Russia",
+        "expanded": [
+            "history of Russian guitar making",
+            "guitar manufacturing in Russia",
+            "Russian guitar makers and their influence"
+        ]
+    },
+    "INEX_LD-20120232": {
+        "original": "guitar origin blues",
+        "expanded": [
+            "history of blues guitar",
+            "blues music guitar roots",
+            "origin of blues guitar style"
+        ]
+    },
+    "INEX_LD-20120311": {
+        "original": "tango culture movies",
+        "expanded": [
+            "argentine dance films",
+            "movies about tango dance culture",
+            "latin american cinema tango tradition"
+        ]
+    },
+    "INEX_LD-20120312": {
+        "original": "tango culture countries",
+        "expanded": [
+            "tango dance origins",
+            "countries where tango is popular",
+            "culture of tango around the world"
+        ]
+    },
+    "INEX_LD-20120321": {
+        "original": "tango music  composers",
+        "expanded": [
+            "argentine tango musicians and their compositions",
+            "famous composers of tango music style",
+            "music creators influential in tango genre"
+        ]
+    },
+    "INEX_LD-20120331": {
+        "original": "tango dance styles",
+        "expanded": [
+            "styles of argentine tango",
+            "types of tango dance forms",
+            "characteristics of ballroom tango"
+        ]
+    },
+    "INEX_LD-20120332": {
+        "original": "tango dance history",
+        "expanded": [
+            "history of tango origins",
+            "evolution of argentine tango dance",
+            "tango dance styles and cultural significance"
+        ]
+    },
+    "INEX_LD-20120411": {
+        "original": "bicycle sport races",
+        "expanded": [
+            "cycling competitions events",
+            "road bike racing tournaments",
+            "athletic cycling championships"
+        ]
+    },
+    "INEX_LD-20120412": {
+        "original": "bicycle sport disciplines",
+        "expanded": [
+            "types of competitive cycling events",
+            "biking categories in professional sports",
+            "cycling disciplines in the Olympic Games"
+        ]
+    },
+    "INEX_LD-20120421": {
+        "original": "bicycle holiday towns",
+        "expanded": [
+            "cycling destinations in europe",
+            "best towns for bike vacations",
+            "popular cycling routes in tourist towns"
+        ]
+    },
+    "INEX_LD-20120422": {
+        "original": "bicycle holiday nature",
+        "expanded": [
+            "cycling vacation outdoor activities",
+            "ecotourism bike trip scenery",
+            "mountain bike adventure travel"
+        ]
+    },
+    "INEX_LD-20120431": {
+        "original": "bicycle benefits health",
+        "expanded": [
+            "cycling advantages physical wellbeing",
+            "health perks of regular bike riding",
+            "exercise benefits of bicycles on fitness"
+        ]
+    },
+    "INEX_LD-20120511": {
+        "original": "female rock singers",
+        "expanded": [
+            "women in rock music",
+            "female rock vocalists of all time",
+            "popular lady rockstars"
+        ]
+    },
+    "INEX_LD-20120512": {
+        "original": "south korean girl groups",
+        "expanded": [
+            "K-pop female idol groups from South Korea",
+            "Popular girl bands in South Korea entertainment industry",
+            "Famous South Korean all-girl music groups"
+        ]
+    },
+    "INEX_LD-20120521": {
+        "original": "electronic music genres",
+        "expanded": [
+            "types of electronic dance music",
+            "genres of digital music",
+            "styles of synth-based music"
+        ]
+    },
+    "INEX_LD-20120522": {
+        "original": "digital music notation formats",
+        "expanded": [
+            "music score file formats",
+            "electronic sheet music formats",
+            "computer-aided music notation formats"
+        ]
+    },
+    "INEX_LD-20120531": {
+        "original": "music conferences",
+        "expanded": [
+            "music industry events",
+            "conferences for musicians",
+            "festivals and symposia music"
+        ]
+    },
+    "INEX_LD-20120532": {
+        "original": "intellectual property rights lobby",
+        "expanded": [
+            "patent and copyright influence on legislation",
+            "lobbying activities related to intellectual property law",
+            "special interest groups advocating for IP protection"
+        ]
+    },
+    "INEX_LD-2012301": {
+        "original": "Niagara falls origin lake",
+        "expanded": [
+            "Source of Niagara River",
+            "Lake connected to Niagara Falls",
+            "Waterbody feeding Niagara Falls"
+        ]
+    },
+    "INEX_LD-2012303": {
+        "original": "Valley fever fungal infection San Joaquin",
+        "expanded": [
+            "Coccidioidomycosis in San Joaquin Valley",
+            "Fungal disease outbreak in California's Central Valley",
+            "Valley fever symptoms and diagnosis in San Joaquin County"
+        ]
+    },
+    "INEX_LD-2012305": {
+        "original": "North Dakota's lowest river of another colour",
+        "expanded": [
+            "What is the name of the river in North Dakota that is not blue or clear?",
+            "North Dakota's rivers - which one has a unique colour?",
+            "What is the distinctive characteristic of North Dakota's lowest flowing river?"
+        ]
+    },
+    "INEX_LD-2012309": {
+        "original": "residents small island city-state  Malay Peninsula Chinese",
+        "expanded": [
+            "inhabitants of small island nation Malay Peninsula with Chinese population",
+            "Chinese community in small island city-states near Malay Peninsula",
+            "demographics of tiny island country in Malay Peninsula with significant Chinese influence"
+        ]
+    },
+    "INEX_LD-2012311": {
+        "original": "John Lennon Yoko Ono album Starting Over",
+        "expanded": [
+            "John Lennon and Yoko Ono collaborations after the Beatles",
+            "Yoko Ono's influence on John Lennon's solo music career",
+            "John Lennon's comeback album featuring Yoko Ono"
+        ]
+    },
+    "INEX_LD-2012313": {
+        "original": "John Turturro 1991 Coen Brothers film",
+        "expanded": [
+            "Films starring John Turturro released in the 1990s directed by the Coen Brothers",
+            "1991 movie collaborations between John Turturro and the Coen Brothers",
+            "Films from the Coen Brothers released in 1991 featuring John Turturro as a cast member"
+        ]
+    },
+    "INEX_LD-2012315": {
+        "original": "Baguio Quezon City  Manila official independence 1945",
+        "expanded": [
+            "Philippines independence declaration date connection to Baguio and Quezon City",
+            "Manila City and Baguio Quezon City role in Philippine independence 1945 celebration",
+            "Historical significance of Baguio and Quezon City in Manila during 1945 Philippine independence"
+        ]
+    },
+    "INEX_LD-2012317": {
+        "original": "daggeroso inclined to use a dagger novel Sons and Lovers",
+        "expanded": [
+            "Author D.H. Lawrence's protagonist inclinations in Sons and Lovers novel",
+            "Paul Morel's character traits in relation to knife or dagger symbolism in Sons and Lovers",
+            "Daggeroso as a metaphor in D.H. Lawrence's Sons and Lovers: exploring the theme of masculinity"
+        ]
+    },
+    "INEX_LD-2012318": {
+        "original": "Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space",
+        "expanded": [
+            "Ed Wood's infamous film featuring Vampira and aliens",
+            "Cult classic sci-fi movie with graveyard and spaceship scenes",
+            "1959 campy horror comedy starring Tor Johnson andMaila Nurmi"
+        ]
+    },
+    "INEX_LD-2012319": {
+        "original": "1994 short story collection Alice Munro is Open",
+        "expanded": [
+            "books published in 1994 written by Alice Munro",
+            "Alice Munro's short story anthology released in 1994",
+            "1994 literary works by Alice Munro featuring short stories"
+        ]
+    },
+    "INEX_LD-2012321": {
+        "original": "Asian port state-city Sir Stamford Raffles",
+        "expanded": [
+            "Founding of Singapore by Sir Stamford Raffles",
+            "Colonial era ports in Southeast Asia and Raffles' legacy",
+            "Sir Stamford Raffles and the history of urban development in Asian cities"
+        ]
+    },
+    "INEX_LD-2012323": {
+        "original": "Large glaciers island nation Langjokull Hofsjokull Vatnajokull",
+        "expanded": [
+            "Largest glaciers in an island country",
+            "Langjokull and Hofsjokull glaciers in Iceland",
+            "Vatnajokull glacier and other major ice caps"
+        ]
+    },
+    "INEX_LD-2012325": {
+        "original": "successor James G. Blaine studied law",
+        "expanded": [
+            "What did James G. Blaine's successor do after taking over?",
+            "Who followed James G. Blaine in his career path and studied law?",
+            "What happened to James G. Blaine's prot\u00e9g\u00e9 after he completed his law studies?"
+        ]
+    },
+    "INEX_LD-2012327": {
+        "original": "Beloved author African-American Nobel Prize Literature",
+        "expanded": [
+            "Nobel Prize in Literature winners from Africa or of African descent",
+            "Renowned African-American writers who have won the Nobel Prize",
+            "Famous black authors awarded the Nobel Prize in Literature"
+        ]
+    },
+    "INEX_LD-2012329": {
+        "original": "Sweden Iceland currency",
+        "expanded": [
+            "Currencies used in Nordic countries",
+            "Exchange rates between Sweden and Iceland",
+            "What is the official currency of Sweden and Iceland"
+        ]
+    },
+    "INEX_LD-2012331": {
+        "original": "Seoul Korea river name ethnic group China",
+        "expanded": [
+            "What is the name of the river running through Seoul, Korea, and is there a connection to a Chinese ethnic group?",
+            "Which ethnic group from China is associated with the major river in Seoul, South Korea?",
+            "What river in Seoul, Korea has historical significance with an ethnic group originating from China?"
+        ]
+    },
+    "INEX_LD-2012333": {
+        "original": "Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term",
+        "expanded": [
+            "Canadian prime ministers with notable nicknames and longest-serving records",
+            "Leaders of Canada with impressive oratory skills and extended terms in office",
+            "Wilfrid Laurier's legacy and achievements during his record-breaking tenure as prime minister"
+        ]
+    },
+    "INEX_LD-2012335": {
+        "original": "U.S. president authorise nuclear weapons against Japan",
+        "expanded": [
+            "U.S. government decision to drop atomic bombs on Japanese cities",
+            "Historical events leading to America's use of nuclear force against Japan",
+            "Authorization process for nuclear strikes on Hiroshima and Nagasaki"
+        ]
+    },
+    "INEX_LD-2012337": {
+        "original": "Texas city Baylor University tornado 1953",
+        "expanded": [
+            "Waco Texas disaster Baylor College tornado damage 1953",
+            "Baylor University history tornado outbreak Texas cities 1950s",
+            "Deadly tornado Texas Baylor campus Waco destruction 1953 event"
+        ]
+    },
+    "INEX_LD-2012339": {
+        "original": "Nelson Mandela John Dube",
+        "expanded": [
+            "Nelson Mandela affiliation with John Dube",
+            "Relationship between Nelson Mandela and Ohlange Institute founder John Dube",
+            "Influence of John Dube on Nelson Mandela's life and politics"
+        ]
+    },
+    "INEX_LD-2012341": {
+        "original": "1997  Houston airport president",
+        "expanded": [
+            "Houston airport authority 1997 leadership",
+            "Airport administration Houston Texas 1997 president",
+            "1997 Houston airport management executive bio"
+        ]
+    },
+    "INEX_LD-2012345": {
+        "original": "Kennedy assassination governor of Texas seriously injured",
+        "expanded": [
+            "Governor Connally injured during JFK assassination",
+            "Texas governor and Kennedy assassination attempt",
+            "John F. Kennedy shooting: Texas governor's injuries"
+        ]
+    },
+    "INEX_LD-2012349": {
+        "original": "Alexander Nevsky Cathedral Bulgarian city liberation Turks",
+        "expanded": [
+            "Liberation of Bulgarian cities from Ottoman rule Alexander Nevsky Cathedral history",
+            "Bulgarian independence from Turkish Empire Alexander Nevsky Cathedral significance",
+            "Turkish occupation of Bulgaria Alexander Nevsky Cathedral role in national liberation"
+        ]
+    },
+    "INEX_LD-2012353": {
+        "original": "country German language",
+        "expanded": [
+            "language spoken in Germany",
+            "German-speaking countries",
+            "official language of Germany"
+        ]
+    },
+    "INEX_LD-2012354": {
+        "original": "greatest guitarist",
+        "expanded": [
+            "most influential guitarists of all time",
+            "best electric guitar players in history",
+            "top rock guitar legends"
+        ]
+    },
+    "INEX_LD-2012355": {
+        "original": "England football player highest paid",
+        "expanded": [
+            "Top earning soccer players from England",
+            "Who are the highest paid English footballers",
+            "England's richest football players"
+        ]
+    },
+    "INEX_LD-2012357": {
+        "original": "prima ballerina Bolshoi Theatre 1960",
+        "expanded": [
+            "leading actresses Russian ballet companies 1960s",
+            "famous female dancers Moscow Ballet 1960",
+            "Soviet Union ballet performers 1960s leading ladies"
+        ]
+    },
+    "INEX_LD-2012359": {
+        "original": "Bob Ricker Executive Director the latest front group for the anti-gun movement",
+        "expanded": [
+            "Leadership of organizations opposing gun rights and their affiliations",
+            "Anti-gun advocacy groups and their current executive directors",
+            "Recent developments in gun control lobbying and key figureheads"
+        ]
+    },
+    "INEX_LD-2012361": {
+        "original": "most famous award winning actor singer",
+        "expanded": [
+            "highly acclaimed celebrities who excel in both acting and singing",
+            "renowned actors who have won awards for their music performances",
+            "singers who have received prestigious awards for their film acting roles"
+        ]
+    },
+    "INEX_LD-2012365": {
+        "original": "mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows",
+        "expanded": [
+            "MIT's MacVicar Faculty Fellows list of mathematicians and computer scientists",
+            "notable MIT faculty in computer science and mathematics who received MacVicar Fellowships",
+            "initial recipients of the MacVicar Faculty Fellowship from MIT's math and computer science departments"
+        ]
+    },
+    "INEX_LD-2012367": {
+        "original": "invented telescope",
+        "expanded": [
+            "history of telescopes",
+            "who invented the first refracting telescope",
+            "development of optical telescopes"
+        ]
+    },
+    "INEX_LD-2012369": {
+        "original": "most famous civic-military airports",
+        "expanded": [
+            "Top dual-use airports worldwide",
+            "Well-known airports with military and commercial facilities",
+            "List of joint military and civilian airbases"
+        ]
+    },
+    "INEX_LD-2012371": {
+        "original": "most beautiful railway stations world cities located",
+        "expanded": [
+            "Top railway stations in major cities around the world",
+            "Beautiful train stations in famous cities globally",
+            "Iconic rail terminals in cosmopolitan cities worldwide"
+        ]
+    },
+    "INEX_LD-2012372": {
+        "original": "famous historical battlefields opponents fought",
+        "expanded": [
+            "famous battles fought between historical enemies",
+            "historic warfare sites where legendary armies clashed",
+            "notable conflicts between opposing forces throughout history"
+        ]
+    },
+    "INEX_LD-2012373": {
+        "original": "birds cannot fly",
+        "expanded": [
+            "flightless birds",
+            "why do some birds not fly",
+            "animals that cannot fly"
+        ]
+    },
+    "INEX_LD-2012377": {
+        "original": "allegedly caused World War I",
+        "expanded": [
+            "what triggered the outbreak of World War I",
+            "events that led to the First World War",
+            "responsibilities for the start of World War One"
+        ]
+    },
+    "INEX_LD-2012381": {
+        "original": "movie directors directed a block buster",
+        "expanded": [
+            "film makers responsible for a highly successful movie",
+            "who are the directors of a big box office hit",
+            "filmmakers behind a commercially successful film"
+        ]
+    },
+    "INEX_LD-2012383": {
+        "original": "famous computer scientists disappeared at sea",
+        "expanded": [
+            "Computer science pioneers who vanished mysteriously",
+            "Notable tech industry figures lost at sea",
+            "Renowned programmers and researchers who disappeared under unclear circumstances"
+        ]
+    },
+    "INEX_LD-2012385": {
+        "original": "famous politicians vegetarians",
+        "expanded": [
+            "celery eating world leaders",
+            "vegetable lovers in politics",
+            "notable vegans in government"
+        ]
+    },
+    "INEX_LD-2012387": {
+        "original": "famous river confluence dam constructed",
+        "expanded": [
+            "notable river junction with hydroelectric plant built",
+            "well-known river meeting point with constructed barrier",
+            "celebrated river merge with engineered dike created"
+        ]
+    },
+    "INEX_LD-2012389": {
+        "original": "frequently visited sharks gulf Indian Ocean",
+        "expanded": [
+            "popular shark habitats in the Gulf of India",
+            "common shark species found in Indian Ocean coastal areas",
+            "shark hotspots in the Indian Ocean Gulf region"
+        ]
+    },
+    "INEX_LD-2012390": {
+        "original": "baseball player most homeruns national league",
+        "expanded": [
+            "players with most home runs in national league history",
+            "national league leaders in home runs by season",
+            "who holds the record for most home runs in a national league career"
+        ]
+    },
+    "INEX_XER-106": {
+        "original": "Noble english person from the Hundred Years' War",
+        "expanded": [
+            "British aristocrat involved in the Hundred Years' War",
+            "English knight who fought in the medieval conflict between England and France",
+            "Prominent figure in 14th-15th century England with connections to the war with France"
+        ]
+    },
+    "INEX_XER-108": {
+        "original": "State capitals of the United States of America",
+        "expanded": [
+            "Capital cities in the USA by state",
+            "List of American state capitals",
+            "United States capital cities by region"
+        ]
+    },
+    "INEX_XER-109": {
+        "original": "National capitals situated on islands",
+        "expanded": [
+            "Capital cities located on an island nation",
+            "Island countries with capital cities",
+            "Cities that serve as national capitals on islands"
+        ]
+    },
+    "INEX_XER-110": {
+        "original": "Nobel Prize in Literature winners who were also poets",
+        "expanded": [
+            "Poets who have received the Nobel Prize in Literature",
+            "Laureates of the Nobel Prize in Literature with a background in poetry",
+            "Authors awarded the Nobel Prize in Literature for their poetic contributions"
+        ]
+    },
+    "INEX_XER-113": {
+        "original": "Formula 1 drivers that won the Monaco Grand Prix",
+        "expanded": [
+            "Winners of the Monaco Formula 1 race",
+            "Monaco Grand Prix champions in Formula 1",
+            "Drivers who have triumphed in the Monaco F1 Grand Prix"
+        ]
+    },
+    "INEX_XER-114": {
+        "original": "Formula one races in Europe",
+        "expanded": [
+            "European Formula 1 Grand Prix events",
+            "Racing circuits in Europe hosting F1 competitions",
+            "Formula One World Championship European stops"
+        ]
+    },
+    "INEX_XER-115": {
+        "original": "Formula One World Constructors' Champions",
+        "expanded": [
+            "Formula 1 Team Champions",
+            "F1 Constructor Championship Winners",
+            "List of Formula One World Championship Constructors"
+        ]
+    },
+    "INEX_XER-116": {
+        "original": "Italian nobel prize winners",
+        "expanded": [
+            "Nobel laureates from Italy",
+            "Italian winners of the Nobel Prize",
+            "Famous Italian scientists and writers who won the Nobel Prize"
+        ]
+    },
+    "INEX_XER-117": {
+        "original": "Musicians who appeared in the Blues Brothers movies",
+        "expanded": [
+            "Artists featured in the Blues Brothers film franchise",
+            "Celebrities who made cameo appearances in Blues Brothers movies",
+            "Musical guests in the Blues Brothers film series"
+        ]
+    },
+    "INEX_XER-118": {
+        "original": "French car models in 1960's",
+        "expanded": [
+            "French automobiles of the 1960s",
+            "Car brands from France popular in the 1960s",
+            "60's European cars made in France"
+        ]
+    },
+    "INEX_XER-119": {
+        "original": "Swiss cantons where they speak German",
+        "expanded": [
+            "German-speaking regions in Switzerland",
+            "Cantons with German as an official language in Switzerland",
+            "Swiss regions where German is predominantly spoken"
+        ]
+    },
+    "INEX_XER-121": {
+        "original": "US presidents since 1960",
+        "expanded": [
+            "Presidents of the United States from 1960 onwards",
+            "American leaders since the 1960s",
+            "List of US heads of state from 1960 to present"
+        ]
+    },
+    "INEX_XER-122": {
+        "original": "Movies with eight or more Academy Awards",
+        "expanded": [
+            "Films that have won numerous Oscars",
+            "Most Academy Award-winning films of all time",
+            "Top movies with a large number of Oscar wins"
+        ]
+    },
+    "INEX_XER-123": {
+        "original": "FIFA world cup national team winners since 1974",
+        "expanded": [
+            "List of champion teams in FIFA World Cup since 1974",
+            "Winners of the FIFA World Cup by year starting from 1974",
+            "National teams that have won the FIFA World Cup tournament from 1974 to present"
+        ]
+    },
+    "INEX_XER-124": {
+        "original": "Novels that won the Booker Prize",
+        "expanded": [
+            "Books awarded the Man Booker Prize",
+            "Winning fiction of the Booker Prize literary award",
+            "Notable novels recognized with the Booker Prize"
+        ]
+    },
+    "INEX_XER-127": {
+        "original": "german female politicians",
+        "expanded": [
+            "female politicians in germany",
+            "women in german politics",
+            "germany's female leaders"
+        ]
+    },
+    "INEX_XER-128": {
+        "original": "Bond girls",
+        "expanded": [
+            "Female characters in James Bond movies",
+            "Actresses who played Bond girls in 007 films",
+            "Women associated with James Bond in film franchise history"
+        ]
+    },
+    "INEX_XER-129": {
+        "original": "Science fiction book written in the 1980",
+        "expanded": [
+            "Novels about futuristic societies published in the 1980s",
+            "1980s literature exploring advanced technology and space travel",
+            "Books of speculative fiction released between 1980 and 1989"
+        ]
+    },
+    "INEX_XER-130": {
+        "original": "Star Trek Captains",
+        "expanded": [
+            "Characters who led the USS Enterprise",
+            "Commanders of Starfleet vessels in the Star Trek franchise",
+            "Leaders of the Federation's space exploration missions"
+        ]
+    },
+    "INEX_XER-132": {
+        "original": "living nordic classical composers",
+        "expanded": [
+            "nordic classical music contemporary composers",
+            "scandinavian classical music living legends",
+            "contemporary classical music from nordic countries"
+        ]
+    },
+    "INEX_XER-133": {
+        "original": "EU countries",
+        "expanded": [
+            "European Union member states",
+            "Countries in the European Union borders",
+            "List of countries in Europe by EU membership"
+        ]
+    },
+    "INEX_XER-134": {
+        "original": "record-breaking sprinters in male 100-meter sprints",
+        "expanded": [
+            "fastest male athletes in the 100m dash",
+            "world records set by men in 100 meter sprint events",
+            "notable males who have held the 100m sprint world record"
+        ]
+    },
+    "INEX_XER-135": {
+        "original": "professional baseball team in Japan",
+        "expanded": [
+            "Japanese teams in Major League Baseball",
+            "top baseball leagues in Japan",
+            "Japanese professional sports teams that play baseball"
+        ]
+    },
+    "INEX_XER-136": {
+        "original": "Japanese players in Major League Baseball",
+        "expanded": [
+            "MLB players from Japan",
+            "Japanese athletes in American baseball leagues",
+            "Baseball players of Japanese origin in the MLB"
+        ]
+    },
+    "INEX_XER-138": {
+        "original": "National Parks East Coast Canada US",
+        "expanded": [
+            "East Coast National Parks in Canada and the United States",
+            "National Parks and Reserves along the Eastern Seaboard of Canada and USA",
+            "Protected Areas and Parks on the East Coast of Canada and the US"
+        ]
+    },
+    "INEX_XER-139": {
+        "original": "Films directed by Akira Kurosawa",
+        "expanded": [
+            "Films made by Japanese director Akira Kurosawa",
+            "Movies written and directed by Akira Kurosawa",
+            "Akira Kurosawa cinematography and direction works"
+        ]
+    },
+    "INEX_XER-140": {
+        "original": "Airports in Germany",
+        "expanded": [
+            "List of airports in Germany",
+            "German airfields and terminals",
+            "Airport facilities in Deutschland"
+        ]
+    },
+    "INEX_XER-141": {
+        "original": "Universities in Catalunya",
+        "expanded": [
+            "Universities in Catalonia",
+            "Higher education institutions in Catalunya Spain",
+            "Colleges and universities in Catalan region"
+        ]
+    },
+    "INEX_XER-143": {
+        "original": "Hanseatic league in Germany in the Netherlands Circle",
+        "expanded": [
+            "Medieval trade federation in Northern Europe including Germany and Netherlands",
+            "Economic and cultural organization of German and Dutch cities in the 14th to 16th centuries",
+            "Historical maritime trading power in the Baltic Sea region encompassing Germany, Netherlands, and neighboring countries"
+        ]
+    },
+    "INEX_XER-144": {
+        "original": "chess world champions",
+        "expanded": [
+            "list of chess world champions",
+            "famous chess players who won the world championship",
+            "chess grandmasters who held the world title"
+        ]
+    },
+    "INEX_XER-147": {
+        "original": "Chemical elements that are named after people",
+        "expanded": [
+            "Elements named in honor of scientists",
+            "Chemical substances with eponymous names",
+            "Discoverers recognized through element nomenclature"
+        ]
+    },
+    "INEX_XER-60": {
+        "original": "olympic classes dinghy sailing",
+        "expanded": [
+            "dinghy classes sailboat olympic events",
+            "olympic sailing dinghy categories",
+            "sailing classes at the olympics small sailboats"
+        ]
+    },
+    "INEX_XER-62": {
+        "original": "Neil Gaiman novels",
+        "expanded": [
+            "Neil Gaiman books fiction",
+            "Novels by Neil Gaiman fantasy author",
+            "List of books written by Neil Gaiman"
+        ]
+    },
+    "INEX_XER-63": {
+        "original": "Hugo awarded best novels",
+        "expanded": [
+            "Hugo Award winners for best novel",
+            "Best science fiction novels awarded Hugo",
+            "Notable Hugo Awards in novel category"
+        ]
+    },
+    "INEX_XER-64": {
+        "original": "Alan Moore graphic novels adapted to film",
+        "expanded": [
+            "Comic book series by Alan Moore that became movies",
+            "Film adaptations of Alan Moore's graphic novels and comics",
+            "Movies based on the works of Alan Moore, a renowned graphic novelist"
+        ]
+    },
+    "INEX_XER-65": {
+        "original": "Pacific navigators Australia explorers",
+        "expanded": [
+            "Early Australian exploration maritime history",
+            "Oceanic voyages Australian discovery indigenous peoples",
+            "Australian coast European navigators 18th century"
+        ]
+    },
+    "INEX_XER-67": {
+        "original": "Ferris and observation wheels",
+        "expanded": [
+            "Giant Ferris wheels and city views",
+            "Observation wheels with Ferris wheel design",
+            "Tallest Ferris wheels for panoramic observations"
+        ]
+    },
+    "INEX_XER-72": {
+        "original": "films shot in Venice",
+        "expanded": [
+            "movies filmed in Italy",
+            "cinematography in Venetian settings",
+            "filmmaking locations in the city of canals"
+        ]
+    },
+    "INEX_XER-74": {
+        "original": "circus mammals",
+        "expanded": [
+            "animals found in circus performances",
+            "mammals used in circus acts",
+            "circus attractions featuring large mammals"
+        ]
+    },
+    "INEX_XER-79": {
+        "original": "Works by Charles Rennie Mackintosh",
+        "expanded": [
+            "Designs and artistic creations of Charles Rennie Mackintosh",
+            "Charles Rennie Mackintosh's contributions to art nouveau and modern architecture",
+            "Charles Rennie Mackintosh's notable projects and architecture styles"
+        ]
+    },
+    "INEX_XER-81": {
+        "original": "Movies about English hooligans",
+        "expanded": [
+            "Films featuring football fan violence in UK",
+            "British movies about soccer gang culture",
+            "Documentaries or dramas on English football thuggery"
+        ]
+    },
+    "INEX_XER-86": {
+        "original": "List of countries in World War Two",
+        "expanded": [
+            "Countries involved in WWII",
+            "Nations that participated in World War 2",
+            "WWII participating countries list"
+        ]
+    },
+    "INEX_XER-87": {
+        "original": "Axis powers of World War II",
+        "expanded": [
+            "Countries that formed the Tripartite Pact during WWII",
+            "Nations aligned with Nazi Germany and Fascist Italy in World War II",
+            "Allied enemies of the United States and the United Kingdom during the Second World War"
+        ]
+    },
+    "INEX_XER-88": {
+        "original": "Nordic authors who are known for children's literature",
+        "expanded": [
+            "Scandinavian writers famous for kids' books",
+            "Children's book authors from Norway Sweden Denmark",
+            "Well-known creators of juvenile fiction from Nordic countries"
+        ]
+    },
+    "INEX_XER-91": {
+        "original": "Paul Auster novels",
+        "expanded": [
+            "Books written by Paul Auster",
+            "American postmodern literature authors like Paul Auster",
+            "Novels of mystery and existentialism by Paul Auster"
+        ]
+    },
+    "INEX_XER-94": {
+        "original": "Hybrid cars sold in Europe",
+        "expanded": [
+            "European market hybrid vehicles",
+            "Plug-in electric cars available in Europe",
+            "Green cars sold in European countries"
+        ]
+    },
+    "INEX_XER-95": {
+        "original": "Tom Hanks movies where he plays a leading role.",
+        "expanded": [
+            "Films starring Tom Hanks as the main character.",
+            "Movies where Tom Hanks had a starring or title role.",
+            "Top-rated Tom Hanks films in which he played the protagonist."
+        ]
+    },
+    "INEX_XER-96": {
+        "original": "Pure object-oriented programing languages",
+        "expanded": [
+            "Languages that support only object-oriented programming",
+            "Object-oriented programming languages without procedural or functional programming features",
+            "Programming languages that are based solely on object-oriented design principles"
+        ]
+    },
+    "INEX_XER-98": {
+        "original": "Makers of lawn tennis rackets",
+        "expanded": [
+            "Brands that manufacture tennis rackets for lawn tennis",
+            "Companies producing rackets for grass court tennis",
+            "Suppliers of tennis equipment for lawn tennis players"
+        ]
+    },
+    "INEX_XER-99": {
+        "original": "Computer systems that have a recursive acronym for the name",
+        "expanded": [
+            "Recursive acronyms in computer system names",
+            "Computer systems with self-referential abbreviations",
+            "Technology brands with acronym names that reference themselves"
+        ]
+    },
+    "QALD2_te-1": {
+        "original": "Which German cities have more than 250000 inhabitants?",
+        "expanded": [
+            "What are the large cities in Germany with populations exceeding 250 thousand?",
+            "Which German metropolitan areas have a minimum of 250000 residents?",
+            "What are the major urban centers in Germany with over a quarter of a million inhabitants?"
+        ]
+    },
+    "QALD2_te-100": {
+        "original": "Who produces Orangina?",
+        "expanded": [
+            "What company manufactures Orangina soft drink?",
+            "Who is the producer of the citrus-flavored soda Orangina?",
+            "Which beverage manufacturer is responsible for creating Orangina?"
+        ]
+    },
+    "QALD2_te-11": {
+        "original": "Who is the Formula 1 race driver with the most races?",
+        "expanded": [
+            "What Formula 1 driver has contested the highest number of Grands Prix?",
+            "Which F1 driver holds the record for most race starts?",
+            "Who is the most experienced Formula 1 driver in terms of number of races participated?"
+        ]
+    },
+    "QALD2_te-12": {
+        "original": "Give me all world heritage sites designated within the past five years.",
+        "expanded": [
+            "List UNESCO world heritage sites added since 2018.",
+            "What are the recently designated cultural and natural heritage sites by UNESCO?",
+            "Show me the world heritage sites inscribed by the UNESCO World Heritage Committee in the last 5 years."
+        ]
+    },
+    "QALD2_te-13": {
+        "original": "Who is the youngest player in the Premier League?",
+        "expanded": [
+            "What is the age of the youngest footballer playing in the Premier League?",
+            "Who is the most junior player currently active in the English Premier League?",
+            "What is the Premier League's record for the youngest debutant or player to participate in a match?"
+        ]
+    },
+    "QALD2_te-14": {
+        "original": "Give me all members of Prodigy.",
+        "expanded": [
+            "List all band members of The Prodigy, a British electronic music group.",
+            "Who are the current and former members of the British band Prodigy?",
+            "Provide a list of musicians who have been part of Prodigy, a popular electronic music project."
+        ]
+    },
+    "QALD2_te-17": {
+        "original": "Give me all cars that are produced in Germany.",
+        "expanded": [
+            "List German automobile manufacturers and their models.",
+            "What cars are made in Germany and available in the European market?",
+            "Provide a catalog of vehicles assembled in Germany, including luxury and economy brands."
+        ]
+    },
+    "QALD2_te-2": {
+        "original": "Who was the successor of John F. Kennedy?",
+        "expanded": [
+            "What happened after John F. Kennedy's presidency?",
+            "Who became the President of the United States after JFK's assassination?",
+            "What was the outcome of the 1963 presidential transition in the US?"
+        ]
+    },
+    "QALD2_te-21": {
+        "original": "What is the capital of Canada?",
+        "expanded": [
+            "What is the largest city in Canada?",
+            "What Canadian city is home to Parliament Hill?",
+            "In which city is the Canadian Prime Minister's office located?"
+        ]
+    },
+    "QALD2_te-22": {
+        "original": "Who is the governor of Texas?",
+        "expanded": [
+            "What is the name of the current governor of the state of Texas?",
+            "Who holds the office of governor in Texas?",
+            "What individual is currently leading the executive branch of government in Texas?"
+        ]
+    },
+    "QALD2_te-24": {
+        "original": "Who was the father of Queen Elizabeth II?",
+        "expanded": [
+            "Who was Queen Elizabeth II's parent?",
+            "What was the name of the king who was Elizabeth II's father?",
+            "Who was the husband of Queen Elizabeth, the Queen Mother?"
+        ]
+    },
+    "QALD2_te-25": {
+        "original": "Which U.S. state has been admitted latest?",
+        "expanded": [
+            "What is the most recent state to join the United States?",
+            "Which state has the most recent admission date in the USA?",
+            "What is the last state to be added to the 50 states of America?"
+        ]
+    },
+    "QALD2_te-27": {
+        "original": "Sean Parnell is the governor of which U.S. state?",
+        "expanded": [
+            "Who is the current governor of Pennsylvania?",
+            "Which state in the United States isSean Parnell currently governing?",
+            "What is the U.S. state governed bySean Parnell at present?"
+        ]
+    },
+    "QALD2_te-28": {
+        "original": "Give me all movies directed by Francis Ford Coppola.",
+        "expanded": [
+            "List films directed by the director of The Godfather.",
+            "Movies by the acclaimed director who made Apocalypse Now.",
+            "What films has Francis Coppola, the director of The Conversation, worked on?"
+        ]
+    },
+    "QALD2_te-3": {
+        "original": "Who is the mayor of Berlin?",
+        "expanded": [
+            "What is the name of the current mayor of Berlin, Germany?",
+            "Who is the leader of the Berlin city government?",
+            "Who holds the position of B\u00fcrgermeister in Berlin?"
+        ]
+    },
+    "QALD2_te-31": {
+        "original": "Give me all current Methodist national leaders.",
+        "expanded": [
+            "List of current national officials in the Methodist Church",
+            "Who are the top leaders in the Methodist denomination at the national level?",
+            "National governing body members of the Methodist Church today"
+        ]
+    },
+    "QALD2_te-33": {
+        "original": "Give me all Australian nonprofit organizations.",
+        "expanded": [
+            "List of charitable organizations based in Australia.",
+            "What are some Australian not-for-profit entities?",
+            "Show me a directory of Australian NGOs (non-governmental organizations)."
+        ]
+    },
+    "QALD2_te-35": {
+        "original": "Who developed Skype?",
+        "expanded": [
+            "What is the origin of Skype?",
+            "Who are the founders of Skype?",
+            "Who created the video conferencing platform Skype?"
+        ]
+    },
+    "QALD2_te-39": {
+        "original": "Give me all companies in Munich.",
+        "expanded": [
+            "List of Munich-based businesses.",
+            "Firms with headquarters in Munich, Germany.",
+            "Munich, Bavaria companies and organizations."
+        ]
+    },
+    "QALD2_te-40": {
+        "original": "List all boardgames by GMT.",
+        "expanded": [
+            "List of games published by GMT Games.",
+            "GMT board game catalog.",
+            "What are the popular tabletop games developed by GMT?"
+        ]
+    },
+    "QALD2_te-42": {
+        "original": "Who is the husband of Amanda Palmer?",
+        "expanded": [
+            "What is the name of Amanda Palmer's spouse?",
+            "Who is married to Amanda Palmer, the American singer-songwriter?",
+            "What is the name of the person Amanda Palmer is in a romantic partnership with?"
+        ]
+    },
+    "QALD2_te-43": {
+        "original": "Give me all breeds of the German Shepherd dog.",
+        "expanded": [
+            "List all varieties of German Shepherd dogs.",
+            "What are the different types of Shepherd breeds originating from Germany?",
+            "Can you provide a comprehensive list of German Shepherd breed variations?"
+        ]
+    },
+    "QALD2_te-44": {
+        "original": "Which cities does the Weser flow through?",
+        "expanded": [
+            "What are the urban centers along the Weser River?",
+            "Which towns and cities are situated on the course of the Weser?",
+            "What municipalities border the Weser River in its flow?"
+        ]
+    },
+    "QALD2_te-45": {
+        "original": "Which countries are connected by the Rhine?",
+        "expanded": [
+            "What European nations border the Rhine River?",
+            "Along which international borders does the Rhine flow?",
+            "Which countries has the Rhine River passed through in its course?"
+        ]
+    },
+    "QALD2_te-46": {
+        "original": "Which professional surfers were born on the Philippines?",
+        "expanded": [
+            "Who are the Filipino professional surfers?",
+            "Which surfers were born in the Philippines and have competed professionally?",
+            "What are the names of surfers with Philippine nationality who have gone pro?"
+        ]
+    },
+    "QALD2_te-48": {
+        "original": "In which UK city are the headquarters of the MI6?",
+        "expanded": [
+            "What is the location of MI6's main office in the UK?",
+            "Which British city hosts the central headquarters of the Secret Intelligence Service?",
+            "Where in the United Kingdom are the offices of MI6, the UK's foreign intelligence agency, situated?"
+        ]
+    },
+    "QALD2_te-49": {
+        "original": "Which other weapons did the designer of the Uzi develop?",
+        "expanded": [
+            "What other firearms were created by the Uzi's inventor?",
+            "Which guns did the designer of the Israeli Uzi submachine gun also design?",
+            "What are some notable firearms developed by the founder of Israel Military Industries, the creator of the Uzi?"
+        ]
+    },
+    "QALD2_te-5": {
+        "original": "What is the second highest mountain on Earth?",
+        "expanded": [
+            "What is the highest peak in the world after Mount Everest?",
+            "Which mountain has the second highest elevation globally?",
+            "What is the mountain that ranks second in terms of height on the planet?"
+        ]
+    },
+    "QALD2_te-51": {
+        "original": "Give me all Frisian islands that belong to the Netherlands.",
+        "expanded": [
+            "List all Dutch islands located in the Wadden Sea.",
+            "What are the islands in the Netherlands that are part of the Frisian Archipelago?",
+            "Provide the names of the Netherlands' islands that are situated off the coast of the province of Friesland."
+        ]
+    },
+    "QALD2_te-53": {
+        "original": "What is the ruling party in Lisbon?",
+        "expanded": [
+            "Who governs the capital of Portugal?",
+            "What political party is in power in Lisbon, Portugal?",
+            "Which party holds the majority in Lisbon's local government?"
+        ]
+    },
+    "QALD2_te-55": {
+        "original": "Which Greek goddesses dwelt on Mount Olympus?",
+        "expanded": [
+            "What Olympian deities were female?",
+            "Which goddesses resided on the highest peak in Greece?",
+            "What feminine figures in Greek mythology made Mount Olympus their abode?"
+        ]
+    },
+    "QALD2_te-57": {
+        "original": "Give me the Apollo 14 astronauts.",
+        "expanded": [
+            "Who were the astronauts on the Apollo 14 mission?",
+            "Provide the names of the crew members on Apollo 14.",
+            "List the astronauts who walked on the moon during the Apollo 14 lunar expedition."
+        ]
+    },
+    "QALD2_te-58": {
+        "original": "What is the time zone of Salt Lake City?",
+        "expanded": [
+            "What is the UTC offset of Salt Lake City?",
+            "In which time zone is Salt Lake City, Utah located?",
+            "What is the local time in Salt Lake City right now?"
+        ]
+    },
+    "QALD2_te-59": {
+        "original": "Which U.S. states are in the same timezone as Utah?",
+        "expanded": [
+            "What states in the United States are in the Mountain Time Zone?",
+            "Which American states share the same time zone as Salt Lake City?",
+            "What are the states in the US that do not observe daylight saving time, like Utah?"
+        ]
+    },
+    "QALD2_te-6": {
+        "original": "Give me all professional skateboarders from Sweden.",
+        "expanded": [
+            "Provide a list of Swedish skateboarders who have competed professionally.",
+            "Identify skateboarding athletes from Sweden who have earned a living from their sport.",
+            "What are the names of notable skateboarders originating from Sweden who have participated in international competitions or demos?"
+        ]
+    },
+    "QALD2_te-60": {
+        "original": "Give me a list of all lakes in Denmark.",
+        "expanded": [
+            "What are the largest lakes in Denmark by size?",
+            "Can you provide a list of freshwater lakes located in Denmark?",
+            "What are the popular lakes in Denmark for fishing and boating activities?"
+        ]
+    },
+    "QALD2_te-63": {
+        "original": "Give me all Argentine films.",
+        "expanded": [
+            "List of movies produced in Argentina.",
+            "Films from Argentina, including dramas, comedies, and documentaries.",
+            "What are some notable Argentine cinematic releases?"
+        ]
+    },
+    "QALD2_te-64": {
+        "original": "Give me all launch pads operated by NASA.",
+        "expanded": [
+            "What are the different launch sites used by NASA for its space missions?",
+            "List all the facilities where NASA conducts its rocket launches.",
+            "What are the NASA-operated facilities responsible for spacecraft launch and deployment?"
+        ]
+    },
+    "QALD2_te-65": {
+        "original": "Which instruments did John Lennon play?",
+        "expanded": [
+            "What musical instruments was John Lennon known for playing?",
+            "What were the primary instruments used by John Lennon in his music career?",
+            "Which instruments did John Lennon typically use to create his distinctive sound?"
+        ]
+    },
+    "QALD2_te-66": {
+        "original": "Which ships were called after Benjamin Franklin?",
+        "expanded": [
+            "What vessels have been named in honor of Benjamin Franklin?",
+            "Which naval ships share their name with the American statesman Benjamin Franklin?",
+            "Benjamin Franklin-inspired ship names: what are they?"
+        ]
+    },
+    "QALD2_te-67": {
+        "original": "Who are the parents of the wife of Juan Carlos I?",
+        "expanded": [
+            "Who are the parents of Sofia of Spain's husband?",
+            "What are the names of the parents of King Juan Carlos I's spouse?",
+            "Who are the parents of the Queen Consort of Juan Carlos I of Spain?"
+        ]
+    },
+    "QALD2_te-72": {
+        "original": "In which U.S. state is Area 51 located?",
+        "expanded": [
+            "What state is home to the United States Air Force facility known as Area 51?",
+            "Where in the United States is the secretive military base Area 51 situated?",
+            "In which American state can you find the mysterious Air Force base commonly referred to as Area 51?"
+        ]
+    },
+    "QALD2_te-75": {
+        "original": "Which daughters of British earls died in the same place they were born in?",
+        "expanded": [
+            "What British aristocratic women died in their birthplace, having an earl as their father?",
+            "Which women born to earls in the UK passed away in the same location as their birth?",
+            "Identify daughters of British nobility (earls) who share their birth and death places."
+        ]
+    },
+    "QALD2_te-76": {
+        "original": "List the children of Margaret Thatcher.",
+        "expanded": [
+            "Name the offspring of the Iron Lady.",
+            "Who are the descendants of Margaret Thatcher, the former British Prime Minister?",
+            "What are the names of Margaret Thatcher's family members, specifically her kids?"
+        ]
+    },
+    "QALD2_te-77": {
+        "original": "Who was called Scarface?",
+        "expanded": [
+            "What was the nickname of Al Capone?",
+            "Which famous gangster was known for his facial scar?",
+            "Who was the notorious American mobster with a disfiguring scar?"
+        ]
+    },
+    "QALD2_te-8": {
+        "original": "To which countries does the Himalayan mountain system extend?",
+        "expanded": [
+            "What countries do the Himalayas span across?",
+            "In which nations are the Himalayan mountain ranges located?",
+            "Which countries have territories that the Himalayan mountain system covers?"
+        ]
+    },
+    "QALD2_te-80": {
+        "original": "Give me all books by William Goldman with more than 300 pages.",
+        "expanded": [
+            "Find books authored by William Goldman with a page count exceeding 300.",
+            "William Goldman written novels longer than 300 pages.",
+            "List all lengthy books (above 300 pages) penned by William Goldman."
+        ]
+    },
+    "QALD2_te-81": {
+        "original": "Which books by Kerouac were published by Viking Press?",
+        "expanded": [
+            "What Viking Press titles were written by Jack Kerouac?",
+            "Which of Kerouac's novels were released under Viking Press?",
+            "What are the books published by Viking Press that are attributed to the author Jack Kerouac?"
+        ]
+    },
+    "QALD2_te-82": {
+        "original": "Give me a list of all American inventions.",
+        "expanded": [
+            "What are some of the most significant contributions made by American inventors throughout history?",
+            "Can you provide a comprehensive list of innovations and discoveries developed in the United States?",
+            "What are the top American innovations that have had a major impact on society and global development?"
+        ]
+    },
+    "QALD2_te-84": {
+        "original": "Who created the comic Captain America?",
+        "expanded": [
+            "Who is the creator of the Marvel superhero Captain America?",
+            "What is the origin of Captain America and who invented the character?",
+            "Who wrote and drew the first Captain America comic book series?"
+        ]
+    },
+    "QALD2_te-88": {
+        "original": "Which films starring Clint Eastwood did he direct himself?",
+        "expanded": [
+            "What movies did Clint Eastwood star in and also directed himself?",
+            "List Clint Eastwood films where he played the lead role and was also the director.",
+            "Which Clint Eastwood movies feature him as both the actor and director?"
+        ]
+    },
+    "QALD2_te-89": {
+        "original": "In which city was the former Dutch queen Juliana buried?",
+        "expanded": [
+            "Where is Queen Juliana of the Netherlands buried?",
+            "What is the final resting place of Juliana, the former Queen of the Netherlands?",
+            "In which Dutch city are the remains of Queen Juliana interred?"
+        ]
+    },
+    "QALD2_te-9": {
+        "original": "Give me a list of all trumpet players that were bandleaders.",
+        "expanded": [
+            "What famous jazz musicians were also leaders of their own bands and played the trumpet?",
+            "List trumpet-playing musicians who led their own orchestras or ensembles in jazz history.",
+            "Can you provide a list of renowned trumpet virtuosos who also had successful careers as band leaders?"
+        ]
+    },
+    "QALD2_te-90": {
+        "original": "Where is the residence of the prime minister of Spain?",
+        "expanded": [
+            "What is the official address of the Spanish Prime Minister's residence?",
+            "Where does the head of government of Spain live?",
+            "What is the location of the Spanish PM's official home?"
+        ]
+    },
+    "QALD2_te-91": {
+        "original": "Which U.S. State has the abbreviation MN?",
+        "expanded": [
+            "What is the full name of the state with the postal code MN?",
+            "Which state in the United States is represented by the abbreviation MN?",
+            "What is the state in the Midwest with the MN abbreviation?"
+        ]
+    },
+    "QALD2_te-92": {
+        "original": "Show me all songs from Bruce Springsteen released between 1980 and 1990.",
+        "expanded": [
+            "List all tracks by Bruce Springsteen from the 80s decade.",
+            "What are the album releases by Bruce Springsteen between 1980 and 1990 that feature individual songs?",
+            "Find songs in Bruce Springsteen's discography that were published during the 1980-1990 time period."
+        ]
+    },
+    "QALD2_te-93": {
+        "original": "Which movies did Sam Raimi direct after Army of Darkness?",
+        "expanded": [
+            "What films has Sam Raimi directed since his work on Army of Darkness?",
+            "What are the movies Sam Raimi has been involved in directing after the release of Army of Darkness?",
+            "What directorial projects has Sam Raimi undertaken following the success of Army of Darkness?"
+        ]
+    },
+    "QALD2_te-95": {
+        "original": "Who wrote the lyrics for the Polish national anthem?",
+        "expanded": [
+            "What are the authors of the Polish national anthem's lyrics?",
+            "Who composed the lyrics to Poland's national song?",
+            "What is the origin of the lyrics in the Polish national anthem, and who is credited with writing them?"
+        ]
+    },
+    "QALD2_te-97": {
+        "original": "Who painted The Storm on the Sea of Galilee?",
+        "expanded": [
+            "What is the artist behind the masterpiece depicting a turbulent sea scene in 1633?",
+            "Which 17th-century Dutch painter created a famous work of art featuring a tempestuous ocean?",
+            "Who authored the iconic Baroque-era painting of a biblical event on the Sea of Galilee?"
+        ]
+    },
+    "QALD2_te-98": {
+        "original": "Which country does the creator of Miffy come from?",
+        "expanded": [
+            "What is the nationality of the author of the Miffy series?",
+            "Where is Dick Bruna, the creator of Miffy, originally from?",
+            "In which country was the popular children's character Miffy created?"
+        ]
+    },
+    "QALD2_te-99": {
+        "original": "For which label did Elvis record his first album?",
+        "expanded": [
+            "What was the title of Elvis' debut album release?",
+            "Which record label signed Elvis for his inaugural album?",
+            "What was the name of the label that produced Elvis' first music album?"
+        ]
+    },
+    "QALD2_tr-1": {
+        "original": "Give me all female Russian astronauts.",
+        "expanded": [
+            "Female cosmonauts of Russian nationality",
+            "Russian women in space exploration history",
+            "Astronauts from Russia who are women"
+        ]
+    },
+    "QALD2_tr-10": {
+        "original": "In which country does the Nile start?",
+        "expanded": [
+            "What is the source location of the Nile River?",
+            "Where does the world's longest river originate?",
+            "In which African country is the Nile River's origin located?"
+        ]
+    },
+    "QALD2_tr-11": {
+        "original": "Which countries have places with more than two caves?",
+        "expanded": [
+            "What countries are known for their extensive cave systems?",
+            "Which nations have regions with a high concentration of caves?",
+            "In which countries can you find multiple cave clusters or networks?"
+        ]
+    },
+    "QALD2_tr-13": {
+        "original": "Which classis does the Millepede belong to?",
+        "expanded": [
+            "What phylum does the Millepede belong to in the animal kingdom?",
+            "Which arthropod class does the Millepede fall under?",
+            "What is the taxonomic classification of Millepede in the context of entomology?"
+        ]
+    },
+    "QALD2_tr-15": {
+        "original": "Who created Goofy?",
+        "expanded": [
+            "What is the origin of Goofy's character?",
+            "Who designed the Disney character Goofy?",
+            "What is the backstory of Mickey Mouse's friend Goofy?"
+        ]
+    },
+    "QALD2_tr-16": {
+        "original": "Give me the capitals of all countries in Africa.",
+        "expanded": [
+            "What are the capital cities of African nations?",
+            "List all national capitals located in the continent of Africa.",
+            "Provide a list of capital cities for each country on the African continent."
+        ]
+    },
+    "QALD2_tr-17": {
+        "original": "Give me all cities in New Jersey with more than 100000 inhabitants.",
+        "expanded": [
+            "List of municipalities in New Jersey with a population of over 100000 people.",
+            "What are the major cities in New Jersey with a population exceeding 100000 residents?",
+            "Provide a list of urban areas in New Jersey having more than 100000 inhabitants."
+        ]
+    },
+    "QALD2_tr-18": {
+        "original": "Which museum exhibits The Scream by Munch?",
+        "expanded": [
+            "What museums feature Edvard Munch's most famous artwork?",
+            "Where can I find the original version of The Scream painting?",
+            "Which art museum in Europe has a collection that includes a famous Expressionist painting called The Scream?"
+        ]
+    },
+    "QALD2_tr-21": {
+        "original": "Which states border Illinois?",
+        "expanded": [
+            "What states share a border with Illinois?",
+            "Which neighboring states surround Illinois?",
+            "What are the adjacent states to Illinois?"
+        ]
+    },
+    "QALD2_tr-24": {
+        "original": "Which mountain is the highest after the Annapurna?",
+        "expanded": [
+            "What is the second highest mountain in the Himalayas after Annapurna?",
+            "Which mountain peak comes closest to Annapurna's height?",
+            "What Himalayan mountain is next in line after Annapurna in terms of elevation?"
+        ]
+    },
+    "QALD2_tr-25": {
+        "original": "In which films directed by Garry Marshall was Julia Roberts starring?",
+        "expanded": [
+            "What movies did Julia Roberts star in that were directed by Garry Marshall?",
+            "Which Garry Marshall films feature Julia Roberts as the lead actress?",
+            "What are the titles of the films where Julia Roberts collaborated with director Garry Marshall?"
+        ]
+    },
+    "QALD2_tr-26": {
+        "original": "Which bridges are of the same type as the Manhattan Bridge?",
+        "expanded": [
+            "What suspension bridges in New York City are similar to the Manhattan Bridge?",
+            "Which steel arch bridges built in the early 20th century are comparable to the Manhattan Bridge?",
+            "What iconic bridges in the United States have a similar design and construction to the Manhattan Bridge?"
+        ]
+    },
+    "QALD2_tr-28": {
+        "original": "Which European countries have a constitutional monarchy?",
+        "expanded": [
+            "Which monarchies in Europe have a constitution that establishes a monarch as head of state?",
+            "What countries in Europe have a king or queen as their head of government with limits on their powers?",
+            "Which European nations have a system of government where a monarch shares power with a parliament or other elected body?"
+        ]
+    },
+    "QALD2_tr-29": {
+        "original": "Which awards did WikiLeaks win?",
+        "expanded": [
+            "What recognition has WikiLeaks received?",
+            "Which honors have been bestowed upon WikiLeaks?",
+            "What accolades has Julian Assange's WikiLeaks organization earned?"
+        ]
+    },
+    "QALD2_tr-3": {
+        "original": "Who is the daughter of Bill Clinton married to?",
+        "expanded": [
+            "What is the spouse of Chelsea Clinton?",
+            "Who did the Clintons' daughter marry?",
+            "What is the husband's name of the former US President Bill Clinton's child?"
+        ]
+    },
+    "QALD2_tr-30": {
+        "original": "Which state of the USA has the highest population density?",
+        "expanded": [
+            "What is the most populous state in the United States in terms of population per square mile?",
+            "Which US state has the smallest average area per person?",
+            "What state in the USA has the largest number of people living in the smallest geographic area?"
+        ]
+    },
+    "QALD2_tr-31": {
+        "original": "What is the currency of the Czech Republic?",
+        "expanded": [
+            "What is the official currency used in Prague?",
+            "Which currency is used in the Czechia country?",
+            "What is the money used in the Czech Republic?"
+        ]
+    },
+    "QALD2_tr-32": {
+        "original": "Which countries in the European Union adopted the Euro?",
+        "expanded": [
+            "What EU member states use the Euro as their official currency?",
+            "Which European countries have adopted the single currency Euro?",
+            "What are the EU countries that share the Eurozone currency?"
+        ]
+    },
+    "QALD2_tr-34": {
+        "original": "Which countries have more than two official languages?",
+        "expanded": [
+            "What nations have a multilingual status with three or more official languages?",
+            "Which countries recognize more than two languages as official for governmental purposes?",
+            "What are the countries with linguistic diversity, having three or more official languages recognized by their governments?"
+        ]
+    },
+    "QALD2_tr-35": {
+        "original": "Who is the owner of Universal Studios?",
+        "expanded": [
+            "What company owns the Universal Studios theme park?",
+            "Who is the parent organization of Universal Studios Hollywood?",
+            "What is the corporate entity behind the Universal Studios film studio?"
+        ]
+    },
+    "QALD2_tr-36": {
+        "original": "Through which countries does the Yenisei river flow?",
+        "expanded": [
+            "What are the countries that the Yenisei river passes through?",
+            "Which national borders does the Yenisei river cross?",
+            "In which territories does the Yenisei river have its course?"
+        ]
+    },
+    "QALD2_tr-38": {
+        "original": "Which monarchs of the United Kingdom were married to a German?",
+        "expanded": [
+            "What British monarchs had a German spouse?",
+            "Which royal couples of the UK had a German connection through marriage?",
+            "Who among the UK monarchs entered into matrimony with someone of German origin?"
+        ]
+    },
+    "QALD2_tr-4": {
+        "original": "Which river does the Brooklyn Bridge cross?",
+        "expanded": [
+            "What body of water does the Brooklyn Bridge span?",
+            "Which New York City river is crossed by the Brooklyn Bridge?",
+            "Over which waterway was the Brooklyn Bridge constructed?"
+        ]
+    },
+    "QALD2_tr-40": {
+        "original": "What is the highest mountain in Australia?",
+        "expanded": [
+            "What is the tallest peak in Australia?",
+            "Which mountain has the highest elevation in Australia?",
+            "What is the loftiest summit in the Australian continent?"
+        ]
+    },
+    "QALD2_tr-41": {
+        "original": "Give me all soccer clubs in Spain.",
+        "expanded": [
+            "List all football teams in Spain.",
+            "Which Spanish clubs participate in La Liga or Segunda Divisi\u00f3n?",
+            "What are the top soccer teams from Spain that compete in European tournaments?"
+        ]
+    },
+    "QALD2_tr-42": {
+        "original": "What are the official languages of the Philippines?",
+        "expanded": [
+            "What languages are spoken in the Philippines?",
+            "What is the language of government in the Philippines?",
+            "What are the primary languages used in the Philippines?"
+        ]
+    },
+    "QALD2_tr-43": {
+        "original": "Who is the mayor of New York City?",
+        "expanded": [
+            "What is the current leadership of NYC?",
+            "Who is the head of the New York City government?",
+            "What is the name of the person holding the highest office in New York City?"
+        ]
+    },
+    "QALD2_tr-45": {
+        "original": "Which telecommunications organizations are located in Belgium?",
+        "expanded": [
+            "What Belgian companies operate in the telecom industry?",
+            "List of telecom providers with a presence in Belgium?",
+            "Which companies offering phone and internet services are headquartered in Belgium?"
+        ]
+    },
+    "QALD2_tr-47": {
+        "original": "What is the highest place of Karakoram?",
+        "expanded": [
+            "What is the highest peak in the Karakoram mountain range?",
+            "Which Karakoram location holds the record for the highest altitude?",
+            "What is the tallest mountain in the Karakoram region?"
+        ]
+    },
+    "QALD2_tr-49": {
+        "original": "Give me all companies in the advertising industry.",
+        "expanded": [
+            "List of organizations in the marketing and advertising sector.",
+            "What are the top companies that specialize in advertising and promotion?",
+            "Provide a directory of businesses involved in ad agency services and media buying."
+        ]
+    },
+    "QALD2_tr-50": {
+        "original": "What did Bruce Carver die from?",
+        "expanded": [
+            "What was the cause of Bruce Carver's death?",
+            "How did Bruce Carver pass away?",
+            "What were the circumstances surrounding the death of Bruce Carver?"
+        ]
+    },
+    "QALD2_tr-51": {
+        "original": "Give me all school types.",
+        "expanded": [
+            "What are the various kinds of educational institutions?",
+            "List all types of schools that provide education to students.",
+            "What categories of schools are there from elementary to high school and beyond?"
+        ]
+    },
+    "QALD2_tr-52": {
+        "original": "Which presidents were born in 1945?",
+        "expanded": [
+            "What are the names of US presidents with a birth year of 1945?",
+            "Who among the American presidents share a birth year with the end of World War II?",
+            "List the presidents of the United States born during the final year of the 1940s decade."
+        ]
+    },
+    "QALD2_tr-53": {
+        "original": "Give me all presidents of the United States.",
+        "expanded": [
+            "List all the past and current heads of state in the United States of America.",
+            "What are the names of the individuals who have held the highest office in the United States government?",
+            "Provide a comprehensive list of all the American leaders who have served as commander-in-chief."
+        ]
+    },
+    "QALD2_tr-54": {
+        "original": "Who was the wife of U.S. president Lincoln?",
+        "expanded": [
+            "Who was the First Lady during Lincoln's presidency?",
+            "What was the name of Abraham Lincoln's spouse?",
+            "Who married Abraham Lincoln, the 16th President of the United States?"
+        ]
+    },
+    "QALD2_tr-55": {
+        "original": "Who developed the video game World of Warcraft?",
+        "expanded": [
+            "Who created the popular MMORPG game World of Warcraft?",
+            "What company is behind the development of World of Warcraft online game?",
+            "Who are the designers responsible for creating the massively multiplayer game World of Warcraft?"
+        ]
+    },
+    "QALD2_tr-57": {
+        "original": "List all episodes of the first season of the HBO television series The Sopranos!",
+        "expanded": [
+            "What are the episode titles of The Sopranos Season 1, the debut season of the HBO drama series?",
+            "Can you provide a comprehensive list of episodes from the inaugural season of The Sopranos, a popular TV series that aired on HBO?",
+            "What episodes comprise the first season of the critically acclaimed television drama The Sopranos, created by David Chase and broadcast on HBO?"
+        ]
+    },
+    "QALD2_tr-58": {
+        "original": "Who produced the most films?",
+        "expanded": [
+            "Which filmmaker has the highest number of credits?",
+            "Who is the most prolific film producer in the industry?",
+            "What is the name of the director with the largest filmography?"
+        ]
+    },
+    "QALD2_tr-59": {
+        "original": "Give me all people with first name Jimmy.",
+        "expanded": [
+            "Find individuals with the given name James, Jim, or Jimmy.",
+            "List all persons having Jimmy as their first name or a nickname.",
+            "Retrieve people with first names starting with \"Jim\" or \"Jimi\", including Jimmy."
+        ]
+    },
+    "QALD2_tr-6": {
+        "original": "Where did Abraham Lincoln die?",
+        "expanded": [
+            "Where was Abraham Lincoln assassinated?",
+            "What was the location of Abraham Lincoln's fatal shooting?",
+            "In what city did Abraham Lincoln pass away?"
+        ]
+    },
+    "QALD2_tr-61": {
+        "original": "Which mountains are higher than the Nanga Parbat?",
+        "expanded": [
+            "What are the tallest mountains in the world excluding Nanga Parbat?",
+            "Which summits have a higher elevation than 8,126 meters, the height of Nanga Parbat?",
+            "List the mountains that surpass Nanga Parbat in terms of altitude."
+        ]
+    },
+    "QALD2_tr-62": {
+        "original": "Who created Wikipedia?",
+        "expanded": [
+            "What is the origin of Wikipedia?",
+            "Who founded the online encyclopedia Wikipedia?",
+            "Who launched Wikipedia, the free online knowledge repository?"
+        ]
+    },
+    "QALD2_tr-64": {
+        "original": "Which software has been developed by organizations founded in California?",
+        "expanded": [
+            "What companies founded in California have developed software?",
+            "List software developed by California-based organizations?",
+            "Which California-originated companies are known for their software development products?"
+        ]
+    },
+    "QALD2_tr-65": {
+        "original": "Which companies work in the aerospace industry as well as on nuclear reactor technology?",
+        "expanded": [
+            "Companies involved in both aerospace engineering and nuclear power generation.",
+            "Organizations that develop technologies for space exploration and nuclear reactors.",
+            "Firms that have a presence in both the aviation industry and nuclear energy sector."
+        ]
+    },
+    "QALD2_tr-68": {
+        "original": "Which actors were born in Germany?",
+        "expanded": [
+            "What are the names of famous German-born actors?",
+            "Who are the German actors that have made a mark in the film industry?",
+            "Can you provide a list of celebrities born in Germany who are known for their acting skills?"
+        ]
+    },
+    "QALD2_tr-69": {
+        "original": "Which caves have more than 3 entrances?",
+        "expanded": [
+            "What are the caves with multiple access points, exceeding three?",
+            "Can you list the cave systems having more than three entry points?",
+            "Which cave complexes have a large number of entrances, specifically more than three?"
+        ]
+    },
+    "QALD2_tr-70": {
+        "original": "Give me all films produced by Hal Roach.",
+        "expanded": [
+            "List movies produced by Hal Roach Studios.",
+            "What films were produced by Harold Eugene Roach Sr.?",
+            "Show me the filmography of Hal Roach as a producer."
+        ]
+    },
+    "QALD2_tr-71": {
+        "original": "Give me all video games published by Mean Hamster Software.",
+        "expanded": [
+            "List of games developed and published by Mean Hamster Software.",
+            "What video games have been released under the Mean Hamster Software label?",
+            "Can you provide a catalog of Mean Hamster Software's published video game titles?"
+        ]
+    },
+    "QALD2_tr-74": {
+        "original": "Which capitals in Europe were host cities of the summer olympic games?",
+        "expanded": [
+            "What European cities have organized the Olympic Games during the summer season?",
+            "Which capital cities in Europe have a history of hosting the Summer Olympics?",
+            "What are the European capitals that have been selected as hosts for the Olympic Summer Games?"
+        ]
+    },
+    "QALD2_tr-75": {
+        "original": "Who has been the 5th president of the United States of America?",
+        "expanded": [
+            "What is the identity of the US president who held office fifth in the sequence of American presidents?",
+            "Which president of the United States has been ranked fifth in the chronological order of presidents?",
+            "Who succeeded as the fifth president of the United States, and what were the key events during their tenure?"
+        ]
+    },
+    "QALD2_tr-77": {
+        "original": "Which music albums contain the song Last Christmas?",
+        "expanded": [
+            "What are the album names that feature the track Last Christmas by Wham! or George Michael?",
+            "Which holiday albums or soundtracks include the popular song Last Christmas?",
+            "What are the discographies of Wham! or George Michael that have the song Last Christmas in their tracklist?"
+        ]
+    },
+    "QALD2_tr-78": {
+        "original": "Give me all books written by Danielle Steel.",
+        "expanded": [
+            "List all novels authored by Danielle Steel.",
+            "Books written by American romance novelist Danielle Steel.",
+            "What are the titles of the romance novels penned by bestselling author Danielle Steel?"
+        ]
+    },
+    "QALD2_tr-79": {
+        "original": "Which airports are located in California, USA?",
+        "expanded": [
+            "What are the names of aerodromes situated in the state of California, USA?",
+            "California airports: list of airfields and their locations in the US state",
+            "In which cities or towns of California can you find international or domestic air terminals?"
+        ]
+    },
+    "QALD2_tr-8": {
+        "original": "Which states of Germany are governed by the Social Democratic Party?",
+        "expanded": [
+            "What are the SPD-led states in Germany?",
+            "Which German states have a Social Democratic government?",
+            "In which German states is the SPD the ruling party?"
+        ]
+    },
+    "QALD2_tr-80": {
+        "original": "Give me all Canadian Grunge record labels.",
+        "expanded": [
+            "List all independent record labels from Canada associated with the Grunge music genre.",
+            "What are the notable Canadian record labels that released music by Grunge bands in the 1990s?",
+            "Identify Canadian music labels that have contributed to the Grunge movement and its related sub-genres."
+        ]
+    },
+    "QALD2_tr-81": {
+        "original": "Which country has the most official languages?",
+        "expanded": [
+            "What nation has the highest number of recognized languages?",
+            "Which country recognizes the largest number of languages as official?",
+            "What is the country with the most linguistically diverse official language profile?"
+        ]
+    },
+    "QALD2_tr-82": {
+        "original": "In which programming language is GIMP written?",
+        "expanded": [
+            "What is the programming language used to develop GIMP?",
+            "Which language is GIMP's source code written in?",
+            "What are the programming languages behind the GIMP image editing software?"
+        ]
+    },
+    "QALD2_tr-83": {
+        "original": "Who produced films starring Natalie Portman?",
+        "expanded": [
+            "What movies has Natalie Portman starred in and who were the producers?",
+            "Which film producers have worked with Natalie Portman?",
+            "Natalie Portman filmography: Who produced her movies?"
+        ]
+    },
+    "QALD2_tr-84": {
+        "original": "Give me all movies with Tom Cruise.",
+        "expanded": [
+            "Films featuring Tom Cruise as the main actor",
+            "Tom Cruise movie list, including blockbuster and award-winning titles",
+            "What are the most popular movies starring Tom Cruise throughout his career?"
+        ]
+    },
+    "QALD2_tr-85": {
+        "original": "In which films did Julia Roberts as well as Richard Gere play?",
+        "expanded": [
+            "Movies featuring Julia Roberts and Richard Gere as co-stars.",
+            "Which romantic comedies have Julia Roberts and Richard Gere in the cast?",
+            "List films starring both Julia Roberts and Richard Gere."
+        ]
+    },
+    "QALD2_tr-87": {
+        "original": "Who wrote the book The pillars of the Earth?",
+        "expanded": [
+            "What is the author of the novel set in 12th-century England about cathedral building?",
+            "Who penned the historical fiction book that explores the construction of a cathedral in Kingsbridge?",
+            "What bestselling author wrote a sweeping epic that revolves around the building of a massive Gothic cathedral?"
+        ]
+    },
+    "QALD2_tr-89": {
+        "original": "Give me all soccer clubs in the Premier League.",
+        "expanded": [
+            "What are the teams that compete in the English Premier League?",
+            "List all football teams that play in the Premier League in England.",
+            "Which clubs participate in the top division of the English football league system?"
+        ]
+    },
+    "QALD2_tr-9": {
+        "original": "Which U.S. states possess gold minerals?",
+        "expanded": [
+            "What states in the United States are known for their gold deposits?",
+            "Which American states have significant gold mining industries?",
+            "Where can you find gold ore or gold reserves in the United States?"
+        ]
+    },
+    "QALD2_tr-91": {
+        "original": "Which organizations were founded in 1950?",
+        "expanded": [
+            "What companies were established in the 1950s?",
+            "Which institutions were set up fifty years after World War II?",
+            "What entities were launched during the post-war economic boom of the 1950s?"
+        ]
+    },
+    "SemSearch_ES-1": {
+        "original": "44 magnum hunting",
+        "expanded": [
+            "hunting with 44 magnum caliber guns",
+            "44 magnum rifle for deer hunting",
+            "big game hunting using 44 magnum revolvers"
+        ]
+    },
+    "SemSearch_ES-10": {
+        "original": "asheville north carolina",
+        "expanded": [
+            "western north carolina cities",
+            "asheville nc tourism information",
+            "blue ridge mountains north carolina towns"
+        ]
+    },
+    "SemSearch_ES-100": {
+        "original": "YMCA Tampa",
+        "expanded": [
+            "Tampa YMCA locations",
+            "YMCA in Tampa Florida",
+            "Tampa Bay area YMCA services"
+        ]
+    },
+    "SemSearch_ES-101": {
+        "original": "ashley wagner",
+        "expanded": [
+            "Figure skater Ashley Wagner",
+            "US Olympic athlete Ashley Wagner",
+            "Ashley Wagner's figure skating career"
+        ]
+    },
+    "SemSearch_ES-102": {
+        "original": "beach flowers",
+        "expanded": [
+            "coastal flora",
+            "seaside blossoms",
+            "oceanfront wildflowers"
+        ]
+    },
+    "SemSearch_ES-104": {
+        "original": "bourbonnais il",
+        "expanded": [
+            "Bourbonnais Illinois information",
+            "Villages in Kankakee County IL",
+            "Things to do in Bourbonnais Illinois"
+        ]
+    },
+    "SemSearch_ES-106": {
+        "original": "chase masterson",
+        "expanded": [
+            "actress star trek",
+            "leeta bajoran dabo girl",
+            "american actress science fiction"
+        ]
+    },
+    "SemSearch_ES-107": {
+        "original": "concord steel",
+        "expanded": [
+            "concord manufacturing steel products",
+            "steel company concord history",
+            "concord steel industry news"
+        ]
+    },
+    "SemSearch_ES-108": {
+        "original": "danielia cotton",
+        "expanded": [
+            "danielia textile industry",
+            "cotton fabrics by danielia",
+            "danielia company cotton products"
+        ]
+    },
+    "SemSearch_ES-11": {
+        "original": "austin powers",
+        "expanded": [
+            "movies starring mike myers",
+            "1960s spy comedy films",
+            "groovy characters from 90s cinema"
+        ]
+    },
+    "SemSearch_ES-111": {
+        "original": "eagle rock, ca",
+        "expanded": [
+            "places to visit in eagle rock california",
+            "eagle rock neighborhoods los angeles",
+            "things to do in eagle rock ca"
+        ]
+    },
+    "SemSearch_ES-114": {
+        "original": "glenn frey",
+        "expanded": [
+            "eagles band member glenn frey",
+            "american singer songwriter glenn frey",
+            "hotel california glenn frey legacy"
+        ]
+    },
+    "SemSearch_ES-115": {
+        "original": "goodwill of michigan",
+        "expanded": [
+            "non-profit organizations in michigan",
+            "michigan thrift stores and donation centers",
+            "charitable organizations in michigan focused on community development"
+        ]
+    },
+    "SemSearch_ES-118": {
+        "original": "iowa energy",
+        "expanded": [
+            "renewable energy in iowa",
+            "iowa energy consumption statistics",
+            "iowa alternative energy sources"
+        ]
+    },
+    "SemSearch_ES-119": {
+        "original": "john elliott",
+        "expanded": [
+            "john elliot person",
+            "john elliott biography",
+            "elliott john celebrity"
+        ]
+    },
+    "SemSearch_ES-120": {
+        "original": "lawrence general hospital",
+        "expanded": [
+            "lawrence massachusetts hospital",
+            "lawrence general medical center",
+            "lawrence healthcare facility"
+        ]
+    },
+    "SemSearch_ES-123": {
+        "original": "michael zimmerman",
+        "expanded": [
+            "michael zimmerman biography",
+            "zimmetry michael ceo founder",
+            "michael zimmerman net worth entrepreneur"
+        ]
+    },
+    "SemSearch_ES-124": {
+        "original": "motorola bluetooth hs850",
+        "expanded": [
+            "bluetooth headset hs850 motorola",
+            "motorola hs850 wireless headphones",
+            "motorola bluetooth hs850 headset features"
+        ]
+    },
+    "SemSearch_ES-125": {
+        "original": "nokia e73",
+        "expanded": [
+            "nokia smartphone e series",
+            "e73 mobile phone features",
+            "nokia e73 specifications"
+        ]
+    },
+    "SemSearch_ES-127": {
+        "original": "palm tungsten e2 handheld",
+        "expanded": [
+            "palm os handheld organizer",
+            "tungsten e2 pda features",
+            "handheld device with touchscreen"
+        ]
+    },
+    "SemSearch_ES-128": {
+        "original": "philadelphia neufchatel cheese",
+        "expanded": [
+            "philadelphia cream cheese history",
+            "neufchatel French cheese vs Philadelphia brand",
+            "American cheese varieties with Neufch\u00e2tel taste"
+        ]
+    },
+    "SemSearch_ES-129": {
+        "original": "pizza populous detroit mi",
+        "expanded": [
+            "restaurants detroit mi pizza popular",
+            "detroit mi top pizza places populous areas",
+            "where to find best pizza in detroit michigan"
+        ]
+    },
+    "SemSearch_ES-13": {
+        "original": "banana paper making",
+        "expanded": [
+            "eco-friendly paper production from banana waste",
+            "sustainable banana fiber paper manufacturing process",
+            "recycled banana plant paper products and their applications"
+        ]
+    },
+    "SemSearch_ES-130": {
+        "original": "plymouth police department",
+        "expanded": [
+            "plymouth massachusetts law enforcement agency",
+            "police station in plymouth ma",
+            "plymouth pd massachusetts"
+        ]
+    },
+    "SemSearch_ES-132": {
+        "original": "sealy mattress co",
+        "expanded": [
+            "mattress manufacturer sealy company",
+            "sealy corporation bed mattress brand",
+            "company information about sealy mattresses"
+        ]
+    },
+    "SemSearch_ES-135": {
+        "original": "spring shoes canada",
+        "expanded": [
+            "spring footwear in canada",
+            "canadian spring shoe retailers",
+            "shoes for spring season in canada"
+        ]
+    },
+    "SemSearch_ES-136": {
+        "original": "sri lanka government gazette",
+        "expanded": [
+            "official gazette of sri lanka",
+            "sri lanka government publications online",
+            "gazette notifications of sri lanka government"
+        ]
+    },
+    "SemSearch_ES-139": {
+        "original": "the big texan steak house",
+        "expanded": [
+            "texan steak restaurants",
+            "big steakhouse in texas",
+            "america's largest steak house"
+        ]
+    },
+    "SemSearch_ES-14": {
+        "original": "ben franklin",
+        "expanded": [
+            "Founding Fathers of the United States",
+            "American scientists and inventors",
+            "Electricity and kite experiment"
+        ]
+    },
+    "SemSearch_ES-15": {
+        "original": "bradley center",
+        "expanded": [
+            "bradley sports arena",
+            "milwaukee recreation center",
+            "bmo harris bradley center"
+        ]
+    },
+    "SemSearch_ES-16": {
+        "original": "brooklyn bridge",
+        "expanded": [
+            "New York City landmarks",
+            "Famous suspension bridges",
+            "East River crossings"
+        ]
+    },
+    "SemSearch_ES-17": {
+        "original": "butte montana",
+        "expanded": [
+            "montana mining history",
+            "things to do in butte mt",
+            "silver bow county attractions"
+        ]
+    },
+    "SemSearch_ES-18": {
+        "original": "canasta cards",
+        "expanded": [
+            "rummy card game rules",
+            "popular card games for large groups",
+            "latin american card games played with jokers"
+        ]
+    },
+    "SemSearch_ES-19": {
+        "original": "carl lewis",
+        "expanded": [
+            "Carl Lewis athlete",
+            "Olympic gold medalist track and field",
+            "American 100m sprinter world records"
+        ]
+    },
+    "SemSearch_ES-2": {
+        "original": "B. F. Skinner",
+        "expanded": [
+            "Radical behaviorism and its key proponents",
+            "Influence of operant conditioning on psychology",
+            "Pioneers of behavioral psychology and their theories"
+        ]
+    },
+    "SemSearch_ES-20": {
+        "original": "carolina",
+        "expanded": [
+            "north carolina or south carolina",
+            "university of carolina",
+            "carolina panthers"
+        ]
+    },
+    "SemSearch_ES-21": {
+        "original": "charles darwin",
+        "expanded": [
+            "evolution theory founder",
+            "natural selection author",
+            "english biologist galapagos islands"
+        ]
+    },
+    "SemSearch_ES-23": {
+        "original": "city of virginia beach",
+        "expanded": [
+            "Virginia beach city information",
+            "Beach cities in Virginia state",
+            "Virginia Beach city government"
+        ]
+    },
+    "SemSearch_ES-24": {
+        "original": "coastal carolina",
+        "expanded": [
+            "southeastern us coastal regions",
+            "universities near the ocean",
+            "beach towns in south carolina"
+        ]
+    },
+    "SemSearch_ES-25": {
+        "original": "david suchet",
+        "expanded": [
+            "Agatha Christie's Poirot actors",
+            "British actor Hercule Poirot TV series",
+            "David Suchet movies and TV shows"
+        ]
+    },
+    "SemSearch_ES-26": {
+        "original": "disney orlando",
+        "expanded": [
+            "orlando theme parks",
+            "disney world florida",
+            "walt disney resort orlando"
+        ]
+    },
+    "SemSearch_ES-29": {
+        "original": "ellis college",
+        "expanded": [
+            "\"Ellis Island college programs\"",
+            "\"Ellis University education\"",
+            "\"Ellis institution of higher learning\""
+        ]
+    },
+    "SemSearch_ES-3": {
+        "original": "Bookwork",
+        "expanded": [
+            "Homework assignments",
+            "Academic tasks and exercises",
+            "School study activities"
+        ]
+    },
+    "SemSearch_ES-30": {
+        "original": "eloan line of credit",
+        "expanded": [
+            "personal loan options",
+            "revolving credit account",
+            "flexible loan financing"
+        ]
+    },
+    "SemSearch_ES-32": {
+        "original": "fitzgerald auto mall chambersburg pa",
+        "expanded": [
+            "used car dealerships in chambersburg pennsylvania",
+            "auto dealerships near me fitzgerald chambersburg pa",
+            "car sales fitzgerald auto mall in chambersburg pennsylvania"
+        ]
+    },
+    "SemSearch_ES-33": {
+        "original": "harry potter",
+        "expanded": [
+            "JK Rowling books",
+            "Wizarding world fantasy series",
+            "Magic school adventures"
+        ]
+    },
+    "SemSearch_ES-36": {
+        "original": "imdb batman returns",
+        "expanded": [
+            "movies similar to batman returns",
+            "tim burton batman films",
+            "Micheal keaton as batman review"
+        ]
+    },
+    "SemSearch_ES-38": {
+        "original": "jack the ripper",
+        "expanded": [
+            "serial killer in london 19th century",
+            "identity of notorious britain murderer",
+            "victorian era crime mystery unsolved"
+        ]
+    },
+    "SemSearch_ES-39": {
+        "original": "james caldwell high school",
+        "expanded": [
+            "high school james caldwell",
+            "james caldwell educational institution",
+            "caldwell high school james alumni"
+        ]
+    },
+    "SemSearch_ES-4": {
+        "original": "NAACP Image Awards",
+        "expanded": [
+            "African American entertainment awards shows",
+            "Annual ceremonies honoring black excellence in film and television",
+            "Prestigious honors recognizing diversity and inclusion in the entertainment industry"
+        ]
+    },
+    "SemSearch_ES-41": {
+        "original": "joan of arc",
+        "expanded": [
+            "female french warrior saints",
+            "maiden of orleans medieval heroine",
+            "french revolution leader female martyr"
+        ]
+    },
+    "SemSearch_ES-45": {
+        "original": "keith urban",
+        "expanded": [
+            "country music singer-songwriter",
+            "guitarist and nicole kidman's husband",
+            "australian musician and american idol judge"
+        ]
+    },
+    "SemSearch_ES-47": {
+        "original": "king arthur",
+        "expanded": [
+            "legendary british leader",
+            "arthurian legend",
+            "camelot ruler"
+        ]
+    },
+    "SemSearch_ES-49": {
+        "original": "laura bush",
+        "expanded": [
+            "former first lady of the united states",
+            "wife of george w bush",
+            "american educator and author"
+        ]
+    },
+    "SemSearch_ES-5": {
+        "original": "Scott County",
+        "expanded": [
+            "Scott County information",
+            "Counties like Scott",
+            "Government of Scott County"
+        ]
+    },
+    "SemSearch_ES-50": {
+        "original": "laura steele bob and tom",
+        "expanded": [
+            "laura steele and friends",
+            "bob tom laura steele relationships",
+            "laura steele with bob and tom"
+        ]
+    },
+    "SemSearch_ES-52": {
+        "original": "lincoln park",
+        "expanded": [
+            "chicago neighborhoods",
+            "u.s. national parks",
+            "park spaces in urban areas"
+        ]
+    },
+    "SemSearch_ES-56": {
+        "original": "mario bros",
+        "expanded": [
+            "super mario brothers game",
+            "nintendo mario character",
+            "luigi mario bros adventure"
+        ]
+    },
+    "SemSearch_ES-58": {
+        "original": "mason ohio",
+        "expanded": [
+            "masonry ohio",
+            "warren county ohio",
+            "cincinnati ohio suburbs"
+        ]
+    },
+    "SemSearch_ES-59": {
+        "original": "mercy hospital in des moines, ia",
+        "expanded": [
+            "mercy medical center des moines",
+            "hospitals in des moines iowa mercy",
+            "des moines ia medical facilities mercy hospital"
+        ]
+    },
+    "SemSearch_ES-6": {
+        "original": "air wisconsin",
+        "expanded": [
+            "Regional airlines in Wisconsin",
+            "Flight services in Wisconsin",
+            "Air travel in Wisconsin state"
+        ]
+    },
+    "SemSearch_ES-60": {
+        "original": "michael douglas",
+        "expanded": [
+            "actor michael douglas films",
+            "michael douglas biography wall street",
+            "oliver stone michael douglas collaboration"
+        ]
+    },
+    "SemSearch_ES-61": {
+        "original": "mr rourke fantasy island",
+        "expanded": [
+            "tv show host mr rourke's island adventures",
+            "fantasy series with mr rourke as host",
+            "tv legend mr rourke's island of dreams"
+        ]
+    },
+    "SemSearch_ES-7": {
+        "original": "airsoft glock",
+        "expanded": [
+            "glock airsoft pistol",
+            "airsoft gun glock replica",
+            "glock style airsoft handgun"
+        ]
+    },
+    "SemSearch_ES-71": {
+        "original": "richmond virginia",
+        "expanded": [
+            "capital of virginia",
+            "city on james river",
+            "virginia state capital history"
+        ]
+    },
+    "SemSearch_ES-72": {
+        "original": "rock 103 memphis",
+        "expanded": [
+            "fm radio stations in memphis",
+            "memphis rock radio stations",
+            "103.5 fm memphis radio"
+        ]
+    },
+    "SemSearch_ES-74": {
+        "original": "sacred heart u",
+        "expanded": [
+            "university of sacred heart",
+            "catholic sacred heart college",
+            "sacred heart institution education"
+        ]
+    },
+    "SemSearch_ES-75": {
+        "original": "sagemont church houston tx",
+        "expanded": [
+            "houston texas sagemont church location",
+            "sagemont community church in houston tx",
+            "churches near me in houston texas sagemont area"
+        ]
+    },
+    "SemSearch_ES-76": {
+        "original": "san antonio",
+        "expanded": [
+            "alamo city texas",
+            "river walk attractions",
+            "texas hill country cities"
+        ]
+    },
+    "SemSearch_ES-77": {
+        "original": "savannah tech",
+        "expanded": [
+            "Savannah technology entrepreneurship",
+            "Tech startups in Savannah Georgia",
+            "Savannah GA innovation ecosystem"
+        ]
+    },
+    "SemSearch_ES-78": {
+        "original": "sharp pc",
+        "expanded": [
+            "computer with sharp design",
+            "sharp brand pc laptops",
+            "high performance sharp computers"
+        ]
+    },
+    "SemSearch_ES-80": {
+        "original": "sonny and cher",
+        "expanded": [
+            "Cher and Sonny Bono legacy",
+            "Famous musical duos of the 1960s and 1970s",
+            "Iconic husband-wife musical collaborations"
+        ]
+    },
+    "SemSearch_ES-82": {
+        "original": "st lucia",
+        "expanded": [
+            "Saint Lucia tourism",
+            "Caribbean island destinations",
+            "Lucian travel guides"
+        ]
+    },
+    "SemSearch_ES-83": {
+        "original": "st paul saints",
+        "expanded": [
+            "saint paul baseball",
+            "minnesota saints team",
+            "st paul mn minor league"
+        ]
+    },
+    "SemSearch_ES-84": {
+        "original": "the dish danielle fishel",
+        "expanded": [
+            "danielle fishel boy meets world",
+            "topology of danielle fishel's acting career including boy meets world",
+            "characters played by danielle fishel in television shows"
+        ]
+    },
+    "SemSearch_ES-85": {
+        "original": "the longest yard sale",
+        "expanded": [
+            "what is the world's longest yard sale",
+            "longest garage sale events in the world",
+            "largest outdoor flea markets and yard sales"
+        ]
+    },
+    "SemSearch_ES-86": {
+        "original": "the morning call lehigh valley pa",
+        "expanded": [
+            "news stories about lehigh valley pennsylvania morning events",
+            "morning news updates in the lehigh valley area of pennsylvania",
+            "what happens in lehigh valley pa during morning hours"
+        ]
+    },
+    "SemSearch_ES-88": {
+        "original": "thomas jefferson",
+        "expanded": [
+            "american founding fathers",
+            "third president of the united states",
+            "author of the declaration of independence"
+        ]
+    },
+    "SemSearch_ES-89": {
+        "original": "university of north dakota",
+        "expanded": [
+            "north dakota higher education",
+            "und grand forks campus",
+            "university in north dakota state"
+        ]
+    },
+    "SemSearch_ES-9": {
+        "original": "american embassy nairobi",
+        "expanded": [
+            "us embassy in kenya",
+            "nairobi diplomatic missions",
+            "kenyan capital american consulate"
+        ]
+    },
+    "SemSearch_ES-90": {
+        "original": "university of phoenix",
+        "expanded": [
+            "online degrees from phoenix-based universities",
+            "phoenix arizona colleges and universities",
+            "university of phoenix accreditation and programs"
+        ]
+    },
+    "SemSearch_ES-91": {
+        "original": "westminster abbey",
+        "expanded": [
+            "London landmarks",
+            "Gothic architecture England",
+            "British royal weddings"
+        ]
+    },
+    "SemSearch_ES-95": {
+        "original": "MADRID",
+        "expanded": [
+            "Capital of Spain",
+            "European city tourism",
+            "Travel destinations in Europe"
+        ]
+    },
+    "SemSearch_ES-96": {
+        "original": "New England Coffee",
+        "expanded": [
+            "Coffee from New England region",
+            "New England-based coffee companies",
+            "Coffee culture in New England area"
+        ]
+    },
+    "SemSearch_ES-97": {
+        "original": "PINK PANTHER 2",
+        "expanded": [
+            "Movies starring Steve Martin",
+            "Sequels to comedy films from the 2000s",
+            "Films featuring Inspector Clouseau"
+        ]
+    },
+    "SemSearch_ES-98": {
+        "original": "University of Texas at Austin",
+        "expanded": [
+            "UT Austin college education",
+            "Texas Longhorns academic institution",
+            "Austin Texas university campus"
+        ]
+    },
+    "SemSearch_LS-1": {
+        "original": "Apollo astronauts who walked on the Moon",
+        "expanded": [
+            "Moonwalkers: Names of astronauts who visited the Moon's surface during the Apollo program",
+            "Apollo missions: List of astronauts who performed extravehicular activities on the lunar surface",
+            "First steps on the Moon: Identifying the astronauts who took part in the historic lunar landing and moonwalk"
+        ]
+    },
+    "SemSearch_LS-10": {
+        "original": "did nicole kidman have any siblings",
+        "expanded": [
+            "what is nicole kidman's family background",
+            "does nicole kidman have brothers or sisters",
+            "nicole kidman's siblings and early life"
+        ]
+    },
+    "SemSearch_LS-11": {
+        "original": "dioceses of the church of ireland",
+        "expanded": [
+            "church of ireland ecclesiastical divisions",
+            "anglican church ireland bishoprics",
+            "episcopal jurisdictions ireland anglican communion"
+        ]
+    },
+    "SemSearch_LS-12": {
+        "original": "first targets of the atomic bomb",
+        "expanded": [
+            "initial victims of nuclear bombing",
+            "early cities affected by atomic warfare",
+            "primary objectives of the first nuclear attacks"
+        ]
+    },
+    "SemSearch_LS-13": {
+        "original": "five great epics of Tamil literature",
+        "expanded": [
+            "Tamil literary masterpieces of ancient India",
+            "Influential epic poems in Tamil language",
+            "Famous works of Tamil epic poetry"
+        ]
+    },
+    "SemSearch_LS-14": {
+        "original": "gods who dwelt on Mount Olympus",
+        "expanded": [
+            "Mount Olympus deities",
+            "Greek gods and goddesses of Olympus",
+            "Residents of Mount Olympus in Greek mythology"
+        ]
+    },
+    "SemSearch_LS-16": {
+        "original": "hijackers in the September 11 attacks",
+        "expanded": [
+            "Al-Qaeda terrorists involved in 9/11 attacks",
+            "September 11 terrorists and their backgrounds",
+            "2001 World Trade Center perpetrators"
+        ]
+    },
+    "SemSearch_LS-18": {
+        "original": "john lennon, parents",
+        "expanded": [
+            "john lennon family background",
+            "parents of john lennon biography",
+            "john lennon's early life and family"
+        ]
+    },
+    "SemSearch_LS-2": {
+        "original": "Arab states of the Persian Gulf",
+        "expanded": [
+            "Countries bordering the Persian Gulf",
+            "Gulf Cooperation Council member states",
+            "Middle Eastern nations along the Gulf of Persia"
+        ]
+    },
+    "SemSearch_LS-20": {
+        "original": "kublai khan siblings",
+        "expanded": [
+            "Kublai Khan's brothers and sisters",
+            "Family members of Kublai Khan",
+            "Siblings of the Mongol emperor Kublai Khan"
+        ]
+    },
+    "SemSearch_LS-21": {
+        "original": "lilly allen parents",
+        "expanded": [
+            "lily allen family background",
+            "parents of british singer lily allen",
+            "who are lily allen's mom and dad"
+        ]
+    },
+    "SemSearch_LS-22": {
+        "original": "major leagues in the united states",
+        "expanded": [
+            "professional sports leagues in the united states",
+            "top american sports leagues by attendance",
+            "list of national sports leagues in the usa"
+        ]
+    },
+    "SemSearch_LS-24": {
+        "original": "matt berry tv series",
+        "expanded": [
+            "matt berry actor tv shows",
+            "british comedy tv series starring matt berry",
+            "tv comedies featuring matt berry"
+        ]
+    },
+    "SemSearch_LS-25": {
+        "original": "members of u2?",
+        "expanded": [
+            "u2 band members",
+            "who is in the band u2",
+            "u2 group members names"
+        ]
+    },
+    "SemSearch_LS-26": {
+        "original": "movies starring erykah badu",
+        "expanded": [
+            "films featuring erykah badu as an actress",
+            "erykah badu movie appearances",
+            "actors and actresses who have worked with erykah badu in films"
+        ]
+    },
+    "SemSearch_LS-29": {
+        "original": "nations where Portuguese is an official language",
+        "expanded": [
+            "countries with Portuguese as national language",
+            "official languages of Portugal and other countries",
+            "where is Portuguese spoken officially around the world"
+        ]
+    },
+    "SemSearch_LS-3": {
+        "original": "astronauts who landed on the Moon",
+        "expanded": [
+            "people who walked on the Moon's surface",
+            "NASA astronauts involved in Moon landing missions",
+            "crew members of Apollo missions that reached the lunar surface"
+        ]
+    },
+    "SemSearch_LS-30": {
+        "original": "orders (or 'choirs') of angels",
+        "expanded": [
+            "hierarchy of angels in Christian theology",
+            "angelic classification systems in religious traditions",
+            "categories of heavenly beings in mystical literature"
+        ]
+    },
+    "SemSearch_LS-31": {
+        "original": "permanent members of the UN Security Council",
+        "expanded": [
+            "countries that hold permanent seats on the United Nations Security Council",
+            "permanent Security Council members of the United Nations",
+            "UN nations with veto power on the Security Council"
+        ]
+    },
+    "SemSearch_LS-32": {
+        "original": "presidents depicted on mount rushmore who died of shooting",
+        "expanded": [
+            "Which of the Mount Rushmore presidents were assassinated?",
+            "Deaths of US presidents carved on Mount Rushmore: were any by gunfire?",
+            "Mount Rushmore presidential figures who met a violent end, specifically by shooting"
+        ]
+    },
+    "SemSearch_LS-33": {
+        "original": "provinces and territories of Canada",
+        "expanded": [
+            "Canadian provinces and territories list",
+            "Geographical regions of Canada",
+            "Administrative divisions in Canada"
+        ]
+    },
+    "SemSearch_LS-34": {
+        "original": "ratt albums",
+        "expanded": [
+            "discography of ratt",
+            "ratt music albums list",
+            "albums released by the band ratt"
+        ]
+    },
+    "SemSearch_LS-35": {
+        "original": "republics of the former Yugoslavia",
+        "expanded": [
+            "countries of the former Yugoslavia",
+            "states that made up Yugoslavia",
+            "nations emerging from Yugoslav dissolution"
+        ]
+    },
+    "SemSearch_LS-36": {
+        "original": "revolutionaries of 1959 in Cuba",
+        "expanded": [
+            "Cuban revolution leaders of the 1950s",
+            "Key figures in the Cuban Revolution of 1959",
+            "Notable Cubans involved in the 1959 uprising"
+        ]
+    },
+    "SemSearch_LS-37": {
+        "original": "standard axioms of set theory",
+        "expanded": [
+            "foundations of mathematics and set theory axioms",
+            "axiomatic systems in set theory and their properties",
+            "Zermelo-Fraenkel axioms and other foundational principles"
+        ]
+    },
+    "SemSearch_LS-38": {
+        "original": "states that border oklahoma",
+        "expanded": [
+            "list of states that border oklahoma",
+            "what states share a border with oklahoma",
+            "oklahoma bordering states in the us"
+        ]
+    },
+    "SemSearch_LS-39": {
+        "original": "ten ancient Greek city-kingdoms of Cyprus",
+        "expanded": [
+            "list of city-states in ancient Cyprus",
+            "Cyprus city-kingdoms of the ancient Greek period",
+            "major ancient city-kingdoms on the island of Cyprus"
+        ]
+    },
+    "SemSearch_LS-4": {
+        "original": "Axis powers of World War II",
+        "expanded": [
+            "Countries that fought against the Allies in WWII",
+            "Nazi Germany and Imperial Japan wartime alliance",
+            "World War 2 axis nations and their leaders"
+        ]
+    },
+    "SemSearch_LS-41": {
+        "original": "the four of the companions of the prophet",
+        "expanded": [
+            "companions of islamic prophet muhammad",
+            "four closest friends of the prophet",
+            "prominent sahaba of islam's messenger"
+        ]
+    },
+    "SemSearch_LS-42": {
+        "original": "twelve tribes or sons of Israel",
+        "expanded": [
+            "Israel's twelve tribes or sons of Jacob",
+            "Biblical tribes of Israel or twelve sons of Jacob",
+            "Hebrew Bible's twelve tribes or Israel's patriarchal family"
+        ]
+    },
+    "SemSearch_LS-43": {
+        "original": "what books did paul of tarsus write?",
+        "expanded": [
+            "what writings are attributed to saint paul the apostle?",
+            "which epistles are associated with paul in the new testament?",
+            "what are the literary contributions of paul of tarsus in early christianity?"
+        ]
+    },
+    "SemSearch_LS-44": {
+        "original": "what languages do they speak in afghanistan",
+        "expanded": [
+            "What are the official languages spoken in Afghanistan?",
+            "Languages spoken by the people of Afghanistan, what are they?",
+            "What are the predominant linguistic dialects in Afghanistan?"
+        ]
+    },
+    "SemSearch_LS-46": {
+        "original": "where the British monarch is also head of state",
+        "expanded": [
+            "Which countries have a constitutional monarchy with a king or queen as head of state?",
+            "In which nations does the monarch serve as both head of state and head of government?",
+            "What countries have a parliamentary system where the monarch holds significant ceremonial and symbolic power?"
+        ]
+    },
+    "SemSearch_LS-49": {
+        "original": "who invented the python programming language",
+        "expanded": [
+            "what is the origin of the python programming language",
+            "who created the python scripting language",
+            "history of python programming language creator"
+        ]
+    },
+    "SemSearch_LS-50": {
+        "original": "wonders of the ancient world",
+        "expanded": [
+            "ancient civilizations and their marvels",
+            "seven wonders of antiquity and their significance",
+            "lost cities and monuments of ancient cultures"
+        ]
+    },
+    "SemSearch_LS-6": {
+        "original": "boroughs of New York City",
+        "expanded": [
+            "neighborhoods of NYC",
+            "administrative divisions of New York City",
+            "districts in New York City metropolitan area"
+        ]
+    },
+    "SemSearch_LS-7": {
+        "original": "Branches of the US military",
+        "expanded": [
+            "US Armed Forces divisions",
+            "Military branches in the United States",
+            "Types of American military services"
+        ]
+    },
+    "SemSearch_LS-8": {
+        "original": "continents in the world",
+        "expanded": [
+            "What are the 7 continents of the Earth?",
+            "Geography: How many continents are there in the world?",
+            "List of continents on the global map"
+        ]
+    },
+    "SemSearch_LS-9": {
+        "original": "degrees of Eastern Orthodox monasticism",
+        "expanded": [
+            "types of Orthodox Christian monastic orders",
+            "levels of commitment in Eastern Orthodox monastic life",
+            "hierarchy of Eastern Orthodox monks and nuns"
+        ]
+    },
+    "TREC_Entity-1": {
+        "original": "Carriers that Blackberry makes phones for.",
+        "expanded": [
+            "Mobile network operators that offer Blackberry devices.",
+            "Telecom companies partnered with Blackberry for smartphone production.",
+            "Wireless service providers that sell Blackberry-branded handsets."
+        ]
+    },
+    "TREC_Entity-10": {
+        "original": "Campuses of Indiana University.",
+        "expanded": [
+            "Universities in Indiana with multiple campuses",
+            "Indiana University locations and branches",
+            "Colleges and institutions affiliated with Indiana University"
+        ]
+    },
+    "TREC_Entity-11": {
+        "original": "Donors to the Home Depot Foundation.",
+        "expanded": [
+            "Home Depot Foundation contributors",
+            "Philanthropic supporters of Home Depot's charitable arm",
+            "Grants and funders of the Home Depot Foundation"
+        ]
+    },
+    "TREC_Entity-12": {
+        "original": "Airlines that Air Canada has code share flights with.",
+        "expanded": [
+            "Which airlines has Air Canada partnered with for code sharing agreements?",
+            "Code share partners of Air Canada in the aviation industry.",
+            "What are the airline partners that offer connecting flights with Air Canada through code sharing?"
+        ]
+    },
+    "TREC_Entity-14": {
+        "original": "Authors awarded an Anthony Award at Bouchercon in 2007.",
+        "expanded": [
+            "Winners of the 2007 Anthony Awards at Bouchercon conference.",
+            "Bouchercon 2007 attendees who received an Anthony Award.",
+            "Recipients of the Anthony Award presented during the 2007 Bouchercon event."
+        ]
+    },
+    "TREC_Entity-15": {
+        "original": "Universities that are members of the SEC conference for football.",
+        "expanded": [
+            "Football schools in the Southeastern Conference",
+            "Colleges participating in the SEC athletic conference",
+            "Institutions with NCAA football teams in the Southeastern Conference"
+        ]
+    },
+    "TREC_Entity-16": {
+        "original": "Sponsors of the Mancuso quilt festivals.",
+        "expanded": [
+            "Organizers behind the Mancuso Quilt Expos and Festivals.",
+            "Companies supporting Mancuso's Quilting Events and Shows.",
+            "Partners and backers of the Mancuso Quilt Festival Series"
+        ]
+    },
+    "TREC_Entity-18": {
+        "original": "Members of the band Jefferson Airplane.",
+        "expanded": [
+            "Who were the musicians in Jefferson Airplane?",
+            "List of Jefferson Airplane band members.",
+            "Jefferson Airplane group members and their roles."
+        ]
+    },
+    "TREC_Entity-19": {
+        "original": "Companies that John Hennessey serves on the board of.",
+        "expanded": [
+            "John Hennessey's board memberships and affiliations.",
+            "Board of directors that feature John Hennessey as a member.",
+            "What companies has John Hennessey been involved with in an executive capacity?"
+        ]
+    },
+    "TREC_Entity-2": {
+        "original": "Winners of the ACM Athena award.",
+        "expanded": [
+            "ACM awards for diversity and inclusion in computing",
+            "Athena lecturers recognized by the Association for Computing Machinery",
+            "Recipients of the ACM award for outstanding contributions to women in computing"
+        ]
+    },
+    "TREC_Entity-20": {
+        "original": "Scotch whisky distilleries on the island of Islay.",
+        "expanded": [
+            "Distilleries located on Islay island producing Scotch whisky.",
+            "Islay-based producers of Scottish whisky.",
+            "Whisky production on the Isle of Islay, Scotland."
+        ]
+    },
+    "TREC_Entity-4": {
+        "original": "Professional sports teams in Philadelphia.",
+        "expanded": [
+            "Sports franchises in Philly.",
+            "Philadelphia-based athletic organizations.",
+            "Pro teams that play in Philadelphia."
+        ]
+    },
+    "TREC_Entity-5": {
+        "original": "Products of Medimmune, Inc.",
+        "expanded": [
+            "Medimmune company portfolio",
+            "AstraZeneca subsidiary products (Medimmune is a subsidiary of AstraZeneca)",
+            "Therapeutic areas of Medimmune research"
+        ]
+    },
+    "TREC_Entity-6": {
+        "original": "Organizations that award Nobel prizes.",
+        "expanded": [
+            "Nobel Prize awarding institutions",
+            "Entities responsible for conferring Nobel awards",
+            "Bodies that present Nobel Prizes in various fields"
+        ]
+    },
+    "TREC_Entity-7": {
+        "original": "Airlines that currently use Boeing 747 planes.",
+        "expanded": [
+            "Which airlines operate Boeing 747 aircraft in their fleet?",
+            "What are the current users of the Boeing 747 jumbo jet in commercial aviation?",
+            "Which carriers still fly the Boeing 747, and what are their routes?"
+        ]
+    },
+    "TREC_Entity-9": {
+        "original": "Members of The Beaux Arts Trio.",
+        "expanded": [
+            "Musicians of the Beaux Arts Trio ensemble.",
+            "Who were the pianist, violinist, and cellist of the Beaux Arts Trio?",
+            "What are the names of the artists that made up the Beaux Arts Trio chamber music group?"
+        ]
+    }
+}

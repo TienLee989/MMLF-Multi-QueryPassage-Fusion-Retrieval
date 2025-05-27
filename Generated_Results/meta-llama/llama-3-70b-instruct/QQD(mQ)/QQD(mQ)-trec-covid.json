@@ -1,0 +1,402 @@
+{
+    "1": {
+        "original": "what is the origin of COVID-19",
+        "expanded": [
+            "Where did COVID-19 first appear?",
+            "What is the scientific origin of COVID-19?",
+            "How did COVID-19 spread from animals to humans?"
+        ]
+    },
+    "2": {
+        "original": "how does the coronavirus respond to changes in the weather",
+        "expanded": [
+            "Does temperature affect the survival and transmission of COVID-19?",
+            "How does humidity impact the spread of COVID-19?",
+            "Does weather influence human behavior and, consequently, the spread of COVID-19?"
+        ]
+    },
+    "3": {
+        "original": "will SARS-CoV2 infected people develop immunity? Is cross protection possible?",
+        "expanded": [
+            "Can people develop immunity to SARS-CoV-2 after infection?",
+            "How long does immunity to SARS-CoV-2 last?",
+            "Is cross-protection against other coronaviruses possible after SARS-CoV-2 infection?"
+        ]
+    },
+    "4": {
+        "original": "what causes death from Covid-19?",
+        "expanded": [
+            "What are the complications that can lead to death from Covid-19?",
+            "How does Covid-19 damage the lungs and lead to respiratory failure?",
+            "What underlying health conditions increase the risk of death from Covid-19?"
+        ]
+    },
+    "5": {
+        "original": "what drugs have been active against SARS-CoV or SARS-CoV-2 in animal studies?",
+        "expanded": [
+            "What antiviral drugs have shown efficacy against SARS-CoV in animal studies?",
+            "What antiviral drugs have shown efficacy against SARS-CoV-2 in animal studies?",
+            "Are there any drugs that have demonstrated efficacy against both SARS-CoV and SARS-CoV-2 in animal studies?"
+        ]
+    },
+    "6": {
+        "original": "what types of rapid testing for Covid-19 have been developed?",
+        "expanded": [
+            "What are the different categories of rapid testing for Covid-19?",
+            "What are some examples of antigen-based rapid tests for Covid-19?",
+            "What are some examples of molecular-based rapid tests for Covid-19, including PCR and non-PCR based tests?"
+        ]
+    },
+    "7": {
+        "original": "are there serological tests that detect antibodies to coronavirus?",
+        "expanded": [
+            "What is the purpose of serological tests in diagnosing coronavirus?",
+            "What types of antibodies do serological tests detect in coronavirus infections?",
+            "Are there commercially available serological tests that detect antibodies to coronavirus?"
+        ]
+    },
+    "8": {
+        "original": "how has lack of testing availability led to underreporting of true incidence of Covid-19?",
+        "expanded": [
+            "What is the current state of testing availability for Covid-19 globally?",
+            "What are the consequences of lack of testing availability on Covid-19 case detection?",
+            "How does underreporting of Covid-19 cases impact public health responses and policies?"
+        ]
+    },
+    "9": {
+        "original": "how has COVID-19 affected Canada",
+        "expanded": [
+            "How has COVID-19 affected Canada's healthcare system?",
+            "What has been the economic impact of COVID-19 on Canada?",
+            "How has COVID-19 affected daily life in Canada?"
+        ]
+    },
+    "10": {
+        "original": "has social distancing had an impact on slowing the spread of COVID-19?",
+        "expanded": [
+            "What is the relationship between social distancing and the reproduction number (R0) of COVID-19?",
+            "Have countries that implemented social distancing measures experienced a slower spread of COVID-19 compared to those that did not?",
+            "Are there any empirical studies that have directly measured the impact of social distancing on the spread of COVID-19?"
+        ]
+    },
+    "11": {
+        "original": "what are the guidelines for triaging patients infected with coronavirus?",
+        "expanded": [
+            "What are the criteria for identifying patients with suspected COVID-19?",
+            "How should patients with suspected COVID-19 be assessed and prioritized?",
+            "What are the recommended infection control measures for triaging patients with suspected COVID-19?"
+        ]
+    },
+    "12": {
+        "original": "what are best practices in hospitals and at home in maintaining quarantine?",
+        "expanded": [
+            "What are the general principles of quarantine in hospitals?",
+            "What are the essential supplies needed for home quarantine?",
+            "What are some strategies for reducing the risk of transmission during quarantine?"
+        ]
+    },
+    "13": {
+        "original": "what are the transmission routes of coronavirus?",
+        "expanded": [
+            "How is coronavirus transmitted from person-to-person?",
+            "Can coronavirus be transmitted through contaminated surfaces and objects?",
+            "Is coronavirus transmitted through airborne transmission?"
+        ]
+    },
+    "14": {
+        "original": "what evidence is there related to COVID-19 super spreaders",
+        "expanded": [
+            "What is a COVID-19 super spreader?",
+            "What are the characteristics of COVID-19 super spreaders?",
+            "What is the evidence for the role of super spreaders in COVID-19 transmission?"
+        ]
+    },
+    "15": {
+        "original": "how long can the coronavirus live outside the body",
+        "expanded": [
+            "How long does COVID-19 survive on surfaces?",
+            "Can COVID-19 survive in the air?",
+            "How does environmental factors affect the survival of COVID-19 outside the body?"
+        ]
+    },
+    "16": {
+        "original": "how long does coronavirus remain stable  on surfaces?",
+        "expanded": [
+            "How long does coronavirus remain stable on different types of surfaces?",
+            "What factors affect the stability of coronavirus on surfaces?",
+            "Are there any surfaces on which coronavirus remains stable for an extended period?"
+        ]
+    },
+    "17": {
+        "original": "are there any clinical trials available for the coronavirus",
+        "expanded": [
+            "What are the current clinical trial registries for COVID-19?",
+            "What types of clinical trials are being conducted for COVID-19?",
+            "How can I find and participate in a COVID-19 clinical trial?"
+        ]
+    },
+    "18": {
+        "original": "what are the best masks for preventing infection by Covid-19?",
+        "expanded": [
+            "What types of masks are effective against Covid-19?",
+            "What are the key features to look for in a Covid-19 mask?",
+            "Are surgical masks or respirator masks better for preventing Covid-19 infection?"
+        ]
+    },
+    "19": {
+        "original": "what type of hand sanitizer is needed to destroy Covid-19?",
+        "expanded": [
+            "What are the characteristics of Covid-19 that make it susceptible to hand sanitizers?",
+            "What are the key ingredients in hand sanitizers that are effective against Covid-19?",
+            "Are there any specific guidelines or recommendations for using hand sanitizers to prevent the spread of Covid-19?"
+        ]
+    },
+    "20": {
+        "original": "are patients taking Angiotensin-converting enzyme inhibitors (ACE) at increased risk for COVID-19?",
+        "expanded": [
+            "What is the mechanism of action of Angiotensin-converting enzyme (ACE) inhibitors, and how does it relate to COVID-19?",
+            "Are there any studies that have investigated the association between ACE inhibitor use and COVID-19 risk or severity?",
+            "What are the potential confounding factors that may influence the association between ACE inhibitor use and COVID-19 risk or severity?"
+        ]
+    },
+    "21": {
+        "original": "what are the mortality rates overall and in specific populations",
+        "expanded": [
+            "What are the overall mortality rates globally?",
+            "What are the mortality rates in specific age groups?",
+            "How do mortality rates vary by geographic region, socioeconomic status, and other demographic factors?"
+        ]
+    },
+    "22": {
+        "original": "are cardiac complications likely in patients with COVID-19?",
+        "expanded": [
+            "What are the common cardiac complications associated with COVID-19?",
+            "What are the risk factors for developing cardiac complications in patients with COVID-19?",
+            "How does COVID-19 infection lead to cardiac complications?"
+        ]
+    },
+    "23": {
+        "original": "what kinds of complications related to COVID-19 are associated with hypertension?",
+        "expanded": [
+            "What is the relationship between COVID-19 and hypertension?",
+            "What are the cardiovascular complications associated with COVID-19 in patients with hypertension?",
+            "Are there any other non-cardiovascular complications associated with COVID-19 in patients with hypertension?"
+        ]
+    },
+    "24": {
+        "original": "what kinds of complications related to COVID-19 are associated with diabetes",
+        "expanded": [
+            "What are the general complications associated with diabetes?",
+            "How does COVID-19 affect people with diabetes?",
+            "What specific COVID-19-related complications are associated with diabetes?"
+        ]
+    },
+    "25": {
+        "original": "which biomarkers predict the severe clinical course of 2019-nCOV infection?",
+        "expanded": [
+            "What are the clinical features of severe 2019-nCOV infection?",
+            "What biomarkers have been identified as potential predictors of severe 2019-nCOV infection?",
+            "What is the evidence for the predictive value of these biomarkers in severe 2019-nCOV infection?"
+        ]
+    },
+    "26": {
+        "original": "what are the initial symptoms of Covid-19?",
+        "expanded": [
+            "What are the most common symptoms of Covid-19?",
+            "What are the early warning signs of severe illness in Covid-19 patients?",
+            "Are there any mild symptoms of Covid-19 that can develop into severe illness?"
+        ]
+    },
+    "27": {
+        "original": "what is known about those infected with Covid-19 but are asymptomatic?",
+        "expanded": [
+            "What is the definition of an asymptomatic Covid-19 case?",
+            "How common are asymptomatic Covid-19 cases?",
+            "Do asymptomatic individuals still transmit the virus to others?"
+        ]
+    },
+    "28": {
+        "original": "what evidence is there for the value of hydroxychloroquine in treating Covid-19?",
+        "expanded": [
+            "What is the history of hydroxychloroquine's use in treating Covid-19?",
+            "What are the results of clinical trials studying hydroxychloroquine's effectiveness in treating Covid-19?",
+            "Are there any potential harms or side effects associated with using hydroxychloroquine to treat Covid-19?"
+        ]
+    },
+    "29": {
+        "original": "which SARS-CoV-2 proteins-human proteins interactions indicate potential for drug targets. Are there approved drugs that can be repurposed based on this information?",
+        "expanded": [
+            "Which SARS-CoV-2 proteins interact with human proteins, and what are the functional implications of these interactions?",
+            "What are the druggable protein-protein interactions (PPIs) between SARS-CoV-2 proteins and human proteins?",
+            "Are there approved drugs that can be repurposed to target the identified SARS-CoV-2 proteins-human proteins interactions?"
+        ]
+    },
+    "30": {
+        "original": "is remdesivir an effective treatment for COVID-19",
+        "expanded": [
+            "What is remdesivir and how does it work against COVID-19?",
+            "What is the current evidence for the efficacy of remdesivir in treating COVID-19?",
+            "What are the potential risks and side effects associated with remdesivir treatment for COVID-19?"
+        ]
+    },
+    "31": {
+        "original": "How does the coronavirus differ from seasonal flu?",
+        "expanded": [
+            "What are the symptoms of coronavirus and seasonal flu?",
+            "How are coronavirus and seasonal flu transmitted?",
+            "What are the mortality rates and demographics affected by coronavirus and seasonal flu?"
+        ]
+    },
+    "32": {
+        "original": "Does SARS-CoV-2 have any subtypes, and if so what are they?",
+        "expanded": [
+            "What is SARS-CoV-2 and its classification?",
+            "Are there any genetic variations of SARS-CoV-2?",
+            "What are the characteristics and implications of these SARS-CoV-2 subtypes?"
+        ]
+    },
+    "33": {
+        "original": "What vaccine candidates are being tested for Covid-19?",
+        "expanded": [
+            "What are the different types of Covid-19 vaccine candidates being developed?",
+            "Which pharmaceutical companies and organizations are leading the vaccine development efforts?",
+            "What is the current status of the vaccine candidates in clinical trials?"
+        ]
+    },
+    "34": {
+        "original": "What are the longer-term complications of those who recover from COVID-19?",
+        "expanded": [
+            "What are the common long-term symptoms experienced by COVID-19 survivors?",
+            "Are there any increased risks of cardiovascular or neurological complications in COVID-19 survivors?",
+            "Can COVID-19 survivors experience long-term lung damage or other organ damage?"
+        ]
+    },
+    "35": {
+        "original": "What new public datasets are available related to COVID-19?",
+        "expanded": [
+            "What are the latest datasets released by prominent health organizations related to COVID-19?",
+            "Which datasets on COVID-19 are available on popular data repositories?",
+            "What new datasets have been released by governments and research institutions related to COVID-19?"
+        ]
+    },
+    "36": {
+        "original": "What is the protein structure of the SARS-CoV-2 spike?",
+        "expanded": [
+            "What is the general structure of the SARS-CoV-2 spike protein?",
+            "What is the domain organization of the SARS-CoV-2 spike protein?",
+            "What is the cryo-EM structure of the SARS-CoV-2 spike protein?"
+        ]
+    },
+    "37": {
+        "original": "What is the result of phylogenetic analysis of SARS-CoV-2 genome sequence?",
+        "expanded": [
+            "What is phylogenetic analysis?",
+            "What is the significance of SARS-CoV-2 genome sequence in phylogenetic analysis?",
+            "What are the results of phylogenetic analysis of SARS-CoV-2 genome sequence?"
+        ]
+    },
+    "38": {
+        "original": "What is the mechanism of inflammatory response and pathogenesis of COVID-19 cases?",
+        "expanded": [
+            "What are the initial steps of the inflammatory response in COVID-19?",
+            "How does SARS-CoV-2 evade the host immune response and contribute to inflammation?",
+            "What are the key cellular and molecular mechanisms underlying the pathogenesis of severe COVID-19?"
+        ]
+    },
+    "39": {
+        "original": "What is the mechanism of cytokine storm syndrome on the COVID-19?",
+        "expanded": [
+            "What is cytokine storm syndrome?",
+            "What triggers cytokine storm syndrome in COVID-19?",
+            "How does cytokine storm syndrome contribute to the pathogenesis of COVID-19?"
+        ]
+    },
+    "40": {
+        "original": "What are the observed mutations in the SARS-CoV-2 genome and how often do the mutations occur?",
+        "expanded": [
+            "What types of mutations have been observed in the SARS-CoV-2 genome?",
+            "What are the most common mutations observed in the SARS-CoV-2 genome?",
+            "What is the frequency of SARS-CoV-2 mutations and how do they vary across geographic regions?"
+        ]
+    },
+    "41": {
+        "original": "What are the impacts of COVID-19 among African-Americans that differ from the rest of the U.S. population?",
+        "expanded": [
+            "What are the demographic factors that contribute to the differing impacts of COVID-19 among African-Americans?",
+            "How does the prevalence of underlying health conditions among African-Americans affect their susceptibility to severe COVID-19 illness?",
+            "What are the economic and social consequences of COVID-19 that disproportionately affect African-Americans?"
+        ]
+    },
+    "42": {
+        "original": "Does Vitamin D impact COVID-19 prevention and treatment?",
+        "expanded": [
+            "What is the relationship between Vitamin D levels and COVID-19 severity?",
+            "Can Vitamin D supplements reduce the risk of COVID-19 infection?",
+            "How does Vitamin D impact the immune system's response to COVID-19?"
+        ]
+    },
+    "43": {
+        "original": "How has the COVID-19 pandemic impacted violence in society, including violent crimes?",
+        "expanded": [
+            "How has the COVID-19 pandemic affected overall crime rates globally?",
+            "What is the impact of COVID-19 on domestic violence rates?",
+            "How has the pandemic affected gang violence and street crime?"
+        ]
+    },
+    "44": {
+        "original": "How much impact do masks have on preventing the spread of the COVID-19?",
+        "expanded": [
+            "What is the scientific basis for mask-wearing in preventing the spread of COVID-19?",
+            "What are the effectiveness rates of different types of masks in preventing the spread of COVID-19?",
+            "What are the real-world results of widespread mask-wearing in preventing the spread of COVID-19 in various settings?"
+        ]
+    },
+    "45": {
+        "original": "How has the COVID-19 pandemic impacted mental health?",
+        "expanded": [
+            "What are the common mental health issues experienced during the COVID-19 pandemic?",
+            "Which populations are most affected by the pandemic's impact on mental health?",
+            "What are the long-term consequences of the pandemic's impact on mental health?"
+        ]
+    },
+    "46": {
+        "original": "what evidence is there for dexamethasone as a treatment for COVID-19?",
+        "expanded": [
+            "What is the mechanism of action of dexamethasone in treating COVID-19?",
+            "What are the results of clinical trials on dexamethasone for COVID-19 treatment?",
+            "What are the guidelines and recommendations for using dexamethasone to treat COVID-19?"
+        ]
+    },
+    "47": {
+        "original": "what are the health outcomes for children who contract COVID-19?",
+        "expanded": [
+            "What are the common symptoms of COVID-19 in children?",
+            "What are the risks of severe illness and hospitalization for children with COVID-19?",
+            "Are there any long-term health effects of COVID-19 in children?"
+        ]
+    },
+    "48": {
+        "original": "what are the benefits and risks of re-opening schools in the midst of the COVID-19 pandemic?",
+        "expanded": [
+            "What are the benefits of re-opening schools during the COVID-19 pandemic?",
+            "What are the risks of re-opening schools during the COVID-19 pandemic?",
+            "What measures can be taken to mitigate the risks of re-opening schools during the COVID-19 pandemic?"
+        ]
+    },
+    "49": {
+        "original": "do individuals who recover from COVID-19 show sufficient immune response, including antibody levels and T-cell mediated immunity, to prevent re-infection?",
+        "expanded": [
+            "Do individuals who recover from COVID-19 produce antibodies against SARS-CoV-2?",
+            "Do these antibodies persist at protective levels over time?",
+            "Is T-cell mediated immunity also induced in individuals who recover from COVID-19?"
+        ]
+    },
+    "50": {
+        "original": "what is known about an mRNA vaccine for the SARS-CoV-2 virus?",
+        "expanded": [
+            "What is an mRNA vaccine?",
+            "How does an mRNA vaccine for SARS-CoV-2 work?",
+            "What is the current status of mRNA vaccine development for SARS-CoV-2?"
+        ]
+    }
+}

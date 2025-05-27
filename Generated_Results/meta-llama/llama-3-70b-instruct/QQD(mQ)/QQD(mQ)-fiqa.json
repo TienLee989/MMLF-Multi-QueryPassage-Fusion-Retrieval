@@ -1,0 +1,1929 @@
+{
+    "8": {
+        "original": "How to deposit a cheque issued to an associate in my business into my business account?",
+        "expanded": [
+            "Can I deposit a cheque issued to another person into my business account?",
+            "How do I endorse a cheque issued to my associate?",
+            "What documentation do I need to provide to deposit a cheque issued to my associate into my business account?"
+        ]
+    },
+    "15": {
+        "original": "Can I send a money order from USPS as a business?",
+        "expanded": [
+            "Can I purchase a money order from USPS as a business?",
+            "Are there any specific requirements or restrictions for businesses purchasing money orders from USPS?",
+            "Can I use a business checks or credit cards to purchase a money order from USPS?"
+        ]
+    },
+    "18": {
+        "original": "1 EIN doing business under multiple business names",
+        "expanded": [
+            "What is an Employer Identification Number (EIN)?",
+            "Why might a business operate under multiple business names?",
+            "How can I find out if a business is operating under multiple names with the same EIN?"
+        ]
+    },
+    "26": {
+        "original": "Applying for and receiving business credit",
+        "expanded": [
+            "What are the basic requirements to apply for business credit?",
+            "How do I establish business credit?",
+            "What are the factors that influence the approval of business credit applications?"
+        ]
+    },
+    "34": {
+        "original": "401k Transfer After Business Closure",
+        "expanded": [
+            "What happens to a 401k plan when a business closes?",
+            "Can I transfer my 401k to an IRA after the business closes?",
+            "What are the tax implications of transferring my 401k to an IRA after a business closure?"
+        ]
+    },
+    "42": {
+        "original": "What are the ins/outs of writing equipment purchases off as business expenses in a home based business?",
+        "expanded": [
+            "What constitutes a business expense for a home-based business?",
+            "What are the rules for writing off equipment purchases as business expenses?",
+            "What records and documentation are required to support equipment purchase deductions?"
+        ]
+    },
+    "56": {
+        "original": "Can a entrepreneur hire a self-employed business owner?",
+        "expanded": [
+            "What is the difference between an entrepreneur and a self-employed business owner?",
+            "Can a business hire another business?",
+            "Can a business hire the owner of another business?"
+        ]
+    },
+    "68": {
+        "original": "Intentions of Deductible Amount for Small Business",
+        "expanded": [
+            "What are the common deductible expenses for small businesses?",
+            "How do small businesses determine deductible amounts for expenses?",
+            "What are the benefits of deducting expenses for small businesses?"
+        ]
+    },
+    "89": {
+        "original": "How can I deposit a check made out to my business into my personal account?",
+        "expanded": [
+            "Can I deposit a business check into my personal account?",
+            "Is it legal to deposit a business check into my personal account?",
+            "How do I deposit a business check into my business account?"
+        ]
+    },
+    "90": {
+        "original": "Filing personal with 1099s versus business s-corp?",
+        "expanded": [
+            "What are the key differences between filing personal taxes with 1099s and business taxes as an S-Corp?",
+            "What are the benefits of filing personal taxes with 1099s?",
+            "What are the benefits of filing business taxes as an S-Corp?"
+        ]
+    },
+    "94": {
+        "original": "Using credit card points to pay for tax deductible business expenses",
+        "expanded": [
+            "What kind of business expenses are tax deductible?",
+            "Can credit card points be used to pay for business expenses?",
+            "How do I document and claim credit card points redeemed for business expenses on my tax return?"
+        ]
+    },
+    "98": {
+        "original": "How can I make $250,000.00 from trading/investing/business within 5 years?",
+        "expanded": [
+            "What are the most profitable trading strategies that can generate high returns?",
+            "What are the best investment opportunities that can provide high returns in a short period?",
+            "What are the most profitable business ideas that can generate $250,000 in revenue within 5 years?"
+        ]
+    },
+    "104": {
+        "original": "Investing/business with other people's money: How does it work?",
+        "expanded": [
+            "What is investing with other people's money?",
+            "How do investors benefit from OPM?",
+            "What are the risks and responsibilities involved in using OPM?"
+        ]
+    },
+    "106": {
+        "original": "What approaches are there for pricing a small business?",
+        "expanded": [
+            "What are the common pricing strategies for small businesses?",
+            "How do small businesses determine their pricing power?",
+            "What are some pricing methods for small businesses with high overhead costs?"
+        ]
+    },
+    "109": {
+        "original": "How to account for money earned and spent prior to establishing business bank accounts?",
+        "expanded": [
+            "What are the basic principles of accounting for personal and business finances?",
+            "How do I track and categorize business income and expenses before setting up a business bank account?",
+            "What are the tax implications of commingling personal and business funds, and how can I avoid them?"
+        ]
+    },
+    "475": {
+        "original": "Do I need a new EIN since I am hiring employees for my LLC?",
+        "expanded": [
+            "What is an EIN and why is it required?",
+            "Did I already obtain an EIN when I formed my LLC?",
+            "Do I need a new EIN if my business structure or ownership changes?"
+        ]
+    },
+    "503": {
+        "original": "Privacy preferences on creditworthiness data",
+        "expanded": [
+            "What types of data are included in creditworthiness data?",
+            "How is creditworthiness data collected and stored?",
+            "What privacy preferences do individuals have regarding their creditworthiness data?"
+        ]
+    },
+    "504": {
+        "original": "Have plenty of cash flow but bad credit",
+        "expanded": [
+            "How can I prove my cash flow to lenders?",
+            "What lenders consider bad credit, and how do they evaluate it?",
+            "What financing options are available for individuals with bad credit but plenty of cash flow?"
+        ]
+    },
+    "515": {
+        "original": "financial institution wants share member break down for single member LLC",
+        "expanded": [
+            "What is a Single Member LLC?",
+            "How does ownership work in an SMLLC?",
+            "What are the benefits of an SMLLC for financial institutions?"
+        ]
+    },
+    "529": {
+        "original": "Sole proprietorship or LLC?",
+        "expanded": [
+            "What is a sole proprietorship?",
+            "What is an LLC (Limited Liability Company)?",
+            "What are the key differences between a sole proprietorship and an LLC?"
+        ]
+    },
+    "547": {
+        "original": "What percentage of my company should I have if I only put money?",
+        "expanded": [
+            "What are the different types of company ownership structures?",
+            "How do I calculate my percentage of ownership in a company?",
+            "Is investing money the only way to have ownership in a company?"
+        ]
+    },
+    "549": {
+        "original": "Where to request ACH Direct DEBIT of funds from MY OWN personal bank account?",
+        "expanded": [
+            "What is ACH Direct Debit?",
+            "Who can request ACH Direct Debit of funds?",
+            "Where to request ACH Direct Debit of funds from my own personal bank account?"
+        ]
+    },
+    "559": {
+        "original": "Challenged an apparently bogus credit card charge, what happens now?",
+        "expanded": [
+            "What happens immediately after reporting a disputed charge to the credit card company?",
+            "What investigation process does the credit card company follow to resolve the dispute?",
+            "What are the possible outcomes of the investigation and what happens next?"
+        ]
+    },
+    "570": {
+        "original": "Employer options when setting up 401k for employees",
+        "expanded": [
+            "What are the different types of 401k plans that employers can offer?",
+            "What are the contribution options for employers and employees in a 401k plan?",
+            "What are the administrative and compliance responsibilities of employers with a 401k plan?"
+        ]
+    },
+    "585": {
+        "original": "Following an investment guru a good idea?",
+        "expanded": [
+            "What are the benefits of following an investment guru?",
+            "What are the potential risks of following an investment guru?",
+            "How can one effectively follow an investment guru while minimizing risks?"
+        ]
+    },
+    "588": {
+        "original": "Is there a reason to buy a 0% yield bond?",
+        "expanded": [
+            "What is a 0% yield bond?",
+            "What are the benefits of buying a 0% yield bond?",
+            "What scenarios might justify buying a 0% yield bond?"
+        ]
+    },
+    "594": {
+        "original": "Should a retail trader bother about reading SEC filings",
+        "expanded": [
+            "What is the purpose of SEC filings?",
+            "What kind of information can be found in SEC filings that is useful for retail traders?",
+            "Is it worthwhile for retail traders to dedicate time and effort to reading SEC filings?"
+        ]
+    },
+    "603": {
+        "original": "Will one\u2019s education loan application be rejected if one doesn't have a payslip providing collateral?",
+        "expanded": [
+            "What are the common requirements for an education loan application?",
+            "Can education loans be availed without collateral?",
+            "What are the alternative forms of income proof accepted by lenders for education loans?"
+        ]
+    },
+    "604": {
+        "original": "Is there a dollar amount that, when adding Massachusetts Sales Tax, precisely equals $200?",
+        "expanded": [
+            "What is the Massachusetts Sales Tax rate?",
+            "How do you calculate the pre-tax cost of an item with a known post-tax price?",
+            "What is the pre-tax cost of an item with a post-tax price of $200, given a 6.25% sales tax rate?"
+        ]
+    },
+    "620": {
+        "original": "Is it wise to have plenty of current accounts in different banks?",
+        "expanded": [
+            "What are the benefits of having multiple current accounts in different banks?",
+            "Are there any drawbacks to having multiple current accounts in different banks?",
+            "How can individuals effectively manage multiple current accounts in different banks?"
+        ]
+    },
+    "622": {
+        "original": "Accidentally opened a year term CD account, then realized I need the money sooner. What to do?",
+        "expanded": [
+            "Can I withdraw my money from a CD account before the term ends?",
+            "How do I minimize the early withdrawal penalty?",
+            "Are there any alternatives to withdrawing from my CD account?"
+        ]
+    },
+    "659": {
+        "original": "Buying from an aggressive salesperson",
+        "expanded": [
+            "How to identify an aggressive salesperson",
+            "How to handle an aggressive salesperson",
+            "Pros and cons of buying from an aggressive salesperson"
+        ]
+    },
+    "672": {
+        "original": "Credit and Debit",
+        "expanded": [
+            "What is credit?",
+            "What is debit?",
+            "What is the key difference between credit and debit?"
+        ]
+    },
+    "684": {
+        "original": "Beyond RRSP deductions, how does a high income earner save on taxes?",
+        "expanded": [
+            "What are other registered savings plans available to high income earners besides RRSPs?",
+            "How can high income earners utilize income splitting strategies to reduce taxes?",
+            "What non-registered investment strategies can high income earners use to minimize taxes?"
+        ]
+    },
+    "687": {
+        "original": "Online tool to connect to my bank account and tell me what I spend in different categories?",
+        "expanded": [
+            "What types of online tools can connect to my bank account?",
+            "How do these online tools categorize my spending?",
+            "What kind of insights can I expect to gain from using an online tool to track my spending by category?"
+        ]
+    },
+    "689": {
+        "original": "Receive credit card payment sending my customer details to a credit card processing company?",
+        "expanded": [
+            "What personal customer details are required by credit card processing companies?",
+            "How do credit card processing companies ensure the security of customer data?",
+            "What are the benefits and risks of sending customer details to a credit card processing company?"
+        ]
+    },
+    "691": {
+        "original": "How to categorize credit card payments?",
+        "expanded": [
+            "What are the main categories of credit card payments?",
+            "What are the transaction-based categories for credit card payments?",
+            "Are there any industry-specific categorizations for credit card payments?"
+        ]
+    },
+    "699": {
+        "original": "Prepaid Rent (Accrual Based Accounting)",
+        "expanded": [
+            "What is prepaid rent?",
+            "How does accrual based accounting treat prepaid rent?",
+            "How is prepaid rent accounted for at the end of the accounting period?"
+        ]
+    },
+    "701": {
+        "original": "What are the ins/outs of writing-off part of one's rent for working at home?",
+        "expanded": [
+            "What are the benefits of writing off part of one's rent for working at home?",
+            "What are the eligibility criteria for writing off part of one's rent for working at home?",
+            "How do I calculate the amount of rent that can be written off for working at home?"
+        ]
+    },
+    "715": {
+        "original": "what would you do with $100K saving?",
+        "expanded": [
+            "What are some smart financial investments to make with $100K?",
+            "How can I use $100K to pay off debt and improve my credit score?",
+            "What are some experiences or luxuries I could indulge in with $100K?"
+        ]
+    },
+    "721": {
+        "original": "What are \u201cupstream investments\u201d and \u201cdownstream investments\u201d in this context?",
+        "expanded": [
+            "What is the context of \"upstream investments\" and \"downstream investments\"?",
+            "What are the specific activities involved in upstream investments?",
+            "What are the specific activities involved in downstream investments?"
+        ]
+    },
+    "744": {
+        "original": "What options are available for a home loan with poor credit but a good rental history?",
+        "expanded": [
+            "What are the credit score requirements for a home loan?",
+            "How does rental history affect mortgage eligibility?",
+            "What alternative mortgage options are available for borrowers with poor credit but good rental history?"
+        ]
+    },
+    "750": {
+        "original": "Paid part of my state refund back last year; now must declare the initial amount as income?",
+        "expanded": [
+            "Do I need to report my state refund as income?",
+            "How does the IRS treat refunds of previously deducted state taxes?",
+            "Does paying back part of my state refund affect my tax obligation?"
+        ]
+    },
+    "753": {
+        "original": "Taxes due for hobbyist Group Buy",
+        "expanded": [
+            "What is a hobbyist Group Buy?**",
+            "How do taxes apply to a hobbyist Group Buy?**",
+            "What taxes are due for a hobbyist Group Buy?**"
+        ]
+    },
+    "766": {
+        "original": "Will the ex-homeowner still owe money after a foreclosure?",
+        "expanded": [
+            "What happens to the debt after a foreclosure?",
+            "Can the lender pursue the borrower for the remaining debt?",
+            "Are there any situations where the borrower may not be liable for the remaining debt?"
+        ]
+    },
+    "776": {
+        "original": "Can saving/investing 15% of your income starting age 25, likely make you a millionaire?",
+        "expanded": [
+            "How much money do I need to save per month to reach a million dollars by a certain age?",
+            "What is the power of compound interest, and how does it help in wealth creation?",
+            "How can I sustainably save 15% of my income, and what lifestyle adjustments might I need to make?"
+        ]
+    },
+    "810": {
+        "original": "Can I open a bank account in the US remotely? Will I pay taxes for the money on it?",
+        "expanded": [
+            "Can non-US citizens open a bank account in the US?",
+            "Can I open a US bank account remotely?",
+            "Do I need to pay taxes on the money in my US bank account?"
+        ]
+    },
+    "813": {
+        "original": "Income Tax and Investments",
+        "expanded": [
+            "How do investments affect income tax?",
+            "What are the tax implications of different types of investments?",
+            "How can I optimize my investments to minimize income tax?"
+        ]
+    },
+    "849": {
+        "original": "Accounting for reimbursements that exceed actual expenses",
+        "expanded": [
+            "What are the common reasons for reimbursements exceeding actual expenses?",
+            "How do companies typically account for reimbursements that exceed actual expenses?",
+            "What are the implications of not addressing reimbursements that exceed actual expenses on a company's financial statements?"
+        ]
+    },
+    "852": {
+        "original": "Dalbar: How can the average investor lose money?",
+        "expanded": [
+            "What is Dalbar?",
+            "What are the common mistakes that lead to poor investment returns?",
+            "How can investors avoid these common mistakes and achieve better returns?"
+        ]
+    },
+    "853": {
+        "original": "What will my taxes be as self employed?",
+        "expanded": [
+            "What is my self-employment tax rate?",
+            "How do I calculate my net earnings from self-employment?",
+            "Are there any deductions or credits that can reduce my self-employment tax liability?"
+        ]
+    },
+    "858": {
+        "original": "Is it bad practice to invest in stocks that fluctuate by single points throughout the day?",
+        "expanded": [
+            "What kind of stocks fluctuate by single points throughout the day?**\n**",
+            "What drives the volatility of these stocks?**\n**",
+            "What are the potential risks and limitations of investing in these stocks?**\n**"
+        ]
+    },
+    "859": {
+        "original": "Any reason to keep around my account with my old, 'big' bank?",
+        "expanded": [
+            "What benefits are tied to my account with the old bank?",
+            "Are there any outstanding transactions or direct deposits tied to my account?",
+            "Would closing the account negatively impact my credit score?"
+        ]
+    },
+    "864": {
+        "original": "Why use accounting software like Quickbooks instead of Excel spreadsheets?",
+        "expanded": [
+            "What are the limitations of using Excel spreadsheets for accounting?",
+            "What are the benefits of using accounting software like Quickbooks?",
+            "How does accounting software like Quickbooks improve financial accuracy and compliance?"
+        ]
+    },
+    "879": {
+        "original": "Capital improvement and depreciation in restaurant LLC",
+        "expanded": [
+            "What is capital improvement in a restaurant LLC?",
+            "How do you depreciate capital improvements in a restaurant LLC?",
+            "What are the tax implications of capital improvement and depreciation in a restaurant LLC?"
+        ]
+    },
+    "885": {
+        "original": "How long do credit cards keep working after you disappear?",
+        "expanded": [
+            "How long do credit card accounts remain active after the cardholder's disappearance?",
+            "How do credit card companies detect and respond to a cardholder's disappearance?",
+            "What are the legal and regulatory requirements for credit card companies in cases of disappeared cardholders?"
+        ]
+    },
+    "895": {
+        "original": "California tells me I didn't file documents for an LLC that isn't mine. What do I do?",
+        "expanded": [
+            "What are the common reasons for receiving a notice from the California Secretary of State regarding an unknown LLC?",
+            "What steps can I take to verify the LLC's existence and my involvement?",
+            "How can I respond to the notice and correct the error?"
+        ]
+    },
+    "904": {
+        "original": "How do I set up Quickbooks for a small property rental company that holds its properties in separate LLC's?",
+        "expanded": [
+            "How do I set up multiple companies in QuickBooks?",
+            "How do I set up properties as classes in QuickBooks?",
+            "How do I handle inter-company transactions in QuickBooks?"
+        ]
+    },
+    "928": {
+        "original": "How can I determine if a FHA loan refinance offer is from a reputable lender",
+        "expanded": [
+            "What are the credentials and licenses required for a reputable FHA lender?",
+            "How can I research a lender's reputation online and offline?",
+            "What are the warning signs of a predatory lender, and how can I avoid them?"
+        ]
+    },
+    "929": {
+        "original": "Freelancer: Should I start a second bank account?",
+        "expanded": [
+            "What are the benefits of having a second bank account as a freelancer?",
+            "How can a second bank account help me with tax planning and compliance as a freelancer?",
+            "What are the potential drawbacks and considerations of opening a second bank account as a freelancer?"
+        ]
+    },
+    "932": {
+        "original": "Is freelance income earned by a U.S. citizen while living abroad subject to state income tax?",
+        "expanded": [
+            "Are U.S. citizens taxed on worldwide income, regardless of where they live?",
+            "Does the U.S. have tax treaties with foreign countries to avoid double taxation?",
+            "Do states have their own rules for taxing income earned abroad by their residents?"
+        ]
+    },
+    "939": {
+        "original": "How to correct a tax return filed electronically and already approved?",
+        "expanded": [
+            "Can I correct a tax return that has already been approved?**",
+            "What is the process for correcting an electronically filed tax return?**",
+            "What are the potential consequences of correcting an already approved tax return?**"
+        ]
+    },
+    "945": {
+        "original": "Paid by an American company but working from France: where should I pay taxes?",
+        "expanded": [
+            "What are the tax laws for American companies with international employees?",
+            "What are the tax implications for an American company's employee working in France?",
+            "Where should the employee pay taxes - in the US or in France?"
+        ]
+    },
+    "957": {
+        "original": "How can I withdraw money from my LLC?",
+        "expanded": [
+            "What are the different ways to withdraw money from an LLC?",
+            "What is the tax implications of withdrawing money from an LLC?",
+            "What are the legal and accounting requirements for withdrawing money from an LLC?"
+        ]
+    },
+    "988": {
+        "original": "Where should I invest my savings?",
+        "expanded": [
+            "What are my financial goals?",
+            "What is my risk tolerance?",
+            "What is my time horizon?"
+        ]
+    },
+    "1074": {
+        "original": "How common is \u201cpass-through\u201d health insurance?",
+        "expanded": [
+            "What is \"pass-through\" health insurance?",
+            "How many employers offer \"pass-through\" health insurance to their employees?",
+            "What are the benefits of \"pass-through\" health insurance, and why are employers adopting it?"
+        ]
+    },
+    "1085": {
+        "original": "How do disputed debts work on credit reports?",
+        "expanded": [
+            "What is a disputed debt on a credit report?",
+            "How does a disputed debt affect credit scores?",
+            "How are disputed debts resolved on credit reports?"
+        ]
+    },
+    "1090": {
+        "original": "Need a formula to determine monthly payments received at time t if I'm reinvesting my returns",
+        "expanded": [
+            "What is the formula for calculating future value of an investment with reinvestment of returns?",
+            "How do I calculate the monthly rate of return (r) from the annual rate of return?",
+            "How do I calculate the monthly payment received at time t, given the future value and number of periods?"
+        ]
+    },
+    "1150": {
+        "original": "How are the best way to make and save money at 22 years old",
+        "expanded": [
+            "What are some high-paying job opportunities for 22-year-olds?",
+            "How can I create a budget and manage my finances effectively at 22?",
+            "What are some effective ways to save money and grow my wealth at 22?"
+        ]
+    },
+    "1157": {
+        "original": "Personal taxes for Shopify / Paypal shop?",
+        "expanded": [
+            "What are the tax obligations for a Shopify seller?",
+            "How does PayPal report income to the IRS for tax purposes?",
+            "What tax deductions are available for Shopify sellers using PayPal?"
+        ]
+    },
+    "1159": {
+        "original": "what is the best way to do a freelancing job over the summer for a student",
+        "expanded": [
+            "What are the most in-demand freelance skills for students?",
+            "How do I find freelance opportunities as a student?",
+            "How do I manage my time effectively as a student freelancer?"
+        ]
+    },
+    "1198": {
+        "original": "What are the consequences of IRS \u201creclassification\u201d on both employer and employee?",
+        "expanded": [
+            "What happens to the employer when the IRS reclassifies an employee as an independent contractor?",
+            "How does the IRS reclassification affect the benefits and protections of the employee?",
+            "What are the potential long-term consequences of IRS reclassification on the employer-employee relationship?"
+        ]
+    },
+    "1230": {
+        "original": "How does Walmart account their expired food",
+        "expanded": [
+            "What is Walmart's inventory management system for tracking expired food?",
+            "How does Walmart handle expired food in its stores?",
+            "Are there any financial implications of expired food on Walmart's bottom line, and how are they accounted for?"
+        ]
+    },
+    "1281": {
+        "original": "How FTB and IRS find mistakes in amended tax returns? Are their processes reliable?",
+        "expanded": [
+            "What methods does the FTB use to identify mistakes in amended tax returns?",
+            "What methods does the IRS use to identify mistakes in amended tax returns?",
+            "Are the processes used by the FTB and IRS to identify mistakes in amended tax returns reliable?"
+        ]
+    },
+    "1284": {
+        "original": "Tax consequences when foreign currency changes in value",
+        "expanded": [
+            "How does exchange rate fluctuation affect taxable income?**",
+            "What are the tax implications of foreign currency exchange gains and losses?**",
+            "How can taxpayers mitigate tax liabilities arising from foreign currency fluctuations?**"
+        ]
+    },
+    "1297": {
+        "original": "Why aren't there solutions for electronic itemized receipt for retail in-store purchases?",
+        "expanded": [
+            "What are the current methods of receipt generation in retail in-store purchases?",
+            "What are the challenges in implementing electronic itemized receipts for retail in-store purchases?",
+            "Are there any existing technologies or initiatives that could facilitate electronic itemized receipts for retail in-store purchases?"
+        ]
+    },
+    "1306": {
+        "original": "I made an investment with a company that contacted me, was it safe?",
+        "expanded": [
+            "Who is the company that contacted me?",
+            "What is the nature of the investment they offered?",
+            "Did I do my due diligence before investing?"
+        ]
+    },
+    "1309": {
+        "original": "Why does FlagStar Bank harass you about payments within grace period?",
+        "expanded": [
+            "What is the purpose of a grace period in loan payments?",
+            "Why do banks like FlagStar Bank contact borrowers during the grace period?",
+            "Are there any regulatory requirements that influence bank behavior regarding loan payments?"
+        ]
+    },
+    "1310": {
+        "original": "Is is possible to take a mortgage using Bitcoin as collateral?",
+        "expanded": [
+            "Are there any lenders that accept cryptocurrencies as collateral for mortgages?",
+            "What are the benefits and drawbacks of using Bitcoin as collateral for a mortgage?",
+            "What are the regulatory implications of using Bitcoin as collateral for a mortgage?"
+        ]
+    },
+    "1321": {
+        "original": "Are social media accounts (e.g. YouTube, Twitter, Instagram, etc.) considered assets?",
+        "expanded": [
+            "What is the definition of an asset in a business context?",
+            "Do social media accounts meet the criteria for an asset?",
+            "How are social media accounts valued and accounted for in financial statements?"
+        ]
+    },
+    "1322": {
+        "original": "Is this follow-up after a car crash a potential scam?",
+        "expanded": [
+            "What are common signs of a car crash scam?",
+            "How do scammers typically operate in follow-up situations?",
+            "What steps can I take to verify the legitimacy of this follow-up?"
+        ]
+    },
+    "1391": {
+        "original": "How is taxation for youtube/twitch etc monetization handled in the UK?",
+        "expanded": [
+            "What are the general taxation rules for self-employed individuals in the UK?",
+            "How does HMRC classify YouTube and Twitch income?",
+            "Are there any specific tax rules or exemptions for digital content creators in the UK?"
+        ]
+    },
+    "1393": {
+        "original": "Which is better when working as a contractor, 1099 or incorporating?",
+        "expanded": [
+            "What are the main differences between 1099 and incorporating as a contractor?",
+            "What are the tax implications of being a 1099 contractor versus incorporating?",
+            "What are the liability and risk implications of being a 1099 contractor versus incorporating?"
+        ]
+    },
+    "1415": {
+        "original": "I am not VAT registered. Do I need to buy from my supplier with excl VAT prices or incl VAT?",
+        "expanded": [
+            "What is the definition of VAT registration and how does it affect business operations?",
+            "How do VAT-exclusive and VAT-inclusive prices differ, and which one should I use when purchasing from a supplier?",
+            "Are there any exceptions or special cases where I may need to use VAT-inclusive prices even if I'm not VAT registered?"
+        ]
+    },
+    "1416": {
+        "original": "US resident with Canadian income via T4A-NR",
+        "expanded": [
+            "What is a T4A-NR form?",
+            "Why would a US resident receive a T4A-NR form?",
+            "What are the US tax implications for a US resident receiving a T4A-NR form?"
+        ]
+    },
+    "1441": {
+        "original": "What's the difference between Market Cap and NAV?",
+        "expanded": [
+            "What is Market Capitalization (Market Cap)?",
+            "What is Net Asset Value (NAV)?",
+            "How do Market Cap and NAV differ in their calculation and application?"
+        ]
+    },
+    "1451": {
+        "original": "How do you find an ethical, honest independent insurance broker in Canada?",
+        "expanded": [
+            "What are the qualifications and credentials to look for in an independent insurance broker in Canada?",
+            "How can you research and evaluate the reputation of an independent insurance broker in Canada?",
+            "What questions should you ask an independent insurance broker in Canada to ensure they are a good fit for your needs?"
+        ]
+    },
+    "1469": {
+        "original": "Why do some companies report how well their EBITDA performed even if their overall net profit did equally well?",
+        "expanded": [
+            "What is EBITDA and how does it differ from net profit?",
+            "Why do companies highlight EBITDA performance even if net profit is strong?",
+            "Are there any industry-specific or strategic reasons for companies to focus on EBITDA performance?"
+        ]
+    },
+    "1530": {
+        "original": "What is the proper way to report additional income for taxes (specifically, Android development)?",
+        "expanded": [
+            "What forms do I need to report additional income on?",
+            "How do I record and track my additional income for tax purposes?",
+            "What tax deductions can I claim as an Android developer?"
+        ]
+    },
+    "1670": {
+        "original": "Investing in hemp producers in advance of possible legalization in Canada?",
+        "expanded": [
+            "What is the current legal status of hemp in Canada?",
+            "What are the potential investment opportunities in hemp producers in Canada?",
+            "What are the risks and challenges associated with investing in hemp producers in Canada?"
+        ]
+    },
+    "1676": {
+        "original": "W2 vs 1099 Employee status",
+        "expanded": [
+            "What is the difference between W2 and 1099 employees?",
+            "What are the benefits and drawbacks of being a W2 employee?",
+            "What are the benefits and drawbacks of being a 1099 employee?"
+        ]
+    },
+    "1736": {
+        "original": "How can people have such high credit card debts?",
+        "expanded": [
+            "What are the common reasons people overspend and accumulate credit card debt?",
+            "How do credit card companies contribute to the accumulation of high credit card debt?",
+            "What role do societal and economic factors play in contributing to high credit card debt?"
+        ]
+    },
+    "1748": {
+        "original": "How high should I set my KickStarter funding goal in order to have $35,000 left over?",
+        "expanded": [
+            "What are the typical fees associated with using KickStarter?",
+            "What other costs should I consider when setting my funding goal?",
+            "How do I calculate my funding goal to ensure I have $35,000 left over?"
+        ]
+    },
+    "1783": {
+        "original": "Freelancing Tax implication",
+        "expanded": [
+            "What is considered freelance income for tax purposes?",
+            "How do freelancers report their income on tax returns?",
+            "What tax deductions are available to freelancers?"
+        ]
+    },
+    "1812": {
+        "original": "splitting a joint mortgage - one owner in home",
+        "expanded": [
+            "What are the reasons to consider splitting a joint mortgage when one owner remains in the home?",
+            "What are the legal and financial implications of splitting a joint mortgage?",
+            "What are the steps involved in splitting a joint mortgage, and what documents are required?"
+        ]
+    },
+    "1815": {
+        "original": "Rules for SEP contributions in an LLC?",
+        "expanded": [
+            "What is a SEP IRA and how does it work?",
+            "Who is eligible to make SEP contributions in an LLC?",
+            "What are the contribution limits for SEP IRAs in an LLC?"
+        ]
+    },
+    "1819": {
+        "original": "Found an old un-cashed paycheck. How long is it good for? What to do if it's expired?",
+        "expanded": [
+            "What is the statute of limitations for cashing an old paycheck?",
+            "What happens if the paycheck is passed the statute of limitations?",
+            "What steps should I take if I find an old, uncashed paycheck?"
+        ]
+    },
+    "1824": {
+        "original": "Is there a way to open a U.S. bank account for my LLC remotely?",
+        "expanded": [
+            "What are the general requirements to open a U.S. bank account for an LLC?",
+            "Can non-U.S. residents open a U.S. bank account for their LLC?",
+            "Are there any banks that allow remote account opening for LLCs?"
+        ]
+    },
+    "1826": {
+        "original": "Is the contribution towards Employment Insurance (EI) wasted if I never get fired, or are my premiums refunded?",
+        "expanded": [
+            "How does Employment Insurance (EI) work in Canada?",
+            "Can I get a refund of my EI premiums if I don't collect benefits?",
+            "Are there any other benefits to contributing to EI, even if I don't get fired?"
+        ]
+    },
+    "1832": {
+        "original": "Warren Buffett and Charles Munger advice for small investors?",
+        "expanded": [
+            "What are Warren Buffett's investment principles for small investors?",
+            "What are Charles Munger's views on value investing for small investors?",
+            "How do Warren Buffett and Charles Munger approach portfolio construction for individual investors?"
+        ]
+    },
+    "1871": {
+        "original": "Is there any US bank that does not charge for incoming wire transfers?",
+        "expanded": [
+            "What are the common banks in the US that offer wire transfer services?",
+            "Are there any online banks or credit unions that offer free wire transfer services?",
+            "Are there any specific account types or promotions that might exempt wire transfer fees?"
+        ]
+    },
+    "1877": {
+        "original": "As a Sole Proprietor, will \u201cemployer\u201d Solo 401k contributions count towards gross income?",
+        "expanded": [
+            "What are Solo 401k contributions?",
+            "How do Solo 401k contributions affect gross income as a Sole Proprietor?",
+            "Are Solo 401k employer contributions considered taxable income to the Sole Proprietor?"
+        ]
+    },
+    "1889": {
+        "original": "Reporting financial gains from my online store",
+        "expanded": [
+            "What is the total revenue generated by my online store?",
+            "What are the profit margins for each product category?",
+            "What are the operational expenses incurred by my online store?"
+        ]
+    },
+    "1915": {
+        "original": "Should I pay a company who failed to collect VAT from me over 6 months ago?",
+        "expanded": [
+            "What are the laws and regulations regarding VAT collection?",
+            "Can the company still collect VAT from me after 6 months?",
+            "Should I pay the company for the uncollected VAT, considering their failure to collect it initially?"
+        ]
+    },
+    "1920": {
+        "original": "Clarification on student expenses - To file the tax for the next year",
+        "expanded": [
+            "What are the eligible education expenses that can be claimed for tax deduction?",
+            "What documents are required to support education-related expenses for tax filing?",
+            "How do I report education-related expenses on my tax return?"
+        ]
+    },
+    "1933": {
+        "original": "UK sole trader who often buys products/services on behalf of clients \u2013 do I deduct from declared income or claim as allowable expenses?",
+        "expanded": [
+            "Can a UK sole trader claim expenses on behalf of clients?",
+            "How do I account for income earned on behalf of clients in my tax return?",
+            "Can I deduct the cost of products/services bought on behalf of clients from my business income?"
+        ]
+    },
+    "1948": {
+        "original": "Which colors can one use to fill out a check in the US?",
+        "expanded": [
+            "What are the acceptable ink colors for writing checks in the US?",
+            "Are there any specific guidelines for check filling from the Federal Reserve or financial institutions?",
+            "Are there any exceptions or special cases for check filling colors?"
+        ]
+    },
+    "1994": {
+        "original": "Does the IRS reprieve those who have to commute for work?",
+        "expanded": [
+            "Does the IRS provide any tax relief for work-related commuting expenses?",
+            "Are there any specific circumstances under which the IRS might reprieve individuals with long commutes?",
+            "Are there any alternative solutions or strategies that individuals with long commutes can use to minimize their tax liability?"
+        ]
+    },
+    "2010": {
+        "original": "Paypal website donations without being a charity",
+        "expanded": [
+            "Can I use PayPal for personal fundraising?",
+            "Are there any fees associated with receiving donations on PayPal without being a charity?",
+            "How do I report PayPal donations on my taxes without being a charity?"
+        ]
+    },
+    "2051": {
+        "original": "Where to find the 5 or 10 year returns for a mutual fund?",
+        "expanded": [
+            "What are the sources to find mutual fund returns?",
+            "How to access historical performance data on financial websites?",
+            "What are the key metrics to look for when evaluating mutual fund returns?"
+        ]
+    },
+    "2070": {
+        "original": "Advantage of credit union or local community bank over larger nationwide banks such as BOA, Chase, etc.?",
+        "expanded": [
+            "What are the personalized services offered by credit unions and local community banks that larger banks may not provide?",
+            "How do credit unions and local community banks differ from larger banks in terms of fees and rates?",
+            "What role does community involvement and investment play in the decision to choose a credit union or local community bank over a larger bank?"
+        ]
+    },
+    "2075": {
+        "original": "Are stories of turning a few thousands into millions by trading stocks real?",
+        "expanded": [
+            "Is it possible to turn a few thousands into millions through stock trading?",
+            "What are the chances of achieving such extraordinary returns?",
+            "Are the stories of ordinary people achieving overnight wealth through stock trading authentic?"
+        ]
+    },
+    "2076": {
+        "original": "Can vet / veterinary bills be considered deductions (tax-deductible) for Income Tax purposes [Canada]?",
+        "expanded": [
+            "What are the general rules for claiming medical expenses as deductions on Canadian income tax?",
+            "Are veterinary bills for pets considered eligible medical expenses under the CRA's rules?",
+            "Are there any special circumstances under which veterinary bills may be considered tax-deductible, such as for service animals or animals used for therapy?"
+        ]
+    },
+    "2088": {
+        "original": "How would I go about selling the stock of a privately held company?",
+        "expanded": [
+            "What are the general steps involved in selling the stock of a privately held company?",
+            "What are the different methods of selling the stock of a privately held company?",
+            "What are the regulatory and legal requirements involved in selling the stock of a privately held company?"
+        ]
+    },
+    "2108": {
+        "original": "Can I pay taxes using bill pay from my on-line checking account?",
+        "expanded": [
+            "Do banks allow bill pay for taxes?",
+            "Are tax authorities eligible for bill pay?",
+            "What are the requirements for paying taxes using bill pay?"
+        ]
+    },
+    "2118": {
+        "original": "What happened in Argentina in 2001 bank sector? did the banks closed? all or some?",
+        "expanded": [
+            "What was the economic situation in Argentina in 2001?",
+            "What happened to the banking sector in Argentina in 2001?",
+            "Did all or some banks close in Argentina in 2001?"
+        ]
+    },
+    "2154": {
+        "original": "What tax software automatically determines the best filing status, etc?",
+        "expanded": [
+            "What are the different filing statuses available for tax returns?",
+            "Which tax software options are available in the market?",
+            "Which tax software automatically determines the best filing status?"
+        ]
+    },
+    "2181": {
+        "original": "What are the risks & rewards of being a self-employed independent contractor / consultant vs. being a permanent employee?",
+        "expanded": [
+            "What are the benefits of being a self-employed independent contractor/consultant?",
+            "What are the risks of being a self-employed independent contractor/consultant?",
+            "What are the benefits and drawbacks of being a permanent employee compared to being a self-employed independent contractor/consultant?"
+        ]
+    },
+    "2183": {
+        "original": "Why are there many small banks and more banks in the U.S.?",
+        "expanded": [
+            "What is the history of banking regulations in the United States?",
+            "What are the benefits of having a decentralized banking system?",
+            "How does the dual banking system in the United States contribute to the large number of banks?"
+        ]
+    },
+    "2204": {
+        "original": "What's an economic explanation for why greeting cards are so expensive?",
+        "expanded": [
+            "What is the cost of production for greeting cards?",
+            "How do greeting card companies determine their profit margins?",
+            "What kind of markup do retailers add to the wholesale price of greeting cards?"
+        ]
+    },
+    "2264": {
+        "original": "Personal Tax Return software for Linux?",
+        "expanded": [
+            "What are some popular tax preparation software options?",
+            "Are there any Linux-compatible tax preparation software options?",
+            "What features should I look for in a Linux-compatible personal tax return software?"
+        ]
+    },
+    "2296": {
+        "original": "How does a bank make money on an interest free secured loan?",
+        "expanded": [
+            "What are the benefits of a secured loan to the bank?",
+            "How does a bank generate revenue from fees and charges on a loan?",
+            "How does a bank use a loan to create new money and generate profits?"
+        ]
+    },
+    "2306": {
+        "original": "To whom should I report fraud on both of my credit cards?",
+        "expanded": [
+            "Who do I report credit card fraud to?",
+            "How do I report fraud to my credit card company?",
+            "Do I need to report fraud to the police?"
+        ]
+    },
+    "2316": {
+        "original": "What exchange rate does El Al use when converting final payment amount to shekels?",
+        "expanded": [
+            "What is El Al's currency of operation?",
+            "How does El Al determine the exchange rate for converting payment amounts?",
+            "What is the Bank of Israel's exchange rate source?"
+        ]
+    },
+    "2318": {
+        "original": "F1 student and eBay selling tax",
+        "expanded": [
+            "What are the tax obligations for an F1 student in the US?",
+            "Do F1 students need to report income earned from selling on eBay?",
+            "How do F1 students report eBay income to the IRS?"
+        ]
+    },
+    "2330": {
+        "original": "How can I determine if a debt consolidation offer is real or a scam?",
+        "expanded": [
+            "What are the red flags of a debt consolidation scam?",
+            "How can I research a debt consolidation company's credibility?",
+            "What questions should I ask a debt consolidation company to ensure it's legitimate?"
+        ]
+    },
+    "2334": {
+        "original": "How do you determine \u201cexcess cash\u201d for Enterprise Value calculations from a balance sheet?",
+        "expanded": [
+            "What is the concept of excess cash in the context of Enterprise Value (EV) calculations?",
+            "How do you identify the components of excess cash on a balance sheet?",
+            "What are the guidelines to determine the amount of excess cash to subtract from debt in EV calculations?"
+        ]
+    },
+    "2348": {
+        "original": "Why can't you just have someone invest for you and split the profits (and losses) with him?",
+        "expanded": [
+            "What are the benefits of having someone invest for me?",
+            "Why can't I just pay someone a fee to invest for me?",
+            "What are the legal and regulatory hurdles to splitting profits and losses with an investor?"
+        ]
+    },
+    "2376": {
+        "original": "Why do gas stations charge different amounts in the same local area?",
+        "expanded": [
+            "What factors influence gas prices in a local area?",
+            "How do taxes and regulations affect gas prices?",
+            "What role does competition and market dynamics play in gas pricing?"
+        ]
+    },
+    "2383": {
+        "original": "Should I Purchase Health Insurance Through My S-Corp",
+        "expanded": [
+            "What are the benefits of purchasing health insurance through an S-Corp?",
+            "Are there any restrictions or limitations on purchasing health insurance through an S-Corp?",
+            "How does purchasing health insurance through an S-Corp affect my personal taxes and financial situation?"
+        ]
+    },
+    "2384": {
+        "original": "Tax: 1099 paper form",
+        "expanded": [
+            "What is a 1099 paper form?",
+            "Who needs to file a 1099 paper form?",
+            "How to obtain a 1099 paper form?"
+        ]
+    },
+    "2385": {
+        "original": "As director, can I invoice my self-owned company?",
+        "expanded": [
+            "Can a director invoice their own company in general?",
+            "Are there any legal or regulatory restrictions on invoicing my own company?",
+            "What are the tax implications of invoicing my own company?"
+        ]
+    },
+    "2388": {
+        "original": "Do financial advisors get better deals on mortgages?",
+        "expanded": [
+            "Do financial advisors have access to exclusive mortgage products?",
+            "Do financial advisors have a better understanding of the mortgage market and can negotiate better deals?",
+            "Do financial advisors receive commissions or incentives from lenders, and does this influence the deals they offer to clients?"
+        ]
+    },
+    "2395": {
+        "original": "Freelance site with lowest commission fees?",
+        "expanded": [
+            "What are the popular freelance sites?",
+            "How do freelance sites charge commission fees?",
+            "Which freelance site has the lowest commission fee?"
+        ]
+    },
+    "2398": {
+        "original": "Frustrated Landlord",
+        "expanded": [
+            "What are the common reasons for a landlord to feel frustrated?",
+            "How can a landlord deal with difficult tenants?",
+            "What strategies can a landlord use to minimize potential issues and reduce frustration?"
+        ]
+    },
+    "2399": {
+        "original": "Where do web sites get foreign exchange currency rate / quote information?",
+        "expanded": [
+            "What are the sources of foreign exchange currency rate/quote information?",
+            "What are some popular APIs and data feeds for foreign exchange currency rate/quote information?",
+            "How do websites retrieve and update foreign exchange currency rate/quote information?"
+        ]
+    },
+    "2400": {
+        "original": "Will I be paid dividends if I own shares?",
+        "expanded": [
+            "Do all companies distribute dividends to their shareholders?",
+            "What determines a company's dividend policy?",
+            "What is the process for receiving dividends if a company declares them?"
+        ]
+    },
+    "2407": {
+        "original": "How long to wait after getting a mortgage to increase my credit limit?",
+        "expanded": [
+            "What is the typical timeline for credit score recovery after taking out a mortgage?",
+            "How do mortgage payments impact credit utilization and credit score?",
+            "What are the general guidelines for requesting a credit limit increase after a mortgage?"
+        ]
+    },
+    "2416": {
+        "original": "Why should a company go public?",
+        "expanded": [
+            "What are the benefits of going public in terms of accessing capital?",
+            "How does going public increase a company's visibility and credibility?",
+            "How does going public provide liquidity for shareholders and create personal wealth?"
+        ]
+    },
+    "2423": {
+        "original": "At what age should I start or stop saving money?",
+        "expanded": [
+            "When should I start saving money?",
+            "How much should I be saving at different stages of life?",
+            "When can I stop saving money?"
+        ]
+    },
+    "2443": {
+        "original": "What are some way to transfer money from Hong Kong to India on a monthly basis?",
+        "expanded": [
+            "What are the most common methods of transferring money from Hong Kong to India?",
+            "What are the costs and exchange rates associated with transferring money from Hong Kong to India?",
+            "What are the regulatory requirements and tax implications for transferring money from Hong Kong to India on a monthly basis?"
+        ]
+    },
+    "2445": {
+        "original": "How do I notify the IRS of a new member to an LLC?",
+        "expanded": [
+            "What forms do I need to file with the IRS to notify them of a new LLC member?",
+            "Who is responsible for filing the necessary forms with the IRS?",
+            "Are there any additional state or local notifications required when adding a new LLC member?"
+        ]
+    },
+    "2460": {
+        "original": "What are the consequences of not respecting a notice period when leaving a job?",
+        "expanded": [
+            "What are the legal consequences of not respecting a notice period?",
+            "How does not respecting a notice period affect professional reputation?",
+            "What are the practical consequences of not respecting a notice period, such as impact on career advancement and references?"
+        ]
+    },
+    "2465": {
+        "original": "Can capital expenses for volunteer purposes be deducted from income?",
+        "expanded": [
+            "Are capital expenses deductible for tax purposes?",
+            "Are volunteer expenses deductible for tax purposes?",
+            "Can volunteer capital expenses be deducted from income?"
+        ]
+    },
+    "2472": {
+        "original": "How do I deal with a mistaken attempt to collect a debt from me that is owed by someone else?",
+        "expanded": [
+            "What steps should I take immediately upon receiving a mistaken debt collection notice?",
+            "How do I verify that the debt is not mine and gather evidence to support my claim?",
+            "What are my rights under the Fair Debt Collection Practices Act (FDCPA) and how can I use them to protect myself from mistaken debt collection?"
+        ]
+    },
+    "2486": {
+        "original": "Is working on a W2 basis, with benefits paid to me, a good idea?",
+        "expanded": [
+            "What are the benefits of being a W2 employee?",
+            "How do benefits paid to me affect my taxes?",
+            "Are there any potential downsides to being a W2 employee with benefits?"
+        ]
+    },
+    "2498": {
+        "original": "How do I calculate tax liability on the turnover of a small vendor?",
+        "expanded": [
+            "What is the definition of a small vendor?",
+            "What are the types of taxes applicable to a small vendor?",
+            "How do I calculate tax liability on the turnover of a small vendor?"
+        ]
+    },
+    "2513": {
+        "original": "How does revenue shared with someone else go into my tax return in Canada?",
+        "expanded": [
+            "What types of revenue are shared with someone else in Canada?",
+            "How is shared revenue reported to the Canada Revenue Agency (CRA)?",
+            "How is tax calculated on shared revenue in Canada?"
+        ]
+    },
+    "2516": {
+        "original": "Which banks have cash-deposit machines in Germany?",
+        "expanded": [
+            "Which banks operate in Germany?",
+            "Which banks offer cash-deposit machines as a service?",
+            "Where are the cash-deposit machines of these banks located in Germany?"
+        ]
+    },
+    "2549": {
+        "original": "How to graph the market year over year? for example Dow Jones Index",
+        "expanded": [
+            "What type of graph is suitable for showing market year-over-year data?",
+            "What data is required to graph the market year over year?",
+            "How to create a year-over-year graph in a spreadsheet or graphing software?"
+        ]
+    },
+    "2551": {
+        "original": "How to find cheaper alternatives to a traditional home telephone line?",
+        "expanded": [
+            "What are the costs associated with a traditional home telephone line?",
+            "What are the alternatives to a traditional home telephone line?",
+            "How do the costs of alternative options compare to a traditional home telephone line?"
+        ]
+    },
+    "2568": {
+        "original": "How to pay with cash when car shopping?",
+        "expanded": [
+            "Can I pay cash for a car?",
+            "What are the benefits of paying cash for a car?",
+            "How do I finalize the cash purchase of a car?"
+        ]
+    },
+    "2579": {
+        "original": "What to do when a job offer is made but with a salary less than what was asked for?",
+        "expanded": [
+            "How to negotiate a salary when a job offer is made?",
+            "What are the key factors to consider before deciding to accept a lower salary?",
+            "Are there any circumstances where accepting a lower salary might be the right decision?"
+        ]
+    },
+    "2580": {
+        "original": "Stock market vs. baseball card trading analogy",
+        "expanded": [
+            "What are the similarities between stock market trading and baseball card trading?",
+            "How do the risks and rewards of stock market trading compare to those of baseball card trading?",
+            "Can the strategies used in stock market trading be applied to baseball card trading, and vice versa?"
+        ]
+    },
+    "2587": {
+        "original": "Typically how many digits are in a cheque number?",
+        "expanded": [
+            "What is the typical format of a cheque number?",
+            "What is the typical length of a cheque number in different countries?",
+            "Are there any specific rules or regulations governing the length of cheque numbers?"
+        ]
+    },
+    "2589": {
+        "original": "How can I detect potential fraud in a company before investing in them?",
+        "expanded": [
+            "What are the common red flags of fraudulent companies?",
+            "How can I analyze a company's financial statements to detect fraud?",
+            "What external sources can I consult to get additional information about a company's credibility?"
+        ]
+    },
+    "2590": {
+        "original": "Are non-residents or foreigners permitted to buy or own shares of UK companies?",
+        "expanded": [
+            "Are there any restrictions on foreign ownership of UK companies?",
+            "Are there any specific regulatory requirements for non-resident shareholders?",
+            "Are there any tax implications for non-resident shareholders of UK companies?"
+        ]
+    },
+    "2593": {
+        "original": "Am I \u201ccheating the system\u201d by opening up a tiny account with a credit union and then immediately applying for a huge loan?",
+        "expanded": [
+            "What are the benefits of joining a credit union?",
+            "Are there any restrictions or requirements for obtaining a large loan from a credit union?",
+            "Is it ethical to open a credit union account solely for the purpose of obtaining a large loan, and are there any potential consequences?"
+        ]
+    },
+    "2598": {
+        "original": "Is it possible for US retail forex traders to trade exotic currencies?",
+        "expanded": [
+            "Are exotic currencies available for trading in the US retail forex market?",
+            "Are there any regulatory restrictions that limit US retail forex traders from trading exotic currencies?",
+            "What are the benefits and challenges of trading exotic currencies for US retail forex traders?"
+        ]
+    },
+    "2648": {
+        "original": "How does unemployment insurance work?",
+        "expanded": [
+            "What is the purpose of unemployment insurance?",
+            "Who is eligible for unemployment insurance?",
+            "How do unemployment benefits work?"
+        ]
+    },
+    "2676": {
+        "original": "Tax question about selling a car",
+        "expanded": [
+            "What is considered a capital gain or loss from selling a car?",
+            "Do I need to report the sale of a car on my tax return?",
+            "How do I determine the basis of the car for tax purposes?"
+        ]
+    },
+    "2685": {
+        "original": "What ways are there for us to earn a little extra side money?",
+        "expanded": [
+            "What are some online opportunities to earn extra money?",
+            "What are some offline opportunities to earn extra money?",
+            "What are some creative ways to earn extra money?"
+        ]
+    },
+    "2695": {
+        "original": "Buy a parking spot and rent it out, or invest savings in an interest-bearing account?",
+        "expanded": [
+            "What are the average returns on investing in a parking spot?",
+            "What are the average interest rates offered by interest-bearing accounts?",
+            "What are the risks and considerations involved in investing in a parking spot vs. an interest-bearing account?"
+        ]
+    },
+    "2713": {
+        "original": "Physical Checks - Mailing",
+        "expanded": [
+            "How are physical checks used in mailing processes?",
+            "What are the benefits of mailing physical checks?",
+            "What are the costs associated with mailing physical checks?"
+        ]
+    },
+    "2724": {
+        "original": "How do you determine the dividend payout date for Mutual Funds?",
+        "expanded": [
+            "What is the dividend payout process for Mutual Funds?",
+            "What are the key dates involved in the dividend payout process for Mutual Funds?",
+            "How can investors determine the dividend payout date for a specific Mutual Fund?"
+        ]
+    },
+    "2737": {
+        "original": "What to do with an old building to get money",
+        "expanded": [
+            "Can I sell an old building?",
+            "Can I rent out an old building?",
+            "Can I repurpose an old building for a new business?"
+        ]
+    },
+    "2747": {
+        "original": "What evidence do I need to declare tutoring income on my income tax?",
+        "expanded": [
+            "What is considered tutoring income?",
+            "What documents do I need to declare tutoring income?",
+            "How do I report tutoring income on my tax return?"
+        ]
+    },
+    "2749": {
+        "original": "Is it possible to create a self-managed superannuation fund to act as a mortage offset? (Australia)",
+        "expanded": [
+            "What is a self-managed superannuation fund (SMSF) in Australia?",
+            "Can an SMSF borrow money to invest in property?",
+            "Can an SMSF use a mortgage offset account to offset a loan?"
+        ]
+    },
+    "2790": {
+        "original": "Should I pay more than 20% down on a home?",
+        "expanded": [
+            "What are the benefits of putting more than 20% down on a home?",
+            "Are there any situations where putting less than 20% down might be okay?",
+            "What are the opportunity costs of tying up a large sum of money in a down payment?"
+        ]
+    },
+    "2801": {
+        "original": "If I deposit money as cash does it count as direct deposit?",
+        "expanded": [
+            "What is the definition of direct deposit?",
+            "How is cash deposit different from direct deposit?",
+            "Does a cash deposit qualify as a direct deposit for reporting purposes?"
+        ]
+    },
+    "2856": {
+        "original": "How can I cash out a check internationally?",
+        "expanded": [
+            "What are the general requirements for cashing an international check?",
+            "What are the different methods for cashing an international check?",
+            "What are the fees and exchange rates associated with cashing an international check?"
+        ]
+    },
+    "2857": {
+        "original": "I have around 60K $. Thinking about investing in Oil, how to proceed?",
+        "expanded": [
+            "What are the different ways to invest in oil?",
+            "What are the risks and benefits of investing in oil?",
+            "How much of my $60,000 should I allocate to oil investments, and what are the minimum investment requirements?"
+        ]
+    },
+    "2880": {
+        "original": "Can I transfer my investment property into a SMSF?",
+        "expanded": [
+            "What is a Self-Managed Super Fund (SMSF)?",
+            "Can an SMSF invest in property?",
+            "What are the requirements for transferring an existing investment property into an SMSF?"
+        ]
+    },
+    "2885": {
+        "original": "Merits of buying apartment houses and renting them",
+        "expanded": [
+            "What are the financial benefits of buying apartment houses and renting them?",
+            "How does buying apartment houses and renting them provide a hedge against inflation?",
+            "What are the tax benefits of buying apartment houses and renting them?"
+        ]
+    },
+    "2891": {
+        "original": "May I claim money earned but not received in 2012",
+        "expanded": [
+            "Can I claim income that was earned but not received in the same tax year?",
+            "What are the rules for reporting income that was earned in one year but received in a subsequent year?",
+            "Are there any specific tax forms or schedules required to report earned but unreceived income?"
+        ]
+    },
+    "2895": {
+        "original": "Where should a young student put their money?",
+        "expanded": [
+            "What are the short-term financial goals of a young student?",
+            "What are the available savings options for a young student?",
+            "How should a young student balance saving and spending?"
+        ]
+    },
+    "2903": {
+        "original": "How should I file my taxes as a contractor?",
+        "expanded": [
+            "What tax forms do I need to file as a contractor?",
+            "How do I report my income as a contractor on my tax return?",
+            "What deductions can I claim as a contractor to reduce my tax liability?"
+        ]
+    },
+    "2923": {
+        "original": "Should I give to charity by check or credit card?",
+        "expanded": [
+            "What are the benefits of giving to charity by check?",
+            "What are the benefits of giving to charity by credit card?",
+            "Are there any fees or restrictions associated with giving to charity by check or credit card?"
+        ]
+    },
+    "2964": {
+        "original": "Unmarried Couple Splitting up with Joint Ownership of Home",
+        "expanded": [
+            "How does joint ownership of a home affect the breakup process for unmarried couples?",
+            "What are the legal options for an unmarried couple with joint ownership of a home during a breakup?",
+            "How can an unmarried couple with joint ownership of a home avoid disputes during a breakup?"
+        ]
+    },
+    "2968": {
+        "original": "Should I prioritize retirement savings inside of my HSA?",
+        "expanded": [
+            "What is an HSA and how does it work?",
+            "Can I use my HSA for retirement expenses?",
+            "How does the tax treatment of HSA contributions and withdrawals compare to traditional retirement accounts?"
+        ]
+    },
+    "2994": {
+        "original": "Work on the side for my wife's company",
+        "expanded": [
+            "Can I legally work for my wife's company?",
+            "What are the benefits of working for my wife's company?",
+            "How do I navigate potential conflicts of interest or blurred personal-professional boundaries?"
+        ]
+    },
+    "3006": {
+        "original": "Strategies for putting away money for a child's future (college, etc.)?",
+        "expanded": [
+            "What are the different types of savings options for a child's future?",
+            "How to determine how much to save for a child's future education expenses?",
+            "What are some strategies for automating and making regular deposits into a child's savings account?"
+        ]
+    },
+    "3008": {
+        "original": "What are my chances at getting a mortgage with Terrible credit but High income",
+        "expanded": [
+            "How do lenders view Terrible credit when applying for a mortgage?",
+            "Can high income offset the negative impact of Terrible credit on mortgage approval?",
+            "Are there any mortgage options or lenders that cater to borrowers with Terrible credit and high income?"
+        ]
+    },
+    "3014": {
+        "original": "What investments are positively related to the housing market decline?",
+        "expanded": [
+            "What investments are typically affected by the housing market?",
+            "Are there any commodities that are correlated with the housing market?",
+            "Are there any other investments that are indirectly affected by the housing market?"
+        ]
+    },
+    "3033": {
+        "original": "Tax consequences of changing state residency?",
+        "expanded": [
+            "What are the state-specific tax implications of changing residency?",
+            "How does changing state residency affect federal taxes?",
+            "What are the tax implications of maintaining multiple state residences?"
+        ]
+    },
+    "3039": {
+        "original": "Can increasing my tax withholding from my full-time job cover FICA taxes for my freelance work?",
+        "expanded": [
+            "How do FICA taxes work for freelance income?",
+            "Can I use my full-time job's tax withholding to cover FICA taxes for my freelance work?",
+            "How can I cover the FICA taxes on my freelance income?"
+        ]
+    },
+    "3049": {
+        "original": "How to calculate my estimated taxes. 1099 MISC + Self Employment",
+        "expanded": [
+            "What is the tax rate for self-employment income?",
+            "How do I calculate my net earnings from self-employment?",
+            "How do I report my 1099-MISC income and calculate my estimated taxes?"
+        ]
+    },
+    "3051": {
+        "original": "What items are exempt from the VAT? [U.K.]",
+        "expanded": [
+            "What are the basic exemptions from VAT in the UK?",
+            "Are there any specific food items exempt from VAT in the UK?",
+            "Are there any other exempt items besides food and financial services?"
+        ]
+    },
+    "3067": {
+        "original": "Should I make extra payments to my under water mortgage or increase my savings?",
+        "expanded": [
+            "What is an underwater mortgage, and how does it impact my financial situation?",
+            "What are the benefits of making extra payments to my mortgage?",
+            "How does increasing my savings affect my overall financial situation, and should I prioritize it over making extra mortgage payments?"
+        ]
+    },
+    "3085": {
+        "original": "How long can I convert 401(k) to Roth 401(k)?",
+        "expanded": [
+            "What is a Roth 401(k) conversion?",
+            "Are there any restrictions or limits on Roth 401(k) conversions?",
+            "How long do I have to keep the converted funds in the Roth 401(k) account before withdrawing them?"
+        ]
+    },
+    "3091": {
+        "original": "Am I considered in debt if I pay a mortgage?",
+        "expanded": [
+            "What is debt?",
+            "Is a mortgage a type of debt?",
+            "Does paying a mortgage mean you are in debt?"
+        ]
+    },
+    "3103": {
+        "original": "AVS Address Verification System of BOTH Credit and Debit Cards - WHERE, HOW?",
+        "expanded": [
+            "What is AVS (Address Verification System)?",
+            "How does AVS work for credit cards?",
+            "How does AVS work for debit cards?"
+        ]
+    },
+    "3115": {
+        "original": "How can I live outside of the rat race of American life with 300k?",
+        "expanded": [
+            "What are the common expenses associated with living in the United States?",
+            "What are some alternative lifestyles that can help me escape the rat race?",
+            "How can I invest my $300,000 to generate passive income and sustain myself?"
+        ]
+    },
+    "3125": {
+        "original": "Claiming mileage allowances, what are the rules/guidelines?",
+        "expanded": [
+            "What is the standard mileage rate for business use of a personal vehicle?",
+            "What records are required to claim mileage allowances?",
+            "Are there any exceptions or special rules for mileage allowances?"
+        ]
+    },
+    "3148": {
+        "original": "Can a car company refuse to give me a copy of my contract or balance details?",
+        "expanded": [
+            "What laws govern a car company's obligation to provide contract and balance details to customers?",
+            "What are the consumer's rights under these laws, and how can they enforce them?",
+            "Are there any exceptions or circumstances where a car company may legally refuse to provide contract and balance details?"
+        ]
+    },
+    "3149": {
+        "original": "Tips for insurance coverage for one-man-teams",
+        "expanded": [
+            "What types of insurance do one-man-teams need?",
+            "How do one-man-teams determine their insurance coverage needs?",
+            "How can one-man-teams save money on insurance premiums?"
+        ]
+    },
+    "3177": {
+        "original": "Vanguard ETF vs mutual fund",
+        "expanded": [
+            "What is the difference between an ETF and a mutual fund?",
+            "How do ETFs and mutual funds differ in terms of trading and flexibility?",
+            "How do Vanguard ETFs and mutual funds compare in terms of fees and expenses?"
+        ]
+    },
+    "3179": {
+        "original": "Calculation, timing, and taxes related to profit distribution of an S-corp?",
+        "expanded": [
+            "How is profit distributed in an S-corp?",
+            "What is the timing of profit distribution in an S-corp?",
+            "How are taxes calculated on distributed profits in an S-corp?"
+        ]
+    },
+    "3186": {
+        "original": "United States Treasury Not Endorsing Checks",
+        "expanded": [
+            "Why does the US Treasury not endorse checks?",
+            "What happens to checks not endorsed by the US Treasury?",
+            "Are there any exceptions to the US Treasury not endorsing checks?"
+        ]
+    },
+    "3189": {
+        "original": "Diversify my retirement investments with a Roth IRA",
+        "expanded": [
+            "What is a Roth IRA and how does it work?",
+            "What are the benefits of diversifying my retirement investments with a Roth IRA?",
+            "How do I qualify to contribute to a Roth IRA, and what are the contribution limits?"
+        ]
+    },
+    "3254": {
+        "original": "Why do people buy US dollars on the black market?",
+        "expanded": [
+            "What is the significance of the US dollar in the global economy?",
+            "What are the restrictions or limitations on accessing US dollars through official channels?",
+            "What are the benefits of holding US dollars on the black market?"
+        ]
+    },
+    "3264": {
+        "original": "Pros and Cons of Interest Only Loans",
+        "expanded": [
+            "What are the benefits of interest-only loans?",
+            "What are the drawbacks of interest-only loans?",
+            "Who are interest-only loans suitable for?"
+        ]
+    },
+    "3357": {
+        "original": "Why big clients want the contractor to be incorporated before giving them work",
+        "expanded": [
+            "What are the advantages of working with an incorporated contractor?",
+            "How does incorporation protect clients from potential risks?",
+            "Are there any taxation or financial benefits to clients when working with an incorporated contractor?"
+        ]
+    },
+    "3369": {
+        "original": "Why should one only contribute up to the employer's match in a 401(k)?",
+        "expanded": [
+            "What is an employer's match in a 401(k) and how does it work?",
+            "What happens if I contribute more than the employer's match in a 401(k)?",
+            "Are there any benefits to contributing only up to the employer's match in a 401(k)?"
+        ]
+    },
+    "3394": {
+        "original": "What is the easiest way to back-test index funds and ETFs?",
+        "expanded": [
+            "What tools are available for back-testing index funds and ETFs?",
+            "What data is required for back-testing index funds and ETFs?",
+            "What are some best practices for back-testing index funds and ETFs?"
+        ]
+    },
+    "3404": {
+        "original": "In US, is it a good idea to hire a tax consultant for doing taxes?",
+        "expanded": [
+            "What are the benefits of hiring a tax consultant in the US?",
+            "What are the potential drawbacks of hiring a tax consultant in the US?",
+            "Who may need to hire a tax consultant in the US, and who may not?"
+        ]
+    },
+    "3405": {
+        "original": "Non Resident aliens - Question of standard vs itemized",
+        "expanded": [
+            "What are the general rules for non-resident aliens and their tax obligations in the US?",
+            "Can non-resident aliens claim the standard deduction?",
+            "What types of itemized deductions can non-resident aliens claim?"
+        ]
+    },
+    "3446": {
+        "original": "What's the difference between Term and Whole Life insurance?",
+        "expanded": [
+            "What is Term Life insurance?",
+            "What is Whole Life insurance?",
+            "What are the key differences between Term and Whole Life insurance?"
+        ]
+    },
+    "3451": {
+        "original": "Should you keep your stocks if you are too late to sell?",
+        "expanded": [
+            "What are the reasons why you might be too late to sell your stocks?",
+            "What are the pros of holding onto your stocks despite being late to sell?",
+            "What are the cons of holding onto your stocks despite being late to sell?"
+        ]
+    },
+    "3453": {
+        "original": "How does spot-futures arbitrage work in the gold market?",
+        "expanded": [
+            "What is spot-futures arbitrage?",
+            "How does spot-futures arbitrage relate to the gold market?",
+            "What are the steps involved in executing spot-futures arbitrage in the gold market?"
+        ]
+    },
+    "3480": {
+        "original": "Why is OkPay not allowed in the United States?",
+        "expanded": [
+            "What is OkPay and what services does it offer?",
+            "What are the regulations governing online payment systems in the United States?",
+            "Why did OkPay fail to comply with US regulations, leading to its restriction in the country?"
+        ]
+    },
+    "3490": {
+        "original": "Tax Witholding for Stock Sale",
+        "expanded": [
+            "What is the tax rate for stock sales?",
+            "How is tax withholding calculated for stock sales?",
+            "Are there any exceptions or special rules for tax withholding on stock sales?"
+        ]
+    },
+    "3500": {
+        "original": "Why invest in becoming a landlord?",
+        "expanded": [
+            "What are the potential income streams for a landlord?",
+            "What are the tax benefits of being a landlord?",
+            "How does being a landlord provide long-term financial security?"
+        ]
+    },
+    "3503": {
+        "original": "Is there any instance where less leverage will get you a better return on a rental property?",
+        "expanded": [
+            "What are the scenarios where high leverage is detrimental to a rental property investment?",
+            "Can lower property prices lead to better returns on a rental property with lower leverage?",
+            "Are there any markets or areas where low leverage is more favorable for rental property investments?"
+        ]
+    },
+    "3512": {
+        "original": "As an employee, when is it inappropriate to request to see your young/startup company's financial statements?",
+        "expanded": [
+            "Under what circumstances can employees request to see their company's financial statements?",
+            "What are the typical reasons why an employee might want to request financial statements from their young/startup company?",
+            "When might it be inappropriate for an employee to request to see their young/startup company's financial statements?"
+        ]
+    },
+    "3528": {
+        "original": "In the US, does getting a loan with a cosigner, help your credit rating?",
+        "expanded": [
+            "How do cosigned loans work in the US?",
+            "How does a cosigned loan affect the primary borrower's credit score?",
+            "Are there any specific scenarios where a cosigned loan can significantly improve the primary borrower's credit rating?"
+        ]
+    },
+    "3530": {
+        "original": "How to exclude stock from mutual fund",
+        "expanded": [
+            "What are the different types of mutual funds that do not invest in stocks?",
+            "How to identify mutual funds with low stock exposure?",
+            "Can I customize my mutual fund portfolio to exclude specific stocks?"
+        ]
+    },
+    "3534": {
+        "original": "Why do dishonour fees exist?",
+        "expanded": [
+            "What are dishonour fees?",
+            "What are the consequences of dishonoured payments?",
+            "What is the purpose of penalty fees in financial transactions?"
+        ]
+    },
+    "3566": {
+        "original": "Where can I buy stocks if I only want to invest a little bit at a time, and not really be involved in trading?",
+        "expanded": [
+            "What are the investment platforms that allow small investments?",
+            "What are the benefits of dollar-cost averaging, and how does it apply to small investments?",
+            "Are there any investment options that offer automatic investments, so I don't have to be involved in trading?"
+        ]
+    },
+    "3569": {
+        "original": "Funds in closed bank account have gone to the government",
+        "expanded": [
+            "What happens to the funds in a closed bank account?",
+            "What is escheatment, and how does it work?",
+            "Why do governments take possession of unclaimed funds?"
+        ]
+    },
+    "3594": {
+        "original": "If I were to get into a life situation where I would not be able to make regular payments, do lenders typically provide options other than default?",
+        "expanded": [
+            "What are the common reasons that lead to inability to make regular payments?",
+            "What are the options that lenders typically provide to borrowers who are unable to make regular payments?",
+            "How do lenders determine which options to offer to borrowers, and what are the eligibility criteria for these options?"
+        ]
+    },
+    "3612": {
+        "original": "How can I buy and sell the same stock on the same day?",
+        "expanded": [
+            "What is day trading?",
+            "Are there any restrictions on buying and selling the same stock on the same day?",
+            "How do I execute a day trade, and what are the risks involved?"
+        ]
+    },
+    "3615": {
+        "original": "My previous and current employers both use Fidelity for 401(k). Does it make sense to rollover?",
+        "expanded": [
+            "What are the benefits of rolling over a 401(k) account?",
+            "Are there any potential drawbacks or fees associated with rolling over a 401(k) account?",
+            "How do I determine if rolling over my 401(k) account from my previous employer to my current employer's plan is a good idea?"
+        ]
+    },
+    "3625": {
+        "original": "What should I do with my paper financial documents?",
+        "expanded": [
+            "Should I keep my paper financial documents?",
+            "How can I store my paper financial documents securely?",
+            "Can I digitize my paper financial documents?"
+        ]
+    },
+    "3682": {
+        "original": "Short selling - lender's motivation",
+        "expanded": [
+            "What is short selling?",
+            "Why do lenders lend securities for short selling?",
+            "What benefits do lenders gain from short selling?"
+        ]
+    },
+    "3683": {
+        "original": "Can I trust the Motley Fool?",
+        "expanded": [
+            "What is The Motley Fool's track record of accuracy?",
+            "Are The Motley Fool's analysts and writers credible and transparent?",
+            "Are The Motley Fool's business practices and fees reasonable and transparent?"
+        ]
+    },
+    "3694": {
+        "original": "Has anyone created a documentary about folks who fail to save enough for retirement?",
+        "expanded": [
+            "Are there any documentaries about retirement planning or savings?",
+            "Do these documentaries specifically focus on people who fail to save enough for retirement?",
+            "Are there any notable documentary makers or channels that specialize in personal finance or retirement planning?"
+        ]
+    },
+    "3724": {
+        "original": "Should you always max out contributions to your 401k?",
+        "expanded": [
+            "What are the benefits of maxing out 401k contributions?",
+            "Are there any drawbacks to maxing out 401k contributions?",
+            "Who may not benefit from maxing out 401k contributions?"
+        ]
+    },
+    "3735": {
+        "original": "Shorting Stocks And Margin Account Minimum",
+        "expanded": [
+            "What is shorting stocks?",
+            "What is a margin account?",
+            "What is the minimum requirement for a margin account to short stocks?"
+        ]
+    },
+    "3759": {
+        "original": "Simplifying money management",
+        "expanded": [
+            "What are the common challenges people face in managing their finances?",
+            "What are the essential steps to simplify money management?",
+            "What are some digital tools and resources available to simplify money management?"
+        ]
+    },
+    "3767": {
+        "original": "What should I be doing to protect myself from identity theft?",
+        "expanded": [
+            "What are the common methods used by identity thieves to steal personal information?",
+            "How can I prevent unauthorized access to my personal information?",
+            "What steps should I take if I suspect my identity has been stolen?"
+        ]
+    },
+    "3771": {
+        "original": "Best way to buy Japanese yen for travel?",
+        "expanded": [
+            "Where to buy Japanese yen?",
+            "How to get the best exchange rate for Japanese yen?",
+            "What to consider when buying Japanese yen before travel?"
+        ]
+    },
+    "3781": {
+        "original": "What is the rough estimate of salary value for a taxpayer to pay AMT?",
+        "expanded": [
+            "What is AMT and who is required to pay it?",
+            "What are the income levels that trigger the AMT?",
+            "What is the rough estimate of the AMT tax rate?"
+        ]
+    },
+    "3789": {
+        "original": "How to work around the Owner Occupancy Affidavit to buy another home in less than a year?",
+        "expanded": [
+            "What is an Owner Occupancy Affidavit?",
+            "What are the consequences of violating the Owner Occupancy Affidavit?",
+            "Are there legitimate ways to work around the Owner Occupancy Affidavit to buy another home in less than a year?"
+        ]
+    },
+    "3791": {
+        "original": "\"When people say 'Interest rates are at all time low!\"\" \u2026 Which interest rate are they actually referring to?\"",
+        "expanded": [
+            "What are the different types of interest rates?",
+            "Which interest rate is most commonly referred to in everyday conversations?",
+            "Are other interest rates, like the Federal Funds Rate, also at historic lows?"
+        ]
+    },
+    "3801": {
+        "original": "Can a bunch of wealthy people force Facebook to go public?",
+        "expanded": [
+            "What are the reasons behind a company deciding to go public?",
+            "Do investors or shareholders have the power to influence a company's decision to go public?",
+            "Are there any regulatory or legal mechanisms that could compel a company like Facebook to go public?"
+        ]
+    },
+    "3822": {
+        "original": "How to change a large quantity of U.S. dollars into Euros?",
+        "expanded": [
+            "Where can I exchange my U.S. dollars for Euros?",
+            "What are the exchange rates and fees I need to consider?",
+            "Are there any specific requirements or restrictions I need to be aware of?"
+        ]
+    },
+    "3829": {
+        "original": "Are all VISA cards connected with bank accounts?",
+        "expanded": [
+            "What is a VISA card?",
+            "What types of VISA cards exist?",
+            "Are all VISA cards connected to a bank account?"
+        ]
+    },
+    "3830": {
+        "original": "US citizen transferring money to Indian fiance to buy property",
+        "expanded": [
+            "What are the regulations for a US citizen transferring money to India?",
+            "What are the tax implications for a US citizen transferring money to India?",
+            "What are the requirements for a non-resident Indian (NRI) to buy property in India?"
+        ]
+    },
+    "3837": {
+        "original": "Opening a Roth IRA account, what is the fee structure for Vanguard, Scottrade and TIAA-CREF",
+        "expanded": [
+            "What are the fees associated with opening a Roth IRA account at Vanguard?",
+            "What are the fees associated with opening a Roth IRA account at Scottrade?",
+            "What are the fees associated with opening a Roth IRA account at TIAA-CREF?"
+        ]
+    },
+    "3859": {
+        "original": "Buying an investment property in Australia - what are the advantages and disadvantages of building a house vs buying an existing one?",
+        "expanded": [
+            "What are the advantages of building a house for investment in Australia?",
+            "What are the disadvantages of building a house for investment in Australia?",
+            "What are the advantages and disadvantages of buying an existing property for investment in Australia?"
+        ]
+    }

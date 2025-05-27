@@ -1,0 +1,3202 @@
+{
+    "INEX_LD-2009022": {
+        "original": "Szechwan dish food cuisine",
+        "expanded": [
+            "What is Szechwan cuisine?",
+            "What are popular Szechwan dishes?",
+            "What are the characteristics of Szechwan food?"
+        ]
+    },
+    "INEX_LD-2009039": {
+        "original": "roman architecture",
+        "expanded": [
+            "Characteristics of Roman architecture",
+            "Influences on Roman architecture",
+            "Famous examples of Roman architecture"
+        ]
+    },
+    "INEX_LD-2009053": {
+        "original": "finland car industry manufacturer saab sisu",
+        "expanded": [
+            "Car manufacturers in Finland",
+            "Saab in Finland",
+            "Sisu Auto in Finland"
+        ]
+    },
+    "INEX_LD-2009061": {
+        "original": "france second world war normandy",
+        "expanded": [
+            "What was the significance of Normandy in World War II?",
+            "What was France's role in World War II?",
+            "What was the impact of the D-Day invasion on the outcome of World War II?"
+        ]
+    },
+    "INEX_LD-2009062": {
+        "original": "social network group selection",
+        "expanded": [
+            "What are the different types of social network groups?",
+            "What are the factors to consider when selecting a social network group?",
+            "How can you effectively participate in a social network group?"
+        ]
+    },
+    "INEX_LD-2009063": {
+        "original": "D-Day normandy invasion",
+        "expanded": [
+            "What was the significance of D-Day?",
+            "When and where did the D-Day invasion take place?",
+            "How did the Allies prepare for the D-Day invasion?"
+        ]
+    },
+    "INEX_LD-2009074": {
+        "original": "web ranking scoring algorithm",
+        "expanded": [
+            "What is a web ranking scoring algorithm?",
+            "How do search engines use web ranking scoring algorithms?",
+            "What are some examples of web ranking scoring algorithms?"
+        ]
+    },
+    "INEX_LD-2009115": {
+        "original": "virtual museums",
+        "expanded": [
+            "What is a virtual museum?",
+            "What are the benefits of virtual museums?",
+            "What are some examples of virtual museums?"
+        ]
+    },
+    "INEX_LD-2010004": {
+        "original": "Indian food",
+        "expanded": [
+            "What is Indian food?",
+            "What are popular Indian dishes?",
+            "Is Indian food healthy?"
+        ]
+    },
+    "INEX_LD-2010014": {
+        "original": "composer museum",
+        "expanded": [
+            "\"What is a composer museum?\"",
+            "\"Examples of composer museums\"",
+            "\"What can you expect to see in a composer museum?\""
+        ]
+    },
+    "INEX_LD-2010019": {
+        "original": "gallo roman architecture in paris",
+        "expanded": [
+            "What is Gallo-Roman architecture?",
+            "What are some examples of Gallo-Roman architecture in Paris?",
+            "How has Gallo-Roman architecture influenced later architectural styles in Paris?"
+        ]
+    },
+    "INEX_LD-2010020": {
+        "original": "electricity source in France",
+        "expanded": [
+            "What is the primary source of electricity in France?",
+            "What are the other sources of electricity in France besides nuclear power?",
+            "Is France shifting towards more renewable energy sources for electricity generation?"
+        ]
+    },
+    "INEX_LD-2010037": {
+        "original": "social network API",
+        "expanded": [
+            "What is a social network API?",
+            "Types of social network APIs",
+            "Examples of social network APIs"
+        ]
+    },
+    "INEX_LD-2010043": {
+        "original": "List of films from the surrealist category",
+        "expanded": [
+            "What is Surrealist cinema?",
+            "Who are notable Surrealist filmmakers?",
+            "What are some iconic Surrealist films?"
+        ]
+    },
+    "INEX_LD-2010057": {
+        "original": "Einstein Relativity theory",
+        "expanded": [
+            "What is the theory of relativity?",
+            "What are the key principles of special relativity?",
+            "What are the implications of general relativity?"
+        ]
+    },
+    "INEX_LD-2010069": {
+        "original": "summer flowers",
+        "expanded": [
+            "What flowers are in season during summer?",
+            "What are the best summer flowers for bouquets and arrangements?",
+            "How do I care for summer flowers?"
+        ]
+    },
+    "INEX_LD-2010100": {
+        "original": "house concrete wood",
+        "expanded": [
+            "What are the advantages of using concrete in house construction?",
+            "What are the benefits of using wood in house construction?",
+            "Can a house be built using both concrete and wood?"
+        ]
+    },
+    "INEX_LD-2010106": {
+        "original": "organic food advantages disadvantages",
+        "expanded": [
+            "What are the benefits of eating organic food?",
+            "What are the drawbacks of eating organic food?",
+            "Is organic food really better for the environment?"
+        ]
+    },
+    "INEX_LD-20120111": {
+        "original": "vietnam war movie",
+        "expanded": [
+            "What are some popular Vietnam War movies?",
+            "What are the most accurate Vietnam War movies?",
+            "What Vietnam War movies are based on true stories?"
+        ]
+    },
+    "INEX_LD-20120121": {
+        "original": "vietnam food recipes",
+        "expanded": [
+            "What are popular Vietnamese dishes?",
+            "What ingredients are commonly used in Vietnamese cooking?",
+            "What are some easy Vietnamese recipes for beginners?"
+        ]
+    },
+    "INEX_LD-20120122": {
+        "original": "vietnamese food blog",
+        "expanded": [
+            "What is Vietnamese food?",
+            "What are some popular Vietnamese food blogs?",
+            "How to find Vietnamese food recipes online?"
+        ]
+    },
+    "INEX_LD-20120131": {
+        "original": "vietnam travel national park",
+        "expanded": [
+            "What are the best national parks in Vietnam?",
+            "What outdoor activities can I do in Vietnam's national parks?",
+            "How to plan a trip to Vietnam's national parks?"
+        ]
+    },
+    "INEX_LD-20120211": {
+        "original": "guitar chord tuning",
+        "expanded": [
+            "What is guitar tuning?",
+            "What is the relationship between guitar tuning and chords?",
+            "How do I tune my guitar for playing chords?"
+        ]
+    },
+    "INEX_LD-20120221": {
+        "original": "guitar classical flamenco",
+        "expanded": [
+            "What is classical guitar?",
+            "What is flamenco guitar?",
+            "How does flamenco guitar relate to classical guitar?"
+        ]
+    },
+    "INEX_LD-20120231": {
+        "original": "guitar origin Russia",
+        "expanded": [
+            "History of guitar in Russia",
+            "Russian guitar makers",
+            "Famous Russian guitarists"
+        ]
+    },
+    "INEX_LD-20120232": {
+        "original": "guitar origin blues",
+        "expanded": [
+            "Where did the guitar originate from?",
+            "How did the guitar become associated with blues music?",
+            "What role did the guitar play in the development of blues music?"
+        ]
+    },
+    "INEX_LD-20120311": {
+        "original": "tango culture movies",
+        "expanded": [
+            "What is tango culture?",
+            "What are some notable films that feature tango culture?",
+            "How do movies portray tango culture and its significance?"
+        ]
+    },
+    "INEX_LD-20120312": {
+        "original": "tango culture countries",
+        "expanded": [
+            "Origin of tango",
+            "Tango popularity around the world",
+            "Countries with significant tango traditions"
+        ]
+    },
+    "INEX_LD-20120321": {
+        "original": "tango music  composers",
+        "expanded": [
+            "Who are the most famous tango music composers?",
+            "What are the characteristics of tango music composed by these artists?",
+            "How did these composers contribute to the evolution of tango music?"
+        ]
+    },
+    "INEX_LD-20120331": {
+        "original": "tango dance styles",
+        "expanded": [
+            "What is the history of tango dance?",
+            "What are the different types of tango dance styles?",
+            "What are the characteristics of tango dance movements?"
+        ]
+    },
+    "INEX_LD-20120332": {
+        "original": "tango dance history",
+        "expanded": [
+            "Origins of Tango",
+            "Golden Age of Tango",
+            "Globalization and Evolution of Tango"
+        ]
+    },
+    "INEX_LD-20120411": {
+        "original": "bicycle sport races",
+        "expanded": [
+            "types of bicycle racing",
+            "famous bicycle races",
+            "benefits of bicycle racing"
+        ]
+    },
+    "INEX_LD-20120412": {
+        "original": "bicycle sport disciplines",
+        "expanded": [
+            "What are the main categories of bicycle sport disciplines?",
+            "What is road cycling, and what are its disciplines?",
+            "What are track cycling and mountain biking, and what are their disciplines?"
+        ]
+    },
+    "INEX_LD-20120421": {
+        "original": "bicycle holiday towns",
+        "expanded": [
+            "Best towns for cycling holidays",
+            "Bicycle-friendly towns in Europe",
+            "Cycling holiday destinations with bike rentals"
+        ]
+    },
+    "INEX_LD-20120422": {
+        "original": "bicycle holiday nature",
+        "expanded": [
+            "Best bike routes for nature lovers",
+            "Cycling holidays in rural areas",
+            "Eco-friendly cycling tours"
+        ]
+    },
+    "INEX_LD-20120431": {
+        "original": "bicycle benefits health",
+        "expanded": [
+            "What are the physical health benefits of cycling?",
+            "How does cycling affect mental health?",
+            "Are there any specific health benefits of cycling for certain age groups or populations?"
+        ]
+    },
+    "INEX_LD-20120511": {
+        "original": "female rock singers",
+        "expanded": [
+            "Who are some of the most iconic female rock singers?",
+            "What are some popular female-fronted rock bands?",
+            "Who are some contemporary female rock singers making waves in the music industry?"
+        ]
+    },
+    "INEX_LD-20120512": {
+        "original": "south korean girl groups",
+        "expanded": [
+            "Most popular South Korean girl groups",
+            "History of South Korean girl groups",
+            "Characteristics of South Korean girl groups"
+        ]
+    },
+    "INEX_LD-20120521": {
+        "original": "electronic music genres",
+        "expanded": [
+            "What is electronic music?",
+            "What are the main categories of electronic music genres?",
+            "What are some popular electronic music genres?"
+        ]
+    },
+    "INEX_LD-20120522": {
+        "original": "digital music notation formats",
+        "expanded": [
+            "What is digital music notation?",
+            "What are the common digital music notation formats?",
+            "What are the advantages of using digital music notation formats?"
+        ]
+    },
+    "INEX_LD-20120531": {
+        "original": "music conferences",
+        "expanded": [
+            "What are music conferences?",
+            "What are some popular music conferences?",
+            "What are the benefits of attending music conferences?"
+        ]
+    },
+    "INEX_LD-20120532": {
+        "original": "intellectual property rights lobby",
+        "expanded": [
+            "What are intellectual property rights?",
+            "What is the purpose of IP rights lobbying?",
+            "Which industries or groups are involved in IP rights lobbying?"
+        ]
+    },
+    "INEX_LD-2012301": {
+        "original": "Niagara falls origin lake",
+        "expanded": [
+            "Where is Niagara Falls located?",
+            "What is the source of Niagara Falls?",
+            "How does water flow from Lake Erie to Niagara Falls?"
+        ]
+    },
+    "INEX_LD-2012303": {
+        "original": "Valley fever fungal infection San Joaquin",
+        "expanded": [
+            "What is Valley fever?",
+            "What are the symptoms of Valley fever?",
+            "Is San Joaquin Valley a hotspot for Valley fever?"
+        ]
+    },
+    "INEX_LD-2012305": {
+        "original": "North Dakota's lowest river of another colour",
+        "expanded": [
+            "What are the rivers in North Dakota?",
+            "What is the lowest river in North Dakota in terms of elevation?",
+            "Is the Red River of the North a river of another color?"
+        ]
+    },
+    "INEX_LD-2012309": {
+        "original": "residents small island city-state  Malay Peninsula Chinese",
+        "expanded": [
+            "What small island city-states are located near the Malay Peninsula?",
+            "What is the demographic makeup of Singapore's residents?",
+            "Are there any other small island city-states near the Malay Peninsula with a significant Chinese population?"
+        ]
+    },
+    "INEX_LD-2012311": {
+        "original": "John Lennon Yoko Ono album Starting Over",
+        "expanded": [
+            "What is the name of the album by John Lennon and Yoko Ono that features the song \"Starting Over\"?",
+            "Who wrote the song \"Starting Over\"?",
+            "What was the context in which John Lennon and Yoko Ono created the album \"Double Fantasy\"?"
+        ]
+    },
+    "INEX_LD-2012313": {
+        "original": "John Turturro 1991 Coen Brothers film",
+        "expanded": [
+            "What films did John Turturro star in?",
+            "What films did the Coen Brothers release in 1991?",
+            "Did John Turturro star in a 1991 Coen Brothers film?"
+        ]
+    },
+    "INEX_LD-2012315": {
+        "original": "Baguio Quezon City  Manila official independence 1945",
+        "expanded": [
+            "What is the relationship between Baguio and Quezon City?",
+            "What is the significance of Manila in the context of Philippine independence?",
+            "What is the significance of 1945 in Philippine history?"
+        ]
+    },
+    "INEX_LD-2012317": {
+        "original": "daggeroso inclined to use a dagger novel Sons and Lovers",
+        "expanded": [
+            "Who is D.H. Lawrence and what is his novel \"Sons and Lovers\" about?",
+            "What is a dagger and its significance in literature?",
+            "Is there any connection between D.H. Lawrence and the use of daggers in his novel \"Sons and Lovers\"?"
+        ]
+    },
+    "INEX_LD-2012318": {
+        "original": "Directed Bela Glen Glenda Bride Monster Plan 9 Outer Space",
+        "expanded": [
+            "Who directed Plan 9 from Outer Space?",
+            "Who played the role of the Bride in the film Bride of the Monster?",
+            "Who played the role of Glen or Glenda in the film Glen or Glenda?"
+        ]
+    },
+    "INEX_LD-2012319": {
+        "original": "1994 short story collection Alice Munro is Open",
+        "expanded": [
+            "What is the name of the 1994 short story collection by Alice Munro?",
+            "Who is Alice Munro?",
+            "What is the significance of the year 1994 in relation to Alice Munro's work?"
+        ]
+    },
+    "INEX_LD-2012321": {
+        "original": "Asian port state-city Sir Stamford Raffles",
+        "expanded": [
+            "Who is Sir Stamford Raffles?",
+            "Which Asian port did Sir Stamford Raffles establish?",
+            "In which state is the port city of Singapore located?"
+        ]
+    },
+    "INEX_LD-2012323": {
+        "original": "Large glaciers island nation Langjokull Hofsjokull Vatnajokull",
+        "expanded": [
+            "What are the largest glaciers in Iceland?",
+            "Which country is often referred to as the \"land of fire and ice\" due to its unique geography?",
+            "What are the characteristics of Langjokull, Hofsjokull, and Vatnajokull glaciers?"
+        ]
+    },
+    "INEX_LD-2012325": {
+        "original": "successor James G. Blaine studied law",
+        "expanded": [
+            "Who was the predecessor of James G. Blaine?",
+            "What was James G. Blaine's educational background?",
+            "What was James G. Blaine's career path after studying law?"
+        ]
+    },
+    "INEX_LD-2012327": {
+        "original": "Beloved author African-American Nobel Prize Literature",
+        "expanded": [
+            "Who is the most beloved African-American author?",
+            "Who is the first African-American to win the Nobel Prize in Literature?",
+            "What is the most famous novel by an African-American author that won the Nobel Prize in Literature?"
+        ]
+    },
+    "INEX_LD-2012329": {
+        "original": "Sweden Iceland currency",
+        "expanded": [
+            "What is the currency of Sweden?",
+            "What is the currency of Iceland?",
+            "How do the currencies of Sweden and Iceland compare?"
+        ]
+    },
+    "INEX_LD-2012331": {
+        "original": "Seoul Korea river name ethnic group China",
+        "expanded": [
+            "What is the name of the major river in Seoul, Korea?",
+            "What is the ethnic group of Seoul, Korea?",
+            "What is the relationship between Seoul, Korea and China in terms of ethnicity?"
+        ]
+    },
+    "INEX_LD-2012333": {
+        "original": "Prime minister Canada nicknamed Silver-Tongued Laurier longest unbroken term",
+        "expanded": [
+            "Who is the Prime Minister of Canada nicknamed \"Silver-Tongued\"?",
+            "Who had the longest unbroken term as Prime Minister of Canada?",
+            "Who is the Prime Minister of Canada who holds both titles, \"Silver-Tongued\" and longest unbroken term?"
+        ]
+    },
+    "INEX_LD-2012335": {
+        "original": "U.S. president authorise nuclear weapons against Japan",
+        "expanded": [
+            "Who was the U.S. president who authorised the use of nuclear weapons against Japan?",
+            "What were the circumstances leading to the authorisation of nuclear weapons against Japan?",
+            "What were the consequences of the U.S. president's authorisation of nuclear weapons against Japan?"
+        ]
+    },
+    "INEX_LD-2012337": {
+        "original": "Texas city Baylor University tornado 1953",
+        "expanded": [
+            "Where is Baylor University located?",
+            "What happened in Waco, Texas in 1953?",
+            "Was Baylor University affected by the 1953 Waco tornado?"
+        ]
+    },
+    "INEX_LD-2012339": {
+        "original": "Nelson Mandela John Dube",
+        "expanded": [
+            "Who is John Dube?",
+            "What is the connection between Nelson Mandela and John Dube?",
+            "What significance do Nelson Mandela and John Dube hold in South African history?"
+        ]
+    },
+    "INEX_LD-2012341": {
+        "original": "1997  Houston airport president",
+        "expanded": [
+            "Who was the president of Houston Airport in 1997?",
+            "What significant events occurred at Houston Airport in 1997?",
+            "What were some major developments at Houston Airport in the late 1990s?"
+        ]
+    },
+    "INEX_LD-2012345": {
+        "original": "Kennedy assassination governor of Texas seriously injured",
+        "expanded": [
+            "Who was the Governor of Texas during the Kennedy assassination?",
+            "Was the Governor of Texas injured during the Kennedy assassination?",
+            "What were the circumstances surrounding the Governor's injuries?"
+        ]
+    },
+    "INEX_LD-2012349": {
+        "original": "Alexander Nevsky Cathedral Bulgarian city liberation Turks",
+        "expanded": [
+            "Who is Alexander Nevsky?",
+            "What is the significance of the Alexander Nevsky Cathedral in Bulgaria?",
+            "What was the role of Alexander Nevsky in the liberation of Bulgaria from Turkish rule?"
+        ]
+    },
+    "INEX_LD-2012353": {
+        "original": "country German language",
+        "expanded": [
+            "Which countries have German as an official language?",
+            "What are the dialects of the German language?",
+            "What is the history of the German language?"
+        ]
+    },
+    "INEX_LD-2012354": {
+        "original": "greatest guitarist",
+        "expanded": [
+            "Who is widely considered the greatest guitarist of all time?",
+            "Which guitarists are consistently ranked high in greatest guitarist lists?",
+            "What are some common characteristics of the greatest guitarists?"
+        ]
+    },
+    "INEX_LD-2012355": {
+        "original": "England football player highest paid",
+        "expanded": [
+            "Who are the top-paid football players from England?",
+            "What are the salaries of top England football players?",
+            "Who is the highest-paid England football player currently?"
+        ]
+    },
+    "INEX_LD-2012357": {
+        "original": "prima ballerina Bolshoi Theatre 1960",
+        "expanded": [
+            "Who was the prima ballerina of the Bolshoi Theatre in 1960?",
+            "What was the significance of the Bolshoi Theatre in 1960?",
+            "What was the state of ballet in the Soviet Union during the 1960s?"
+        ]
+    },
+    "INEX_LD-2012359": {
+        "original": "Bob Ricker Executive Director the latest front group for the anti-gun movement",
+        "expanded": [
+            "Who is Bob Ricker?",
+            "What is the latest front group for the anti-gun movement that Bob Ricker leads?",
+            "What are Bob Ricker's goals as Executive Director of the front group?"
+        ]
+    },
+    "INEX_LD-2012361": {
+        "original": "most famous award winning actor singer",
+        "expanded": [
+            "Who are the most famous actors who are also singers?",
+            "Which actors have won major awards for their acting and singing?",
+            "Who is the most awarded actor-singer of all time?"
+        ]
+    },
+    "INEX_LD-2012365": {
+        "original": "mathematician computer scientist MIT's six inaugural MacVicar Faculty Fellows",
+        "expanded": [
+            "Who are the six inaugural MacVicar Faculty Fellows at MIT?",
+            "Which of the MacVicar Faculty Fellows were mathematicians?",
+            "Which of the MacVicar Faculty Fellows were computer scientists?"
+        ]
+    },
+    "INEX_LD-2012367": {
+        "original": "invented telescope",
+        "expanded": [
+            "Who invented the telescope?",
+            "What was the first telescope made of?",
+            "What was the significance of the telescope?"
+        ]
+    },
+    "INEX_LD-2012369": {
+        "original": "most famous civic-military airports",
+        "expanded": [
+            "What is a civic-military airport?",
+            "What are the characteristics of a famous civic-military airport?",
+            "What are some examples of famous civic-military airports around the world?"
+        ]
+    },
+    "INEX_LD-2012371": {
+        "original": "most beautiful railway stations world cities located",
+        "expanded": [
+            "What are some of the most beautiful railway stations in the world?",
+            "Which cities are home to these beautiful railway stations?",
+            "What makes these railway stations stand out in terms of architecture and design?"
+        ]
+    },
+    "INEX_LD-2012372": {
+        "original": "famous historical battlefields opponents fought",
+        "expanded": [
+            "What are some of the most famous historical battles?",
+            "Who were the opponents in these famous battles?",
+            "What were the consequences of these battles?"
+        ]
+    },
+    "INEX_LD-2012373": {
+        "original": "birds cannot fly",
+        "expanded": [
+            "Which birds are flightless?",
+            "What physical characteristics prevent birds from flying?",
+            "Are there any circumstances in which birds can temporarily lose the ability to fly?"
+        ]
+    },
+    "INEX_LD-2012377": {
+        "original": "allegedly caused World War I",
+        "expanded": [
+            "What was the event that triggered World War I?",
+            "Which alliances led to the escalation of the conflict?",
+            "What were the underlying tensions and rivalries that contributed to the outbreak of war?"
+        ]
+    },
+    "INEX_LD-2012381": {
+        "original": "movie directors directed a block buster",
+        "expanded": [
+            "Who are the most successful movie directors?",
+            "What constitutes a blockbuster movie?",
+            "Which movies directed by successful directors can be considered blockbusters?"
+        ]
+    },
+    "INEX_LD-2012383": {
+        "original": "famous computer scientists disappeared at sea",
+        "expanded": [
+            "Who are some famous computer scientists?",
+            "Have any famous computer scientists gone missing or died at sea?",
+            "Are there any famous computer scientists who have had close calls or near-death experiences at sea?"
+        ]
+    },
+    "INEX_LD-2012385": {
+        "original": "famous politicians vegetarians",
+        "expanded": [
+            "Which famous politicians are vegetarians?",
+            "Why do politicians choose to be vegetarians?",
+            "Are there any politicians who have advocated for vegetarian or vegan policies?"
+        ]
+    },
+    "INEX_LD-2012387": {
+        "original": "famous river confluence dam constructed",
+        "expanded": [
+            "What is a confluence of rivers?",
+            "What are some famous river confluences around the world?",
+            "What are some notable dams built at river confluences?"
+        ]
+    },
+    "INEX_LD-2012389": {
+        "original": "frequently visited sharks gulf Indian Ocean",
+        "expanded": [
+            "Which sharks are found in the Indian Ocean?",
+            "What are the most common shark species?",
+            "Which areas in the Indian Ocean are most frequently visited by sharks?"
+        ]
+    },
+    "INEX_LD-2012390": {
+        "original": "baseball player most homeruns national league",
+        "expanded": [
+            "Who holds the record for most home runs in the National League?",
+            "Who has hit the most home runs in a single season in the National League?",
+            "Who is the all-time leader in home runs among active players in the National League?"
+        ]
+    },
+    "INEX_XER-106": {
+        "original": "Noble english person from the Hundred Years' War",
+        "expanded": [
+            "Who were the notable English nobles during the Hundred Years' War?",
+            "What were the key battles fought by English nobles during the Hundred Years' War?",
+            "What were the key characteristics or qualities of noble English persons during the Hundred Years' War?"
+        ]
+    },
+    "INEX_XER-108": {
+        "original": "State capitals of the United States of America",
+        "expanded": [
+            "What are the 50 states of the United States of America?",
+            "What is the definition of a state capital?",
+            "What are the capitals of each of the 50 states in the United States of America?"
+        ]
+    },
+    "INEX_XER-109": {
+        "original": "National capitals situated on islands",
+        "expanded": [
+            "Which countries have islands as part of their territory?",
+            "Which of these countries have their capital cities located on islands?",
+            "What are the specific national capitals that are situated on islands?"
+        ]
+    },
+    "INEX_XER-110": {
+        "original": "Nobel Prize in Literature winners who were also poets",
+        "expanded": [
+            "Who are the Nobel Prize in Literature winners?",
+            "Who among the Nobel Prize in Literature winners are known to have written poetry?",
+            "What specific Nobel Prize in Literature winners are primarily known as poets?"
+        ]
+    },
+    "INEX_XER-113": {
+        "original": "Formula 1 drivers that won the Monaco Grand Prix",
+        "expanded": [
+            "What is the Monaco Grand Prix?",
+            "Which Formula 1 drivers have won the Monaco Grand Prix?",
+            "Who are the most recent winners of the Monaco Grand Prix?"
+        ]
+    },
+    "INEX_XER-114": {
+        "original": "Formula one races in Europe",
+        "expanded": [
+            "Which are the countries in Europe that host Formula One races?",
+            "What are the names of the Formula One tracks in Europe?",
+            "When are the Formula One races held in Europe?"
+        ]
+    },
+    "INEX_XER-115": {
+        "original": "Formula One World Constructors' Champions",
+        "expanded": [
+            "What is the Formula One World Constructors' Championship?",
+            "Which teams have won the most Formula One World Constructors' Championships?",
+            "Who are the latest Formula One World Constructors' Champions?"
+        ]
+    },
+    "INEX_XER-116": {
+        "original": "Italian nobel prize winners",
+        "expanded": [
+            "Who are the Italian Nobel laureates in Literature?",
+            "Who are the Italian Nobel laureates in Physics?",
+            "Who are the Italian Nobel laureates in other fields?"
+        ]
+    },
+    "INEX_XER-117": {
+        "original": "Musicians who appeared in the Blues Brothers movies",
+        "expanded": [
+            "** Musicians who appeared in The Blues Brothers (1980)\n**",
+            "** Musicians who appeared in Blues Brothers 2000 (1998)\n**",
+            "** Musicians who made cameo appearances in both Blues Brothers films\n**"
+        ]
+    },
+    "INEX_XER-118": {
+        "original": "French car models in 1960's",
+        "expanded": [
+            "Which French car manufacturers were active in the 1960s?",
+            "What were some popular car models produced by Renault in the 1960s?",
+            "What were some iconic car models produced by Citro\u00ebn in the 1960s?"
+        ]
+    },
+    "INEX_XER-119": {
+        "original": "Swiss cantons where they speak German",
+        "expanded": [
+            "What are the official languages of Switzerland?",
+            "Which cantons in Switzerland have German as an official language?",
+            "Are there any cantons where German is the sole official language?"
+        ]
+    },
+    "INEX_XER-121": {
+        "original": "US presidents since 1960",
+        "expanded": [
+            "Who was the US president in 1960?",
+            "Who succeeded Dwight D. Eisenhower as US president?",
+            "Who were the subsequent US presidents after John F. Kennedy?"
+        ]
+    },
+    "INEX_XER-122": {
+        "original": "Movies with eight or more Academy Awards",
+        "expanded": [
+            "What is the list of Academy Awards categories?",
+            "Which movies have won the most Academy Awards?",
+            "Are there movies that have won exactly eight Academy Awards?"
+        ]
+    },
+    "INEX_XER-123": {
+        "original": "FIFA world cup national team winners since 1974",
+        "expanded": [
+            "Which FIFA World Cup tournaments have taken place since 1974?",
+            "Which national teams won each of these tournaments?",
+            "What are the details of each winning team, such as their captain, coach, and key players?"
+        ]
+    },
+    "INEX_XER-124": {
+        "original": "Novels that won the Booker Prize",
+        "expanded": [
+            "What is the Booker Prize?",
+            "Who are the winners of the Booker Prize?",
+            "What novels have won the Booker Prize?"
+        ]
+    },
+    "INEX_XER-127": {
+        "original": "german female politicians",
+        "expanded": [
+            "Who are some prominent female politicians in Germany?",
+            "What are some notable achievements of German female politicians?",
+            "How have German female politicians impacted women's rights and gender equality?"
+        ]
+    },
+    "INEX_XER-128": {
+        "original": "Bond girls",
+        "expanded": [
+            "Who are the most popular Bond girls?",
+            "Are Bond girls more than just attractive companions?",
+            "Have Bond girls evolved over the years?"
+        ]
+    },
+    "INEX_XER-129": {
+        "original": "Science fiction book written in the 1980",
+        "expanded": [
+            "What are some popular science fiction books?",
+            "What are the notable science fiction authors of the 1980s?",
+            "Which science fiction books published in the 1980s are considered classics?"
+        ]
+    },
+    "INEX_XER-130": {
+        "original": "Star Trek Captains",
+        "expanded": [
+            "Who are the main captains in the Star Trek franchise?",
+            "What are the characteristics and traits of each Star Trek captain?",
+            "What are some notable episodes or storylines featuring each Star Trek captain?"
+        ]
+    },
+    "INEX_XER-132": {
+        "original": "living nordic classical composers",
+        "expanded": [
+            "Who are the Nordic countries?",
+            "What is classical music?",
+            "Who are some living classical composers from the Nordic countries?"
+        ]
+    },
+    "INEX_XER-133": {
+        "original": "EU countries",
+        "expanded": [
+            "What are the member states of the European Union?",
+            "What is the criteria for a country to join the EU?",
+            "What are the benefits of being an EU member country?"
+        ]
+    },
+    "INEX_XER-134": {
+        "original": "record-breaking sprinters in male 100-meter sprints",
+        "expanded": [
+            "Who holds the current world record in the 100-meter sprint?",
+            "Who are some notable male sprinters who have held the 100-meter world record in the past?",
+            "What are some notable achievements of record-breaking sprinters in the 100-meter event?"
+        ]
+    },
+    "INEX_XER-135": {
+        "original": "professional baseball team in Japan",
+        "expanded": [
+            "What is the top professional baseball league in Japan?",
+            "What are some of the most well-known teams in NPB?",
+            "What is the history of professional baseball in Japan?"
+        ]
+    },
+    "INEX_XER-136": {
+        "original": "Japanese players in Major League Baseball",
+        "expanded": [
+            "Who are the first Japanese players to play in MLB?",
+            "Which Japanese players have had successful careers in MLB?",
+            "What challenges do Japanese players face when transitioning to MLB?"
+        ]
+    },
+    "INEX_XER-138": {
+        "original": "National Parks East Coast Canada US",
+        "expanded": [
+            "National Parks in Eastern Canada",
+            "National Parks in Eastern United States",
+            "National Parks near the Canada-US Border"
+        ]
+    },
+    "INEX_XER-139": {
+        "original": "Films directed by Akira Kurosawa",
+        "expanded": [
+            "Who is Akira Kurosawa?",
+            "What are the notable films directed by Akira Kurosawa?",
+            "What is the filmography of Akira Kurosawa?"
+        ]
+    },
+    "INEX_XER-140": {
+        "original": "Airports in Germany",
+        "expanded": [
+            "What are the major airports in Germany?",
+            "Are there any international airports in Germany?",
+            "What are the regional airports in Germany?"
+        ]
+    },
+    "INEX_XER-141": {
+        "original": "Universities in Catalunya",
+        "expanded": [
+            "What is Catalunya?",
+            "What are the public universities in Catalunya?",
+            "What are some private universities in Catalunya?"
+        ]
+    },
+    "INEX_XER-143": {
+        "original": "Hanseatic league in Germany in the Netherlands Circle",
+        "expanded": [
+            "What was the Hanseatic League?",
+            "What was the role of Germany in the Hanseatic League?",
+            "What was the Netherlands' relationship with the Hanseatic League?"
+        ]
+    },
+    "INEX_XER-144": {
+        "original": "chess world champions",
+        "expanded": [
+            "Who is the current chess world champion?",
+            "Who are the most famous chess world champions in history?",
+            "How do chess world champions win the title?"
+        ]
+    },
+    "INEX_XER-147": {
+        "original": "Chemical elements that are named after people",
+        "expanded": [
+            "Which chemical elements are named after scientists?",
+            "Which chemical elements are named after non-scientists?",
+            "Are there any chemical elements named after multiple people?"
+        ]
+    },
+    "INEX_XER-60": {
+        "original": "olympic classes dinghy sailing",
+        "expanded": [
+            "What are the Olympic classes in dinghy sailing?",
+            "What is dinghy sailing?",
+            "What are the characteristics of the Olympic dinghy sailing classes?"
+        ]
+    },
+    "INEX_XER-62": {
+        "original": "Neil Gaiman novels",
+        "expanded": [
+            "What is Neil Gaiman's most popular novel?",
+            "What are some of Neil Gaiman's other notable novels?",
+            "What themes and genres does Neil Gaiman typically explore in his novels?"
+        ]
+    },
+    "INEX_XER-63": {
+        "original": "Hugo awarded best novels",
+        "expanded": [
+            "Who is Hugo?",
+            "What are the categories of Hugo Awards?",
+            "What are some notable winners of the Best Novel Hugo Award?"
+        ]
+    },
+    "INEX_XER-64": {
+        "original": "Alan Moore graphic novels adapted to film",
+        "expanded": [
+            "List of Alan Moore's notable graphic novels",
+            "Film adaptations of Alan Moore's graphic novels",
+            "Why Alan Moore dislikes film adaptations of his work"
+        ]
+    },
+    "INEX_XER-65": {
+        "original": "Pacific navigators Australia explorers",
+        "expanded": [
+            "Who were the Pacific navigators?",
+            "Who were the European explorers of Australia?",
+            "How did Pacific navigators and European explorers interact in Australia?"
+        ]
+    },
+    "INEX_XER-67": {
+        "original": "Ferris and observation wheels",
+        "expanded": [
+            "What is the origin of the Ferris wheel?",
+            "What is the purpose of an observation wheel?",
+            "What are some notable observation wheels around the world?"
+        ]
+    },
+    "INEX_XER-72": {
+        "original": "films shot in Venice",
+        "expanded": [
+            "What are some famous movies set in Venice?",
+            "What are some films that feature iconic scenes shot on location in Venice?",
+            "Are there any films that focus specifically on the art, culture, and history of Venice?"
+        ]
+    },
+    "INEX_XER-74": {
+        "original": "circus mammals",
+        "expanded": [
+            "What types of mammals are commonly found in circuses?",
+            "What are some popular circus acts featuring mammals?",
+            "Are there any concerns about keeping mammals in circuses?"
+        ]
+    },
+    "INEX_XER-79": {
+        "original": "Works by Charles Rennie Mackintosh",
+        "expanded": [
+            "What is the background of Charles Rennie Mackintosh?",
+            "What are some of Mackintosh's most famous architectural works?",
+            "What are some of Mackintosh's notable designs and artistic works?"
+        ]
+    },
+    "INEX_XER-81": {
+        "original": "Movies about English hooligans",
+        "expanded": [
+            "What is the definition of English hooliganism?",
+            "What are some notable movies featuring English hooligans?",
+            "How do these movies portray English hooliganism and its cultural significance?"
+        ]
+    },
+    "INEX_XER-86": {
+        "original": "List of countries in World War Two",
+        "expanded": [
+            "Which countries were part of the Axis powers during World War Two?",
+            "Which countries were part of the Allied powers during World War Two?",
+            "Were there any neutral countries or other countries involved in World War Two?"
+        ]
+    },
+    "INEX_XER-87": {
+        "original": "Axis powers of World War II",
+        "expanded": [
+            "Which countries made up the Axis powers?",
+            "What were the goals and ideology of the Axis powers?",
+            "What was the outcome of the Axis powers' efforts during World War II?"
+        ]
+    },
+    "INEX_XER-88": {
+        "original": "Nordic authors who are known for children's literature",
+        "expanded": [
+            "Which countries are considered Nordic?",
+            "Who are famous authors from these Nordic countries?",
+            "Which of these authors are specifically known for children's literature?"
+        ]
+    },
+    "INEX_XER-91": {
+        "original": "Paul Auster novels",
+        "expanded": [
+            "What are the notable works of Paul Auster?",
+            "What are the common themes in Paul Auster's novels?",
+            "What are some of Paul Auster's most popular novels?"
+        ]
+    },
+    "INEX_XER-94": {
+        "original": "Hybrid cars sold in Europe",
+        "expanded": [
+            "What are the types of hybrid cars available in the market?",
+            "Which car manufacturers offer hybrid cars in Europe?",
+            "What are the popular hybrid car models sold in Europe?"
+        ]
+    },
+    "INEX_XER-95": {
+        "original": "Tom Hanks movies where he plays a leading role.",
+        "expanded": [
+            "What are the movies starring Tom Hanks?",
+            "In which movies does Tom Hanks play a leading role?",
+            "What are the most popular Tom Hanks movies where he plays a leading role?"
+        ]
+    },
+    "INEX_XER-96": {
+        "original": "Pure object-oriented programing languages",
+        "expanded": [
+            "What is object-oriented programming (OOP)?",
+            "What are the key principles of pure object-oriented programming?",
+            "Which programming languages are considered pure object-oriented?"
+        ]
+    },
+    "INEX_XER-98": {
+        "original": "Makers of lawn tennis rackets",
+        "expanded": [
+            "What are the well-known brands of lawn tennis rackets?",
+            "Which companies specialize in producing high-quality lawn tennis rackets?",
+            "Are there any up-and-coming or niche brands of lawn tennis rackets?"
+        ]
+    },
+    "INEX_XER-99": {
+        "original": "Computer systems that have a recursive acronym for the name",
+        "expanded": [
+            "What is a recursive acronym?",
+            "What are some examples of recursive acronyms in computer systems?",
+            "What are the benefits of using recursive acronyms in computer systems?"
+        ]
+    },
+    "QALD2_te-1": {
+        "original": "Which German cities have more than 250000 inhabitants?",
+        "expanded": [
+            "What are the cities in Germany?",
+            "What is the population of each city in Germany?",
+            "Which of these cities have a population of more than 250,000 inhabitants?"
+        ]
+    },
+    "QALD2_te-100": {
+        "original": "Who produces Orangina?",
+        "expanded": [
+            "What is Orangina?",
+            "Who owns the Orangina brand?",
+            "Who manufactures Orangina?"
+        ]
+    },
+    "QALD2_te-11": {
+        "original": "Who is the Formula 1 race driver with the most races?",
+        "expanded": [
+            "Who holds the record for the most Formula 1 Grand Prix starts?",
+            "Who has competed in the most Formula 1 seasons?",
+            "Is Fernando Alonso still active in Formula 1, and if so, is he still adding to his record?"
+        ]
+    },
+    "QALD2_te-12": {
+        "original": "Give me all world heritage sites designated within the past five years.",
+        "expanded": [
+            "What is the list of World Heritage Sites?",
+            "What is the criteria for designating a World Heritage Site?",
+            "What are the World Heritage Sites designated in the past five years?"
+        ]
+    },
+    "QALD2_te-13": {
+        "original": "Who is the youngest player in the Premier League?",
+        "expanded": [
+            "What is the current season of the Premier League?",
+            "Who are the players currently playing in the Premier League?",
+            "What are the ages of the players currently playing in the Premier League?"
+        ]
+    },
+    "QALD2_te-14": {
+        "original": "Give me all members of Prodigy.",
+        "expanded": [
+            "Who is the lead vocalist of Prodigy?",
+            "Who are the other core members of Prodigy?",
+            "Are there any other notable members or contributors to Prodigy?"
+        ]
+    },
+    "QALD2_te-17": {
+        "original": "Give me all cars that are produced in Germany.",
+        "expanded": [
+            "Which car manufacturers are based in Germany?",
+            "Which car models are produced by these German manufacturers?",
+            "Are all models from these manufacturers produced in Germany?"
+        ]
+    },
+    "QALD2_te-2": {
+        "original": "Who was the successor of John F. Kennedy?",
+        "expanded": [
+            "When did John F. Kennedy serve as President of the United States?",
+            "What event led to John F. Kennedy's presidency coming to an end?",
+            "Who took office as President after John F. Kennedy's assassination?"
+        ]
+    },
+    "QALD2_te-21": {
+        "original": "What is the capital of Canada?",
+        "expanded": [
+            "What is the country whose capital we are looking for?",
+            "What is the administrative division that serves as the capital of a country?",
+            "What city in Canada serves as the capital and the seat of the federal government?"
+        ]
+    },
+    "QALD2_te-22": {
+        "original": "Who is the governor of Texas?",
+        "expanded": [
+            "What is the current governor of Texas?",
+            "Who are the past governors of Texas?",
+            "What are the responsibilities of the governor of Texas?"
+        ]
+    },
+    "QALD2_te-24": {
+        "original": "Who was the father of Queen Elizabeth II?",
+        "expanded": [
+            "Who were Queen Elizabeth II's parents?",
+            "What was the title of Queen Elizabeth II's father?",
+            "Who succeeded King Edward VIII to the throne of the United Kingdom?"
+        ]
+    },
+    "QALD2_te-25": {
+        "original": "Which U.S. state has been admitted latest?",
+        "expanded": [
+            "What is the chronological order of U.S. state admissions?",
+            "What is the most recent year a U.S. state was admitted?",
+            "Which U.S. state was admitted on August 21, 1959?"
+        ]
+    },
+    "QALD2_te-27": {
+        "original": "Sean Parnell is the governor of which U.S. state?",
+        "expanded": [
+            "Who is Sean Parnell?",
+            "What was Sean Parnell's position?",
+            "In which state was Sean Parnell the governor?"
+        ]
+    },
+    "QALD2_te-28": {
+        "original": "Give me all movies directed by Francis Ford Coppola.",
+        "expanded": [
+            "Who is Francis Ford Coppola?",
+            "What are some notable works of Francis Ford Coppola?",
+            "What are all the movies directed by Francis Ford Coppola?"
+        ]
+    },
+    "QALD2_te-3": {
+        "original": "Who is the mayor of Berlin?",
+        "expanded": [
+            "What is the current mayor of Berlin?",
+            "Who held the position of mayor of Berlin before Kai Wegner?",
+            "What are the responsibilities of the mayor of Berlin?"
+        ]
+    },
+    "QALD2_te-31": {
+        "original": "Give me all current Methodist national leaders.",
+        "expanded": [
+            "What is the current international organization of Methodist denominations?",
+            "Which Methodist denomination is the largest in the United States?",
+            "Who are the current leaders of the United Methodist Church?"
+        ]
+    },
+    "QALD2_te-33": {
+        "original": "Give me all Australian nonprofit organizations.",
+        "expanded": [
+            "What is the definition of a nonprofit organization?",
+            "What are the characteristics of a nonprofit organization in Australia?",
+            "What is a list of Australian nonprofit organizations?"
+        ]
+    },
+    "QALD2_te-35": {
+        "original": "Who developed Skype?",
+        "expanded": [
+            "What is the origin of Skype?",
+            "Who were the engineers behind Skype's development?",
+            "Did Microsoft acquire Skype?"
+        ]
+    },
+    "QALD2_te-39": {
+        "original": "Give me all companies in Munich.",
+        "expanded": [
+            "What is the definition of a company?",
+            "What is Munich and what are its characteristics?",
+            "How do I find companies located in Munich?"
+        ]
+    },
+    "QALD2_te-40": {
+        "original": "List all boardgames by GMT.",
+        "expanded": [
+            "What is GMT in the context of board games?",
+            "What types of games does GMT publish?",
+            "What are some notable board games published by GMT?"
+        ]
+    },
+    "QALD2_te-42": {
+        "original": "Who is the husband of Amanda Palmer?",
+        "expanded": [
+            "Who is Amanda Palmer?",
+            "Is Amanda Palmer married?",
+            "Who is Neil Gaiman?"
+        ]
+    },
+    "QALD2_te-43": {
+        "original": "Give me all breeds of the German Shepherd dog.",
+        "expanded": [
+            "What is the history of the German Shepherd breed?",
+            "What are the main types of German Shepherds?",
+            "What are some specific breed lines or variations within the German Shepherd breed?"
+        ]
+    },
+    "QALD2_te-44": {
+        "original": "Which cities does the Weser flow through?",
+        "expanded": [
+            "What is the Weser River?",
+            "Where does the Weser River originate?",
+            "What are the major cities along the Weser River?"
+        ]
+    },
+    "QALD2_te-45": {
+        "original": "Which countries are connected by the Rhine?",
+        "expanded": [
+            "Where does the Rhine River originate?",
+            "Which countries does the Rhine River flow through in its course?",
+            "Are there any other countries that the Rhine River is connected to indirectly?"
+        ]
+    },
+    "QALD2_te-46": {
+        "original": "Which professional surfers were born on the Philippines?",
+        "expanded": [
+            "Which surfers were born in the Philippines?",
+            "What are the names of Filipino surfers who have competed at the international level?",
+            "Are there any other Filipino surfers who have gained recognition in the surfing world?"
+        ]
+    },
+    "QALD2_te-48": {
+        "original": "In which UK city are the headquarters of the MI6?",
+        "expanded": [
+            "What is MI6?",
+            "Where are the headquarters of intelligence agencies usually located?",
+            "What is the capital city of the UK?"
+        ]
+    },
+    "QALD2_te-49": {
+        "original": "Which other weapons did the designer of the Uzi develop?",
+        "expanded": [
+            "Who is the designer of the Uzi?",
+            "What other weapons did Uziel Gal design during his career?",
+            "Are there any notable firearms attributed to Uziel Gal beyond the Uzi and its variants?"
+        ]
+    },
+    "QALD2_te-5": {
+        "original": "What is the second highest mountain on Earth?",
+        "expanded": [
+            "What is the highest mountain on Earth?",
+            "What are the top 5 highest mountains on Earth?",
+            "Which mountain is the second highest in the list of top 5 highest mountains on Earth?"
+        ]
+    },
+    "QALD2_te-51": {
+        "original": "Give me all Frisian islands that belong to the Netherlands.",
+        "expanded": [
+            "What are the Frisian Islands?",
+            "Which Frisian Islands belong to the Netherlands?",
+            "Are there any other Frisian Islands that belong to the Netherlands besides the West Frisian Islands?"
+        ]
+    },
+    "QALD2_te-53": {
+        "original": "What is the ruling party in Lisbon?",
+        "expanded": [
+            "What is the capital of Portugal?",
+            "How is the government structured in Portugal?",
+            "Which party is currently in power in the Assembly of the Republic?"
+        ]
+    },
+    "QALD2_te-55": {
+        "original": "Which Greek goddesses dwelt on Mount Olympus?",
+        "expanded": [
+            "Who are the Greek goddesses?",
+            "Which goddesses are associated with Mount Olympus?",
+            "Are there any other goddesses who dwelt on Mount Olympus?"
+        ]
+    },
+    "QALD2_te-57": {
+        "original": "Give me the Apollo 14 astronauts.",
+        "expanded": [
+            "What was the crew of Apollo 14?",
+            "Who was the commander of Apollo 14?",
+            "Who were the lunar module pilot and command module pilot of Apollo 14?"
+        ]
+    },
+    "QALD2_te-58": {
+        "original": "What is the time zone of Salt Lake City?",
+        "expanded": [
+            "In which state is Salt Lake City located?",
+            "What time zone is Utah in?",
+            "Does Salt Lake City observe daylight saving time?"
+        ]
+    },
+    "QALD2_te-59": {
+        "original": "Which U.S. states are in the same timezone as Utah?",
+        "expanded": [
+            "What is the time zone of Utah?",
+            "Which U.S. states are in the Mountain Time Zone?",
+            "Are there any additional states that observe Mountain Daylight Time but are not in the Mountain Time Zone?"
+        ]
+    },
+    "QALD2_te-6": {
+        "original": "Give me all professional skateboarders from Sweden.",
+        "expanded": [
+            "Who are the professional skateboarders?",
+            "Which skateboarding competitions and events feature Swedish participants?",
+            "Who are the Swedish skateboarders with a professional career?"
+        ]
+    },
+    "QALD2_te-60": {
+        "original": "Give me a list of all lakes in Denmark.",
+        "expanded": [
+            "What are the major lakes in Denmark?",
+            "Are there any smaller lakes and ponds in Denmark?",
+            "Are there any notable lakes in specific regions of Denmark?"
+        ]
+    },
+    "QALD2_te-63": {
+        "original": "Give me all Argentine films.",
+        "expanded": [
+            "What is the definition of an Argentine film?",
+            "Which films have Argentina as their country of origin?",
+            "Are there any notable Argentine film directors or producers?"
+        ]
+    },
+    "QALD2_te-64": {
+        "original": "Give me all launch pads operated by NASA.",
+        "expanded": [
+            "What are the different types of launch pads operated by NASA?",
+            "What are the different centers operated by NASA that have launch pads?",
+            "Which specific launch pads are operated by NASA at each of these centers?"
+        ]
+    },
+    "QALD2_te-65": {
+        "original": "Which instruments did John Lennon play?",
+        "expanded": [
+            "What is John Lennon's role in the Beatles?",
+            "What are the primary instruments John Lennon played in the Beatles?",
+            "Did John Lennon play any other instruments besides guitar and keyboards?"
+        ]
+    },
+    "QALD2_te-66": {
+        "original": "Which ships were called after Benjamin Franklin?",
+        "expanded": [
+            "What was Benjamin Franklin's significance in history?",
+            "What is the naming convention for ships, especially those named after historical figures?",
+            "Are there any documented ships named after Benjamin Franklin?"
+        ]
+    },
+    "QALD2_te-67": {
+        "original": "Who are the parents of the wife of Juan Carlos I?",
+        "expanded": [
+            "Who is the wife of Juan Carlos I?",
+            "Who are the parents of Queen Sofia of Spain?",
+            "Who are King Paul of Greece and Queen Frederica of Greece?"
+        ]
+    },
+    "QALD2_te-72": {
+        "original": "In which U.S. state is Area 51 located?",
+        "expanded": [
+            "What is Area 51?",
+            "Where is the Nevada Test and Training Range located?",
+            "Which U.S. state is Nye County located in?"
+        ]
+    },
+    "QALD2_te-75": {
+        "original": "Which daughters of British earls died in the same place they were born in?",
+        "expanded": [
+            "Who are the daughters of British earls?",
+            "Where were these daughters born?",
+            "Where did these daughters die, and did any of them die in the same place they were born?"
+        ]
+    },
+    "QALD2_te-76": {
+        "original": "List the children of Margaret Thatcher.",
+        "expanded": [
+            "Who was Margaret Thatcher's husband?",
+            "How many children did Margaret Thatcher have with her husband Denis Thatcher?",
+            "What are the names of Margaret Thatcher's children?"
+        ]
+    },
+    "QALD2_te-77": {
+        "original": "Who was called Scarface?",
+        "expanded": [
+            "Who was Al Capone?",
+            "Who was the main character in the 1983 movie Scarface?",
+            "Are there any other notable individuals nicknamed Scarface?"
+        ]
+    },
+    "QALD2_te-8": {
+        "original": "To which countries does the Himalayan mountain system extend?",
+        "expanded": [
+            "What is the geographical scope of the Himalayan mountain system?",
+            "Which countries share borders with the Himalayan mountain range?",
+            "Are there any specific regions or territories within these countries where the Himalayan mountain range is prominent?"
+        ]
+    },
+    "QALD2_te-80": {
+        "original": "Give me all books by William Goldman with more than 300 pages.",
+        "expanded": [
+            "Who is William Goldman?",
+            "What books did William Goldman write?",
+            "Which of William Goldman's books have more than 300 pages?"
+        ]
+    },
+    "QALD2_te-81": {
+        "original": "Which books by Kerouac were published by Viking Press?",
+        "expanded": [
+            "Who is Jack Kerouac?",
+            "What books did Jack Kerouac write?",
+            "Which of Kerouac's books were published by Viking Press?"
+        ]
+    },
+    "QALD2_te-82": {
+        "original": "Give me a list of all American inventions.",
+        "expanded": [
+            "What are some of the most influential American inventions of the 18th and 19th centuries?",
+            "What are some significant American inventions of the 20th century?",
+            "What are some recent American inventions that have had a significant impact on modern society?"
+        ]
+    },
+    "QALD2_te-84": {
+        "original": "Who created the comic Captain America?",
+        "expanded": [
+            "Who are the creators of Captain America?",
+            "What inspired the creation of Captain America?",
+            "What is the significance of Captain America in American comic book history?"
+        ]
+    },
+    "QALD2_te-88": {
+        "original": "Which films starring Clint Eastwood did he direct himself?",
+        "expanded": [
+            "What films did Clint Eastwood direct?",
+            "Which films does Clint Eastwood star in?",
+            "Which of Clint Eastwood's directed films does he also star in?"
+        ]
+    },
+    "QALD2_te-89": {
+        "original": "In which city was the former Dutch queen Juliana buried?",
+        "expanded": [
+            "Who is the former Dutch queen Juliana?",
+            "Where are members of the Dutch royal family typically buried?",
+            "Was Queen Juliana buried in the traditional royal burial site in Delft?"
+        ]
+    },
+    "QALD2_te-9": {
+        "original": "Give me a list of all trumpet players that were bandleaders.",
+        "expanded": [
+            "Who are famous trumpet players?",
+            "Who are famous bandleaders in jazz?",
+            "Which trumpet players were also bandleaders?"
+        ]
+    },
+    "QALD2_te-90": {
+        "original": "Where is the residence of the prime minister of Spain?",
+        "expanded": [
+            "Who is the current Prime Minister of Spain?",
+            "What is the official residence of the Prime Minister of Spain?",
+            "Where is the Palacio de la Moncloa located in Madrid?"
+        ]
+    },
+    "QALD2_te-91": {
+        "original": "Which U.S. State has the abbreviation MN?",
+        "expanded": [
+            "What are the 50 states in the United States?",
+            "What is the standard abbreviation for each of these states?",
+            "Which of these states has the abbreviation MN?"
+        ]
+    },
+    "QALD2_te-92": {
+        "original": "Show me all songs from Bruce Springsteen released between 1980 and 1990.",
+        "expanded": [
+            "Who is Bruce Springsteen?",
+            "What are the albums released by Bruce Springsteen between 1980 and 1990?",
+            "What are the songs from the albums released by Bruce Springsteen between 1980 and 1990?"
+        ]
+    },
+    "QALD2_te-93": {
+        "original": "Which movies did Sam Raimi direct after Army of Darkness?",
+        "expanded": [
+            "What is the release year of Army of Darkness?",
+            "What movies did Sam Raimi direct?",
+            "Which of Sam Raimi's directed movies were released after 1992?"
+        ]
+    },
+    "QALD2_te-95": {
+        "original": "Who wrote the lyrics for the Polish national anthem?",
+        "expanded": [
+            "What is the Polish national anthem?",
+            "Who wrote the music for \"D\u0105browski's Mazurka\"?",
+            "Who wrote the lyrics for \"D\u0105browski's Mazurka\"?"
+        ]
+    },
+    "QALD2_te-97": {
+        "original": "Who painted The Storm on the Sea of Galilee?",
+        "expanded": [
+            "Who is the artist famous for painting maritime scenes?",
+            "What is the name of Rembrandt's 1633 painting depicting a stormy sea scene?",
+            "Was \"The Storm on the Sea of Galilee\" a popular work by Rembrandt?"
+        ]
+    },
+    "QALD2_te-98": {
+        "original": "Which country does the creator of Miffy come from?",
+        "expanded": [
+            "Who is the creator of Miffy?",
+            "What is the nationality of Dick Bruna?",
+            "Which country is the Netherlands?"
+        ]
+    },
+    "QALD2_te-99": {
+        "original": "For which label did Elvis record his first album?",
+        "expanded": [
+            "Who is Elvis?",
+            "What was Elvis's first album?",
+            "Which label did Elvis record his first album with?"
+        ]
+    },
+    "QALD2_tr-1": {
+        "original": "Give me all female Russian astronauts.",
+        "expanded": [
+            "Who are the Russian astronauts?",
+            "Which of these Russian astronauts are female?",
+            "What are the names of all female Russian astronauts?"
+        ]
+    },
+    "QALD2_tr-10": {
+        "original": "In which country does the Nile start?",
+        "expanded": [
+            "What are the sources of the Nile River?",
+            "Where do the tributaries of the Nile River come from?",
+            "Which country is the source of the longest tributary of the Nile River?"
+        ]
+    },
+    "QALD2_tr-11": {
+        "original": "Which countries have places with more than two caves?",
+        "expanded": [
+            "What are the places with caves?",
+            "How many caves does each of these places have?",
+            "Which countries have places with more than two caves?"
+        ]
+    },
+    "QALD2_tr-13": {
+        "original": "Which classis does the Millepede belong to?",
+        "expanded": [
+            "What phylum does the Millipede belong to?",
+            "What subphylum does the Millipede belong to?",
+            "What class does the Millipede belong to?"
+        ]
+    },
+    "QALD2_tr-15": {
+        "original": "Who created Goofy?",
+        "expanded": [
+            "Who is Goofy?",
+            "Who worked on the creation of Goofy?",
+            "When was Goofy created?"
+        ]
+    },
+    "QALD2_tr-16": {
+        "original": "Give me the capitals of all countries in Africa.",
+        "expanded": [
+            "What are the countries in Africa?",
+            "What is the capital of each country in Africa?",
+            "Are there any dependencies or territories in Africa that are not sovereign states but have their own capitals?"
+        ]
+    },
+    "QALD2_tr-17": {
+        "original": "Give me all cities in New Jersey with more than 100000 inhabitants.",
+        "expanded": [
+            "What are the cities in New Jersey?",
+            "What is the population of each city in New Jersey?",
+            "Which cities in New Jersey have more than 100,000 inhabitants?"
+        ]
+    },
+    "QALD2_tr-18": {
+        "original": "Which museum exhibits The Scream by Munch?",
+        "expanded": [
+            "Who is the artist of The Scream?",
+            "What are the different versions of The Scream?",
+            "Which museum houses the 1895 version of The Scream?"
+        ]
+    },
+    "QALD2_tr-21": {
+        "original": "Which states border Illinois?",
+        "expanded": [
+            "What states share a border with Illinois to the north?",
+            "What states share a border with Illinois to the east?",
+            "What states share a border with Illinois to the south and west?"
+        ]
+    },
+    "QALD2_tr-24": {
+        "original": "Which mountain is the highest after the Annapurna?",
+        "expanded": [
+            "What is the height of Mount Annapurna?",
+            "Which mountain is the second-highest mountain in the world?",
+            "Is K2 higher than Annapurna?"
+        ]
+    },
+    "QALD2_tr-25": {
+        "original": "In which films directed by Garry Marshall was Julia Roberts starring?",
+        "expanded": [
+            "Who are the films directed by Garry Marshall?",
+            "Which films starring Julia Roberts were directed by a specific director?",
+            "Which films starring Julia Roberts were directed by Garry Marshall?"
+        ]
+    },
+    "QALD2_tr-26": {
+        "original": "Which bridges are of the same type as the Manhattan Bridge?",
+        "expanded": [
+            "What type of bridge is the Manhattan Bridge?",
+            "What are the characteristics of a suspension bridge?",
+            "Which other bridges share the characteristics of a suspension bridge?"
+        ]
+    },
+    "QALD2_tr-28": {
+        "original": "Which European countries have a constitutional monarchy?",
+        "expanded": [
+            "What is a constitutional monarchy?",
+            "Which European countries have a monarchical system of government?",
+            "Which of the European monarchies are constitutional monarchies?"
+        ]
+    },
+    "QALD2_tr-29": {
+        "original": "Which awards did WikiLeaks win?",
+        "expanded": [
+            "What is WikiLeaks?",
+            "What kind of awards are given to organizations like WikiLeaks?",
+            "Which specific awards has WikiLeaks won?"
+        ]
+    },
+    "QALD2_tr-3": {
+        "original": "Who is the daughter of Bill Clinton married to?",
+        "expanded": [
+            "Who is the daughter of Bill Clinton?",
+            "Who is Chelsea Clinton married to?",
+            "What is Marc Mezvinsky's background?"
+        ]
+    },
+    "QALD2_tr-30": {
+        "original": "Which state of the USA has the highest population density?",
+        "expanded": [
+            "What are the 50 states in the United States of America?",
+            "What is the population of each state in the USA?",
+            "What is the land area of each state in the USA?"
+        ]
+    },
+    "QALD2_tr-31": {
+        "original": "What is the currency of the Czech Republic?",
+        "expanded": [
+            "What is the official currency used in the Czech Republic?",
+            "Is the Czech Republic part of the Eurozone?",
+            "What is the history of the Czech koruna?"
+        ]
+    },
+    "QALD2_tr-32": {
+        "original": "Which countries in the European Union adopted the Euro?",
+        "expanded": [
+            "What is the Euro?",
+            "Which countries are part of the European Union?",
+            "Which EU member states have adopted the Euro as their official currency?"
+        ]
+    },
+    "QALD2_tr-34": {
+        "original": "Which countries have more than two official languages?",
+        "expanded": [
+            "What are the countries with multiple official languages?",
+            "Which countries have exactly two official languages?",
+            "Which countries have more than two official languages?"
+        ]
+    },
+    "QALD2_tr-35": {
+        "original": "Who is the owner of Universal Studios?",
+        "expanded": [
+            "What company owns Universal Studios?",
+            "What is the history of Universal Studios' ownership?",
+            "Who is the parent company of NBCUniversal?"
+        ]
+    },
+    "QALD2_tr-36": {
+        "original": "Through which countries does the Yenisei river flow?",
+        "expanded": [
+            "What is the origin of the Yenisei River?",
+            "Which countries does the Yenisei River flow through before it reaches its mouth?",
+            "Does the Yenisei River flow through any other countries besides Russia?"
+        ]
+    },
+    "QALD2_tr-38": {
+        "original": "Which monarchs of the United Kingdom were married to a German?",
+        "expanded": [
+            "Which monarchs of the United Kingdom were married?",
+            "Which of these monarchs had a German spouse?",
+            "What were the specific German connections of these monarchs' spouses?"
+        ]
+    },
+    "QALD2_tr-4": {
+        "original": "Which river does the Brooklyn Bridge cross?",
+        "expanded": [
+            "What is the location of the Brooklyn Bridge?",
+            "Which waterway separates Brooklyn and Manhattan?",
+            "What river is also known as the East River?"
+        ]
+    },
+    "QALD2_tr-40": {
+        "original": "What is the highest mountain in Australia?",
+        "expanded": [
+            "What are the highest mountains in Australia?",
+            "Where are the Snowy Mountains located?",
+            "What is the highest peak in the Snowy Mountains?"
+        ]
+    },
+    "QALD2_tr-41": {
+        "original": "Give me all soccer clubs in Spain.",
+        "expanded": [
+            "What are the top divisions of soccer in Spain?",
+            "Which clubs play in La Liga?",
+            "Which clubs play in Segunda Divisi\u00f3n?"
+        ]
+    },
+    "QALD2_tr-42": {
+        "original": "What are the official languages of the Philippines?",
+        "expanded": [
+            "What is the primary language spoken in the Philippines?",
+            "What is the second official language of the Philippines?",
+            "Are there any other recognized languages in the Philippines?"
+        ]
+    },
+    "QALD2_tr-43": {
+        "original": "Who is the mayor of New York City?",
+        "expanded": [
+            "What is the current mayor of New York City?",
+            "Who is Eric Adams?",
+            "How long has Eric Adams been the mayor of New York City?"
+        ]
+    },
+    "QALD2_tr-45": {
+        "original": "Which telecommunications organizations are located in Belgium?",
+        "expanded": [
+            "What types of companies are classified as telecommunications organizations?",
+            "Which countries have a location called Belgium?",
+            "Which telecommunications organizations have operations or headquarters in Belgium?"
+        ]
+    },
+    "QALD2_tr-47": {
+        "original": "What is the highest place of Karakoram?",
+        "expanded": [
+            "What is the Karakoram range?",
+            "What is the highest peak in the Karakoram range?",
+            "Is K2 the highest place in the Karakoram range?"
+        ]
+    },
+    "QALD2_tr-49": {
+        "original": "Give me all companies in the advertising industry.",
+        "expanded": [
+            "What are the different sectors within the advertising industry?",
+            "What are some well-known companies within each of these sectors?",
+            "Are there any other companies within the advertising industry that are not necessarily agency-based?"
+        ]
+    },
+    "QALD2_tr-50": {
+        "original": "What did Bruce Carver die from?",
+        "expanded": [
+            "Who is Bruce Carver?",
+            "What was Bruce Carver's health condition towards the end of his life?",
+            "How did Bruce Carver's health condition impact his life, leading to his passing?"
+        ]
+    },
+    "QALD2_tr-51": {
+        "original": "Give me all school types.",
+        "expanded": [
+            "What are the main categories of schools?",
+            "What are the different types of public schools?",
+            "What are some specialized types of schools?"
+        ]
+    },
+    "QALD2_tr-52": {
+        "original": "Which presidents were born in 1945?",
+        "expanded": [
+            "Who are all the presidents of the United States?",
+            "What are the birth years of each president?",
+            "Which presidents were born in 1945 specifically?"
+        ]
+    },
+    "QALD2_tr-53": {
+        "original": "Give me all presidents of the United States.",
+        "expanded": [
+            "Who were the presidents of the United States before the 20th century?",
+            "Who were the presidents of the United States in the 20th century?",
+            "Who have been the presidents of the United States in the 21st century?"
+        ]
+    },
+    "QALD2_tr-54": {
+        "original": "Who was the wife of U.S. president Lincoln?",
+        "expanded": [
+            "Who was the 16th President of the United States?",
+            "Who was Abraham Lincoln's spouse?",
+            "What was Mary Todd Lincoln's role as First Lady?"
+        ]
+    },
+    "QALD2_tr-55": {
+        "original": "Who developed the video game World of Warcraft?",
+        "expanded": [
+            "What is the name of the company that developed World of Warcraft?",
+            "Who are the key individuals involved in the development of World of Warcraft?",
+            "When was World of Warcraft first released, and what was the context surrounding its development?"
+        ]
+    },
+    "QALD2_tr-57": {
+        "original": "List all episodes of the first season of the HBO television series The Sopranos!",
+        "expanded": [
+            "What is the release year of the first season of The Sopranos?",
+            "How many episodes are in the first season of The Sopranos?",
+            "What are the episode titles of the first season of The Sopranos?"
+        ]
+    },
+    "QALD2_tr-58": {
+        "original": "Who produced the most films?",
+        "expanded": [
+            "Who are the most prolific film producers?",
+            "What are the top 5 film producers by number of films produced?",
+            "Who holds the Guinness World Record for most films produced?"
+        ]
+    },
+    "QALD2_tr-59": {
+        "original": "Give me all people with first name Jimmy.",
+        "expanded": [
+            "What is the primary key of the table that stores information about people?",
+            "What is the column name that stores the first name of a person in the table?",
+            "What condition should be applied to the 'FirstName' column to retrieve only the people with the first name 'Jimmy'?"
+        ]
+    },
+    "QALD2_tr-6": {
+        "original": "Where did Abraham Lincoln die?",
+        "expanded": [
+            "What event led to Abraham Lincoln's death?",
+            "Where was Abraham Lincoln taken after being shot?",
+            "Where did Abraham Lincoln ultimately die?"
+        ]
+    },
+    "QALD2_tr-61": {
+        "original": "Which mountains are higher than the Nanga Parbat?",
+        "expanded": [
+            "What is the height of Nanga Parbat?",
+            "Which mountains are located in the same range as Nanga Parbat, i.e., the Himalayas?",
+            "Which mountains in the Himalayas are higher than 8,126 meters (26,660 ft)?"
+        ]
+    },
+    "QALD2_tr-62": {
+        "original": "Who created Wikipedia?",
+        "expanded": [
+            "Who is the founder of Wikipedia?",
+            "What is Jimmy Wales' background?",
+            "What was the initial purpose of Wikipedia?"
+        ]
+    },
+    "QALD2_tr-64": {
+        "original": "Which software has been developed by organizations founded in California?",
+        "expanded": [
+            "What are the organizations founded in California?",
+            "What software has been developed by Apple?",
+            "What software has been developed by Google?"
+        ]
+    },
+    "QALD2_tr-65": {
+        "original": "Which companies work in the aerospace industry as well as on nuclear reactor technology?",
+        "expanded": [
+            "What companies are major players in the aerospace industry?",
+            "Which companies have expertise in nuclear reactor technology?",
+            "Which companies from Sub-query 1 and Sub-query 2 have overlap in both aerospace and nuclear reactor technology?"
+        ]
+    },
+    "QALD2_tr-68": {
+        "original": "Which actors were born in Germany?",
+        "expanded": [
+            "What are the names of actors who have a birthplace in Germany?",
+            "Who are the notable German actors born in the 20th century?",
+            "Which contemporary German actors have gained international recognition?"
+        ]
+    },
+    "QALD2_tr-69": {
+        "original": "Which caves have more than 3 entrances?",
+        "expanded": [
+            "What are the names of all caves?",
+            "How many entrances does each cave have?",
+            "Which caves have more than 3 entrances?"
+        ]
+    },
+    "QALD2_tr-70": {
+        "original": "Give me all films produced by Hal Roach.",
+        "expanded": [
+            "Who is Hal Roach?",
+            "What film studios did Hal Roach own or work with?",
+            "What films did Hal Roach produce through his studio and collaborations?"
+        ]
+    },
+    "QALD2_tr-71": {
+        "original": "Give me all video games published by Mean Hamster Software.",
+        "expanded": [
+            "What is Mean Hamster Software?",
+            "What video games has Mean Hamster Software published?",
+            "Is there a list of Mean Hamster Software's published games that can be referred to?"
+        ]
+    },
+    "QALD2_tr-74": {
+        "original": "Which capitals in Europe were host cities of the summer olympic games?",
+        "expanded": [
+            "Which cities in Europe have hosted the Summer Olympic Games?",
+            "Which of these cities are capitals of their respective countries?",
+            "Are there any other European capital cities that have hosted the Summer Olympic Games beyond Athens and London?"
+        ]
+    },
+    "QALD2_tr-75": {
+        "original": "Who has been the 5th president of the United States of America?",
+        "expanded": [
+            "Who were the presidents of the United States of America in chronological order?",
+            "Which president is at position 5 in the list of presidents in chronological order?",
+            "Who is James Monroe?"
+        ]
+    },
+    "QALD2_tr-77": {
+        "original": "Which music albums contain the song Last Christmas?",
+        "expanded": [
+            "What is the song \"Last Christmas\" by?",
+            "What music albums does Wham! have?",
+            "Is \"Last Christmas\" included in any of Wham!'s music albums?"
+        ]
+    },
+    "QALD2_tr-78": {
+        "original": "Give me all books written by Danielle Steel.",
+        "expanded": [
+            "Who is Danielle Steel?",
+            "What are the genres of books written by Danielle Steel?",
+            "What are the titles of books written by Danielle Steel?"
+        ]
+    },
+    "QALD2_tr-79": {
+        "original": "Which airports are located in California, USA?",
+        "expanded": [
+            "What are the airports in the United States?",
+            "Which states in the United States have airports?",
+            "Which airports in the United States are located in California?"
+        ]
+    },
+    "QALD2_tr-8": {
+        "original": "Which states of Germany are governed by the Social Democratic Party?",
+        "expanded": [
+            "What are the states of Germany?",
+            "Who are the governing parties of each German state?",
+            "Which of these states are governed by the Social Democratic Party?"
+        ]
+    },
+    "QALD2_tr-80": {
+        "original": "Give me all Canadian Grunge record labels.",
+        "expanded": [
+            "What is the definition of Grunge music?",
+            "What are some notable Grunge bands?",
+            "Which record labels specialize in Grunge music in Canada?"
+        ]
+    },
+    "QALD2_tr-81": {
+        "original": "Which country has the most official languages?",
+        "expanded": [
+            "What are the countries with multiple official languages?",
+            "Which countries have the highest number of official languages?",
+            "Is Somalia's language policy unique in the world?"
+        ]
+    },
+    "QALD2_tr-82": {
+        "original": "In which programming language is GIMP written?",
+        "expanded": [
+            "What is GIMP?",
+            "What are the components of GIMP?",
+            "In which programming language is the GIMP core engine written?"
+        ]
+    },
+    "QALD2_tr-83": {
+        "original": "Who produced films starring Natalie Portman?",
+        "expanded": [
+            "What films has Natalie Portman starred in?",
+            "Who are the producers of these films?",
+            "Can we create a list of producers who have worked with Natalie Portman?"
+        ]
+    },
+    "QALD2_tr-84": {
+        "original": "Give me all movies with Tom Cruise.",
+        "expanded": [
+            "Who is Tom Cruise?",
+            "What are Tom Cruise's film credits?",
+            "What movies feature Tom Cruise as a cast member?"
+        ]
+    },
+    "QALD2_tr-85": {
+        "original": "In which films did Julia Roberts as well as Richard Gere play?",
+        "expanded": [
+            "In which films has Julia Roberts played?",
+            "In which films has Richard Gere played?",
+            "Are there any films that feature both Julia Roberts and Richard Gere?"
+        ]
+    },
+    "QALD2_tr-87": {
+        "original": "Who wrote the book The pillars of the Earth?",
+        "expanded": [
+            "What is the title of the book?",
+            "Who is the author of the book with the title \"The Pillars of the Earth\"?",
+            "Is Ken Follett a real person who wrote the book \"The Pillars of the Earth\"?"
+        ]
+    },
+    "QALD2_tr-89": {
+        "original": "Give me all soccer clubs in the Premier League.",
+        "expanded": [
+            "What is the Premier League?",
+            "Which soccer clubs participate in the Premier League?",
+            "Are there any other leagues or divisions that are considered part of the Premier League?"
+        ]
+    },
+    "QALD2_tr-9": {
+        "original": "Which U.S. states possess gold minerals?",
+        "expanded": [
+            "Which states in the United States have a history of gold mining?",
+            "Where are the major gold deposits located in the United States?",
+            "Are there any other states in the United States that have gold deposits, aside from the well-known ones?"
+        ]
+    },
+    "QALD2_tr-91": {
+        "original": "Which organizations were founded in 1950?",
+        "expanded": [
+            "Which organizations have a founding year of 1950?",
+            "What are the notable events that occurred in 1950 that may be related to organizational foundings?",
+            "Are there any specific industries or sectors that saw a surge in organization foundings in 1950?"
+        ]
+    },
+    "SemSearch_ES-1": {
+        "original": "44 magnum hunting",
+        "expanded": [
+            "What is a 44 magnum?",
+            "What is the effective range of a 44 magnum for hunting?",
+            "What type of game can be hunted with a 44 magnum?"
+        ]
+    },
+    "SemSearch_ES-10": {
+        "original": "asheville north carolina",
+        "expanded": [
+            "What is Asheville, North Carolina known for?",
+            "What are the top things to do in Asheville, North Carolina?",
+            "What is the climate and weather like in Asheville, North Carolina?"
+        ]
+    },
+    "SemSearch_ES-100": {
+        "original": "YMCA Tampa",
+        "expanded": [
+            "What is the YMCA?",
+            "What services does the YMCA in Tampa offer?",
+            "Where are the YMCA locations in Tampa?"
+        ]
+    },
+    "SemSearch_ES-101": {
+        "original": "ashley wagner",
+        "expanded": [
+            "Who is Ashley Wagner?",
+            "What is Ashley Wagner's figure skating career like?",
+            "What is Ashley Wagner's personal life like?"
+        ]
+    },
+    "SemSearch_ES-102": {
+        "original": "beach flowers",
+        "expanded": [
+            "What types of flowers can be found on a beach?",
+            "Where are the best places to find beach flowers?",
+            "How do beach flowers adapt to their environment?"
+        ]
+    },
+    "SemSearch_ES-104": {
+        "original": "bourbonnais il",
+        "expanded": [
+            "What is Bourbonnais, IL?",
+            "What are the attractions in Bourbonnais, IL?",
+            "What is the economy and industry in Bourbonnais, IL?"
+        ]
+    },
+    "SemSearch_ES-106": {
+        "original": "chase masterson",
+        "expanded": [
+            "Who is Chase Masterson?",
+            "What is Chase Masterson's background?",
+            "What has Chase Masterson done after Star Trek?"
+        ]
+    },
+    "SemSearch_ES-107": {
+        "original": "concord steel",
+        "expanded": [
+            "What is Concord Steel?",
+            "What products does Concord Steel offer?",
+            "Where can I find Concord Steel products?"
+        ]
+    },
+    "SemSearch_ES-108": {
+        "original": "danielia cotton",
+        "expanded": [
+            "What is Danielia Cotton?",
+            "What is Danielia Cotton's music style?",
+            "What are some notable works by Danielia Cotton?"
+        ]
+    },
+    "SemSearch_ES-11": {
+        "original": "austin powers",
+        "expanded": [
+            "Who is Austin Powers?",
+            "What are the Austin Powers movies?",
+            "Who plays Austin Powers?"
+        ]
+    },
+    "SemSearch_ES-111": {
+        "original": "eagle rock, ca",
+        "expanded": [
+            "What is Eagle Rock, CA?",
+            "Things to do in Eagle Rock, CA",
+            "History of Eagle Rock, CA"
+        ]
+    },
+    "SemSearch_ES-114": {
+        "original": "glenn frey",
+        "expanded": [
+            "Who is Glenn Frey?",
+            "What were some of Glenn Frey's most famous songs?",
+            "What awards and recognition did Glenn Frey receive?"
+        ]
+    },
+    "SemSearch_ES-115": {
+        "original": "goodwill of michigan",
+        "expanded": [
+            "What is Goodwill of Michigan?",
+            "What services does Goodwill of Michigan provide?",
+            "Where are Goodwill of Michigan locations?"
+        ]
+    },
+    "SemSearch_ES-118": {
+        "original": "iowa energy",
+        "expanded": [
+            "What is Iowa's energy profile?",
+            "What are the main energy sources in Iowa?",
+            "What initiatives are underway to promote renewable energy in Iowa?"
+        ]
+    },
+    "SemSearch_ES-119": {
+        "original": "john elliott",
+        "expanded": [
+            "Who is John Elliott?",
+            "What is John Elliott known for?",
+            "Is John Elliott a celebrity?"
+        ]
+    },
+    "SemSearch_ES-120": {
+        "original": "lawrence general hospital",
+        "expanded": [
+            "What is Lawrence General Hospital?",
+            "Where is Lawrence General Hospital located?",
+            "What services does Lawrence General Hospital offer?"
+        ]
+    },
+    "SemSearch_ES-123": {
+        "original": "michael zimmerman",
+        "expanded": [
+            "Who is Michael Zimmerman?",
+            "What is Michael Zimmerman's background?",
+            "What is Michael Zimmerman's current role or achievement?"
+        ]
+    },
+    "SemSearch_ES-124": {
+        "original": "motorola bluetooth hs850",
+        "expanded": [
+            "What is the Motorola HS850?",
+            "What are the features of the Motorola HS850 Bluetooth headset?",
+            "Where can I buy the Motorola HS850 Bluetooth headset?"
+        ]
+    },
+    "SemSearch_ES-125": {
+        "original": "nokia e73",
+        "expanded": [
+            "What is Nokia E73?**",
+            "Nokia E73 specifications**",
+            "Nokia E73 reviews and pros/cons**"
+        ]
+    },
+    "SemSearch_ES-127": {
+        "original": "palm tungsten e2 handheld",
+        "expanded": [
+            "What is a Palm Tungsten E2?",
+            "What are the key features of the Palm Tungsten E2 handheld?",
+            "How does the Palm Tungsten E2 handheld compare to other PDAs in its class?"
+        ]
+    },
+    "SemSearch_ES-128": {
+        "original": "philadelphia neufchatel cheese",
+        "expanded": [
+            "What is Neufchatel cheese?",
+            "What is Philadelphia cream cheese?",
+            "Is Neufchatel cheese similar to Philadelphia cream cheese?"
+        ]
+    },
+    "SemSearch_ES-129": {
+        "original": "pizza populous detroit mi",
+        "expanded": [
+            "What is the population of Detroit, MI?",
+            "What are the most popular pizza places in Detroit, MI?",
+            "What is unique about Detroit-style pizza?"
+        ]
+    },
+    "SemSearch_ES-13": {
+        "original": "banana paper making",
+        "expanded": [
+            "What is banana paper?",
+            "How is banana paper made?",
+            "What are the benefits of banana paper?"
+        ]
+    },
+    "SemSearch_ES-130": {
+        "original": "plymouth police department",
+        "expanded": [
+            "What is the Plymouth Police Department?",
+            "What are the services provided by the Plymouth Police Department?",
+            "How can I contact the Plymouth Police Department?"
+        ]
+    },
+    "SemSearch_ES-132": {
+        "original": "sealy mattress co",
+        "expanded": [
+            "What is Sealy mattress company?",
+            "What types of mattresses does Sealy offer?",
+            "Where can I buy a Sealy mattress?"
+        ]
+    },
+    "SemSearch_ES-135": {
+        "original": "spring shoes canada",
+        "expanded": [
+            "What are the best spring shoes for Canadian weather?",
+            "Where to buy spring shoes in Canada?",
+            "What are some popular spring shoe styles in Canada?"
+        ]
+    },
+    "SemSearch_ES-136": {
+        "original": "sri lanka government gazette",
+        "expanded": [
+            "What is the Sri Lanka Government Gazette?",
+            "What types of information are published in the Sri Lanka Government Gazette?",
+            "How can one access the Sri Lanka Government Gazette?"
+        ]
+    },
+    "SemSearch_ES-139": {
+        "original": "the big texan steak house",
+        "expanded": [
+            "What is The Big Texan Steak House?",
+            "Where is The Big Texan Steak House located?",
+            "What is the 72-oz steak challenge at The Big Texan Steak House?"
+        ]
+    },
+    "SemSearch_ES-14": {
+        "original": "ben franklin",
+        "expanded": [
+            "Who is Ben Franklin?",
+            "What were Ben Franklin's notable achievements?",
+            "What is Ben Franklin's legacy?"
+        ]
+    },
+    "SemSearch_ES-15": {
+        "original": "bradley center",
+        "expanded": [
+            "What is the Bradley Center?",
+            "Where is the Bradley Center located?",
+            "What events are held at the Bradley Center?"
+        ]
+    },
+    "SemSearch_ES-16": {
+        "original": "brooklyn bridge",
+        "expanded": [
+            "What is the Brooklyn Bridge?",
+            "When was the Brooklyn Bridge built?",
+            "What is the cultural significance of the Brooklyn Bridge?"
+        ]
+    },
+    "SemSearch_ES-17": {
+        "original": "butte montana",
+        "expanded": [
+            "What is Butte, Montana?",
+            "What is Butte, Montana known for?",
+            "What to do in Butte, Montana?"
+        ]
+    },
+    "SemSearch_ES-18": {
+        "original": "canasta cards",
+        "expanded": [
+            "What is Canasta?",
+            "What is the deck composition of Canasta?",
+            "How are points scored in Canasta?"
+        ]
+    },
+    "SemSearch_ES-19": {
+        "original": "carl lewis",
+        "expanded": [
+            "Who is Carl Lewis?",
+            "What are Carl Lewis' achievements in athletics?",
+            "What is Carl Lewis' personal life like?"
+        ]
+    },
+    "SemSearch_ES-2": {
+        "original": "B. F. Skinner",
+        "expanded": [
+            "Who is B. F. Skinner?",
+            "What are Skinner's main contributions to psychology?",
+            "What are some applications of Skinner's work?"
+        ]
+    },
+    "SemSearch_ES-20": {
+        "original": "carolina",
+        "expanded": [
+            "What is Carolina?",
+            "Where is Carolina located?",
+            "What is Carolina known for?"
+        ]
+    },
+    "SemSearch_ES-21": {
+        "original": "charles darwin",
+        "expanded": [
+            "Who was Charles Darwin?",
+            "What is Charles Darwin's most famous work?",
+            "What was Charles Darwin's role in the development of modern evolutionary theory?"
+        ]
+    },
+    "SemSearch_ES-23": {
+        "original": "city of virginia beach",
+        "expanded": [
+            "What is the location of Virginia Beach?",
+            "What are the attractions and activities in Virginia Beach?",
+            "What is the history and economy of Virginia Beach?"
+        ]
+    },
+    "SemSearch_ES-24": {
+        "original": "coastal carolina",
+        "expanded": [
+            "What is Coastal Carolina?",
+            "Where is Coastal Carolina located?",
+            "What are Coastal Carolina's athletic teams known for?"
+        ]
+    },
+    "SemSearch_ES-25": {
+        "original": "david suchet",
+        "expanded": [
+            "Who is David Suchet?",
+            "What is David Suchet's most famous role?",
+            "What awards has David Suchet won?"
+        ]
+    },
+    "SemSearch_ES-26": {
+        "original": "disney orlando",
+        "expanded": [
+            "What is Disney Orlando?",
+            "What are the theme parks in Disney Orlando?",
+            "What are the best things to do in Disney Orlando?"
+        ]
+    },
+    "SemSearch_ES-29": {
+        "original": "ellis college",
+        "expanded": [
+            "What is Ellis College?",
+            "Is Ellis College still open?",
+            "What were Ellis College's notable alumni?"
+        ]
+    },
+    "SemSearch_ES-3": {
+        "original": "Bookwork",
+        "expanded": [
+            "What is bookwork?",
+            "What are some examples of bookwork?",
+            "Why is bookwork important?"
+        ]
+    },
+    "SemSearch_ES-30": {
+        "original": "eloan line of credit",
+        "expanded": [
+            "What is an e-loan?",
+            "What is a line of credit?",
+            "How does an e-loan line of credit work?"
+        ]
+    },
+    "SemSearch_ES-32": {
+        "original": "fitzgerald auto mall chambersburg pa",
+        "expanded": [
+            "What is Fitzgerald Auto Mall?",
+            "Where is Fitzgerald Auto Mall located in Chambersburg, PA?",
+            "What services does Fitzgerald Auto Mall offer in Chambersburg, PA?"
+        ]
+    },
+    "SemSearch_ES-33": {
+        "original": "harry potter",
+        "expanded": [
+            "Who is Harry Potter?",
+            "What is the Harry Potter series about?",
+            "What is the significance of Harry Potter in popular culture?"
+        ]
+    },
+    "SemSearch_ES-36": {
+        "original": "imdb batman returns",
+        "expanded": [
+            "What is the rating of Batman Returns on IMDB?",
+            "What are the main cast members of Batman Returns?",
+            "What is the plot summary of Batman Returns?"
+        ]
+    },
+    "SemSearch_ES-38": {
+        "original": "jack the ripper",
+        "expanded": [
+            "Who was Jack the Ripper?",
+            "What were the crimes of Jack the Ripper?",
+            "What are the most popular theories about Jack the Ripper's identity?"
+        ]
+    },
+    "SemSearch_ES-39": {
+        "original": "james caldwell high school",
+        "expanded": [
+            "What is James Caldwell High School?",
+            "Where is James Caldwell High School located?",
+            "What are the academic and extracurricular programs like at James Caldwell High School?"
+        ]
+    },
+    "SemSearch_ES-4": {
+        "original": "NAACP Image Awards",
+        "expanded": [
+            "What is the NAACP Image Awards?",
+            "What are the categories of the NAACP Image Awards?",
+            "Who are some notable winners of the NAACP Image Awards?"
+        ]
+    },
+    "SemSearch_ES-41": {
+        "original": "joan of arc",
+        "expanded": [
+            "Who was Joan of Arc?",
+            "What were Joan of Arc's military achievements?",
+            "What happened to Joan of Arc after her capture?"
+        ]
+    },
+    "SemSearch_ES-45": {
+        "original": "keith urban",
+        "expanded": [
+            "Who is Keith Urban?",
+            "What are Keith Urban's most popular songs?",
+            "Is Keith Urban married to Nicole Kidman?"
+        ]
+    },
+    "SemSearch_ES-47": {
+        "original": "king arthur",
+        "expanded": [
+            "Who was King Arthur?",
+            "What is the legend of King Arthur about?",
+            "What is the significance of King Arthur in literature and popular culture?"
+        ]
+    },
+    "SemSearch_ES-49": {
+        "original": "laura bush",
+        "expanded": [
+            "Who is Laura Bush?",
+            "What are Laura Bush's notable accomplishments?",
+            "What is Laura Bush's personal life like?"
+        ]
+    },
+    "SemSearch_ES-5": {
+        "original": "Scott County",
+        "expanded": [
+            "What is Scott County?",
+            "Where is Scott County located?",
+            "What attractions does Scott County have?"
+        ]
+    },
+    "SemSearch_ES-50": {
+        "original": "laura steele bob and tom",
+        "expanded": [
+            "Who is Laura Steele?",
+            "What is the relationship between Laura Steele and Bob?",
+            "Who is Tom in relation to Laura Steele and Bob?"
+        ]
+    },
+    "SemSearch_ES-52": {
+        "original": "lincoln park",
+        "expanded": [
+            "What is Lincoln Park?",
+            "Where is Lincoln Park located?",
+            "What are the attractions and activities in Lincoln Park?"
+        ]
+    },
+    "SemSearch_ES-56": {
+        "original": "mario bros",
+        "expanded": [
+            "Who are Mario Bros?",
+            "What is the origin of Mario Bros?",
+            "What are some popular Mario Bros games?"
+        ]
+    },
+    "SemSearch_ES-58": {
+        "original": "mason ohio",
+        "expanded": [
+            "What is Mason, Ohio?",
+            "What are the attractions in Mason, Ohio?",
+            "What is the economy like in Mason, Ohio?"
+        ]
+    },
+    "SemSearch_ES-59": {
+        "original": "mercy hospital in des moines, ia",
+        "expanded": [
+            "What is Mercy Hospital in Des Moines, IA?",
+            "What services does Mercy Hospital in Des Moines, IA offer?",
+            "How to get to Mercy Hospital in Des Moines, IA?"
+        ]
+    },
+    "SemSearch_ES-6": {
+        "original": "air wisconsin",
+        "expanded": [
+            "What is Air Wisconsin?",
+            "What routes does Air Wisconsin operate?",
+            "Is Air Wisconsin safe?"
+        ]
+    },
+    "SemSearch_ES-60": {
+        "original": "michael douglas",
+        "expanded": [
+            "Who is Michael Douglas?",
+            "What are Michael Douglas's most notable film roles?",
+            "What awards has Michael Douglas won?"
+        ]
+    },
+    "SemSearch_ES-61": {
+        "original": "mr rourke fantasy island",
+        "expanded": [
+            "Who is Mr. Rourke?",
+            "What is Fantasy Island?",
+            "What is the relationship between Mr. Roarke and Fantasy Island?"
+        ]
+    },
+    "SemSearch_ES-7": {
+        "original": "airsoft glock",
+        "expanded": [
+            "What is an airsoft Glock?",
+            "What are the benefits of using an airsoft Glock?",
+            "What are some popular airsoft Glock models?"
+        ]
+    },
+    "SemSearch_ES-71": {
+        "original": "richmond virginia",
+        "expanded": [
+            "What is Richmond, Virginia?",
+            "What are the top attractions in Richmond, Virginia?",
+            "What is Richmond, Virginia, known for?"
+        ]
+    },
+    "SemSearch_ES-72": {
+        "original": "rock 103 memphis",
+        "expanded": [
+            "What is Rock 103?",
+            "What kind of music does Rock 103 play?",
+            "Who are the popular DJs on Rock 103 in Memphis?"
+        ]
+    },
+    "SemSearch_ES-74": {
+        "original": "sacred heart u",
+        "expanded": [
+            "What is the Sacred Heart University?",
+            "What is the Sacred Heart University known for?",
+            "Is Sacred Heart University a good school?"
+        ]
+    },
+    "SemSearch_ES-75": {
+        "original": "sagemont church houston tx",
+        "expanded": [
+            "What is Sagemont Church?",
+            "Where is Sagemont Church located in Houston TX?",
+            "What are the services and programs offered by Sagemont Church in Houston TX?"
+        ]
+    },
+    "SemSearch_ES-76": {
+        "original": "san antonio",
+        "expanded": [
+            "What is San Antonio?",
+            "What are the attractions in San Antonio?",
+            "What is the economy of San Antonio like?"
+        ]
+    },
+    "SemSearch_ES-77": {
+        "original": "savannah tech",
+        "expanded": [
+            "What is the Savannah, and what does it have to do with tech?",
+            "What tech companies or startups are based in Savannah, Georgia?",
+            "Are there any tech-related events or conferences held in Savannah, Georgia?"
+        ]
+    },
+    "SemSearch_ES-78": {
+        "original": "sharp pc",
+        "expanded": [
+            "What is Sharp's PC business?",
+            "What makes Sharp PCs unique?",
+            "Are Sharp PCs available outside of Japan?"
+        ]
+    },
+    "SemSearch_ES-80": {
+        "original": "sonny and cher",
+        "expanded": [
+            "Who are Sonny and Cher?",
+            "What were Sonny and Cher's most famous songs?",
+            "What was Sonny and Cher's impact on popular culture?"
+        ]
+    },
+    "SemSearch_ES-82": {
+        "original": "st lucia",
+        "expanded": [
+            "Where is St Lucia located?",
+            "What is St Lucia known for?",
+            "What are the best things to do in St Lucia?"
+        ]
+    },
+    "SemSearch_ES-83": {
+        "original": "st paul saints",
+        "expanded": [
+            "Who are the St. Paul Saints?",
+            "What is the history of the St. Paul Saints?",
+            "What is CHS Field, the home stadium of the St. Paul Saints?"
+        ]
+    },
+    "SemSearch_ES-84": {
+        "original": "the dish danielle fishel",
+        "expanded": [
+            "Who is Danielle Fishel?",
+            "What is The Dish with Danielle Fishel?",
+            "Is The Dish with Danielle Fishel a cooking show?"
+        ]
+    },
+    "SemSearch_ES-85": {
+        "original": "the longest yard sale",
+        "expanded": [
+            "What is the longest yard sale?",
+            "Where is the longest yard sale held?",
+            "What can I find at the longest yard sale?"
+        ]
+    },
+    "SemSearch_ES-86": {
+        "original": "the morning call lehigh valley pa",
+        "expanded": [
+            "What is The Morning Call?",
+            "Where is the Lehigh Valley located?",
+            "What kind of news coverage does The Morning Call provide for the Lehigh Valley?"
+        ]
+    },
+    "SemSearch_ES-88": {
+        "original": "thomas jefferson",
+        "expanded": [
+            "Who was Thomas Jefferson?",
+            "What were Thomas Jefferson's achievements?",
+            "What is Thomas Jefferson's legacy?"
+        ]
+    },
+    "SemSearch_ES-89": {
+        "original": "university of north dakota",
+        "expanded": [
+            "What is the University of North Dakota?",
+            "What are the University of North Dakota's academic programs?",
+            "What are the University of North Dakota's notable alumni and achievements?"
+        ]
+    },
+    "SemSearch_ES-9": {
+        "original": "american embassy nairobi",
+        "expanded": [
+            "What is the address of the American Embassy in Nairobi?",
+            "What services does the American Embassy in Nairobi provide?",
+            "What is the history of the American Embassy in Nairobi?"
+        ]
+    },
+    "SemSearch_ES-90": {
+        "original": "university of phoenix",
+        "expanded": [
+            "What is the University of Phoenix?",
+            "Is the University of Phoenix accredited?",
+            "What are the online programs offered by the University of Phoenix?"
+        ]
+    },
+    "SemSearch_ES-91": {
+        "original": "westminster abbey",
+        "expanded": [
+            "What is Westminster Abbey?",
+            "Where is Westminster Abbey located?",
+            "What is the history of Westminster Abbey?"
+        ]
+    },
+    "SemSearch_ES-95": {
+        "original": "MADRID",
+        "expanded": [
+            "What is Madrid?",
+            "Where is Madrid located?",
+            "What are the main attractions in Madrid?"
+        ]
+    },
+    "SemSearch_ES-96": {
+        "original": "New England Coffee",
+        "expanded": [
+            "What is the history of coffee in New England?",
+            "What is the culture of coffee in New England?",
+            "What makes New England coffee unique?"
+        ]
+    },
+    "SemSearch_ES-97": {
+        "original": "PINK PANTHER 2",
+        "expanded": [
+            "What is the Pink Panther?",
+            "What is the plot of The Pink Panther 2?",
+            "How did The Pink Panther 2 receive critical and commercial response?"
+        ]
+    },
+    "SemSearch_ES-98": {
+        "original": "University of Texas at Austin",
+        "expanded": [
+            "What is the history of the University of Texas at Austin?",
+            "What academic programs does the University of Texas at Austin offer?",
+            "What are some notable achievements and rankings of the University of Texas at Austin?"
+        ]
+    },
+    "SemSearch_LS-1": {
+        "original": "Apollo astronauts who walked on the Moon",
+        "expanded": [
+            "Which Apollo missions included moonwalks?",
+            "Who were the astronauts on these Apollo missions?",
+            "Which of these astronauts actually walked on the Moon's surface?"
+        ]
+    },
+    "SemSearch_LS-10": {
+        "original": "did nicole kidman have any siblings",
+        "expanded": [
+            "Who are Nicole Kidman's parents?",
+            "Did Nicole Kidman's parents have other children besides her?",
+            "Is Antonia Kidman the only sibling of Nicole Kidman?"
+        ]
+    },
+    "SemSearch_LS-11": {
+        "original": "dioceses of the church of ireland",
+        "expanded": [
+            "What is the Church of Ireland?",
+            "How many dioceses are in the Church of Ireland?",
+            "What are the names of the dioceses in the Church of Ireland?"
+        ]
+    },
+    "SemSearch_LS-12": {
+        "original": "first targets of the atomic bomb",
+        "expanded": [
+            "When was the atomic bomb first used?",
+            "What were the original targets of the atomic bomb?",
+            "What was the impact of the atomic bomb on Hiroshima and Nagasaki?"
+        ]
+    },
+    "SemSearch_LS-13": {
+        "original": "five great epics of Tamil literature",
+        "expanded": [
+            "What are the most influential works of Tamil literature?",
+            "What are the characteristics of Tamil epics?",
+            "What are five notable Tamil epics?"
+        ]
+    },
+    "SemSearch_LS-14": {
+        "original": "gods who dwelt on Mount Olympus",
+        "expanded": [
+            "Who were the principal gods of Greek mythology?",
+            "What was the significance of Mount Olympus in Greek mythology?",
+            "Which specific gods and goddesses lived on Mount Olympus?"
+        ]
+    },
+    "SemSearch_LS-16": {
+        "original": "hijackers in the September 11 attacks",
+        "expanded": [
+            "Who were the hijackers in the September 11 attacks?",
+            "What were the nationalities of the 9/11 hijackers?",
+            "What were the roles of each hijacker in the 9/11 attacks?"
+        ]
+    },
+    "SemSearch_LS-18": {
+        "original": "john lennon, parents",
+        "expanded": [
+            "Who were John Lennon's parents?",
+            "What was John Lennon's relationship like with his parents?",
+            "How did John Lennon's parents influence his music and life?"
+        ]
+    },
+    "SemSearch_LS-2": {
+        "original": "Arab states of the Persian Gulf",
+        "expanded": [
+            "Which countries border the Persian Gulf?",
+            "Which of these countries are Arab states?",
+            "What are the key characteristics of these Arab states of the Persian Gulf?"
+        ]
+    },
+    "SemSearch_LS-20": {
+        "original": "kublai khan siblings",
+        "expanded": [
+            "Who were Kublai Khan's parents?",
+            "Who were the siblings of Kublai Khan?",
+            "What were the relationships like among Kublai Khan's siblings?"
+        ]
+    },
+    "SemSearch_LS-21": {
+        "original": "lilly allen parents",
+        "expanded": [
+            "Who is Lily Allen's mother?",
+            "Who is Lily Allen's father?",
+            "What is Lily Allen's family background?"
+        ]
+    },
+    "SemSearch_LS-22": {
+        "original": "major leagues in the united states",
+        "expanded": [
+            "What are the top four professional sports leagues in the United States?",
+            "What is the difference between major and minor leagues in the United States?",
+            "Are there other major leagues in the United States beyond the top four professional sports leagues?"
+        ]
+    },
+    "SemSearch_LS-24": {
+        "original": "matt berry tv series",
+        "expanded": [
+            "Is Matt Berry a TV actor?",
+            "What TV series has Matt Berry starred in?",
+            "What is Matt Berry's most famous TV role?"
+        ]
+    },
+    "SemSearch_LS-25": {
+        "original": "members of u2?",
+        "expanded": [
+            "Who is the lead vocalist of U2?",
+            "Who is the lead guitarist of U2?",
+            "Who are the other members of U2 besides Bono and The Edge?"
+        ]
+    },
+    "SemSearch_LS-26": {
+        "original": "movies starring erykah badu",
+        "expanded": [
+            "What are Erykah Badu's film credits?",
+            "What is Erykah Badu's role in \"The Cider House Rules\"?",
+            "What other movies has Erykah Badu appeared in besides \"The Cider House Rules\"?"
+        ]
+    },
+    "SemSearch_LS-29": {
+        "original": "nations where Portuguese is an official language",
+        "expanded": [
+            "Which countries have Portuguese as an official language in South America?",
+            "Which countries in Africa have Portuguese as an official language?",
+            "Are there any countries in Asia or Europe where Portuguese is an official language?"
+        ]
+    },
+    "SemSearch_LS-3": {
+        "original": "astronauts who landed on the Moon",
+        "expanded": [
+            "Who were the astronauts part of the Apollo missions?",
+            "Which Apollo missions included a lunar landing?",
+            "Who were the astronauts who walked on the Moon's surface?"
+        ]
+    },
+    "SemSearch_LS-30": {
+        "original": "orders (or 'choirs') of angels",
+        "expanded": [
+            "What is the hierarchy of angels in Christian theology?",
+            "What are the three spheres of angelic hierarchy?",
+            "What are the specific roles and responsibilities of each order of angels?"
+        ]
+    },
+    "SemSearch_LS-31": {
+        "original": "permanent members of the UN Security Council",
+        "expanded": [
+            "What is the UN Security Council?",
+            "What is the significance of permanent membership in the UN Security Council?",
+            "Which countries are the permanent members of the UN Security Council?"
+        ]
+    },
+    "SemSearch_LS-32": {
+        "original": "presidents depicted on mount rushmore who died of shooting",
+        "expanded": [
+            "Who are the presidents depicted on Mount Rushmore?",
+            "Which of the presidents on Mount Rushmore died of shooting?",
+            "What are the circumstances surrounding Abraham Lincoln's death?"
+        ]
+    },
+    "SemSearch_LS-33": {
+        "original": "provinces and territories of Canada",
+        "expanded": [
+            "What are the provinces of Canada?",
+            "What are the territories of Canada?",
+            "What is the difference between a province and a territory in Canada?"
+        ]
+    },
+    "SemSearch_LS-34": {
+        "original": "ratt albums",
+        "expanded": [
+            "What is Ratt?",
+            "What are Ratt's studio albums?",
+            "What are some of Ratt's most popular albums?"
+        ]
+    },
+    "SemSearch_LS-35": {
+        "original": "republics of the former Yugoslavia",
+        "expanded": [
+            "What was Yugoslavia?",
+            "What were the six republics of Yugoslavia?",
+            "What happened to the republics of Yugoslavia after the country's dissolution?"
+        ]
+    },
+    "SemSearch_LS-36": {
+        "original": "revolutionaries of 1959 in Cuba",
+        "expanded": [
+            "Who led the Cuban Revolution of 1959?",
+            "What were the key events of the Cuban Revolution of 1959?",
+            "What were the goals and ideology of the Cuban Revolution of 1959?"
+        ]
+    },
+    "SemSearch_LS-37": {
+        "original": "standard axioms of set theory",
+        "expanded": [
+            "What are the axioms of Zermelo-Fraenkel set theory?",
+            "What is the purpose of the axioms of set theory?",
+            "What are some implications of the axioms of set theory?"
+        ]
+    },
+    "SemSearch_LS-38": {
+        "original": "states that border oklahoma",
+        "expanded": [
+            "What state is Oklahoma located in in the United States?",
+            "Which states surround Oklahoma?",
+            "What are the neighboring states of Oklahoma?"
+        ]
+    },
+    "SemSearch_LS-39": {
+        "original": "ten ancient Greek city-kingdoms of Cyprus",
+        "expanded": [
+            "What is the history of ancient Cyprus?",
+            "Which city-kingdoms existed in ancient Cyprus?",
+            "What were the notable achievements of these city-kingdoms?"
+        ]
+    },
+    "SemSearch_LS-4": {
+        "original": "Axis powers of World War II",
+        "expanded": [
+            "What countries made up the Axis powers?",
+            "What were the main goals and ideologies of the Axis powers?",
+            "What were the key events and milestones of the Axis powers during World War II?"
+        ]
+    },
+    "SemSearch_LS-41": {
+        "original": "the four of the companions of the prophet",
+        "expanded": [
+            "Who are the companions of the Prophet Muhammad?",
+            "What are the criteria to be considered one of the top companions of the Prophet?",
+            "Who are the four most prominent companions of the Prophet Muhammad?"
+        ]
+    },
+    "SemSearch_LS-42": {
+        "original": "twelve tribes or sons of Israel",
+        "expanded": [
+            "Who are the twelve tribes of Israel?",
+            "Who are the sons of Israel?",
+            "What is the significance of the twelve tribes of Israel in biblical history?"
+        ]
+    },
+    "SemSearch_LS-43": {
+        "original": "what books did paul of tarsus write?",
+        "expanded": [
+            "Who is Paul of Tarsus?",
+            "What is the New Testament?",
+            "Which books of the New Testament are attributed to Paul of Tarsus?"
+        ]
+    },
+    "SemSearch_LS-44": {
+        "original": "what languages do they speak in afghanistan",
+        "expanded": [
+            "What are the official languages of Afghanistan?",
+            "What other languages are spoken in Afghanistan?",
+            "Are there any regional languages or dialects in Afghanistan?"
+        ]
+    },
+    "SemSearch_LS-46": {
+        "original": "where the British monarch is also head of state",
+        "expanded": [
+            "In which countries is the British monarch the head of state?",
+            "What is the role of the British monarch as head of state in these countries?",
+            "How do these arrangements differ from the monarch's role in the United Kingdom?"
+        ]
+    },
+    "SemSearch_LS-49": {
+        "original": "who invented the python programming language",
+        "expanded": [
+            "What is the origin of the Python programming language?",
+            "Who is Guido van Rossum?",
+            "What were Guido van Rossum's motivations for creating Python?"
+        ]
+    },
+    "SemSearch_LS-50": {
+        "original": "wonders of the ancient world",
+        "expanded": [
+            "What are the Seven Wonders of the Ancient World?",
+            "What are the characteristics of the ancient wonders?",
+            "What is the significance of the ancient wonders in modern times?"
+        ]
+    },
+    "SemSearch_LS-6": {
+        "original": "boroughs of New York City",
+        "expanded": [
+            "What is a borough?",
+            "How many boroughs are there in New York City?",
+            "What are the names of the boroughs of New York City and a brief description of each?"
+        ]
+    },
+    "SemSearch_LS-7": {
+        "original": "Branches of the US military",
+        "expanded": [
+            "What are the main branches of the US military?",
+            "What is the role of each branch of the US military?",
+            "Are there any additional branches or components of the US military?"
+        ]
+    },
+    "SemSearch_LS-8": {
+        "original": "continents in the world",
+        "expanded": [
+            "What is a continent?",
+            "What are the seven continents of the world?",
+            "What are the characteristics of each continent?"
+        ]
+    },
+    "SemSearch_LS-9": {
+        "original": "degrees of Eastern Orthodox monasticism",
+        "expanded": [
+            "What is Eastern Orthodox monasticism?",
+            "What are the different stages of Eastern Orthodox monasticism?",
+            "What is the significance of the great schema in Eastern Orthodox monasticism?"
+        ]
+    },
+    "TREC_Entity-1": {
+        "original": "Carriers that Blackberry makes phones for.",
+        "expanded": [
+            "What phones does Blackberry manufacture?",
+            "Which carriers support Blackberry phones?",
+            "Are Blackberry phones exclusive to any carriers?"
+        ]
+    },
+    "TREC_Entity-10": {
+        "original": "Campuses of Indiana University.",
+        "expanded": [
+            "What is the main campus of Indiana University?",
+            "Are there other campuses of Indiana University besides Bloomington?",
+            "What are the unique features of each Indiana University campus?"
+        ]
+    },
+    "TREC_Entity-11": {
+        "original": "Donors to the Home Depot Foundation.",
+        "expanded": [
+            "What is the Home Depot Foundation?",
+            "Who are the major donors to the Home Depot Foundation?",
+            "How can individuals or organizations donate to the Home Depot Foundation?"
+        ]
+    },
+    "TREC_Entity-12": {
+        "original": "Airlines that Air Canada has code share flights with.",
+        "expanded": [
+            "What is a code share flight?",
+            "Which airlines has Air Canada formed code share agreements with?",
+            "What are the specific airlines that Air Canada has code share flights with in different regions?"
+        ]
+    },
+    "TREC_Entity-14": {
+        "original": "Authors awarded an Anthony Award at Bouchercon in 2007.",
+        "expanded": [
+            "What is the Anthony Award?",
+            "What is Bouchercon?",
+            "Who were the Anthony Award winners in 2007?"
+        ]
+    },
+    "TREC_Entity-15": {
+        "original": "Universities that are members of the SEC conference for football.",
+        "expanded": [
+            "What is the Southeastern Conference (SEC) in college athletics?",
+            "Which universities have football teams that compete in the NCAA Division I Football Bowl Subdivision (FBS)?",
+            "Which universities that have FBS football teams are members of the SEC?"
+        ]
+    },
+    "TREC_Entity-16": {
+        "original": "Sponsors of the Mancuso quilt festivals.",
+        "expanded": [
+            "What is the Mancuso quilt festival?",
+            "Who are the main sponsors of quilt festivals in general?",
+            "Are there any specific sponsors mentioned for Mancuso quilt festivals?"
+        ]
+    },
+    "TREC_Entity-18": {
+        "original": "Members of the band Jefferson Airplane.",
+        "expanded": [
+            "Founding members of Jefferson Airplane",
+            "Lead vocalists of Jefferson Airplane",
+            "Other notable members of Jefferson Airplane"
+        ]
+    },
+    "TREC_Entity-19": {
+        "original": "Companies that John Hennessey serves on the board of.",
+        "expanded": [
+            "Who is John Hennessey?",
+            "What are the companies associated with John Hennessey?",
+            "Which of these companies has John Hennessey on their board of directors?"
+        ]
+    },
+    "TREC_Entity-2": {
+        "original": "Winners of the ACM Athena award.",
+        "expanded": [
+            "What is the ACM Athena award?",
+            "Who are the past winners of the ACM Athena award?",
+            "What are the selection criteria for the ACM Athena award?"
+        ]
+    },
+    "TREC_Entity-20": {
+        "original": "Scotch whisky distilleries on the island of Islay.",
+        "expanded": [
+            "What is Islay and where is it located?",
+            "How many distilleries are on Islay, and what are their names?",
+            "What makes Islay whiskies unique, and what are some popular examples?"
+        ]
+    },
+    "TREC_Entity-4": {
+        "original": "Professional sports teams in Philadelphia.",
+        "expanded": [
+            "Which sports leagues have teams in Philadelphia?",
+            "What are the names of the professional football teams in Philadelphia?",
+            "What are the names of the professional baseball, basketball, and hockey teams in Philadelphia?"
+        ]
+    },
+    "TREC_Entity-5": {
+        "original": "Products of Medimmune, Inc.",
+        "expanded": [
+            "What is Medimmune, Inc.?",
+            "What are the therapeutic areas of focus for Medimmune?",
+            "What are some of the notable products developed by Medimmune?"
+        ]
+    },
+    "TREC_Entity-6": {
+        "original": "Organizations that award Nobel prizes.",
+        "expanded": [
+            "Who awards the Nobel Prize in Physics?",
+            "Who awards the Nobel Prize in Chemistry?",
+            "Who awards the Nobel Prize in Literature, Peace, and Economics?"
+        ]
+    },
+    "TREC_Entity-7": {
+        "original": "Airlines that currently use Boeing 747 planes.",
+        "expanded": [
+            "What are the different models of Boeing 747 planes?",
+            "Which airlines have operated Boeing 747 planes in the past?",
+            "Which of these airlines still operate Boeing 747 planes today?"
+        ]
+    },
+    "TREC_Entity-9": {
+        "original": "Members of The Beaux Arts Trio.",
+        "expanded": [
+            "Who was the founding pianist of The Beaux Arts Trio?",
+            "Who were the other original members of The Beaux Arts Trio?",
+            "Who replaced the original violinist and cellist of The Beaux Arts Trio?"
+        ]
+    }
+}

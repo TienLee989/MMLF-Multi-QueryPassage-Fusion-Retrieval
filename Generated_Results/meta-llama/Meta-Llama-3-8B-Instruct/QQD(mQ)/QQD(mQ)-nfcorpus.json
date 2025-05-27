@@ -1,0 +1,2586 @@
+{
+    "PLAIN-2": {
+        "original": "Do Cholesterol Statin Drugs Cause Breast Cancer?",
+        "expanded": [
+            "Are statin drugs associated with an increased risk of breast cancer?",
+            "How do statin drugs affect hormone levels in the body, which could potentially impact breast cancer risk?",
+            "What are the potential mechanisms by which statin drugs could potentially cause breast cancer?"
+        ]
+    },
+    "PLAIN-12": {
+        "original": "Exploiting Autophagy to Live Longer",
+        "expanded": [
+            "What is autophagy and how does it relate to cellular recycling?",
+            "What are the benefits of increased autophagy in humans?",
+            "How can autophagy be exploited to promote longevity?"
+        ]
+    },
+    "PLAIN-23": {
+        "original": "How to Reduce Exposure to Alkylphenols Through Your Diet",
+        "expanded": [
+            "What are alkylphenols and why are they a concern?**",
+            "What foods are likely to contain alkylphenols?**",
+            "How can I reduce my exposure to alkylphenols through diet?**"
+        ]
+    },
+    "PLAIN-33": {
+        "original": "What\u2019s Driving America\u2019s Obesity Problem?",
+        "expanded": [
+            "** What are the main factors contributing to the increasing obesity rates in the United States?",
+            "** What are the most common dietary habits associated with obesity in America?",
+            "** What are the long-term health consequences of obesity in the United States?"
+        ]
+    },
+    "PLAIN-44": {
+        "original": "Who Should be Careful About Curcumin?",
+        "expanded": [
+            "** Are there individuals with pre-existing medical conditions who should be cautious about consuming curcumin?",
+            "** What are the potential interactions between curcumin and medications that individuals should be aware of?",
+            "** What are the special considerations for pregnant or breastfeeding women when using curcumin supplements?"
+        ]
+    },
+    "PLAIN-56": {
+        "original": "Foods for Glaucoma",
+        "expanded": [
+            "** What are the essential nutrients that can help reduce the risk of glaucoma?",
+            "** Which foods are rich in lutein and zeaxanthin, and how can they help with glaucoma?",
+            "** Are there any specific foods that can help reduce intraocular pressure, a common symptom of glaucoma?"
+        ]
+    },
+    "PLAIN-68": {
+        "original": "What is Actually in Chicken Nuggets?",
+        "expanded": [
+            "What are the main ingredients in chicken nuggets?**",
+            "What are some common additives found in chicken nuggets?**",
+            "Are there any alternative ingredients used in some chicken nuggets?**"
+        ]
+    },
+    "PLAIN-78": {
+        "original": "What Do Meat Purge and Cola Have in Common?",
+        "expanded": [
+            "** What is meat purge?\n**",
+            "** What is cola?\n**",
+            "** What can be associated with both meat purge and cola?\n**"
+        ]
+    },
+    "PLAIN-91": {
+        "original": "Chronic Headaches and Pork Parasites",
+        "expanded": [
+            "What are the common causes of chronic headaches?",
+            "What are pork parasites, and how can they cause chronic headaches?",
+            "How can chronic headaches caused by pork parasites be treated?"
+        ]
+    },
+    "PLAIN-102": {
+        "original": "Stopping Heart Disease in Childhood",
+        "expanded": [
+            "What are the common risk factors for developing heart disease in children?",
+            "What are the most effective prevention strategies for reducing the risk of heart disease in children?",
+            "What are the most promising treatments and interventions for reversing or halting the progression of heart disease in children?"
+        ]
+    },
+    "PLAIN-112": {
+        "original": "Food Dyes and ADHD",
+        "expanded": [
+            "** What are some common food dyes linked to ADHD-like symptoms?",
+            "** What are the potential mechanisms by which food dyes might contribute to ADHD?",
+            "** What is the evidence from clinical studies on the effects of removing food dyes from diets on ADHD symptoms?"
+        ]
+    },
+    "PLAIN-123": {
+        "original": "How Citrus Might Help Keep Your Hands Warm",
+        "expanded": [
+            "What are some natural ways to keep hands warm in cold weather?",
+            "What specific benefits can citrus fruits provide in terms of hand warmth?",
+            "Can citrus fruits be used as a substitute for traditional hand warmers or gloves?"
+        ]
+    },
+    "PLAIN-133": {
+        "original": "Starving Tumors of Their Blood Supply",
+        "expanded": [
+            "** \nWhat are the most common methods used to cut off blood supply to tumors?",
+            "** \nAre there drugs or treatments available to target the tumor's blood vessels directly?",
+            "** \nAre there non-pharmacological methods to cut off the blood supply to tumors?"
+        ]
+    },
+    "PLAIN-143": {
+        "original": "Are Dental X-Rays Safe?",
+        "expanded": [
+            "Are dental X-rays a necessary procedure for oral health maintenance?",
+            "What are the risks associated with dental X-rays?",
+            "How can patients minimize the risks and ensure safe dental X-ray procedures?"
+        ]
+    },
+    "PLAIN-153": {
+        "original": "How Should I Take Probiotics?",
+        "expanded": [
+            "What are probiotics and what do they do?",
+            "How often should I take probiotics?",
+            "What are some tips for getting the most out of my probiotic supplement?"
+        ]
+    },
+    "PLAIN-165": {
+        "original": "Breast Cancer & Alcohol: How Much is Safe?",
+        "expanded": [
+            "What is the relationship between moderate alcohol consumption and breast cancer risk?",
+            "What is the potential biological mechanism behind the link between breast cancer and alcohol consumption?",
+            "What is the recommendation from major health organizations regarding breast cancer risk and alcohol consumption?"
+        ]
+    },
+    "PLAIN-175": {
+        "original": "Diet and Cellulite",
+        "expanded": [
+            "What is cellulite?**\n**",
+            "How is cellulite caused?**\n**",
+            "Can diet affect cellulite?**\n**"
+        ]
+    },
+    "PLAIN-186": {
+        "original": "Best Treatment for Constipation",
+        "expanded": [
+            "What are the common causes of constipation?",
+            "What are the available treatment options for constipation?",
+            "What are some natural remedies for constipation?"
+        ]
+    },
+    "PLAIN-196": {
+        "original": "Should We Avoid Titanium Dioxide?",
+        "expanded": [
+            "** What is Titanium Dioxide?",
+            "** What are the Potential Health Risks of Titanium Dioxide?",
+            "** Are There Safer Alternatives to Titanium Dioxide?"
+        ]
+    },
+    "PLAIN-207": {
+        "original": "Avoiding Cooked Meat Carcinogens",
+        "expanded": [
+            "**\nWhat are the main cooked meat carcinogens that are formed during cooking?",
+            "**\nWhich cooking methods are most likely to produce these carcinogens?",
+            "**\nWhat are some strategies for reducing the formation of cooked meat carcinogens?"
+        ]
+    },
+    "PLAIN-217": {
+        "original": "Plant-Based Diets for Psoriasis",
+        "expanded": [
+            "What are the key concepts of plant-based diets related to psoriasis?",
+            "What are some specific plant-based foods that may benefit psoriasis sufferers?",
+            "Can plant-based diets be tailored to individual needs for optimal psoriasis management?"
+        ]
+    },
+    "PLAIN-227": {
+        "original": "Increasing Muscle Strength with Fenugreek",
+        "expanded": [
+            "** What is fenugreek and how does it benefit muscle strength?\n**",
+            "** How does fenugreek improve muscle strength in athletes and bodybuilders?\n**",
+            "** What are the recommended dosages and forms of fenugreek for increasing muscle strength?\n**"
+        ]
+    },
+    "PLAIN-238": {
+        "original": "How Chemically Contaminated Are We?",
+        "expanded": [
+            "** What is the general level of chemical contamination in our environment?",
+            "** Which chemicals are most commonly found in our bodies?",
+            "** How are chemical contaminants affecting our health?"
+        ]
+    },
+    "PLAIN-248": {
+        "original": "Treating an Enlarged Prostate With Diet",
+        "expanded": [
+            "** What foods to include in the diet to alleviate symptoms of an enlarged prostate?",
+            "** Are there any specific dietary changes that can help shrink the prostate?",
+            "** Are there any specific dietary considerations for men with an enlarged prostate?"
+        ]
+    },
+    "PLAIN-259": {
+        "original": "Optimal Phytosterol Dose and Source",
+        "expanded": [
+            "** What is the optimal dose of phytosterols for cholesterol reduction?",
+            "** What is the most effective source of phytosterols for dietary supplements?",
+            "** What is the most commonly used phytosterol in dietary supplements, and what are its benefits?"
+        ]
+    },
+    "PLAIN-270": {
+        "original": "Is Caffeinated Tea Really Dehydrating?",
+        "expanded": [
+            "** Does drinking caffeinated tea increase urine production?",
+            "** Does caffeine in tea affect the body's ability to retain water?",
+            "** Can the benefits of tea consumption, such as antioxidant intake, outweigh potential negative effects on hydration?"
+        ]
+    },
+    "PLAIN-280": {
+        "original": "Mercury Testing Recommended Before Pregnancy",
+        "expanded": [
+            "** What are the types of mercury exposure that are particularly concerning for pregnancy?\n**",
+            "** What is the recommended approach to testing for mercury exposure before pregnancy?\n**",
+            "** What are the potential risks and consequences of high mercury exposure during pregnancy?\n**"
+        ]
+    },
+    "PLAIN-291": {
+        "original": "Stool Size and Breast Cancer Risk",
+        "expanded": [
+            "What is the relationship between stool size and breast cancer risk?",
+            "In what ways can stool size be affected?",
+            "Are there any other factors that can affect breast cancer risk beyond stool size?"
+        ]
+    },
+    "PLAIN-307": {
+        "original": "Vitamin D: Shedding some light on the new recommendations",
+        "expanded": [
+            "** What are the latest recommendations for vitamin D intake from health organizations?",
+            "** What are the potential risks of vitamin D deficiency?",
+            "** Can vitamin D levels be measured and tested?"
+        ]
+    },
+    "PLAIN-320": {
+        "original": "Breast Cancer and Diet",
+        "expanded": [
+            "What are the dietary patterns associated with increased risk of breast cancer?",
+            "What are the potential mechanisms by which diet may influence breast cancer risk?",
+            "What are some evidence-based dietary recommendations for reducing the risk of breast cancer?"
+        ]
+    },
+    "PLAIN-332": {
+        "original": "Can antioxidant-rich spices counteract the effects of a high-fat meal?",
+        "expanded": [
+            "What are antioxidant-rich spices?",
+            "What are the effects of a high-fat meal?",
+            "Can antioxidant-rich spices counteract the effects of a high-fat meal?"
+        ]
+    },
+    "PLAIN-344": {
+        "original": "Dioxins Stored in Our Own Fat May Increase Diabetes Risk",
+        "expanded": [
+            "What are dioxins?",
+            "How do humans get exposed to dioxins?",
+            "What is the link between dioxins and diabetes risk?"
+        ]
+    },
+    "PLAIN-358": {
+        "original": "Didn't another study show carnitine was good for the heart?",
+        "expanded": [
+            "Is there a study that showed carnitine has a positive effect on the heart?",
+            "Was there another study conducted recently that suggested the same findings?",
+            "Have any other studies been conducted to explore the relationship between carnitine and heart health?"
+        ]
+    },
+    "PLAIN-371": {
+        "original": "Any update on the scary in vitro avocado data?",
+        "expanded": [
+            "What is the current status of the in vitro avocado research project?",
+            "Are there any updates on the potential risks associated with in vitro avocado production?",
+            "What are the implications of successful in vitro avocado production for the agriculture industry?"
+        ]
+    },
+    "PLAIN-383": {
+        "original": "What do you think of Dr. Jenkins' take on paleolithic diets?",
+        "expanded": [
+            "** What are paleolithic diets?\n**",
+            "** What is Dr. Jenkins' take on paleolithic diets?\n**",
+            "** How do paleo diets align with modern scientific understanding of human nutrition?\n**"
+        ]
+    },
+    "PLAIN-395": {
+        "original": "What about pepper plus turmeric in V8 juice?",
+        "expanded": [
+            "What is the recommendation for consuming pepper in V8 juice?",
+            "What are the potential health benefits of turmeric in V8 juice?",
+            "How do pepper and turmeric complement each other in V8 juice?"
+        ]
+    },
+    "PLAIN-407": {
+        "original": "Is annatto food coloring safe?",
+        "expanded": [
+            "** What is annatto food coloring?\n**",
+            "** What are the potential health risks associated with annatto?\n**",
+            "** How is annatto regulated in the food industry?\n**"
+        ]
+    },
+    "PLAIN-418": {
+        "original": "Fresh fruit versus frozen--which is better?",
+        "expanded": [
+            "What are the nutritional differences between fresh and frozen fruit?",
+            "How does the taste and texture of fresh and frozen fruit compare?",
+            "How does the environmental impact of fresh and frozen fruit compare?"
+        ]
+    },
+    "PLAIN-430": {
+        "original": "Are krill oil supplements better than fish oil capsules?",
+        "expanded": [
+            "** What are the benefits of krill oil supplements?\n**",
+            "** What are the benefits of fish oil capsules?\n**",
+            "** How do krill oil supplements compare to fish oil capsules in terms of their effectiveness and potential side effects?\n**"
+        ]
+    },
+    "PLAIN-441": {
+        "original": "Is apple cider vinegar good for you?",
+        "expanded": [
+            "** Does apple cider vinegar have any health benefits?\n**",
+            "** What are some potential negative effects of consuming apple cider vinegar?\n**",
+            "** Can apple cider vinegar be used as a remedy for specific ailments or conditions?\n**"
+        ]
+    },
+    "PLAIN-457": {
+        "original": "How can you believe in any scientific study?",
+        "expanded": [
+            "**\nCan we trust the data collection methods used in scientific studies?",
+            "**\nAre the researchers' biases and conflicts of interest influencing the results?",
+            "**\nCan we verify the results through replication and peer review?"
+        ]
+    },
+    "PLAIN-468": {
+        "original": "Is vitamin D3 (cholecalciferol) preferable to D2 (ergocalciferol)?",
+        "expanded": [
+            "** Are the efficacy and effectiveness of vitamin D3 (cholecalciferol) and D2 (ergocalciferol) similar in improving vitamin D levels?",
+            "** Are there any safety concerns associated with the use of vitamin D3 (cholecalciferol) and D2 (ergocalciferol)?",
+            "** Are there any differences in the bioavailability and absorption of vitamin D3 (cholecalciferol) and D2 (ergocalciferol) in the human body?"
+        ]
+    },
+    "PLAIN-478": {
+        "original": "accidents",
+        "expanded": [
+            "What are the different types of accidents?",
+            "What are the common causes of accidents?",
+            "What are the consequences of accidents?"
+        ]
+    },
+    "PLAIN-488": {
+        "original": "adenovirus 36",
+        "expanded": [
+            "**\nWhat is Adenovirus 36?",
+            "**\nWhat are the symptoms of Adenovirus 36 infection?",
+            "**\nHow is Adenovirus 36 transmitted?"
+        ]
+    },
+    "PLAIN-499": {
+        "original": "African-American",
+        "expanded": [
+            "What does the term \"African-American\" refer to?**",
+            "What is the historical background of African-Americans?**",
+            "What are some key issues facing African-Americans today?**"
+        ]
+    },
+    "PLAIN-510": {
+        "original": "airport scanners",
+        "expanded": [
+            "What are airport scanners?**",
+            "How do airport scanners work?**",
+            "Are airport scanners safe?**"
+        ]
+    },
+    "PLAIN-520": {
+        "original": "Alli",
+        "expanded": [
+            "What is Alli used for?",
+            "How does Alli work?",
+            "Are there any potential side effects of taking Alli?"
+        ]
+    },
+    "PLAIN-531": {
+        "original": "alternative medicine",
+        "expanded": [
+            "What is alternative medicine?",
+            "What are the benefits of alternative medicine?",
+            "What are some popular forms of alternative medicine?"
+        ]
+    },
+    "PLAIN-541": {
+        "original": "American Dental Association",
+        "expanded": [
+            "What is the American Dental Association (ADA)?",
+            "What are the main goals of the American Dental Association?",
+            "What services does the American Dental Association offer to its members?"
+        ]
+    },
+    "PLAIN-551": {
+        "original": "amnesia",
+        "expanded": [
+            "What is amnesia?",
+            "What are the symptoms of amnesia?",
+            "Is amnesia curable or treatable?"
+        ]
+    },
+    "PLAIN-561": {
+        "original": "aneurysm",
+        "expanded": [
+            "**\nWhat is an aneurysm?\n**",
+            "**\nWhat are the symptoms of an aneurysm?\n**",
+            "**\nHow is an aneurysm diagnosed and treated?\n**"
+        ]
+    },
+    "PLAIN-571": {
+        "original": "anisakis",
+        "expanded": [
+            "What is Anisakis?",
+            "What are the symptoms of Anisakis infection?",
+            "How is Anisakis infection typically diagnosed and treated?"
+        ]
+    },
+    "PLAIN-583": {
+        "original": "antinutrients",
+        "expanded": [
+            "What are antinutrients?",
+            "What are some examples of antinutrients?",
+            "How do antinutrients affect human health?"
+        ]
+    },
+    "PLAIN-593": {
+        "original": "apnea",
+        "expanded": [
+            "What is apnea?",
+            "What are the types of apnea?",
+            "What are the symptoms of apnea?"
+        ]
+    },
+    "PLAIN-603": {
+        "original": "Arkansas",
+        "expanded": [
+            "What is Arkansas?**",
+            "Where is Arkansas located?**",
+            "What are some notable attractions in Arkansas?**"
+        ]
+    },
+    "PLAIN-613": {
+        "original": "ascorbic acid",
+        "expanded": [
+            "** What is ascorbic acid?",
+            "** What is the function of ascorbic acid in the human body?",
+            "** How is ascorbic acid deficiency related to health conditions?"
+        ]
+    },
+    "PLAIN-623": {
+        "original": "Atkins diet",
+        "expanded": [
+            "What is the Atkins diet?",
+            "What are the benefits of the Atkins diet?",
+            "What are the potential drawbacks of the Atkins diet?"
+        ]
+    },
+    "PLAIN-634": {
+        "original": "avocados",
+        "expanded": [
+            "What are avocados?",
+            "What are the benefits of avocados?",
+            "How are avocados used in different cultures?"
+        ]
+    },
+    "PLAIN-645": {
+        "original": "bagels",
+        "expanded": [
+            "** What types of bagels are popular worldwide?",
+            "** What are the health benefits of eating bagels?",
+            "** How have bagels evolved over time?"
+        ]
+    },
+    "PLAIN-660": {
+        "original": "beans",
+        "expanded": [
+            "** What types of beans exist?\n**",
+            "** What are the health benefits of beans?\n**",
+            "** How are beans prepared and cooked?\n**"
+        ]
+    },
+    "PLAIN-671": {
+        "original": "benzene",
+        "expanded": [
+            "What is benzene?",
+            "What are the sources of benzene?",
+            "What are the health effects of benzene exposure?"
+        ]
+    },
+    "PLAIN-681": {
+        "original": "betel nuts",
+        "expanded": [
+            "** What are betel nuts?\n**",
+            "** What is the history of betel nut chewing?\n**",
+            "** What are the health effects of regularly chewing betel nuts?\n**"
+        ]
+    },
+    "PLAIN-691": {
+        "original": "bioavailability",
+        "expanded": [
+            "What are the factors that affect bioavailability?",
+            "How is bioavailability measured?",
+            "Why is bioavailability important in the development of new drugs?"
+        ]
+    },
+    "PLAIN-701": {
+        "original": "black raspberries",
+        "expanded": [
+            "** What are black raspberries?\n**",
+            "** Where are black raspberries typically grown?\n**",
+            "** How are black raspberries consumed?\n**"
+        ]
+    },
+    "PLAIN-711": {
+        "original": "blood clots",
+        "expanded": [
+            "what are blood clots?",
+            "what are the symptoms of blood clots?",
+            "how are blood clots treated?"
+        ]
+    },
+    "PLAIN-721": {
+        "original": "BMAA",
+        "expanded": [
+            "** What is BMAA?",
+            "** What is the source of BMAA in the environment?",
+            "** What are the potential health risks associated with BMAA exposure?"
+        ]
+    },
+    "PLAIN-731": {
+        "original": "bone fractures",
+        "expanded": [
+            "**\nWhat are common causes of bone fractures?",
+            "**\nWhat are the symptoms of a bone fracture?",
+            "**\nHow are bone fractures treated?"
+        ]
+    },
+    "PLAIN-741": {
+        "original": "BPH",
+        "expanded": [
+            "What does BPH stand for?",
+            "What are the underlying causes of BPH?",
+            "What are the common symptoms of BPH?"
+        ]
+    },
+    "PLAIN-751": {
+        "original": "BRCA genes",
+        "expanded": [
+            "What are BRCA genes?",
+            "What roles do BRCA genes play in the body?",
+            "What are the symptoms and risk factors for BRCA-related breast and ovarian cancer?"
+        ]
+    },
+    "PLAIN-761": {
+        "original": "breast pain",
+        "expanded": [
+            "What are some possible causes of breast pain?",
+            "What are some common symptoms of breast pain?",
+            "How is breast pain diagnosed and treated?"
+        ]
+    },
+    "PLAIN-771": {
+        "original": "bronchiolitis obliterans",
+        "expanded": [
+            "What is bronchiolitis obliterans?",
+            "What are the causes of bronchiolitis obliterans?",
+            "What are the symptoms and diagnosis of bronchiolitis obliterans?"
+        ]
+    },
+    "PLAIN-782": {
+        "original": "Bush administration",
+        "expanded": [
+            "** What was the political party of the Bush administration?",
+            "** Who were the key individuals involved in making decisions during the Bush administration?",
+            "** What were some of the significant events and policies implemented during the Bush administration?"
+        ]
+    },
+    "PLAIN-792": {
+        "original": "cadaverine",
+        "expanded": [
+            "What is cadaverine, a type of?",
+            "What is the function of cadaverine in nature?",
+            "Has cadaverine been utilized in various industrial and medical applications?"
+        ]
+    },
+    "PLAIN-806": {
+        "original": "caloric restriction",
+        "expanded": [
+            "What does caloric restriction mean and how is it defined in the context of dieting?",
+            "What are the potential benefits of caloric restriction on health and longevity?",
+            "What are the potential drawbacks and risks associated with caloric restriction?"
+        ]
+    },
+    "PLAIN-817": {
+        "original": "canker sores",
+        "expanded": [
+            "** What are canker sores?\n**",
+            "** What causes canker sores?\n**",
+            "** How are canker sores treated?\n**"
+        ]
+    },
+    "PLAIN-827": {
+        "original": "carcinogens",
+        "expanded": [
+            "What are known carcinogens?",
+            "What are carcinogens in the workplace?",
+            "What is the relationship between diet and carcinogens?"
+        ]
+    },
+    "PLAIN-838": {
+        "original": "carrageenan",
+        "expanded": [
+            "What is carrageenan?",
+            "What are the benefits of using carrageenan in food products?",
+            "What are some common applications of carrageenan?"
+        ]
+    },
+    "PLAIN-850": {
+        "original": "cauliflower",
+        "expanded": [
+            "What is cauliflower?",
+            "What is the nutritional value of cauliflower?",
+            "How can cauliflower be used in cooking?"
+        ]
+    },
+    "PLAIN-872": {
+        "original": "chanterelle mushrooms",
+        "expanded": [
+            "What are chanterelle mushrooms?",
+            "Where are chanterelle mushrooms commonly found?",
+            "What are the culinary uses of chanterelle mushrooms?"
+        ]
+    },
+    "PLAIN-882": {
+        "original": "Chernobyl",
+        "expanded": [
+            "What event occurred at Chernobyl?",
+            "What were the causes of the Chernobyl disaster?",
+            "What was the impact of the Chernobyl disaster on the surrounding area and humans?"
+        ]
+    },
+    "PLAIN-892": {
+        "original": "chickpeas",
+        "expanded": [
+            "What are chickpeas?",
+            "What are the benefits of eating chickpeas?",
+            "How can chickpeas be cooked?"
+        ]
+    },
+    "PLAIN-902": {
+        "original": "chlorophyll",
+        "expanded": [
+            "What is chlorophyll?",
+            "What is the chemical structure of chlorophyll?",
+            "What is the importance of chlorophyll in the ecosystem?"
+        ]
+    },
+    "PLAIN-913": {
+        "original": "cinnamon",
+        "expanded": [
+            "** What is cinnamon?",
+            "** What are the health benefits of cinnamon?",
+            "** How is cinnamon typically used in cooking?"
+        ]
+    },
+    "PLAIN-924": {
+        "original": "cocaine",
+        "expanded": [
+            "What is cocaine?",
+            "What are the effects of cocaine use?",
+            "What are some treatment options for cocaine addiction?"
+        ]
+    },
+    "PLAIN-934": {
+        "original": "coffee",
+        "expanded": [
+            "What is coffee?",
+            "What is the origin of coffee?",
+            "What are the health benefits of coffee?"
+        ]
+    },
+    "PLAIN-946": {
+        "original": "coma",
+        "expanded": [
+            "What is a coma in medicine?",
+            "What is the difference between a coma and a vegetative state?",
+            "What is the average length of time someone remains in a coma?"
+        ]
+    },
+    "PLAIN-956": {
+        "original": "cooking methods",
+        "expanded": [
+            "What are some common cooking methods?**",
+            "What are some advanced cooking methods used in professional kitchens?**",
+            "How can I experiment with new cooking methods at home?**"
+        ]
+    },
+    "PLAIN-966": {
+        "original": "cortisol",
+        "expanded": [
+            "What is cortisol?",
+            "What are the effects of high cortisol levels?",
+            "How can cortisol levels be measured?"
+        ]
+    },
+    "PLAIN-977": {
+        "original": "crib death",
+        "expanded": [
+            "What is crib death?",
+            "What are the risk factors for crib death?",
+            "How can parents prevent crib death?"
+        ]
+    },
+    "PLAIN-987": {
+        "original": "cumin",
+        "expanded": [
+            "What is cumin used for in cooking?",
+            "What are the health benefits of cumin?",
+            "Where does cumin come from?"
+        ]
+    },
+    "PLAIN-997": {
+        "original": "Czechoslovakia",
+        "expanded": [
+            "** What is the geographical location of Czechoslovakia?\n**",
+            "** What is the history of Czechoslovakia's breakup?\n**",
+            "** What were the main features of the economy of Czechoslovakia?\n**"
+        ]
+    },
+    "PLAIN-1008": {
+        "original": "deafness",
+        "expanded": [
+            "**\nWhat is the definition of deafness?",
+            "**\nWhat are the different types of deafness?",
+            "**\nHow common is deafness, and what are some of the causes?"
+        ]
+    },
+    "PLAIN-1018": {
+        "original": "DHA",
+        "expanded": [
+            "What is DHA?",
+            "What foods are high in DHA?",
+            "What are the health benefits of DHA?"
+        ]
+    },
+    "PLAIN-1028": {
+        "original": "dietary scoring",
+        "expanded": [
+            "** What is the overall dietary score based on the daily intake of macronutrients?",
+            "** What is the impact of added sugars and saturated fats on the dietary score?",
+            "** How do the intake of fiber, vitamins, and minerals contribute to the dietary score?"
+        ]
+    },
+    "PLAIN-1039": {
+        "original": "domoic acid",
+        "expanded": [
+            "What is domoic acid?",
+            "How is domoic acid produced?",
+            "What are the health effects of domoic acid?"
+        ]
+    },
+    "PLAIN-1050": {
+        "original": "Dr. Dean Ornish",
+        "expanded": [
+            "What is Dr. Dean Ornish known for?",
+            "What is the Ornish Diet?",
+            "What are Dr. Dean Ornish's key books and publications?"
+        ]
+    },
+    "PLAIN-1066": {
+        "original": "Dr. Walter Willett",
+        "expanded": [
+            "** Who is Dr. Walter Willett?",
+            "** What are Dr. Walter Willett's research interests?",
+            "** What is Dr. Walter Willett's most notable achievement?"
+        ]
+    },
+    "PLAIN-1088": {
+        "original": "ECMO",
+        "expanded": [
+            "What is ECMO?",
+            "Who is a good candidate for ECMO?",
+            "What are the benefits and risks of ECMO?"
+        ]
+    },
+    "PLAIN-1098": {
+        "original": "eggnog",
+        "expanded": [
+            "**\nWhat is the definition of eggnog?",
+            "**\nWhat are the typical ingredients of eggnog?",
+            "**\nIs eggnog a safe drink for everyone to consume?"
+        ]
+    },
+    "PLAIN-1109": {
+        "original": "endocrine disruptors",
+        "expanded": [
+            "** What is an endocrine system?\n  \n**",
+            "** What are endocrine disruptors?\n  \n**",
+            "** What are some common sources of endocrine disruptors?\n  \n**"
+        ]
+    },
+    "PLAIN-1119": {
+        "original": "energy drinks",
+        "expanded": [
+            "What are the top-selling energy drink brands in the market?**",
+            "What are the ingredients used in energy drinks, and are they safe for consumption?**",
+            "Can energy drinks really provide a boost in energy and mental clarity, or are they just a marketing gimmick?**"
+        ]
+    },
+    "PLAIN-1130": {
+        "original": "ergothioneine",
+        "expanded": [
+            "What is ergothioneine?",
+            "What are the benefits of ergothioneine?",
+            "What are the food sources of ergothioneine?"
+        ]
+    },
+    "PLAIN-1141": {
+        "original": "Evidence-based medicine",
+        "expanded": [
+            "What is evidence-based medicine?**\n**",
+            "What are the key principles of evidence-based medicine?**\n**",
+            "Can evidence-based medicine improve patient outcomes?**\n**"
+        ]
+    },
+    "PLAIN-1151": {
+        "original": "factory farming practices",
+        "expanded": [
+            "What are the main types of factory farming practices?",
+            "What are the environmental impacts of factory farming practices?",
+            "What are the animal welfare concerns related to factory farming practices?"
+        ]
+    },
+    "PLAIN-1161": {
+        "original": "fava beans",
+        "expanded": [
+            "What is the definition of fava beans?",
+            "What are the nutritional benefits of fava beans?",
+            "How do people typically use fava beans?"
+        ]
+    },
+    "PLAIN-1172": {
+        "original": "fenugreek",
+        "expanded": [
+            "** What is fenugreek?\n**",
+            "** What are the health benefits of fenugreek?\n**",
+            "** How is fenugreek consumed and used?\n**"
+        ]
+    },
+    "PLAIN-1183": {
+        "original": "Finland",
+        "expanded": [
+            "What is the location of Finland?",
+            "What is the capital city of Finland?",
+            "What is the official language of Finland?"
+        ]
+    },
+    "PLAIN-1193": {
+        "original": "flax oil",
+        "expanded": [
+            "What is flax oil?",
+            "What are the benefits of flax oil?",
+            "How can I use flax oil?"
+        ]
+    },
+    "PLAIN-1203": {
+        "original": "folic acid",
+        "expanded": [
+            "What is folic acid?",
+            "What are the benefits of folic acid?",
+            "How can folic acid be obtained?"
+        ]
+    },
+    "PLAIN-1214": {
+        "original": "Fosamax",
+        "expanded": [
+            "What is Fosamax?",
+            "When was Fosamax approved by the FDA?",
+            "What are the common side effects of taking Fosamax?"
+        ]
+    },
+    "PLAIN-1225": {
+        "original": "fructose",
+        "expanded": [
+            "** What is fructose?",
+            "** What is the structure of fructose?",
+            "** What are the functions of fructose?"
+        ]
+    },
+    "PLAIN-1236": {
+        "original": "galactosemia",
+        "expanded": [
+            "What is galactosemia?",
+            "What are the symptoms of galactosemia?",
+            "How is galactosemia diagnosed and treated?"
+        ]
+    },
+    "PLAIN-1249": {
+        "original": "genetic manipulation",
+        "expanded": [
+            "** What is genetic manipulation?\n**",
+            "** What are the methods used in genetic manipulation?\n**",
+            "** What are the applications of genetic manipulation?\n**"
+        ]
+    },
+    "PLAIN-1262": {
+        "original": "Global Burden of Disease Study",
+        "expanded": [
+            "** What is the Global Burden of Disease Study?",
+            "** What are the key findings of the Global Burden of Disease Study?",
+            "** How have the Global Burden of Disease Study findings been used to inform policy and intervention strategies?"
+        ]
+    },
+    "PLAIN-1275": {
+        "original": "goji berries",
+        "expanded": [
+            "What are Goji Berries?",
+            "What are the potential health benefits of Goji Berries?",
+            "How can Goji Berries be consumed?"
+        ]
+    },
+    "PLAIN-1288": {
+        "original": "grapes",
+        "expanded": [
+            "What are grapes?",
+            "What are the benefits of eating grapes?",
+            "Where are grapes grown?"
+        ]
+    },
+    "PLAIN-1299": {
+        "original": "growth promoters",
+        "expanded": [
+            "** What are some examples of growth promoters in bacteria?",
+            "** What is the role of cytokines in growth promotion?",
+            "** Are there any examples of growth promoters in animals?"
+        ]
+    },
+    "PLAIN-1309": {
+        "original": "halibut",
+        "expanded": [
+            "What is halibut?",
+            "What are the different types of halibut?",
+            "What is the nutritional value of halibut?"
+        ]
+    },
+    "PLAIN-1320": {
+        "original": "Harvard Physicians\u2019 Study II",
+        "expanded": [
+            "What is the name of the study?",
+            "What was the primary purpose of the Harvard Physicians' Study II?",
+            "What was one of the key findings of the Harvard Physicians' Study II?"
+        ]
+    },
+    "PLAIN-1331": {
+        "original": "hearing",
+        "expanded": [
+            "What is hearing?",
+            "What are the different types of hearing?",
+            "How can hearing be improved?"
+        ]
+    },
+    "PLAIN-1342": {
+        "original": "heme iron",
+        "expanded": [
+            "What is heme iron?",
+            "What are the best sources of heme iron?",
+            "What are the symptoms of heme iron deficiency?"
+        ]
+    },
+    "PLAIN-1353": {
+        "original": "hernia",
+        "expanded": [
+            "What is a hernia?",
+            "What are the common types of hernias?",
+            "What are the treatment options for hernias?"
+        ]
+    },
+    "PLAIN-1363": {
+        "original": "Hiroshima",
+        "expanded": [
+            "What is Hiroshima?**",
+            "What happened to Hiroshima in 1945?**",
+            "What are some popular attractions in Hiroshima?**"
+        ]
+    },
+    "PLAIN-1374": {
+        "original": "hormonal dysfunction",
+        "expanded": [
+            "** What is hormonal dysfunction?\n**",
+            "** What are the common causes of hormonal dysfunction?\n**",
+            "** What are the symptoms of hormonal dysfunction?\n**"
+        ]
+    },
+    "PLAIN-1387": {
+        "original": "hyperactivity",
+        "expanded": [
+            "What does hyperactivity refer to?",
+            "What are some common symptoms of hyperactivity in children?",
+            "Can hyperactivity be linked to any medical conditions?"
+        ]
+    },
+    "PLAIN-1398": {
+        "original": "IGF-1",
+        "expanded": [
+            "What does IGF-1 stand for?",
+            "What is the function of IGF-1 in the body?",
+            "What are the potential health risks associated with altered IGF-1 levels?"
+        ]
+    },
+    "PLAIN-1409": {
+        "original": "industrial toxins",
+        "expanded": [
+            "What are industrial toxins?",
+            "What are the sources of industrial toxins?",
+            "What are the effects of industrial toxins on human health?"
+        ]
+    },
+    "PLAIN-1419": {
+        "original": "insects",
+        "expanded": [
+            "What are insects?",
+            "What are some common types of insects?",
+            "What are some of the unique characteristics of insects?"
+        ]
+    },
+    "PLAIN-1429": {
+        "original": "Iowa Women\u2019s Health Study",
+        "expanded": [
+            "** What was the purpose of the Iowa Women's Health Study?",
+            "** Who participated in the Iowa Women's Health Study?",
+            "** What were the key findings of the Iowa Women's Health Study?"
+        ]
+    },
+    "PLAIN-1441": {
+        "original": "Japan",
+        "expanded": [
+            "**\nWhere is Japan located?",
+            "**\nWhat is the population of Japan?",
+            "**\nWhat are the main religions in Japan?"
+        ]
+    },
+    "PLAIN-1453": {
+        "original": "junk food",
+        "expanded": [
+            "** \"What is considered as junk food?\"",
+            "** \"What are some popular junk foods?\"",
+            "** \"What are the health risks associated with consuming junk food?\""
+        ]
+    },
+    "PLAIN-1463": {
+        "original": "kidney beans",
+        "expanded": [
+            "What are kidney beans?",
+            "What are the health benefits of kidney beans?",
+            "How are kidney beans commonly used in cooking?"
+        ]
+    },
+    "PLAIN-1473": {
+        "original": "kohlrabi",
+        "expanded": [
+            "What is kohlrabi's botanical classification?",
+            "What are the common uses of kohlrabi?",
+            "Where did kohlrabi originate from?"
+        ]
+    },
+    "PLAIN-1485": {
+        "original": "lard",
+        "expanded": [
+            "What is lard?",
+            "What are the uses of lard?",
+            "Is lard considered a healthy food?"
+        ]
+    },
+    "PLAIN-1496": {
+        "original": "leeks",
+        "expanded": [
+            "What is the definition of leeks?",
+            "Where do leeks originate from?",
+            "How do leeks benefit our health?"
+        ]
+    },
+    "PLAIN-1506": {
+        "original": "leucine",
+        "expanded": [
+            "What is leucine?**\nWhat is the definition and function of leucine in human biology?",
+            "What are the health benefits of consuming leucine?**\nWhat are the specific health benefits of consuming leucine-rich foods or supplements?",
+            "What are natural sources of leucine?**\nWhere can one find natural sources of leucine in their diet?"
+        ]
+    },
+    "PLAIN-1516": {
+        "original": "Lindane",
+        "expanded": [
+            "What is Lindane?",
+            "Why was Lindane used?",
+            "Are there any health concerns with Lindane?"
+        ]
+    },
+    "PLAIN-1527": {
+        "original": "liver disease",
+        "expanded": [
+            "What are the common causes of liver disease?**",
+            "What are the symptoms of liver disease?**",
+            "How is liver disease diagnosed and treated?**"
+        ]
+    },
+    "PLAIN-1537": {
+        "original": "low-carb diets",
+        "expanded": [
+            "** What are some common foods that are high in carbohydrates?",
+            "** What are some benefits of following a low-carb diet?",
+            "** How can I incorporate low-carb foods into my daily meals?"
+        ]
+    },
+    "PLAIN-1547": {
+        "original": "lyme disease",
+        "expanded": [
+            "** What is Lyme disease?\n**",
+            "** What are the symptoms of Lyme disease?\n**",
+            "** How is Lyme disease transmitted?\n**"
+        ]
+    },
+    "PLAIN-1557": {
+        "original": "magnesium",
+        "expanded": [
+            "What is magnesium in chemistry?",
+            "What are the sources of magnesium?",
+            "What are the benefits of magnesium for human health?"
+        ]
+    },
+    "PLAIN-1568": {
+        "original": "maple syrup",
+        "expanded": [
+            "What is maple syrup?",
+            "How is maple syrup made?",
+            "What are some common uses for maple syrup?"
+        ]
+    },
+    "PLAIN-1579": {
+        "original": "mastitis",
+        "expanded": [
+            "** What is mastitis?",
+            "** What causes mastitis?",
+            "** How is mastitis treated?"
+        ]
+    },
+    "PLAIN-1590": {
+        "original": "medical ethics",
+        "expanded": [
+            "What are the principles of medical ethics?",
+            "What are some of the ethical dilemmas faced by healthcare providers?",
+            "How do cultural and religious beliefs influence medical ethics?"
+        ]
+    },
+    "PLAIN-1601": {
+        "original": "memory",
+        "expanded": [
+            "What is memory?",
+            "How does memory work?",
+            "What are some factors that affect memory?"
+        ]
+    },
+    "PLAIN-1611": {
+        "original": "mesquite",
+        "expanded": [
+            "What is mesquite?",
+            "What are the common uses of mesquite?",
+            "Are there any notable mesquite trees or forests?"
+        ]
+    },
+    "PLAIN-1621": {
+        "original": "Mevacor",
+        "expanded": [
+            "What is Mevacor?",
+            "What are the possible side effects of Mevacor?",
+            "How does Mevacor function in the body?"
+        ]
+    },
+    "PLAIN-1635": {
+        "original": "milk",
+        "expanded": [
+            "What are the main types of milk?",
+            "How is milk produced and processed?",
+            "What are the nutritional benefits of milk?"
+        ]
+    },
+    "PLAIN-1645": {
+        "original": "molasses",
+        "expanded": [
+            "What is molasses?",
+            "What are the health benefits of molasses?",
+            "What is molasses used for?"
+        ]
+    },
+    "PLAIN-1656": {
+        "original": "mouth cancer",
+        "expanded": [
+            "**\nWhat is mouth cancer?\n**",
+            "**\nWhat are the symptoms of mouth cancer?\n**",
+            "**\nWhat is the treatment for mouth cancer?\n**"
+        ]
+    },
+    "PLAIN-1667": {
+        "original": "muscle health",
+        "expanded": [
+            "What are the primary functions of muscles in the human body?",
+            "What are the common symptoms of muscle problems or disorders?",
+            "How can one promote and maintain good muscle health?"
+        ]
+    },
+    "PLAIN-1679": {
+        "original": "myelopathy",
+        "expanded": [
+            "What is myelopathy?",
+            "What are the symptoms of myelopathy?",
+            "What are the treatment options for myelopathy?"
+        ]
+    },
+    "PLAIN-1690": {
+        "original": "National Academy of Sciences",
+        "expanded": [
+            "What is the National Academy of Sciences (NAS)?",
+            "What are the specific areas of focus for the National Academy of Sciences?",
+            "What is the role of the National Academy of Sciences in terms of science policy advice?"
+        ]
+    },
+    "PLAIN-1700": {
+        "original": "Native Americans",
+        "expanded": [
+            "** Who are Native Americans?\n**",
+            "** Where did Native Americans come from?\n**",
+            "** What are some of the challenges faced by Native Americans?\n**"
+        ]
+    },
+    "PLAIN-1710": {
+        "original": "neurocysticercosis",
+        "expanded": [
+            "** What is neurocysticercosis?\n**",
+            "** What are the symptoms of neurocysticercosis?\n**",
+            "** How is neurocysticercosis diagnosed and treated?\n**"
+        ]
+    },
+    "PLAIN-1721": {
+        "original": "NIH-AARP study",
+        "expanded": [
+            "What is the NIH-AARP study?",
+            "What are the main findings of the NIH-AARP study?",
+            "How has the NIH-AARP study contributed to our understanding of nutrition and health?"
+        ]
+    },
+    "PLAIN-1731": {
+        "original": "norovirus",
+        "expanded": [
+            "What is norovirus?",
+            "How is norovirus transmitted?",
+            "How is norovirus diagnosed and treated?"
+        ]
+    },
+    "PLAIN-1741": {
+        "original": "nuts",
+        "expanded": [
+            "What type of food are nuts?",
+            "What are the nutritional benefits of nuts?",
+            "What are some common types of nuts?"
+        ]
+    },
+    "PLAIN-1752": {
+        "original": "okra",
+        "expanded": [
+            "** What is okra?",
+            "** What are the nutritional benefits of okra?",
+            "** How is okra commonly used in cooking?"
+        ]
+    },
+    "PLAIN-1762": {
+        "original": "oral intraepithelial neoplasia",
+        "expanded": [
+            "What is oral intraepithelial neoplasia?",
+            "What are the risk factors for developing oral intraepithelial neoplasia?",
+            "How is oral intraepithelial neoplasia diagnosed and treated?"
+        ]
+    },
+    "PLAIN-1772": {
+        "original": "organotins",
+        "expanded": [
+            "What are organotins?",
+            "What are the uses of organotins?",
+            "Are organotins safe for human health and the environment?"
+        ]
+    },
+    "PLAIN-1784": {
+        "original": "oxen meat",
+        "expanded": [
+            "What are oxen?",
+            "What are the nutritional benefits of oxen meat?",
+            "How is oxen meat typically prepared and cooked?"
+        ]
+    },
+    "PLAIN-1794": {
+        "original": "Panama",
+        "expanded": [
+            "What is Panama?",
+            "What is the history of Panama?",
+            "What are the main attractions in Panama?"
+        ]
+    },
+    "PLAIN-1805": {
+        "original": "Parkinson's disease",
+        "expanded": [
+            "Definition of Parkinson's disease",
+            "Causes of Parkinson's disease",
+            "Symptoms and diagnosis of Parkinson's disease"
+        ]
+    },
+    "PLAIN-1817": {
+        "original": "peanut butter",
+        "expanded": [
+            "What kind of food is peanut butter?",
+            "What are the health benefits of peanut butter?",
+            "Are there different types of peanut butter available?"
+        ]
+    },
+    "PLAIN-1827": {
+        "original": "Peoria",
+        "expanded": [
+            "** What is Peoria?",
+            "** What is the population of Peoria?",
+            "** What are some notable attractions and landmarks in Peoria?"
+        ]
+    },
+    "PLAIN-1837": {
+        "original": "pesticides",
+        "expanded": [
+            "What are common types of pesticides used in agriculture?",
+            "What are the potential health risks associated with pesticide exposure?",
+            "What are some of the sustainable alternatives to traditional pesticides?"
+        ]
+    },
+    "PLAIN-1847": {
+        "original": "philippines",
+        "expanded": [
+            "\"What is the location of the Philippines?\"",
+            "\"What is the population of the Philippines?\"",
+            "\"What is the culture of the Philippines?\""
+        ]
+    },
+    "PLAIN-1857": {
+        "original": "phytic acid",
+        "expanded": [
+            "** What is phytic acid?\n**",
+            "** What are the health effects of phytic acid?\n**",
+            "** What foods are rich in phytic acid?\n**"
+        ]
+    },
+    "PLAIN-1867": {
+        "original": "pineapples",
+        "expanded": [
+            "What is the origin of pineapples?",
+            "What are the health benefits of pineapples?",
+            "How is pineapples used in global cuisine?"
+        ]
+    },
+    "PLAIN-1877": {
+        "original": "plant-based diet",
+        "expanded": [
+            "What are the benefits of plant-based diet?",
+            "What are some common plant-based foods?",
+            "Are plant-based diets more expensive than meat-based diets?"
+        ]
+    },
+    "PLAIN-1887": {
+        "original": "poisonous plants",
+        "expanded": [
+            "What are some examples of poisonous plants found in North America?",
+            "What are some common characteristics of poisonous plants?",
+            "How do people encounter poisonous plants and what are the consequences?"
+        ]
+    },
+    "PLAIN-1897": {
+        "original": "polypropylene plastic",
+        "expanded": [
+            "What is polypropylene?**",
+            "What are the uses of polypropylene plastic?**",
+            "How is polypropylene made?**"
+        ]
+    },
+    "PLAIN-1909": {
+        "original": "pork",
+        "expanded": [
+            "What is pork?",
+            "What are some common dishes made from pork?",
+            "What are some nutritional benefits of pork?"
+        ]
+    },
+    "PLAIN-1919": {
+        "original": "poultry workers",
+        "expanded": [
+            "What is the job description of poultry workers?",
+            "What are the skills and qualifications required to become a poultry worker?",
+            "What are the benefits and challenges of being a poultry worker?"
+        ]
+    },
+    "PLAIN-1929": {
+        "original": "prenatal vitamins",
+        "expanded": [
+            "\"What are prenatal vitamins and their benefits?\"",
+            "\"What essential nutrients are included in prenatal vitamins?\"",
+            "\"What are some tips for choosing the right prenatal vitamin?\""
+        ]
+    },
+    "PLAIN-1940": {
+        "original": "prolactin",
+        "expanded": [
+            "What is prolactin and what is its primary function in the body?",
+            "What are the clinical uses of prolactin in medicine?",
+            "How does prolactin affect human behavior, and what are the psychological implications of its imbalance?"
+        ]
+    },
+    "PLAIN-1950": {
+        "original": "prunes",
+        "expanded": [
+            "What are prunes?",
+            "Why are prunes good for digestive health?",
+            "How can you use prunes in culinary recipes?"
+        ]
+    },
+    "PLAIN-1962": {
+        "original": "pumpkin",
+        "expanded": [
+            "What is the definition of a pumpkin?",
+            "What are some common uses of pumpkins?",
+            "Where are pumpkins commonly grown?"
+        ]
+    },
+    "PLAIN-1972": {
+        "original": "quinine",
+        "expanded": [
+            "** What is quinine?",
+            "** What are the side effects of quinine?",
+            "** Is quinine safe for pregnant women?"
+        ]
+    },
+    "PLAIN-1983": {
+        "original": "rapamycin",
+        "expanded": [
+            "What is rapamycin?",
+            "What are the uses of rapamycin?",
+            "How does rapamycin work?"
+        ]
+    },
+    "PLAIN-1995": {
+        "original": "red tea",
+        "expanded": [
+            "What types of tea are known for their red color?",
+            "What are the health benefits of drinking red tea?",
+            "How can I make the perfect cup of red tea?"
+        ]
+    },
+    "PLAIN-2009": {
+        "original": "rhabdomyolysis",
+        "expanded": [
+            "** What is rhabdomyolysis?",
+            "** What are the causes of rhabdomyolysis?",
+            "** How is rhabdomyolysis diagnosed and treated?"
+        ]
+    },
+    "PLAIN-2019": {
+        "original": "rickets",
+        "expanded": [
+            "What is rickets?**",
+            "What are the causes of rickets?**",
+            "How is rickets treated?**"
+        ]
+    },
+    "PLAIN-2030": {
+        "original": "Rutin",
+        "expanded": [
+            "What is Rutin?",
+            "What are the health benefits of Rutin?",
+            "How does Rutin interact with other nutrients in the body?"
+        ]
+    },
+    "PLAIN-2040": {
+        "original": "salmon",
+        "expanded": [
+            "What is salmon?",
+            "What are the nutritional benefits of salmon?",
+            "How is salmon typically prepared?"
+        ]
+    },
+    "PLAIN-2051": {
+        "original": "saturated fat",
+        "expanded": [
+            "What is saturated fat?",
+            "What are examples of foods high in saturated fat?",
+            "What are the health effects of consuming high amounts of saturated fat?"
+        ]
+    },
+    "PLAIN-2061": {
+        "original": "seafood",
+        "expanded": [
+            "What types of seafood are popular in different cuisines?",
+            "What are some of the seafood sources and methods of production?",
+            "What are some health benefits of consuming seafood?"
+        ]
+    },
+    "PLAIN-2071": {
+        "original": "serotonin",
+        "expanded": [
+            "What is serotonin?",
+            "What are the effects of serotonin on the brain?",
+            "Can serotonin levels be influenced by lifestyle factors?"
+        ]
+    },
+    "PLAIN-2081": {
+        "original": "shelf life",
+        "expanded": [
+            "**\nHow does the shelf life of different types of food vary?",
+            "**\nWhat factors contribute to the length of a food's shelf life?",
+            "**\nHow can consumers extend the shelf life of their food purchases?"
+        ]
+    },
+    "PLAIN-2092": {
+        "original": "sirtuins",
+        "expanded": [
+            "What are Sirtuins?",
+            "What are the functions of Sirtuins?",
+            "How are Sirtuins regulated?"
+        ]
+    },
+    "PLAIN-2102": {
+        "original": "smoking",
+        "expanded": [
+            "What are the health risks associated with smoking?",
+            "What are the addictive properties of smoking?",
+            "What are the economic costs of smoking?"
+        ]
+    },
+    "PLAIN-2113": {
+        "original": "soil health",
+        "expanded": [
+            "What are the key components of soil health?",
+            "How does soil health impact crop growth?",
+            "What are the benefits of improving soil health?"
+        ]
+    },
+    "PLAIN-2124": {
+        "original": "spearmint",
+        "expanded": [
+            "** What is spearmint?\n \n**",
+            "** What are the health benefits of spearmint?",
+            "** Where is spearmint commonly used as a culinary herb?"
+        ]
+    },
+    "PLAIN-2134": {
+        "original": "Splenda",
+        "expanded": [
+            "**\nWhat is Splenda?",
+            "**\nWhat is sucralose?",
+            "**\nIs Splenda available as a sugar substitute?"
+        ]
+    },
+    "PLAIN-2145": {
+        "original": "St. John's wort",
+        "expanded": [
+            "What is St. John's Wort?",
+            "What are the uses of St. John's Wort?",
+            "What are the potential side effects and interactions of St. John's Wort?"
+        ]
+    },
+    "PLAIN-2156": {
+        "original": "stevia",
+        "expanded": [
+            "** What is Stevia?\n**",
+            "** Is Stevia suitable for diabetics and dieters?\n**",
+            "** What are the benefits of Stevia?\n**"
+        ]
+    },
+    "PLAIN-2167": {
+        "original": "subsidies",
+        "expanded": [
+            "** How many types of subsidies are offered by the government?",
+            "** What are the most common industries that receive subsidies?",
+            "** How do subsidies affect the economy?"
+        ]
+    },
+    "PLAIN-2177": {
+        "original": "sulfur",
+        "expanded": [
+            "What is sulfur?",
+            "What are the properties of sulfur?",
+            "What are the uses of sulfur?"
+        ]
+    },
+    "PLAIN-2187": {
+        "original": "suppositories",
+        "expanded": [
+            "What is a suppository?",
+            "How do suppositories work?",
+            "What are some common conditions treated with suppositories?"
+        ]
+    },
+    "PLAIN-2197": {
+        "original": "sweeteners",
+        "expanded": [
+            "What are common types of sweeteners?",
+            "What are the health benefits of sweeteners?",
+            "How are sweeteners used in different cultures?"
+        ]
+    },
+    "PLAIN-2209": {
+        "original": "taro",
+        "expanded": [
+            "What is taro?",
+            "What are the health benefits of taro?",
+            "How do you prepare taro?"
+        ]
+    },
+    "PLAIN-2220": {
+        "original": "tempeh",
+        "expanded": [
+            "** What is tempeh?\n**",
+            "** What are the health benefits of tempeh?\n**",
+            "** What are some common uses of tempeh?\n**"
+        ]
+    },
+    "PLAIN-2230": {
+        "original": "thiamine",
+        "expanded": [
+            "What is thiamine?",
+            "What are the food sources of thiamine?",
+            "What are the adverse effects of thiamine deficiency?"
+        ]
+    },
+    "PLAIN-2240": {
+        "original": "titanium dioxide",
+        "expanded": [
+            "What is titanium dioxide?",
+            "What are the uses of titanium dioxide?",
+            "Is titanium dioxide safe for human consumption?"
+        ]
+    },
+    "PLAIN-2250": {
+        "original": "tongue worm",
+        "expanded": [
+            "What is a tongue worm?",
+            "What are the symptoms of a tongue worm?",
+            "How is a tongue worm treated?"
+        ]
+    },
+    "PLAIN-2261": {
+        "original": "trans fats",
+        "expanded": [
+            "What are trans fats and where do they come from?",
+            "What are the negative effects of consuming trans fats?",
+            "Are there alternatives to trans fats in food products?"
+        ]
+    },
+    "PLAIN-2271": {
+        "original": "Tufts",
+        "expanded": [
+            "What is Tufts University known for?",
+            "What is Tufts University's history?",
+            "What are some notable alumni of Tufts University?"
+        ]
+    },
+    "PLAIN-2281": {
+        "original": "turnips",
+        "expanded": [
+            "What are turnips?",
+            "Where do turnips originate from?",
+            "What are the different types of turnips?"
+        ]
+    },
+    "PLAIN-2291": {
+        "original": "ultra-processed foods",
+        "expanded": [
+            "What are ultra-processed foods and why are they a concern?",
+            "What are the characteristics of ultra-processed foods that make them unhealthy?",
+            "What are the ways to limit the intake of ultra-processed foods?"
+        ]
+    },
+    "PLAIN-2301": {
+        "original": "uterine health",
+        "expanded": [
+            "What are the common uterine conditions that affect women's reproductive health?",
+            "What are the risk factors for uterine cancer?",
+            "What are some natural ways to promote uterine health and prevent complications?"
+        ]
+    },
+    "PLAIN-2311": {
+        "original": "veal",
+        "expanded": [
+            "\"What is veal?\"**",
+            "\"Types of veal\"**",
+            "\"Cooking methods for veal\"**"
+        ]
+    },
+    "PLAIN-2321": {
+        "original": "veggie chicken",
+        "expanded": [
+            "What does \"veggie\" mean in the context of food?",
+            "What makes chicken suitable for vegetarian diets?",
+            "How are veggie chicken dishes prepared?"
+        ]
+    },
+    "PLAIN-2332": {
+        "original": "viral infections",
+        "expanded": [
+            "What are viral infections?**",
+            "What causes viral infections?**",
+            "How are viral infections treated?**"
+        ]
+    },
+    "PLAIN-2343": {
+        "original": "vitamin K",
+        "expanded": [
+            "What is vitamin K?",
+            "What are the benefits of vitamin K?",
+            "How can vitamin K be deficient?"
+        ]
+    },
+    "PLAIN-2354": {
+        "original": "walnut oil",
+        "expanded": [
+            "** What is walnut oil used for?\n**",
+            "** Is walnut oil good for health?\n**",
+            "** How is walnut oil produced?\n**"
+        ]
+    },
+    "PLAIN-2364": {
+        "original": "weight gain",
+        "expanded": [
+            "What are the common causes of weight gain?",
+            "What are some effective ways to prevent weight gain?",
+            "What are some natural remedies for weight gain?"
+        ]
+    },
+    "PLAIN-2375": {
+        "original": "whiting",
+        "expanded": [
+            "What is whiting?",
+            "What is the flavor profile of whiting?",
+            "Is whiting a sustainable seafood option?"
+        ]
+    },
+    "PLAIN-2386": {
+        "original": "worms",
+        "expanded": [
+            "What are worms?",
+            "What are the different types of worms?",
+            "What role do worms play in the ecosystem?"
+        ]
+    },
+    "PLAIN-2396": {
+        "original": "Yale",
+        "expanded": [
+            "** What is Yale\n**",
+            "** Location of Yale\n**",
+            "** What are the notable institutions related to Yale\n**"
+        ]
+    },
+    "PLAIN-2408": {
+        "original": "Zoloft",
+        "expanded": [
+            "** What is Zoloft?\n**",
+            "** What are the uses of Zoloft?\n**",
+            "** What are the potential side effects of Zoloft?\n**"
+        ]
+    },
+    "PLAIN-2430": {
+        "original": "Preventing Brain Loss with B Vitamins?",
+        "expanded": [
+            "** Do B vitamins have a role in preventing brain loss?",
+            "** What are the potential mechanisms by which B vitamins may prevent brain loss?",
+            "** Are there any clinical trials or epidemiological studies that support the role of B vitamins in preventing brain loss?"
+        ]
+    },
+    "PLAIN-2440": {
+        "original": "More Than an Apple a Day: Combating Common Diseases",
+        "expanded": [
+            "** What are some common diseases that can be prevented or mitigated through dietary choices?",
+            "** How do apples contribute specifically to preventing or mitigating these diseases?",
+            "** What are some other ways to incorporate apples into your diet to maximize their health benefits?"
+        ]
+    },
+    "PLAIN-2450": {
+        "original": "Are Organic Foods Safer?",
+        "expanded": [
+            "What is the definition of organic food?**",
+            "What are some of the contaminants found in non-organic foods?**",
+            "What is the scientific evidence on the safety of organic foods?**"
+        ]
+    },
+    "PLAIN-2460": {
+        "original": "Diabetes as a Disease of Fat Toxicity",
+        "expanded": [
+            "What is the current understanding of the pathophysiology of diabetes?",
+            "How does fat toxicity contribute to the development and progression of diabetes?",
+            "Are there any nutrient-based interventions that can mitigate the effects of fat toxicity in diabetes?"
+        ]
+    },
+    "PLAIN-2470": {
+        "original": "Is Milk Good for Our Bones?",
+        "expanded": [
+            "What is the primary source of calcium in the human body?**",
+            "Can milk consumption reduce the risk of osteoporosis?**",
+            "Are there any potential drawbacks to milk consumption for bone health?**"
+        ]
+    },
+    "PLAIN-2480": {
+        "original": "Preventing Ulcerative Colitis with Diet",
+        "expanded": [
+            "** What scientific evidence supports the idea that diet can help prevent ulcerative colitis?",
+            "** What specific foods should be included or avoided in the diet to prevent ulcerative colitis?",
+            "** Are there any existing dietary patterns or protocols that have been developed to help prevent or manage ulcerative colitis?"
+        ]
+    },
+    "PLAIN-2490": {
+        "original": "The Actual Benefit of Diet vs. Drugs",
+        "expanded": [
+            "** What is the prevalence of diet-induced health benefits compared to medication in preventing and managing chronic diseases?\n**",
+            "** What are the individual nutrient and food components responsible for the therapeutic benefits of diet in managing chronic diseases?\n**",
+            "** Are there any studies that compare the cost-effectiveness of diet-based interventions versus pharmacological interventions in chronic disease management?\n**"
+        ]
+    },
+    "PLAIN-2500": {
+        "original": "The Saturated Fat Studies: Buttering Up the Public",
+        "expanded": [
+            "What is the controversy surrounding saturated fat and its effects on public health?",
+            "What specific studies or research have been criticized for their methodology and conclusions?",
+            "What are the implications of the controversy surrounding saturated fat for public health policy and nutrition recommendations?"
+        ]
+    },
+    "PLAIN-2510": {
+        "original": "Coffee and Artery Function",
+        "expanded": [
+            "** What is the relationship between coffee consumption and arterial function?",
+            "** How does coffee affect blood pressure in people with artery disease?",
+            "** Does coffee consumption have any positive or negative effects on inflammation in the arteries?"
+        ]
+    },
+    "PLAIN-2520": {
+        "original": "Caloric Restriction vs. Plant-Based Diets",
+        "expanded": [
+            "What are the effects of caloric restriction on weight loss in humans?",
+            "What are the health benefits of plant-based diets, and do they have a positive impact on disease risk?",
+            "How do caloric restriction and plant-based diets compare in terms of meal planning and social acceptability?"
+        ]
+    },
+    "PLAIN-2530": {
+        "original": "Infectobesity: Adenovirus 36 and Childhood Obesity",
+        "expanded": [
+            "** What is infectobesity, and what role does it play in the relationship between Adenovirus 36 (ALCV-36) and childhood obesity?",
+            "** What is the current evidence supporting a link between Adenovirus 36 and childhood obesity?",
+            "** What are the proposed mechanisms by which Adenovirus 36 may contribute to childhood obesity?"
+        ]
+    },
+    "PLAIN-2540": {
+        "original": "Does Cholesterol Size Matter?",
+        "expanded": [
+            "** Does a larger size of cholesterol molecules impact its structure and function?",
+            "** Do larger cholesterol molecules have been associated with any specific health conditions?",
+            "** Is there a consensus among researchers on the significance of cholesterol size in relation to overall health?"
+        ]
+    },
+    "PLAIN-2550": {
+        "original": "Barriers to Heart Disease Prevention",
+        "expanded": [
+            "** What are the most common physical barriers to heart disease prevention?",
+            "** What are the most common psychological barriers to heart disease prevention?",
+            "** What are the most common systemic barriers to heart disease prevention?"
+        ]
+    },
+    "PLAIN-2560": {
+        "original": "Childhood Constipation and Cow\u2019s Milk",
+        "expanded": [
+            "**\nWhat is childhood constipation, and how common is it?",
+            "**\nIs cow's milk consumption a risk factor for childhood constipation?",
+            "**\nHow can parents help their children overcome childhood constipation, and is cow's milk a contributing factor to persistent constipation?"
+        ]
+    },
+    "PLAIN-2570": {
+        "original": "Diabetics Should Take Their Pulses",
+        "expanded": [
+            "** What are the consequences of uncontrolled blood sugar levels for diabetics?",
+            "** Can monitoring blood sugar levels help prevent these complications?",
+            "** How do pulses help monitor blood sugar levels?"
+        ]
+    },
+    "PLAIN-2580": {
+        "original": "Academy of Nutrition and Dietetics Conflicts of Interest",
+        "expanded": [
+            "**\nDisclosures of financial relationships with food and nutrition companies",
+            "**\nPre-approval and disclosure of industry-sponsored research",
+            "**\nIndustry influence on Academy's policy positions and guidelines"
+        ]
+    },
+    "PLAIN-2590": {
+        "original": "Do Vegetarians Get Enough Protein?",
+        "expanded": [
+            "What is the average daily protein intake of vegetarians compared to non-vegetarians?",
+            "What are some high-protein plant-based foods that vegetarians can include in their diet?",
+            "Are there any specific protein-requiring nutrients that vegetarians may need to pay particular attention to?"
+        ]
+    },
+    "PLAIN-2600": {
+        "original": "Eggs and Arterial Function",
+        "expanded": [
+            "** What is the relationship between egg consumption and cardiovascular disease risk factors?\n**",
+            "** How do eggs affect vascular function and arterial stiffness?\n**",
+            "** What are the potential mechanisms by which eggs May improve arterial function?\n**"
+        ]
+    },
+    "PLAIN-2610": {
+        "original": "Treating Asthma With Plants vs. Supplements?",
+        "expanded": [
+            "What plants have been traditionally used to treat asthma?",
+            "What supplements are commonly used to treat asthma?",
+            "How do plants and supplements compare in terms of safety and effectiveness?"
+        ]
+    },
+    "PLAIN-2620": {
+        "original": "Phytates for the Treatment of Cancer",
+        "expanded": [
+            "What are phytates, and how do they interact with cancer cells?",
+            "What are the mechanisms by which phytates inhibit cancer cell growth and growth signaling pathways?",
+            "What are the potential limitations and future directions for the use of phytates as a cancer treatment?"
+        ]
+    },
+    "PLAIN-2630": {
+        "original": "Alkylphenol Endocrine Disruptors and Allergies",
+        "expanded": [
+            "What are alkylphenol endocrine disruptors?",
+            "How do APEs contribute to allergies?",
+            "What are the effects of APEs on human health?"
+        ]
+    },
+    "PLAIN-2640": {
+        "original": "Chicken Salmonella Thanks to Meat Industry Lawsuit",
+        "expanded": [
+            "What is Salmonella?",
+            "What is the link between the meat industry and Salmonella?",
+            "What is the result of a meat industry lawsuit related to Salmonella?"
+        ]
+    },
+    "PLAIN-2650": {
+        "original": "Turmeric Curcumin and Osteoarthritis",
+        "expanded": [
+            "What is osteoarthritis and how common is it?",
+            "What is curcumin and how does it work?",
+            "Are there any studies that have investigated the use of turmeric curcumin for osteoarthritis?"
+        ]
+    },
+    "PLAIN-2660": {
+        "original": "How Long to Detox From Fish Before Pregnancy?",
+        "expanded": [
+            "What are the common contaminants found in fish that can affect prenatal development?**",
+            "How long do these contaminants typically take to break down in the body?**",
+            "What is the recommended waiting period for women who want to become pregnant and have eaten fish high in contaminants?**"
+        ]
+    },
+    "PLAIN-2670": {
+        "original": "Is Caramel Color Carcinogenic?",
+        "expanded": [
+            "Is Caramel Color a recognized class of substances by regulatory bodies?",
+            "What is the International Agency for Research on Cancer (IARC) classification of Caramel Color?",
+            "What are the effects of Caramel Color on human health?"
+        ]
+    },
+    "PLAIN-2680": {
+        "original": "Counteracting the Effects of Dioxins Through Diet",
+        "expanded": [
+            "** What are dioxins and how do they affect human health?",
+            "** What foods are high in dioxins and should be avoided in a diet to counteract their effects?",
+            "** What foods and nutrients can help counteract the effects of dioxins in the body?"
+        ]
+    },
+    "PLAIN-2690": {
+        "original": "Chronic Headaches and Pork Tapeworms",
+        "expanded": [
+            "What are chronic headaches?",
+            "What is a pork tapeworm?",
+            "Is there a link between chronic headaches and pork tapeworms?"
+        ]
+    },
+    "PLAIN-2700": {
+        "original": "Heart Disease Starts in Childhood",
+        "expanded": [
+            "What are the early warning signs of heart disease in children?",
+            "How does childhood heart disease differ from adult heart disease?",
+            "What are the risk factors for developing heart disease in childhood?"
+        ]
+    },
+    "PLAIN-2710": {
+        "original": "Artificial Food Colors and ADHD",
+        "expanded": [
+            "What is the relationship between artificial food colors and hyperactive behavior in children?",
+            "Do artificial food colors increase the severity of ADHD symptoms?",
+            "Can eliminating artificial food colors from the diet improve ADHD symptoms?"
+        ]
+    },
+    "PLAIN-2720": {
+        "original": "Keeping Your Hands Warm With Citrus",
+        "expanded": [
+            "**\nWhat citrus fruits can be used to keep your hands warm?",
+            "**\nHow can you use citrus fruits to keep your hands warm?",
+            "**\nWhat are some alternative ways to keep your hands warm other than using citrus fruits?"
+        ]
+    },
+    "PLAIN-2730": {
+        "original": "Anti-Angiogenesis: Cutting Off Tumor Supply Lines",
+        "expanded": [
+            "** What is anti-angiogenesis and why is it a promising cancer therapy?",
+            "** What are the common approaches used in anti-angiogenesis therapy?",
+            "** What are some of the challenges and limitations of anti-angiogenesis therapy?"
+        ]
+    },
+    "PLAIN-2740": {
+        "original": "Cancer Risk From CT Scan Radiation",
+        "expanded": [
+            "** What is the estimated radiation dose associated with a standard CT scan?\n**",
+            "** How does the radiation dose from CT scans compare to other common medical imaging techniques?\n**",
+            "** What are the potential long-term health risks associated with radiation exposure from CT scans?\n**"
+        ]
+    },
+    "PLAIN-2750": {
+        "original": "Preventing the Common Cold with Probiotics?",
+        "expanded": [
+            "** What is the common cold and what are the known causes?",
+            "** How do probiotics work to boost the immune system and prevent the common cold?",
+            "** What scientific evidence supports the use of probiotics in preventing the common cold?"
+        ]
+    },
+    "PLAIN-2760": {
+        "original": "Eating Healthy on a Budget",
+        "expanded": [
+            "** What are some affordable healthy food options?",
+            "** How can I save money on grocery shopping?",
+            "** Can meal planning and prep really help with saving money?"
+        ]
+    },
+    "PLAIN-2770": {
+        "original": "Flaxseeds & Breast Cancer Survival: Clinical Evidence",
+        "expanded": [
+            "** Which clinical studies have investigated the effect of flaxseeds on breast cancer survival rates?",
+            "** What are the specific types of breast cancer that have been studied in relation to flaxseed consumption?",
+            "** What are the dosage ranges and duration of flaxseed consumption examined in the clinical studies?"
+        ]
+    },
+    "PLAIN-2780": {
+        "original": "Do Fruit & Nut Bars Cause Weight Gain?",
+        "expanded": [
+            "** What is the typical composition of a fruit and nut bar?",
+            "** Do fruit and nut bars have a high calorie count?",
+            "** Can fruit and nut bars cause weight gain if consumed excessively?"
+        ]
+    },
+    "PLAIN-2790": {
+        "original": "Titanium Dioxide & Inflammatory Bowel Disease",
+        "expanded": [
+            "What is Titanium Dioxide?",
+            "What is Inflammatory Bowel Disease?",
+            "Is there any research connecting Titanium Dioxide and Inflammatory Bowel Disease?"
+        ]
+    },
+    "PLAIN-2800": {
+        "original": "Prolonged Liver Function Enhancement From Broccoli",
+        "expanded": [
+            "** What nutrients in broccoli have been shown to improve liver function?",
+            "** Are there any specific studies that have demonstrated broccoli's ability to enhance liver function in individuals with liver disease?",
+            "** What are the potential mechanisms by which broccoli may help to prolong liver function?"
+        ]
+    },
+    "PLAIN-2810": {
+        "original": "Apple Juice May Be Worse Than Sugar Water",
+        "expanded": [
+            "Which beverages are high in sugar content?",
+            "How does the sugar content of apple juice compare to sugar water?",
+            "What are the potential health risks associated with high sugar consumption?"
+        ]
+    },
+    "PLAIN-2820": {
+        "original": "Preventing Strokes with Diet",
+        "expanded": [
+            "** What are the dietary factors that increase the risk of stroke?",
+            "** What are some specific foods that are beneficial for preventing stroke?",
+            "** Can specific nutrients help reduce the risk of stroke?"
+        ]
+    },
+    "PLAIN-2830": {
+        "original": "Neurobiology of Artificial Sweeteners",
+        "expanded": [
+            "** What is the mechanism of artificial sweeteners in the brain?",
+            "** How do artificial sweeteners affect the gut-brain axis?",
+            "** What is the relationship between artificial sweeteners and cognitive function?"
+        ]
+    },
+    "PLAIN-2840": {
+        "original": "Benefits of Fenugreek Seeds",
+        "expanded": [
+            "**\nWhat are the medicinal properties of fenugreek seeds?",
+            "**\nCan fenugreek seeds help lower blood sugar levels?",
+            "**\nAre there any benefits of consuming fenugreek seeds during pregnancy?"
+        ]
+    },
+    "PLAIN-2850": {
+        "original": "More Antibiotics In White Meat or Dark Meat?",
+        "expanded": [
+            "What types of meat are commonly consumed as white meat and dark meat?",
+            "What are the most common antibiotics used in meat production?",
+            "Are there any differences in antibiotic use between white meat and dark meat production?"
+        ]
+    },
+    "PLAIN-2860": {
+        "original": "BPA Plastic and Male Sexual Dysfunction",
+        "expanded": [
+            "** Are there any studies linking BPA exposure to male reproductive health issues?",
+            "** Is there a correlation between BPA levels in urine and sexual dysfunction in men?",
+            "** Are there any potential mechanisms by which BPA may contribute to male sexual dysfunction?"
+        ]
+    },
+    "PLAIN-2870": {
+        "original": "Filled Full of Lead",
+        "expanded": [
+            "** What are the types of lead?\n**",
+            "** In what fields is lead used extensively?\n**",
+            "** What are the environmental and health concerns associated with lead?\n**"
+        ]
+    },
+    "PLAIN-2880": {
+        "original": "The Answer to the Pritikin Puzzle",
+        "expanded": [
+            "What is the Pritikin Puzzle, and why is it challenging to solve?",
+            "What are the two key steps required to solve the Pritikin Puzzle?",
+            "What is the solution to the Pritikin Puzzle, and why does it require a particular type of thinking?"
+        ]
+    },
+    "PLAIN-2890": {
+        "original": "To Snack or Not to Snack?",
+        "expanded": [
+            "** What are some common types of snacks that people enjoy?",
+            "** What are the benefits of snacking?",
+            "** What are some potential drawbacks of snacking?"
+        ]
+    },
+    "PLAIN-2900": {
+        "original": "Boosting Good Bacteria in the Colon Without Probiotics",
+        "expanded": [
+            "** What foods can help boost good bacteria in the colon without relying on probiotics?",
+            "** How do prebiotic-rich foods support the growth of good bacteria in the colon?",
+            "** Are there any other non-probiotic ways to support gut health beyond diet?"
+        ]
+    },
+    "PLAIN-2910": {
+        "original": "Optimal Phytosterol Dose",
+        "expanded": [
+            "** What are phytosterols, and how do they benefit cardiovascular health?",
+            "** What is the recommended daily intake of phytosterols for optimal cardiovascular health?",
+            "** What is the best source of phytosterols, and how can they be incorporated into the diet?"
+        ]
+    },
+    "PLAIN-2920": {
+        "original": "Human Neurotransmitters in Plants",
+        "expanded": [
+            "**\nWhat are the most common human neurotransmitters?",
+            "**\nHave plant neurotransmitters been identified?",
+            "**\nDo plants produce human-like neurotransmitters?"
+        ]
+    },
+    "PLAIN-2930": {
+        "original": "Kiwifruit for Irritable Bowel Syndrome",
+        "expanded": [
+            "What is Irritable Bowel Syndrome (IBS)?",
+            "What makes Kiwifruit a potential remedy for IBS?",
+            "What are the existing studies on kiwifruit for IBS treatment?"
+        ]
+    },
+    "PLAIN-2940": {
+        "original": "Dietary Treatment of Crohn's Disease",
+        "expanded": [
+            "** What are the common dietary approaches for treating Crohn's disease?",
+            "** Are there any specific nutrients that are essential for healing in Crohn's disease?",
+            "** Are there any foods that are contraindicated in Crohn's disease due to their potential exacerbation of symptoms?"
+        ]
+    },
+    "PLAIN-2950": {
+        "original": "Unsafe at Any Feed",
+        "expanded": [
+            "** What types of feeders are most commonly used in animal husbandry?",
+            "** What are some common hazards associated with feeding animals?",
+            "** What measures can be taken to ensure animal feed safety?"
+        ]
+    },
+    "PLAIN-2960": {
+        "original": "Pharmacists Versus Health Food Store Employees: Who Gives Better Advice?",
+        "expanded": [
+            "** What are the expectations of customers when seeking advice from pharmacists and health food store employees?",
+            "** What are the qualifications and training requirements for pharmacists and health food store employees?",
+            "** How do pharmacists and health food store employees approach customer inquiries and interactions?"
+        ]
+    },
+    "PLAIN-2970": {
+        "original": "Preventing Cataracts with Diet",
+        "expanded": [
+            "What are the major risk factors for cataracts?",
+            "What nutrients and compounds in food can help prevent cataracts?",
+            "What specific dietary changes can be made to reduce the risk of cataracts?"
+        ]
+    },
+    "PLAIN-2981": {
+        "original": "Cheese Mites and Maggots",
+        "expanded": [
+            "What are cheese mites?",
+            "What are the effects of cheese mites on cheese?",
+            "What about maggots in cheese? What are they and how do they form?"
+        ]
+    },
+    "PLAIN-2991": {
+        "original": "Cholesterol and Lower Back Pain",
+        "expanded": [
+            "** What are some common causes of high cholesterol that may lead to lower back pain?",
+            "** How do certain types of lower back pain, such as sciatica, affect individuals with high cholesterol?",
+            "** Are there any studies or research that investigate the relationship between cholesterol-lowering treatments and improvements in lower back pain?"
+        ]
+    },
+    "PLAIN-3001": {
+        "original": "EPIC Findings on Lymphoma",
+        "expanded": [
+            "** What are the most common types of lymphoma diagnosed in EPIC patients?",
+            "** What clinical features are commonly associated with lymphoma diagnosis in EPIC patients?",
+            "** What are the most effective treatment options for lymphoma patients in the EPIC study?"
+        ]
+    },
+    "PLAIN-3014": {
+        "original": "Sometimes the Enzyme Myth Is True",
+        "expanded": [
+            "What are enzymes?",
+            "What is the \"Enzyme Myth\"?",
+            "Why do enzymes sometimes seem to work as described in the myth?"
+        ]
+    },
+    "PLAIN-3026": {
+        "original": "Vitamin C-Enriched Bacon",
+        "expanded": [
+            "** What is Vitamin C?\n*",
+            "** What is Bacon?\n*",
+            "** What does \"Enriched\" mean in the context of food?\n*"
+        ]
+    },
+    "PLAIN-3037": {
+        "original": "Out of the Lab Onto the Track",
+        "expanded": [
+            "** What substances have been recently studied in a laboratory setting, and what were the main research goals for these studies?",
+            "** What experimental methods have been used to analyze these substances in the laboratory, and what kind of data have been collected?",
+            "** What is the next step for these substances, and how will they be translated from the laboratory to real-world applications?"
+        ]
+    },
+    "PLAIN-3053": {
+        "original": "Dragon's Blood",
+        "expanded": [
+            "What is Dragon's Blood?",
+            "What are the traditional uses of Dragon's Blood?",
+            "What modern uses does Dragon's Blood have in the alternative health industry?"
+        ]
+    },
+    "PLAIN-3063": {
+        "original": "Better Than Goji Berries",
+        "expanded": [
+            "What are the nutritional benefits of goji berries?",
+            "What are the potential drawbacks of consuming goji berries?",
+            "Are there alternative superfoods that offer similar benefits without the drawbacks of goji berries?"
+        ]
+    },
+    "PLAIN-3074": {
+        "original": "How to Help Prevent Abdominal Aortic Aneurysms",
+        "expanded": [
+            "What are Abdominal Aortic Aneurysms (AAAs) and what are the risk factors?",
+            "What lifestyle changes can help prevent the development of abdominal aortic aneurysms?",
+            "What screening tests are available for abdominal aortic aneurysms, and when should they be conducted?"
+        ]
+    },
+    "PLAIN-3085": {
+        "original": "The Difficulty of Arriving at a Vitamin D Recommendation",
+        "expanded": [
+            "** What is the process of arriving at a vitamin D recommendation?\n**",
+            "** What factors influence the recommended amount of vitamin D?\n**",
+            "** What are the challenges in arriving at a vitamin D recommendation?\n**"
+        ]
+    },
+    "PLAIN-3097": {
+        "original": "Amyloid and Apple Juice",
+        "expanded": [
+            "What is Amyloid?",
+            "What is Apple Juice?",
+            "Is there a connection between Amyloid and Apple Juice?"
+        ]
+    },
+    "PLAIN-3116": {
+        "original": "Dietary Guidelines: From Dairies to Berries",
+        "expanded": [
+            "What are the recommended daily intake of dairy products according to the Dietary Guidelines for Americans?",
+            "Which berries are considered \"power berries\" and what are their health benefits?",
+            "How can berries be incorporated into a daily diet to meet the recommended daily intake of fruits?"
+        ]
+    },
+    "PLAIN-3131": {
+        "original": "Are Avocados Good for You?",
+        "expanded": [
+            "** What are the nutritional benefits of avocados?",
+            "** What are the potential health risks associated with consuming avocados?",
+            "** Are there any specific dietary guidelines for including avocados in a healthy diet?"
+        ]
+    },
+    "PLAIN-3141": {
+        "original": "Relieving Yourself of Excess Estrogen",
+        "expanded": [
+            "What are the symptoms of excess estrogen in the body?**",
+            "What are the causes of excess estrogen in the body?**",
+            "How can excess estrogen be relieved?**"
+        ]
+    },
+    "PLAIN-3151": {
+        "original": "Too Much Iodine Can Be as Bad as Too Little",
+        "expanded": [
+            "What are the effects of iodine deficiency on the body?**",
+            "What are the potential risks of excessive iodine intake?**",
+            "Can iodine deficiency and excessive intake be linked to other health conditions?**"
+        ]
+    },
+    "PLAIN-3161": {
+        "original": "Is Milk and Mucus a Myth?",
+        "expanded": [
+            "** Is there a popular belief that consuming milk produces excess mucus in the body?",
+            "** Is there scientific evidence to support or refute the claim that milk consumption leads to an increase in mucus production?",
+            "** Are there any underlying health conditions that may cause excessive mucus production, unrelated to milk consumption?"
+        ]
+    },
+    "PLAIN-3171": {
+        "original": "Convergence of Evidence",
+        "expanded": [
+            "What are the definitions of convergence of evidence in different fields?",
+            "How is convergence of evidence used in decision-making?",
+            "What are the benefits and limitations of convergence of evidence?"
+        ]
+    },
+    "PLAIN-3181": {
+        "original": "Is Dragon Fruit Good For You?",
+        "expanded": [
+            "**\nIs Dragon Fruit a Nutrient-Rich Fruit?",
+            "**\nWhat are the Health Benefits of Dragon Fruit?",
+            "**\nAre There Any Potential Side Effects or Interactions with Dragon Fruit?"
+        ]
+    },
+    "PLAIN-3191": {
+        "original": "Is Distilled Fish Oil Toxin-Free?",
+        "expanded": [
+            "Are fish oils typically contaminated with heavy metals like mercury, lead, and arsenic?",
+            "Can fish oils be contaminated with PCBs, dioxins, and other persistent organic pollutants (POPs)?",
+            "Are there ways to ensure that distilled fish oil is toxin-free, such as third-party testing and certification?"
+        ]
+    },
+    "PLAIN-3201": {
+        "original": "Acne & Cancer Connection",
+        "expanded": [
+            "What is the current understanding of the link between acne and cancer?",
+            "What are some of the specific acne treatments that have been linked to an increased risk of cancer?",
+            "What are some of the potential underlying biological mechanisms that may contribute to the link between acne and cancer?"
+        ]
+    },
+    "PLAIN-3211": {
+        "original": "Overdosing on Greens",
+        "expanded": [
+            "What are the common symptoms of overdosing on greens?",
+            "What are the potential causes of overdosing on greens?",
+            "What are the recommended treatments for overdosing on greens?"
+        ]
+    },
+    "PLAIN-3221": {
+        "original": "Dietary Theory of Alzheimer's",
+        "expanded": [
+            "What is the relationship between dietary factors and the development of Alzheimer's disease?**",
+            "How do different types of diet impact brain health and cognition?**",
+            "Are there specific nutrients and compounds in the diet that can prevent or treat Alzheimer's disease?**"
+        ]
+    },
+    "PLAIN-3231": {
+        "original": "Meat & Multiple Myeloma",
+        "expanded": [
+            "What is Multiple Myeloma?",
+            "Is there a link between meat consumption and Multiple Myeloma?",
+            "What are some dietary factors that may help reduce the risk of Multiple Myeloma?"
+        ]
+    },
+    "PLAIN-3241": {
+        "original": "Apthous Ulcer Mystery Solved",
+        "expanded": [
+            "** What is an aphthous ulcer?",
+            "** What are the common causes of aphthous ulcers?",
+            "** How are aphthous ulcers diagnosed and treated?"
+        ]
+    },
+    "PLAIN-3251": {
+        "original": "EPIC Study",
+        "expanded": [
+            "** What is the EPIC Study, and what is its significance in the field of medicine?",
+            "** What specific diseases and health outcomes has the EPIC Study investigated?",
+            "** What are some of the key findings and discoveries made by the EPIC Study?"
+        ]
+    },
+    "PLAIN-3261": {
+        "original": "Update on Herbalife\u00ae",
+        "expanded": [
+            "What is Herbalife's current business model?",
+            "What are the key products offered by Herbalife?",
+            "What are the recent developments and controversies surrounding Herbalife?"
+        ]
+    },
+    "PLAIN-3271": {
+        "original": "Saturated Fat & Cancer Progression",
+        "expanded": [
+            "What is the role of saturated fat in cancer cell growth?",
+            "How does saturated fat affect the epithelial-to-mesenchymal transition (EMT) in cancer cells?",
+            "What is the relationship between saturated fat consumption and cancer risk?"
+        ]
+    },
+    "PLAIN-3281": {
+        "original": "Aluminum in Vaccines vs. Food",
+        "expanded": [
+            "How much aluminum is typically used in vaccines?**",
+            "How much aluminum is naturally present in food?**",
+            "How does the aluminum content in vaccines compare to the amount found in food?**"
+        ]
+    },
+    "PLAIN-3292": {
+        "original": "Are Multivitamins Good For You?",
+        "expanded": [
+            "** What are multivitamins and what are they typically composed of?",
+            "** Do multivitamins provide sufficient amounts of essential nutrients to make up for dietary deficiencies?",
+            "** Are there potential risks associated with taking multivitamins?"
+        ]
+    },
+    "PLAIN-3302": {
+        "original": "Fish Fog",
+        "expanded": [
+            "What is fish fog?",
+            "Is fish fog a common occurrence?",
+            "Can fish fog have any environmental benefits?"
+        ]
+    },
+    "PLAIN-3312": {
+        "original": "Sexually Transmitted Fish Toxin",
+        "expanded": [
+            "What are the most common STIs?",
+            "What are the symptoms of STIs?",
+            "How can I avoid getting an STI?"
+        ]
+    },
+    "PLAIN-3322": {
+        "original": "Veggies vs. Cancer",
+        "expanded": [
+            "** What are the most common types of vegetables that have been studied for their potential anti-cancer properties?",
+            "** What are some specific studies that have investigated the relationship between eating vegetables and cancer risk?",
+            "** What are some potential mechanisms by which vegetables may help prevent cancer?"
+        ]
+    },
+    "PLAIN-3332": {
+        "original": "Alcohol Risks vs. Benefits",
+        "expanded": [
+            "** What are the potential health risks associated with alcohol consumption?",
+            "** What are the benefits of moderate alcohol consumption?",
+            "** Are there any specific population groups that are particularly vulnerable to alcohol-related risks?"
+        ]
+    },
+    "PLAIN-3342": {
+        "original": "Is Coconut Milk Good For You?",
+        "expanded": [
+            "**\nIs coconut milk a rich source of nutrients?",
+            "**\nDoes coconut milk have any potential health benefits?",
+            "**\nWhat are the potential drawbacks or health concerns associated with consuming coconut milk?"
+        ]
+    },
+    "PLAIN-3352": {
+        "original": "Boosting Heart Nerve Control",
+        "expanded": [
+            "** What are the main functions of the autonomic nervous system (ANS) that regulate heart rate and blood pressure?",
+            "** What factors can disrupt the balance between the sympathetic and parasympathetic nervous systems, leading to decreased heart nerve control?",
+            "** What lifestyle modifications and strategies can help boost heart nerve control and promote overall cardiovascular health?"
+        ]
+    },
+    "PLAIN-3362": {
+        "original": "Kuna Indian Secret",
+        "expanded": [
+            "What does the term \"Kuna Indian\" refer to?",
+            "What is the significance of \"Secret\" in the term \"Kuna Indian Secret\"?",
+            "What kind of secrets might be referred to in the context of the Kuna Indian Secret?"
+        ]
+    },
+    "PLAIN-3372": {
+        "original": "The Healthiest Sweetener",
+        "expanded": [
+            "** What types of natural sweeteners are available?",
+            "** What is the nutritional profile of honey?",
+            "** What is the best low-calorie sweetener option for those with diabetes or sugar cravings?"
+        ]
+    },
+    "PLAIN-3382": {
+        "original": "Are Artificial Colors Bad for You?",
+        "expanded": [
+            "What are artificial colors?**",
+            "Are artificial colors harmful to human health?**",
+            "Are there any regulations or alternatives to artificial colors?**"
+        ]
+    },
+    "PLAIN-3392": {
+        "original": "Healthiest Airplane Beverage",
+        "expanded": [
+            "** What drinks are commonly served on airplanes?",
+            "** Which beverages are high in sugar content?",
+            "** What are the healthiest beverage options on a plane?"
+        ]
+    },
+    "PLAIN-3402": {
+        "original": "Antioxidant Content of 300 Foods",
+        "expanded": [
+            "What are the top 10 foods with the highest antioxidant content among the 300 foods?",
+            "Which foods have been linked to improved health outcomes due to their antioxidant properties, and what are the related health benefits?",
+            "What are the common sources of LDL-cholesterol-lowering antioxidants in the 300 foods, and what are the potential mechanisms by which they exert their effects?"
+        ]
+    },
+    "PLAIN-3412": {
+        "original": "Plant vs. Cow Calcium",
+        "expanded": [
+            "** What is the recommended daily intake of calcium for healthy adults?",
+            "** What is the calcium content of different types of plants, such as kale, broccoli, and almonds?",
+            "** What is the calcium content of cow's milk and other dairy products?"
+        ]
+    },
+    "PLAIN-3422": {
+        "original": "Vitamin Supplements Worth Taking",
+        "expanded": [
+            "** What are the most essential vitamins and nutrients that people often lack?",
+            "** Which vitamin supplements are backed by scientific evidence and provide significant health benefits?",
+            "** Are there any vitamin supplements that may interact with medications or have potential side effects?"
+        ]
+    },
+    "PLAIN-3432": {
+        "original": "Healthy Chocolate Milkshakes",
+        "expanded": [
+            "What are the essential ingredients in a healthy chocolate milkshake?",
+            "What are some healthy sweeteners that can be used in a chocolate milkshake?",
+            "How can you customize a healthy chocolate milkshake to suit your dietary needs?"
+        ]
+    },
+    "PLAIN-3442": {
+        "original": "The Healthiest Vegetables",
+        "expanded": [
+            "** What are the top 10 vegetables with the highest water content?",
+            "** Which vegetables are high in antioxidants and falcarinol, a compound that has been shown to prevent cancer?",
+            "** What are the vegetables with the highest fiber content and their benefits for digestive health?"
+        ]
+    },
+    "PLAIN-3452": {
+        "original": "Bowel Movement Frequency",
+        "expanded": [
+            "What is the average number of bowel movements per day for a healthy adult?",
+            "How does bowel movement frequency change with age?",
+            "Can certain foods or drinks affect bowel movement frequency?"
+        ]
+    },
+    "PLAIN-3462": {
+        "original": "Olive Oil and Artery Function",
+        "expanded": [
+            "** What are the potential benefits of olive oil on cardiovascular health?",
+            "** How does olive oil help in reducing the risk of atherosclerosis?",
+            "** What is the impact of olive oil on platelet aggregation and blood clotting?"
+        ]
+    },
+    "PLAIN-3472": {
+        "original": "How Doctors Responded to Being Named a Leading Killer",
+        "expanded": [
+            "** What led top health administrators to say that doctors are also a leading cause of harm to patients?",
+            "** What specific behaviors and practices of doctors contribute to patient harm?",
+            "** How have hospitals and healthcare systems responded to the issue of doctor-caused harm?"
+        ]
+    }
+}
