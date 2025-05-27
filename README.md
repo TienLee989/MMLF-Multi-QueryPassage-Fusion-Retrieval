@@ -65,7 +65,7 @@
 ---
 
 ## 📂 Resources
-
+![alt text](image.png)
 - 💻 Code here!
 - 📄 Full paper: NAACL 2025 Proceedings [https://aclanthology.org/2025.findings-naacl.367.pdf](https://aclanthology.org/2025.findings-naacl.367.pdf)
 
