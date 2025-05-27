@@ -66,8 +66,8 @@
 
 ## 📂 Resources
 
-- 💻 Code & artifacts (ẩn danh): [https://aclanthology.org/2025.findings-naacl.367.pdf](https://aclanthology.org/2025.findings-naacl.367.pdf)
-- 📄 Full paper: NAACL 2025 Proceedings
+- 💻 Code here!
+- 📄 Full paper: NAACL 2025 Proceedings [https://aclanthology.org/2025.findings-naacl.367.pdf](https://aclanthology.org/2025.findings-naacl.367.pdf)
 
 ---
 
